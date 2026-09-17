@@ -89,8 +89,10 @@ function renderCal() {
 }
 
 function render() {
+  const all = mergeTodos(data);
+  const openN = all.filter(t => t.status !== 'done').length;
   document.getElementById('syncMeta').textContent =
-    `${data.owner || 'Jeff'} · synced ${fmtSync(data.updated)}`;
+    `${data.owner || 'Jeff'} · ${openN} active · synced ${fmtSync(data.updated)}`;
   renderCal();
   const board = document.getElementById('board');
   const todos = filteredTodos();
