@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#0f1419" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Onsite Todos" />
+  <link rel="manifest" href="./manifest.json" />
+  <link rel="apple-touch-icon" href="./icons/icon-192.png" />
+  <link rel="icon" type="image/png" href="./icons/icon-192.png" />
+  <title>Onsite Todos</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header class="top">
+    <div class="brand">
+      <h1>Onsite Todos</h1>
+      <p class="sub" id="syncMeta">Loading…</p>
+    </div>
+    <div class="filters" role="tablist" aria-label="Filter">
+      <button class="chip active" data-filter="all" type="button">All</button>
+      <button class="chip" data-filter="open" type="button">Open</button>
+      <button class="chip" data-filter="waiting" type="button">Waiting</button>
+      <button class="chip" data-filter="done" type="button">Done</button>
+    </div>
+  </header>
+
+  <section class="cal" id="calStrip" hidden>
+    <h2>This week</h2>
+    <ul id="calList"></ul>
+  </section>
+
+  <main id="board"></main>
+
+  <dialog id="detail">
+    <form method="dialog" class="sheet">
+      <header>
+        <p class="eyebrow" id="dMeta"></p>
+        <h2 id="dTitle"></h2>
+      </header>
+      <p id="dNotes" class="notes"></p>
+      <p id="dSource" class="source"></p>
+      <div class="actions">
+        <button type="submit" value="close" class="btn ghost">Close</button>
+        <button type="button" id="cycleStatus" class="btn primary">Mark waiting</button>
+      </div>
+    </form>
+  </dialog>
+
+  <script src="./app.js"></script>
+</body>
+</html>

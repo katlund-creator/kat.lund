@@ -1,0 +1,199 @@
+{
+  "updated": "2026-09-17T14:32:24-04:00",
+  "owner": "Jeff Flannery",
+  "title": "Onsite todos",
+  "todos": [
+    {
+      "id": "T1",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP",
+      "item": "Quote Peter Hahn \u2014 Cell 1 & 2 dust collector electrical + CAD",
+      "source": "Email / Peter Hahn 2026-09-16",
+      "notes": "He confirmed quote Cell-to-Collector tie-in electrical + prior/anticipated CAD. Still owed."
+    },
+    {
+      "id": "T2",
+      "status": "open",
+      "priority": "high",
+      "due": "this week",
+      "item": "Review Adam Edwards electrical install deck",
+      "source": "Email 2026-09-17",
+      "notes": "Attachment: *Electrical Installation Request - Flip Stations and Remaining Distribution Boxes.pptx* \u2014 plan/quote upcoming installs."
+    },
+    {
+      "id": "T3",
+      "status": "open",
+      "priority": "high",
+      "due": "2026-09-24",
+      "item": "Firm Bob Peterson guard rail AAA\u2013AUA",
+      "source": "Email / Bob Peterson 2026-09-17",
+      "notes": "Roof leading-edge west wall; work starts Sep 26. Soft reply sent; need firm yes/no + AAA/VPS overhead-door scaffold timing / traffic reroute via VPO\u2013AAA. Calendar reminder set."
+    },
+    {
+      "id": "T4",
+      "status": "waiting",
+      "priority": "med",
+      "due": "this week",
+      "item": "Layher extra rental items with remaining shipment",
+      "source": "Email / Jeremy Bayate + Jimmy Holmes 2026-09-17",
+      "notes": "Jeff replied with list (100\u00d7 1'7 w/o spigots, 200\u00d7 3'7 LWL, 12\u00d7 inside short handrails, 30\u00d7 8'5 reinforced ledger, 20\u00d7 \u2026). Waiting Layher confirmation / ship-with remaining filler deck."
+    },
+    {
+      "id": "T5",
+      "status": "open",
+      "priority": "low",
+      "due": "this week",
+      "item": "Decide reorder cancelled Guardian Fall Protection",
+      "source": "Amazon cancel 2026-09-17",
+      "notes": "Order issue / seller message (Empire Rigging). Decide reorder or alternate."
+    },
+    {
+      "id": "T6",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP",
+      "item": "Send Temp Offices quote (3 offices BRB & BSB) to Alex Leppard",
+      "source": "Email / H Alex Leppard 2026-09-16",
+      "notes": "Alex chasing quote to start PO. Jeff acknowledged rearrange assessed first; door may swing in (or emergency-exit label). Outages Fri for Connex temp power related."
+    },
+    {
+      "id": "T7",
+      "status": "open",
+      "priority": "high",
+      "due": "this week",
+      "item": "Deliver Jim Stanley change-order numbers",
+      "source": "Email / James Stanley 2026-09-16",
+      "notes": "Need numbers for: (1) NFPS.03 line changes, (2) M-Bay tool-crib disconnect + H-Bay reinstall, (3) decommission old wire EDM at EYA + install new. Jeff said working with Jason; unknowns quoted separately."
+    },
+    {
+      "id": "T8",
+      "status": "open",
+      "priority": "high",
+      "due": "this week",
+      "item": "Review / price NFPS.03 Change Order PDF",
+      "source": "Email / Jason Marchbanks 2026-09-16",
+      "notes": "Attachment *NFPS.03 Change Order.pdf* \u2014 feed T7."
+    },
+    {
+      "id": "T9",
+      "status": "waiting",
+      "priority": "med",
+      "due": "this week",
+      "item": "Safe2Cross battery-backup vs Indcom/DPP path",
+      "source": "Email / Chuck Kirkley + Jeff\u2192Jason 2026-09-15",
+      "notes": "SAFE2CROSS Est. 5160 ~$12,395 (expires ~Oct 23). Chuck asked if Jeff reviewed; Jeff forwarded to Jason for take/no-take. Waiting Jason reply + answer Chuck/Julia."
+    },
+    {
+      "id": "T10",
+      "status": "open",
+      "priority": "med",
+      "due": "this week",
+      "item": "ITH retractable power reels \u2014 DQA + DIA",
+      "source": "Email / William (Andrew) Heatherly 2026-09-15/16",
+      "notes": "Meltric retractable cords; second stand = DIA. Jeff proposed stand/steel mount (not fiberglass rail); confirm UA placement then install."
+    },
+    {
+      "id": "T11",
+      "status": "open",
+      "priority": "med",
+      "due": "Fri 2026-09-18 ~9:00am",
+      "item": "Meet Jonathon Cunningham + weld booth disconnect",
+      "source": "Email / Jonathon Cunningham 2026-09-16",
+      "notes": "Fri 9am meet confirmed. Weld booth disconnect near BSR bathrooms (call 865-665-1905). Note: Fri 9am also Outage RP-20.3 \u2014 conflict to manage."
+    },
+    {
+      "id": "T12",
+      "status": "open",
+      "priority": "med",
+      "due": "Fri\u2013Mon 9/18\u20139/21",
+      "item": "AMA\u2013AOA scaffold teardown / AOA crane tie-in support",
+      "source": "Email / Matt Fitts 2026-09-14",
+      "notes": "Pending AMK punch + LMM conduit by Fri 9/18; demo scaffold 9/19 (leave small AOA section); ESI crane tie-in Mon 9/21 with Indcom scaffold support, then bus-bar energize."
+    },
+    {
+      "id": "T13",
+      "status": "open",
+      "priority": "med",
+      "due": "this week",
+      "item": "Review BSA office Allied Modular engineering changes",
+      "source": "Email / Gloria Pedroza 2026-09-17",
+      "notes": "Fwd of Alex Leppard marked-up drawing into Allied eng. Confirm Indcom alignment / any quote or schedule impact."
+    },
+    {
+      "id": "T14",
+      "status": "open",
+      "priority": "med",
+      "due": "this week",
+      "item": "Review DPP Joist estimates (KGA Exomist + C-Bay Trimos HS4)",
+      "source": "Email / Jason Marchbanks 2026-09-16",
+      "notes": "KGA Exomist Power Installation + C-Bay Trimos HS4 Power & Lighting \u2014 review/approve path to customer."
+    },
+    {
+      "id": "T15",
+      "status": "open",
+      "priority": "med",
+      "due": "this week",
+      "item": "Review SCI Electronics quotes (3)",
+      "source": "Email / Mike Mullaney 2026-09-14",
+      "notes": "BRB/BSB data; C-Bay CP/IE4K/data relocation; IDF 13 B-Bay move \u2014 fold into customer proposals as needed."
+    },
+    {
+      "id": "T16",
+      "status": "open",
+      "priority": "med",
+      "due": "next week",
+      "item": "Prep N Bay overhead hanging scaffold (crane lockouts)",
+      "source": "Email / Matt Fitts 2026-09-15",
+      "notes": "Erect 9/26\u20139/29; park/lockout 10-ton CAT 701681 at NPX 9/25; floor crane CAT 701734 lockout 9/28 / re-energize 9/29. On calendar."
+    },
+    {
+      "id": "T17",
+      "status": "waiting",
+      "priority": "med",
+      "due": "TBD",
+      "item": "NFPS.03 / coolant-line shutdown timing",
+      "source": "Email / Jim Stanley + Quincy Hill 2026-09-15",
+      "notes": "Quincy asked push shutdown to weekend Sep 26\u201327. Confirm production answer + outage requests."
+    },
+    {
+      "id": "T18",
+      "status": "waiting",
+      "priority": "med",
+      "due": "this week",
+      "item": "Chase Jason for H-Bay tool-crib reinstall estimate",
+      "source": "Email / Jeff\u2192Jason 2026-09-16",
+      "notes": "Jeff asked for estimate for H-Bay install of tool crib removed from M-Bay (ties to T7 item 2)."
+    },
+    {
+      "id": "T19",
+      "status": "open",
+      "priority": "low",
+      "due": "this week",
+      "item": "Sign/return Sheri tax ACTION pages (3)",
+      "source": "Email / Sheri Saunders CPA 2026-09-14",
+      "notes": "Personal \u2014 workpapers at front desk; AMP question call window was Thu 9\u201310:30."
+    },
+    {
+      "id": "T20",
+      "status": "open",
+      "priority": "low",
+      "due": "this week",
+      "item": "Oversight: pallet rack inspection packet (13 Sep walk)",
+      "source": "Email / Katheryn\u2192Jeff 2026-09-17",
+      "notes": "178 obs (54 Red / 101 Amber / 23 Green). Packet delivered; any Jeff follow-up / customer next steps."
+    }
+  ],
+  "calendar": [
+    "**Fri Sep 18 9:00\u201310:00am ET** \u2014 Outage RP-20.3 @ BRB (Connex Offices temp power; DPP / Adam Leppard). *Conflict risk with Cunningham ~9am meet.*",
+    "**Fri Sep 18 10:15\u201310:45am ET** \u2014 Outage RP-JK-32 @ JKB/JLB (Connex @ JLB)",
+    "**Fri Sep 18 12:45\u20131:15pm ET** \u2014 Outage RP-18A-1 compressor room (+ Fire Alarm Notifier N16-6)",
+    "**Fri Sep 18** \u2014 AMA\u2013AOA punch/conduit complete target (T12)",
+    "**Sat Sep 19** \u2014 AMA\u2013AOA scaffold demo (leave AOA section)",
+    "**Mon Sep 21** \u2014 AOA overhead bridge crane tie-in w/ Indcom scaffold support (ESI)",
+    "**Thu Sep 24** \u2014 Guard rail AAA\u2013AUA deadline (all-day; T3)",
+    "**Fri Sep 25** \u2014 N Bay: park/lockout bridge crane CAT 701681 at NPX (day-before)",
+    "**Sat Sep 26 \u2013 Tue Sep 29** \u2014 N Bay overhead hanging scaffold erection / crane lockouts (T16)",
+    "**Weekend Sep 26\u201327** \u2014 Possible NFPS.03 shutdown window per Quincy (T17)"
+  ]
+}
