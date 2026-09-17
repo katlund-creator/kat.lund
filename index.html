@@ -16,23 +16,31 @@
 <body>
   <header class="top">
     <div class="brand">
-      <h1>Onsite Todos</h1>
+      <h1 id="pageTitle">Onsite Todos</h1>
       <p class="sub" id="syncMeta">Loading…</p>
     </div>
-    <div class="filters" role="tablist" aria-label="Filter">
+    <div class="filters" id="todoFilters" role="tablist" aria-label="Filter">
       <button class="chip active" data-filter="all" type="button">All</button>
       <button class="chip" data-filter="open" type="button">Open</button>
       <button class="chip" data-filter="waiting" type="button">Waiting</button>
       <button class="chip" data-filter="done" type="button">Done</button>
     </div>
+    <div class="filters" id="calFilters" hidden role="tablist" aria-label="Calendar filter">
+      <button class="chip active" data-calfilter="all" type="button">All</button>
+      <button class="chip" data-calfilter="outage" type="button">Outages</button>
+      <button class="chip" data-calfilter="meeting" type="button">Meetings</button>
+      <button class="chip" data-calfilter="work" type="button">Work</button>
+      <button class="chip" data-calfilter="deadline" type="button">Deadlines</button>
+    </div>
   </header>
 
-  <section class="cal" id="calStrip" hidden>
-    <h2>This week</h2>
-    <ul id="calList"></ul>
-  </section>
-
   <main id="board"></main>
+  <main id="calendarView" hidden></main>
+
+  <nav class="bottom-nav" aria-label="Main">
+    <button type="button" class="nav-btn active" data-view="todos">Todos</button>
+    <button type="button" class="nav-btn" data-view="calendar">Calendar</button>
+  </nav>
 
   <dialog id="detail">
     <form method="dialog" class="sheet">
@@ -42,9 +50,12 @@
       </header>
       <p id="dNotes" class="notes"></p>
       <p id="dSource" class="source"></p>
-      <div class="actions">
+      <div class="actions" id="todoActions">
         <button type="submit" value="close" class="btn ghost">Close</button>
         <button type="button" id="cycleStatus" class="btn primary">Mark waiting</button>
+      </div>
+      <div class="actions" id="calActions" hidden>
+        <button type="submit" value="close" class="btn primary">Close</button>
       </div>
     </form>
   </dialog>
