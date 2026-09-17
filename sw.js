@@ -1,4 +1,4 @@
-const CACHE = 'onsite-todos-v2';
+const CACHE = 'onsite-todos-v4';
 const ASSETS = [
   './',
   './index.html',
