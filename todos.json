@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T15:18:01-04:00",
+  "updated": "2026-09-17T15:25:37-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -37,7 +37,7 @@
       "due": "this week",
       "item": "Layher extra rental items with remaining shipment",
       "source": "Email / Jeremy Bayate + Jimmy Holmes 2026-09-17",
-      "notes": "Jeff replied with list (100\u00d7 1'7 w/o spigots, 200\u00d7 3'7 LWL, 12\u00d7 inside short handrails, 30\u00d7 8'5 reinforced ledger, 20\u00d7 \u2026). Waiting Layher confirmation / ship-with remaining filler deck."
+      "notes": "Quote R-000110 attached; Jeff confirmed ship to GE Garlington Rd + PO GE-JF260917. Waiting Layher rough ETA to route unload."
     },
     {
       "id": "T5",
@@ -46,7 +46,7 @@
       "due": "this week",
       "item": "Decide reorder cancelled Guardian Fall Protection",
       "source": "Amazon cancel 2026-09-17",
-      "notes": "Order issue / seller message (Empire Rigging). Decide reorder or alternate."
+      "notes": "Order issue / seller message (Empire Rigging). Decide reorder or alternate. Separate FallProtectionPros FPP15975 shipment FYI en route."
     },
     {
       "id": "T6",
@@ -118,7 +118,7 @@
       "due": "this week",
       "item": "Review BSA office Allied Modular engineering changes",
       "source": "Email / Gloria Pedroza 2026-09-17",
-      "notes": "Fwd of Alex Leppard marked-up drawing into Allied eng. Confirm Indcom alignment / any quote or schedule impact."
+      "notes": "Jeff\u2192Katheryn: look over eng changes and update RFQ for the crew. Allied (Gloria) has changes into engineering."
     },
     {
       "id": "T14",
@@ -176,12 +176,12 @@
     },
     {
       "id": "T20",
-      "status": "open",
+      "status": "waiting",
       "priority": "low",
       "due": "this week",
       "item": "Oversight: pallet rack inspection packet (13 Sep walk)",
-      "source": "Email / Katheryn\u2192Jeff 2026-09-17",
-      "notes": "178 obs (54 Red / 101 Amber / 23 Green). Packet delivered; any Jeff follow-up / customer next steps."
+      "source": "Email / Jeff\u2192Julia 2026-09-17",
+      "notes": "Jeff sent packet + updated PDF to Julia Filiatreau (cc Brian Hill, Chuck Kirkley). 178 obs (54 Red / 101 Amber / 23 Green). Waiting GE response; surplus inventory needed before firm material quote."
     }
   ],
   "calendar": [
@@ -197,7 +197,7 @@
       "id": "e1",
       "summary": "Outage/Shutdown/LOTO: RP-20.3 (BRB)",
       "location": "BRB",
-      "description": "Connex Offices temp power. DPP / Adam Leppard.",
+      "description": "Connex Offices temp power. DPP / Adam Leppard. Conflict risk with Cunningham ~9am meet.",
       "start": "2026-09-18T09:00:00-04:00",
       "end": "2026-09-18T10:00:00-04:00",
       "allDay": false,
