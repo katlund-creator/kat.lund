@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T15:25:37-04:00",
+  "updated": "2026-09-17T17:34:10-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -182,15 +182,25 @@
       "item": "Oversight: pallet rack inspection packet (13 Sep walk)",
       "source": "Email / Jeff\u2192Julia 2026-09-17",
       "notes": "Jeff sent packet + updated PDF to Julia Filiatreau (cc Brian Hill, Chuck Kirkley). 178 obs (54 Red / 101 Amber / 23 Green). Waiting GE response; surplus inventory needed before firm material quote."
+    },
+    {
+      "id": "T21",
+      "status": "open",
+      "priority": "med",
+      "due": "soon",
+      "item": "Review LCU11 breaker-swap process (NFPS.03 H-Bay) \u2014 Jim Stanley Teams invite",
+      "source": "Email / Jim Stanley 2026-09-17 ~4:25pm",
+      "notes": "Teams invite to review LCU11 breaker-swap process for NFPS.03 H-Bay panel. Accept/join + prep notes. Ties to T7/T8/T17."
+    },
+    {
+      "id": "T22",
+      "status": "open",
+      "priority": "high",
+      "due": "2026-10-05",
+      "item": "M-Bay overhead stormwater drains \u2014 phase-1 scaffold (Kyle Herman / AM King)",
+      "source": "Email / Kyle Herman 2026-09-17 ~4:22pm",
+      "notes": "Phase-1 scaffold by Oct 5; drawings attached. Second higher level after beams. Quote/plan support."
     }
-  ],
-  "calendar": [
-    "Outage/Shutdown/LOTO: RP-20.3 (BRB) \u00b7 2026-09-18 09:00 @ BRB",
-    "Outage/Shutdown/LOTO: RP-JK-32 \u00b7 2026-09-18 10:15 @ JKB / JLB",
-    "Outage/Shutdown/LOTO: RP-18A-1 (Compressor Room) \u00b7 2026-09-18 12:45 @ Compressor Room",
-    "Deadline: Guard rail AAA\u2013AUA (Bob Peterson) \u00b7 2026-09-24",
-    "Scaffold needed for N Bay overhead hanging scaffold / crane lockout \u00b7 2026-09-25 @ N Bay",
-    "Outage/Scaffold: N Bay overhead hanging scaffold (crane lockouts) \u00b7 2026-09-26 @ N Bay"
   ],
   "events": [
     {
@@ -252,6 +262,29 @@
       "end": "2026-09-30",
       "allDay": true,
       "type": "outage"
+    },
+    {
+      "id": "e7",
+      "summary": "Deadline: M-Bay stormwater drains phase-1 scaffold (AM King)",
+      "location": "M-Bay",
+      "description": "Kyle Herman / AM King \u2014 phase-1 scaffold by Oct 5; drawings attached. Second higher level after beams. (T22)",
+      "start": "2026-10-05",
+      "end": "2026-10-06",
+      "allDay": true,
+      "type": "deadline"
     }
+  ],
+  "calendar": [
+    "**Fri Sep 18 9:00\u201310:00am ET** \u2014 Outage RP-20.3 @ BRB (Connex Offices temp power; DPP / Adam Leppard). *Conflict risk with Cunningham ~9am meet.*",
+    "**Fri Sep 18 10:15\u201310:45am ET** \u2014 Outage RP-JK-32 @ JKB/JLB (Connex @ JLB)",
+    "**Fri Sep 18 12:45\u20131:15pm ET** \u2014 Outage RP-18A-1 compressor room (+ Fire Alarm Notifier N16-6)",
+    "**Fri Sep 18** \u2014 AMA\u2013AOA punch/conduit complete target (T12)",
+    "**Sat Sep 19** \u2014 AMA\u2013AOA scaffold demo (leave AOA section)",
+    "**Mon Sep 21** \u2014 AOA overhead bridge crane tie-in w/ Indcom scaffold support (ESI)",
+    "**Thu Sep 24** \u2014 Guard rail AAA\u2013AUA deadline (all-day; T3)",
+    "**Fri Sep 25** \u2014 N Bay: park/lockout bridge crane CAT 701681 at NPX (day-before)",
+    "**Sat Sep 26 \u2013 Tue Sep 29** \u2014 N Bay overhead hanging scaffold erection / crane lockouts (T16)",
+    "**Weekend Sep 26\u201327** \u2014 Possible NFPS.03 shutdown window per Quincy (T17)",
+    "**Sun Oct 5** \u2014 M-Bay stormwater drains phase-1 scaffold due (T22)"
   ]
 }
