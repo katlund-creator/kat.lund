@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T11:42:48-04:00",
+  "updated": "2026-09-18T12:27:21-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -198,8 +198,8 @@
       "priority": "high",
       "due": "2026-10-05",
       "item": "M-Bay overhead stormwater drains \u2014 phase-1 scaffold (Kyle Herman / AM King)",
-      "source": "Email / Kyle Herman 2026-09-17 ~4:22pm",
-      "notes": "Phase-1 scaffold by Oct 5; drawings attached. Second higher level after beams. Quote/plan support."
+      "source": "Email / Kyle Herman + Jeff\u2192Katheryn 2026-09-17/18",
+      "notes": "Phase-1 scaffold by Oct 5; drawings attached (PDF *2026.08.31 ROOF DRAINAGE COORDINATION SET.pdf*). Second higher level after beams. Jeff ~12:26pm ET Fri: forwarded to Katheryn (cc Bill) for review/assessment of material needed + CAD."
     },
     {
       "id": "T23",
@@ -245,6 +245,24 @@
       "item": "Forward BF Material Handling invoice 71844 to accounting",
       "source": "Email / Ola Footer 2026-09-18 ~10:37am",
       "notes": "Subject *71844*; attachment 71844.pdf. Explicit ask: forward to accounting."
+    },
+    {
+      "id": "T28",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP",
+      "item": "Process DPP NFPS.03 800A Panel Progress Billing \u2014 Payment App #2",
+      "source": "Email / Jason Marchbanks 2026-09-18 ~12:21pm",
+      "notes": "Joist invoice https://client.joistapp.com/invoices/ad283f8437a531d025ea4b8c (cc Bill, accounting@indcomcorp.com, Katheryn, Amie). Route/confirm payment."
+    },
+    {
+      "id": "T29",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP",
+      "item": "Process DPP B-Bay & J-Bay Office Invoice 4695",
+      "source": "Email / Jason Marchbanks 2026-09-18 ~12:19pm",
+      "notes": "Joist https://client.joistapp.com/invoices/9c0a51deda71e6d50090c270 + PDF *Invoice_4695.pdf.pdf* (cc Katheryn, accounting, Bill, Amie). Route/confirm payment."
     }
   ],
   "calendar": [
@@ -347,7 +365,7 @@
       "id": "e7",
       "summary": "Deadline: M-Bay stormwater drains phase-1 scaffold (AM King)",
       "location": "M-Bay",
-      "description": "Kyle Herman / AM King \u2014 phase-1 scaffold by Oct 5; drawings attached. Second higher level after beams. (T22)",
+      "description": "Kyle Herman / AM King \u2014 phase-1 scaffold by Oct 5; drawings attached. Second higher level after beams. Jeff forwarded to Katheryn for material/CAD review. (T22)",
       "start": "2026-10-05",
       "end": "2026-10-06",
       "allDay": true,
