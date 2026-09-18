@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T17:34:10-04:00",
+  "updated": "2026-09-18T09:39:10-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -46,7 +46,7 @@
       "due": "this week",
       "item": "Decide reorder cancelled Guardian Fall Protection",
       "source": "Amazon cancel 2026-09-17",
-      "notes": "Order issue / seller message (Empire Rigging). Decide reorder or alternate. Separate FallProtectionPros FPP15975 shipment FYI en route."
+      "notes": "Order issue / seller message (Empire Rigging). Decide reorder or alternate. FallProtectionPros FPP15975 out for delivery Fri Sep 18 (FYI)."
     },
     {
       "id": "T6",
@@ -100,7 +100,7 @@
       "due": "Fri 2026-09-18 ~9:00am",
       "item": "Meet Jonathon Cunningham + weld booth disconnect",
       "source": "Email / Jonathon Cunningham 2026-09-16",
-      "notes": "Fri 9am meet confirmed. Weld booth disconnect near BSR bathrooms (call 865-665-1905). Note: Fri 9am also Outage RP-20.3 \u2014 conflict to manage."
+      "notes": "Fri 9am meet confirmed. Weld booth near BSR bathrooms. Jeff ~9:12am ET: looking for Jonathon; 865-665-1905 \u201cnumber cannot be reached\u201d \u2014 need working contact. Conflicts: Outage RP-20.3 9\u201310am + LCU11 breaker review 9\u201310am (T21)."
     },
     {
       "id": "T12",
@@ -114,11 +114,11 @@
     {
       "id": "T13",
       "status": "open",
-      "priority": "med",
-      "due": "this week",
-      "item": "Review BSA office Allied Modular engineering changes",
-      "source": "Email / Gloria Pedroza 2026-09-17",
-      "notes": "Jeff\u2192Katheryn: look over eng changes and update RFQ for the crew. Allied (Gloria) has changes into engineering."
+      "priority": "high",
+      "due": "ASAP",
+      "item": "Review BSA office Allied Modular final drawings + update RFQ",
+      "source": "Email / Gloria Pedroza 2026-09-18",
+      "notes": "Final dwgs QH-11013-1/2 to Alex Leppard (cc Jeff) \u2014 sign and return ASAP so Allied can ship extras. Jeff\u2192Katheryn earlier: confirm eng changes + update RFQ for crew."
     },
     {
       "id": "T14",
@@ -181,16 +181,16 @@
       "due": "this week",
       "item": "Oversight: pallet rack inspection packet (13 Sep walk)",
       "source": "Email / Jeff\u2192Julia 2026-09-17",
-      "notes": "Jeff sent packet + updated PDF to Julia Filiatreau (cc Brian Hill, Chuck Kirkley). 178 obs (54 Red / 101 Amber / 23 Green). Waiting GE response; surplus inventory needed before firm material quote."
+      "notes": "Julia Filiatreau acknowledged (\u201cThank you!\u201d) Thu night. Still waiting GE next steps; surplus inventory needed before firm material quote."
     },
     {
       "id": "T21",
       "status": "open",
-      "priority": "med",
-      "due": "soon",
-      "item": "Review LCU11 breaker-swap process (NFPS.03 H-Bay) \u2014 Jim Stanley Teams invite",
-      "source": "Email / Jim Stanley 2026-09-17 ~4:25pm",
-      "notes": "Teams invite to review LCU11 breaker-swap process for NFPS.03 H-Bay panel. Accept/join + prep notes. Ties to T7/T8/T17."
+      "priority": "high",
+      "due": "Fri 2026-09-18 9:00am",
+      "item": "Review LCU11 breaker-swap process (NFPS.03 H-Bay)",
+      "source": "Email / Jim Stanley + Jeff McCurry 2026-09-17/18",
+      "notes": "Teams/onsite review Fri 9\u201310am ET at LCU11 \u2013 K-Bay. McCurry asked Fri AM: \u201cDo you have a breaker ordered for this?\u201d Conflicts with RP-20.3 + Cunningham. Ties to T7/T8/T17."
     },
     {
       "id": "T22",
@@ -200,18 +200,60 @@
       "item": "M-Bay overhead stormwater drains \u2014 phase-1 scaffold (Kyle Herman / AM King)",
       "source": "Email / Kyle Herman 2026-09-17 ~4:22pm",
       "notes": "Phase-1 scaffold by Oct 5; drawings attached. Second higher level after beams. Quote/plan support."
+    },
+    {
+      "id": "T23",
+      "status": "waiting",
+      "priority": "med",
+      "due": "this week",
+      "item": "EZA OPS Office / Training Room Conversion \u2014 waiting Minhaj",
+      "source": "Email / Jeff\u2192Minhaj Syed 2026-09-18 ~8:17am",
+      "notes": "Jeff re-sent Estimate 1974.pdf (cc Colby Murphy, Katheryn). Minhaj ~9:10am ET: \u201cThank you Jeff and Katheryn.\u201d Still waiting PO / next ask."
+    },
+    {
+      "id": "T24",
+      "status": "open",
+      "priority": "high",
+      "due": "Fri 2026-09-18 today",
+      "item": "PMC SO80075 chairs/footrests at GE \u2014 schedule miscommunication today",
+      "source": "Email / Katelyn Arledge (PMC) 2026-09-18 ~9:22am",
+      "notes": "Katelyn (cc Jeff+Katheryn): Derrick said Bill unaware PMC scheduled today. Bill had confirmed Fri 9/18 for David (badged) footrest swap at GE Vernova test office (SO80075). Ask Bill/PMC to clarify; onsite may see PMC tech today."
     }
+  ],
+  "calendar": [
+    "**Fri Sep 18 9:00\u201310:00am ET** \u2014 Outage RP-20.3 @ BRB (Connex Offices temp power; DPP / Adam Leppard). *Conflicts: Cunningham ~9am (T11) + LCU11 breaker review 9\u201310am K-Bay (T21).*",
+    "**Fri Sep 18 9:00\u201310:00am ET** \u2014 LCU11 breaker-swap review @ LCU11 K-Bay (Jim Stanley / Teams; T21)",
+    "**Fri Sep 18 10:15\u201310:45am ET** \u2014 Outage RP-JK-32 @ JKB/JLB (Connex @ JLB)",
+    "**Fri Sep 18 11:00\u201311:30am ET** \u2014 Outage RP-18A-1 compressor room (+ Fire Alarm Notifier N16-6) \u2014 *pulled earlier from 12:45pm; email body said 11:00pm but calendar When is 11:00am*",
+    "**Fri Sep 18** \u2014 AMA\u2013AOA punch/conduit complete target (T12)",
+    "**Sat Sep 19** \u2014 AMA\u2013AOA scaffold demo (leave AOA section)",
+    "**Mon Sep 21** \u2014 AOA overhead bridge crane tie-in w/ Indcom scaffold support (ESI)",
+    "**Thu Sep 24** \u2014 Guard rail AAA\u2013AUA deadline (all-day; T3)",
+    "**Fri Sep 25** \u2014 N Bay: park/lockout bridge crane CAT 701681 at NPX (day-before)",
+    "**Sat Sep 26 \u2013 Tue Sep 29** \u2014 N Bay overhead hanging scaffold erection / crane lockouts (T16)",
+    "**Weekend Sep 26\u201327** \u2014 Possible NFPS.03 shutdown window per Quincy (T17)",
+    "**Sun Oct 5** \u2014 M-Bay stormwater drains phase-1 scaffold due (T22)"
   ],
   "events": [
     {
       "id": "e1",
       "summary": "Outage/Shutdown/LOTO: RP-20.3 (BRB)",
       "location": "BRB",
-      "description": "Connex Offices temp power. DPP / Adam Leppard. Conflict risk with Cunningham ~9am meet.",
+      "description": "Connex Offices temp power. DPP / Adam Leppard. Conflicts: Cunningham ~9am + LCU11 review 9\u201310am.",
       "start": "2026-09-18T09:00:00-04:00",
       "end": "2026-09-18T10:00:00-04:00",
       "allDay": false,
       "type": "outage"
+    },
+    {
+      "id": "e8",
+      "summary": "Meeting: LCU11 breaker-swap review (NFPS.03)",
+      "location": "LCU11 - K-Bay",
+      "description": "Jim Stanley process review; McCurry asked if breaker ordered. Teams + onsite. (T21)",
+      "start": "2026-09-18T09:00:00-04:00",
+      "end": "2026-09-18T10:00:00-04:00",
+      "allDay": false,
+      "type": "meeting"
     },
     {
       "id": "e2",
@@ -227,9 +269,9 @@
       "id": "e3",
       "summary": "Outage/Shutdown/LOTO: RP-18A-1 (Compressor Room)",
       "location": "Compressor Room",
-      "description": "Duplex receptacles; Fire Alarm Notifier N16-6. DPP / Lawrence Lynch.",
-      "start": "2026-09-18T12:45:00-04:00",
-      "end": "2026-09-18T13:15:00-04:00",
+      "description": "Pulled earlier from 12:45pm \u2192 11:00\u201311:30am. Duplex receptacles; Fire Alarm Notifier N16-6. DPP / Lawrence Lynch. Email body said 11pm; calendar When is 11am.",
+      "start": "2026-09-18T11:00:00-04:00",
+      "end": "2026-09-18T11:30:00-04:00",
       "allDay": false,
       "type": "outage"
     },
@@ -273,18 +315,5 @@
       "allDay": true,
       "type": "deadline"
     }
-  ],
-  "calendar": [
-    "**Fri Sep 18 9:00\u201310:00am ET** \u2014 Outage RP-20.3 @ BRB (Connex Offices temp power; DPP / Adam Leppard). *Conflict risk with Cunningham ~9am meet.*",
-    "**Fri Sep 18 10:15\u201310:45am ET** \u2014 Outage RP-JK-32 @ JKB/JLB (Connex @ JLB)",
-    "**Fri Sep 18 12:45\u20131:15pm ET** \u2014 Outage RP-18A-1 compressor room (+ Fire Alarm Notifier N16-6)",
-    "**Fri Sep 18** \u2014 AMA\u2013AOA punch/conduit complete target (T12)",
-    "**Sat Sep 19** \u2014 AMA\u2013AOA scaffold demo (leave AOA section)",
-    "**Mon Sep 21** \u2014 AOA overhead bridge crane tie-in w/ Indcom scaffold support (ESI)",
-    "**Thu Sep 24** \u2014 Guard rail AAA\u2013AUA deadline (all-day; T3)",
-    "**Fri Sep 25** \u2014 N Bay: park/lockout bridge crane CAT 701681 at NPX (day-before)",
-    "**Sat Sep 26 \u2013 Tue Sep 29** \u2014 N Bay overhead hanging scaffold erection / crane lockouts (T16)",
-    "**Weekend Sep 26\u201327** \u2014 Possible NFPS.03 shutdown window per Quincy (T17)",
-    "**Sun Oct 5** \u2014 M-Bay stormwater drains phase-1 scaffold due (T22)"
   ]
 }
