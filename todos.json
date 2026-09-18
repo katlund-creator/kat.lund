@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T10:34:10-04:00",
+  "updated": "2026-09-18T11:42:48-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -227,6 +227,24 @@
       "item": "LCU-11N \u2192 LCU-11S breaker swap @ K-Bay",
       "source": "Email / Jason Marchbanks (DPP) 2026-09-18 ~9:42am",
       "notes": "Formal request: swap LCU-11N to LCU-11S in K-Bay Tue Sep 22 7:45am ET. Subcontractor Dynamic Pipe & Power; GE Lead Jim Stanley. Cc Jeff+Katheryn. Follows today\u2019s LCU11 review (T21)."
+    },
+    {
+      "id": "T26",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP",
+      "item": "Process H&H Concrete invoice \u2014 GE Verona Electrical Pad",
+      "source": "Email / Buddy Holombo (H&H) 2026-09-18 ~11:37am",
+      "notes": "Invoice PDF *GE Verona Electrical Pad (Indcom Corporation).pdf* (cc Katheryn). Follows Aug estimate + Jeff schedule note. Route to accounting / confirm payment."
+    },
+    {
+      "id": "T27",
+      "status": "open",
+      "priority": "med",
+      "due": "ASAP",
+      "item": "Forward BF Material Handling invoice 71844 to accounting",
+      "source": "Email / Ola Footer 2026-09-18 ~10:37am",
+      "notes": "Subject *71844*; attachment 71844.pdf. Explicit ask: forward to accounting."
     }
   ],
   "calendar": [
