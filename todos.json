@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T15:16:46-04:00",
+  "updated": "2026-09-18T16:18:33-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -34,10 +34,10 @@
       "id": "T4",
       "status": "waiting",
       "priority": "high",
-      "due": "Fri today / Tue 9/22",
-      "item": "Layher rental ship today + FedEx end caps (address sent)",
-      "source": "Email / Jeremy + Jeff 2026-09-18 ~1:53\u20132:44pm",
-      "notes": "Jeremy: PO GE-JF260917 rental shipping TODAY (route unload). End caps FedEx ~Tue Sep 22; quote S-000175. Jeff ~2:44pm ET sent ship-to: 17 International Court, Greenville, SC 29607. Waiting Layher FedEx + confirm unload."
+      "due": "Sat 9/19 unload / Tue 9/22 end caps",
+      "item": "Layher rental ETA tomorrow + FedEx end caps",
+      "source": "Email / Jeremy 2026-09-18 ~4:04pm",
+      "notes": "Jeremy ~4:04pm ET: truck shipped today; should arrive tomorrow (Sat Sep 19). End caps still FedEx ~Tue Sep 22 (quote S-000175); ship-to 17 International Court Greenville SC 29607 already sent. Waiting unload confirm + FedEx end caps."
     },
     {
       "id": "T5",
@@ -290,6 +290,15 @@
       "item": "Process DPP MFA Fence Power/Data Demo Invoice 4693",
       "source": "Email / Jason Marchbanks 2026-09-18 ~12:43pm",
       "notes": "Joist https://client.joistapp.com/invoices/af8945e7cd505e5d1c6a59cb + PDF *Invoice_4693.pdf.pdf* (cc Bill, accounting, Katheryn, Amie). Route/confirm payment."
+    },
+    {
+      "id": "T33",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP",
+      "item": "Reply James Ray \u2014 Scaffolding I-Beam trolley weight capacity",
+      "source": "Email / James Ray (GE) 2026-09-18 ~4:01pm",
+      "notes": "FW Safety Hazard Report (Inadequate Egress / Material Handling Access). Jeff asked: weight capacity of Scaffolding I-Beam trolley Maintenance uses. Thread: heaviest lift items ~80\u201390 lbs (Matt Bass). Need capacity answer back to James."
     }
   ],
   "calendar": [
@@ -301,6 +310,7 @@
     "**Sat Sep 19** \u2014 AMA\u2013AOA scaffold demo (leave AOA section)",
     "**Mon Sep 21** \u2014 AOA overhead bridge crane tie-in w/ Indcom scaffold support (ESI)",
     "**Tue Sep 22 7:45am ET** \u2014 LCU-11N \u2192 LCU-11S breaker swap @ K-Bay (DPP / Jim Stanley; T25)",
+    "**Sat Sep 19** \u2014 Layher rental truck ETA / unload (PO GE-JF260917; Jeremy ~4:04pm; T4)",
     "**Tue Sep 22** \u2014 Layher end caps FedEx ETA (quote S-000175; ship-to sent: 17 International Court Greenville SC 29607; T4)",
     "**Thu Sep 24** \u2014 Guard rail AAA\u2013AUA deadline (all-day; T3)",
     "**Fri Sep 25** \u2014 N Bay: park/lockout bridge crane CAT 701681 at NPX (day-before)",
@@ -402,12 +412,24 @@
     {
       "id": "e10",
       "summary": "Deadline: Layher end caps FedEx ETA",
-      "location": "Indcom office",
-      "description": "FedEx ETA for Layher end caps (quote S-000175). Ship-to sent by Jeff ~2:44pm ET Fri: 17 International Court, Greenville, SC 29607. Rental PO GE-JF260917 shipping Fri Sep 18 (route unload). (T4)",
+      "location": "17 International Court, Greenville, SC 29607",
+      "description": "Quote S-000175; ship-to sent. FedEx ~Tue Sep 22. (T4)",
       "start": "2026-09-22",
       "end": "2026-09-23",
       "allDay": true,
-      "type": "deadline"
+      "type": "deadline",
+      "notes": "FedEx ~Tue Sep 22; ship-to 17 International Court Greenville SC 29607 sent. T4.",
+      "todoId": "T4"
+    },
+    {
+      "id": "e11",
+      "summary": "Work: Layher rental truck ETA / unload",
+      "location": "GE / route unload",
+      "description": "PO GE-JF260917. Jeremy ~4:04pm Fri: truck shipped; ETA Sat Sep 19. Confirm unload. (T4)",
+      "start": "2026-09-19",
+      "end": "2026-09-20",
+      "allDay": true,
+      "type": "work"
     }
   ]
 }
