@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T16:18:33-04:00",
+  "updated": "2026-09-18T17:09:21-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -293,12 +293,12 @@
     },
     {
       "id": "T33",
-      "status": "open",
-      "priority": "high",
+      "status": "done",
+      "priority": "med",
       "due": "ASAP",
-      "item": "Reply James Ray \u2014 Scaffolding I-Beam trolley weight capacity",
-      "source": "Email / James Ray (GE) 2026-09-18 ~4:01pm",
-      "notes": "FW Safety Hazard Report (Inadequate Egress / Material Handling Access). Jeff asked: weight capacity of Scaffolding I-Beam trolley Maintenance uses. Thread: heaviest lift items ~80\u201390 lbs (Matt Bass). Need capacity answer back to James."
+      "item": "Scaffolding I-Beam trolley system weight capacity answer (James Ray / GE)",
+      "source": "Email / James Ray + Jeff 2026-09-18",
+      "notes": "Jeff answered ~4:21pm ET: typically <1000 lbs; some motors closer to ~4000 lbs, with area/path/scope assessed."
     }
   ],
   "calendar": [
