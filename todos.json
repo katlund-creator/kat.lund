@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T13:28:40-04:00",
+  "updated": "2026-09-18T15:16:46-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -33,11 +33,11 @@
     {
       "id": "T4",
       "status": "waiting",
-      "priority": "med",
-      "due": "this week",
-      "item": "Layher extra rental items with remaining shipment",
-      "source": "Email / Jeremy Bayate + Jimmy Holmes 2026-09-17",
-      "notes": "Quote R-000110 attached; Jeff confirmed ship to GE Garlington Rd + PO GE-JF260917. Waiting Layher rough ETA to route unload."
+      "priority": "high",
+      "due": "Fri today / Tue 9/22",
+      "item": "Layher rental ship today + FedEx end caps (address sent)",
+      "source": "Email / Jeremy + Jeff 2026-09-18 ~1:53\u20132:44pm",
+      "notes": "Jeremy: PO GE-JF260917 rental shipping TODAY (route unload). End caps FedEx ~Tue Sep 22; quote S-000175. Jeff ~2:44pm ET sent ship-to: 17 International Court, Greenville, SC 29607. Waiting Layher FedEx + confirm unload."
     },
     {
       "id": "T5",
@@ -301,6 +301,7 @@
     "**Sat Sep 19** \u2014 AMA\u2013AOA scaffold demo (leave AOA section)",
     "**Mon Sep 21** \u2014 AOA overhead bridge crane tie-in w/ Indcom scaffold support (ESI)",
     "**Tue Sep 22 7:45am ET** \u2014 LCU-11N \u2192 LCU-11S breaker swap @ K-Bay (DPP / Jim Stanley; T25)",
+    "**Tue Sep 22** \u2014 Layher end caps FedEx ETA (quote S-000175; ship-to sent: 17 International Court Greenville SC 29607; T4)",
     "**Thu Sep 24** \u2014 Guard rail AAA\u2013AUA deadline (all-day; T3)",
     "**Fri Sep 25** \u2014 N Bay: park/lockout bridge crane CAT 701681 at NPX (day-before)",
     "**Sat Sep 26 \u2013 Tue Sep 29** \u2014 N Bay overhead hanging scaffold erection / crane lockouts (T16)",
@@ -395,6 +396,16 @@
       "description": "Kyle Herman / AM King \u2014 phase-1 scaffold by Oct 5; drawings attached. Second higher level after beams. Jeff forwarded to Katheryn for material/CAD review. (T22)",
       "start": "2026-10-05",
       "end": "2026-10-06",
+      "allDay": true,
+      "type": "deadline"
+    },
+    {
+      "id": "e10",
+      "summary": "Deadline: Layher end caps FedEx ETA",
+      "location": "Indcom office",
+      "description": "FedEx ETA for Layher end caps (quote S-000175). Ship-to sent by Jeff ~2:44pm ET Fri: 17 International Court, Greenville, SC 29607. Rental PO GE-JF260917 shipping Fri Sep 18 (route unload). (T4)",
+      "start": "2026-09-22",
+      "end": "2026-09-23",
       "allDay": true,
       "type": "deadline"
     }
