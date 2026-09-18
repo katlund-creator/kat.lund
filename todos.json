@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T09:39:10-04:00",
+  "updated": "2026-09-18T10:34:10-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -190,7 +190,7 @@
       "due": "Fri 2026-09-18 9:00am",
       "item": "Review LCU11 breaker-swap process (NFPS.03 H-Bay)",
       "source": "Email / Jim Stanley + Jeff McCurry 2026-09-17/18",
-      "notes": "Teams/onsite review Fri 9\u201310am ET at LCU11 \u2013 K-Bay. McCurry asked Fri AM: \u201cDo you have a breaker ordered for this?\u201d Conflicts with RP-20.3 + Cunningham. Ties to T7/T8/T17."
+      "notes": "Teams/onsite review Fri 9\u201310am ET at LCU11 \u2013 K-Bay. McCurry asked Fri AM if breaker ordered. Formal swap request followed (see T25 Tue Sep 22 7:45am). Conflicts with RP-20.3 + Cunningham. Ties to T7/T8/T17/T25."
     },
     {
       "id": "T22",
@@ -215,9 +215,18 @@
       "status": "open",
       "priority": "high",
       "due": "Fri 2026-09-18 today",
-      "item": "PMC SO80075 chairs/footrests at GE \u2014 schedule miscommunication today",
-      "source": "Email / Katelyn Arledge (PMC) 2026-09-18 ~9:22am",
-      "notes": "Katelyn (cc Jeff+Katheryn): Derrick said Bill unaware PMC scheduled today. Bill had confirmed Fri 9/18 for David (badged) footrest swap at GE Vernova test office (SO80075). Ask Bill/PMC to clarify; onsite may see PMC tech today."
+      "item": "PMC SO80075 chairs/footrests at GE \u2014 access in progress today",
+      "source": "Email / Katelyn + Bill + Jeff 2026-09-18",
+      "notes": "Bill ~9:51am: oversight, didn\u2019t calendar it; checking Derek\u2019s badge active then will meet him (call first). Jeff ~9:47am: asked Katelyn to text names + arrival; arranging security. Badge extension submitted for Derrick Baisden (continuous work) through 09/01/2027 (Smartsheet confirm ~10:09am). Still confirm arrival/onsite handoff."
+    },
+    {
+      "id": "T25",
+      "status": "open",
+      "priority": "high",
+      "due": "Tue 2026-09-22 7:45am",
+      "item": "LCU-11N \u2192 LCU-11S breaker swap @ K-Bay",
+      "source": "Email / Jason Marchbanks (DPP) 2026-09-18 ~9:42am",
+      "notes": "Formal request: swap LCU-11N to LCU-11S in K-Bay Tue Sep 22 7:45am ET. Subcontractor Dynamic Pipe & Power; GE Lead Jim Stanley. Cc Jeff+Katheryn. Follows today\u2019s LCU11 review (T21)."
     }
   ],
   "calendar": [
@@ -228,6 +237,7 @@
     "**Fri Sep 18** \u2014 AMA\u2013AOA punch/conduit complete target (T12)",
     "**Sat Sep 19** \u2014 AMA\u2013AOA scaffold demo (leave AOA section)",
     "**Mon Sep 21** \u2014 AOA overhead bridge crane tie-in w/ Indcom scaffold support (ESI)",
+    "**Tue Sep 22 7:45am ET** \u2014 LCU-11N \u2192 LCU-11S breaker swap @ K-Bay (DPP / Jim Stanley; T25)",
     "**Thu Sep 24** \u2014 Guard rail AAA\u2013AUA deadline (all-day; T3)",
     "**Fri Sep 25** \u2014 N Bay: park/lockout bridge crane CAT 701681 at NPX (day-before)",
     "**Sat Sep 26 \u2013 Tue Sep 29** \u2014 N Bay overhead hanging scaffold erection / crane lockouts (T16)",
@@ -249,7 +259,7 @@
       "id": "e8",
       "summary": "Meeting: LCU11 breaker-swap review (NFPS.03)",
       "location": "LCU11 - K-Bay",
-      "description": "Jim Stanley process review; McCurry asked if breaker ordered. Teams + onsite. (T21)",
+      "description": "Jim Stanley process review; McCurry asked if breaker ordered. Teams + onsite. Formal swap now Tue Sep 22 (T25). (T21)",
       "start": "2026-09-18T09:00:00-04:00",
       "end": "2026-09-18T10:00:00-04:00",
       "allDay": false,
@@ -274,6 +284,16 @@
       "end": "2026-09-18T11:30:00-04:00",
       "allDay": false,
       "type": "outage"
+    },
+    {
+      "id": "e9",
+      "summary": "Work: LCU-11N \u2192 LCU-11S breaker swap",
+      "location": "K-Bay",
+      "description": "Formal request Jason Marchbanks / DPP. GE Lead Jim Stanley. Tue Sep 22 7:45am. (T25)",
+      "start": "2026-09-22T07:45:00-04:00",
+      "end": "2026-09-22T08:45:00-04:00",
+      "allDay": false,
+      "type": "work"
     },
     {
       "id": "e4",
