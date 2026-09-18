@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T12:27:21-04:00",
+  "updated": "2026-09-18T13:28:40-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -46,7 +46,7 @@
       "due": "this week",
       "item": "Decide reorder cancelled Guardian Fall Protection",
       "source": "Amazon cancel 2026-09-17",
-      "notes": "Order issue / seller message (Empire Rigging). Decide reorder or alternate. FallProtectionPros FPP15975 out for delivery Fri Sep 18 (FYI)."
+      "notes": "Order issue / seller message (Empire Rigging). Decide reorder or alternate. FallProtectionPros FPP15975 delivered Fri Sep 18 ~1:15pm ET (FYI)."
     },
     {
       "id": "T6",
@@ -239,12 +239,12 @@
     },
     {
       "id": "T27",
-      "status": "open",
+      "status": "waiting",
       "priority": "med",
       "due": "ASAP",
-      "item": "Forward BF Material Handling invoice 71844 to accounting",
-      "source": "Email / Ola Footer 2026-09-18 ~10:37am",
-      "notes": "Subject *71844*; attachment 71844.pdf. Explicit ask: forward to accounting."
+      "item": "BF Material Handling invoice 71844 \u2014 Jeff routed to AP",
+      "source": "Email / Ola Footer + Jeff 2026-09-18",
+      "notes": "Jeff ~12:28pm ET replied to Ola, cc Bill + ap.mail@indcomcorp.com (body typo said imdcomcorp). Waiting AP confirm/pay."
     },
     {
       "id": "T28",
@@ -263,6 +263,33 @@
       "item": "Process DPP B-Bay & J-Bay Office Invoice 4695",
       "source": "Email / Jason Marchbanks 2026-09-18 ~12:19pm",
       "notes": "Joist https://client.joistapp.com/invoices/9c0a51deda71e6d50090c270 + PDF *Invoice_4695.pdf.pdf* (cc Katheryn, accounting, Bill, Amie). Route/confirm payment."
+    },
+    {
+      "id": "T30",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP",
+      "item": "Process DPP NFPS.03 Progress Billing #3",
+      "source": "Email / Jason Marchbanks 2026-09-18 ~12:37pm",
+      "notes": "Joist https://client.joistapp.com/invoices/206ff7f219cb4e970b021cbe + site photos IMG_6265/6266 (cc Bill, accounting, Katheryn, Amie). Route/confirm payment."
+    },
+    {
+      "id": "T31",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP",
+      "item": "Process DPP Compressor Room Quad Invoice 4694",
+      "source": "Email / Jason Marchbanks 2026-09-18 ~12:40pm",
+      "notes": "Joist https://client.joistapp.com/invoices/b0dfd45394b3a7982075c329 + PDF *Invoice_4694.pdf.pdf* (cc Bill, accounting, Katheryn, Amie). Ties to Fri RP-18A-1 outage work. Route/confirm payment."
+    },
+    {
+      "id": "T32",
+      "status": "open",
+      "priority": "med",
+      "due": "ASAP",
+      "item": "Process DPP MFA Fence Power/Data Demo Invoice 4693",
+      "source": "Email / Jason Marchbanks 2026-09-18 ~12:43pm",
+      "notes": "Joist https://client.joistapp.com/invoices/af8945e7cd505e5d1c6a59cb + PDF *Invoice_4693.pdf.pdf* (cc Bill, accounting, Katheryn, Amie). Route/confirm payment."
     }
   ],
   "calendar": [
