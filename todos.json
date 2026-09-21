@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T08:33:18-04:00",
+  "updated": "2026-09-21T09:47:47-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -135,17 +135,17 @@
       "priority": "med",
       "due": "Fri 9/25\u2013Tue 9/29",
       "item": "Prep N Bay overhead hanging scaffold (crane lockouts)",
-      "source": "Email / Matt Fitts 2026-09-15 + 2026-09-21",
-      "notes": "Formal outages Mon: (1) park/lockout 10-ton CAT 701681 at NPX by Fri 9/25 \u2014 duration 4\u20136 weeks (LCU-16 + MQB 1600A); (2) floor crane CAT 701734 lockout Mon 9/28 3pm, re-energize 9/29 AM after Indcom scaffold complete. Tres Orr ~7:07\u20137:08am ET Mon: \u201cWe will lockout cranes.\u201d Erect hanging scaffold 9/26\u20139/29."
+      "source": "Email / Matt Fitts + Paul Madak 2026-09-15/21",
+      "notes": "Formal outages: (1) park/lockout 10-ton CAT 701681 at NPX by Fri 9/25 \u2014 duration 4\u20136 weeks (LCU-16 + MQB 1600A); (2) floor crane CAT 701734 lockout Mon 9/28 3pm, re-energize 9/29 AM after Indcom scaffold complete. Tres Orr ~7:07am Mon confirmed lockout; Paul Madak ~8:34\u20138:38am ET also sent formal crane outage requests (same details). Erect hanging scaffold 9/26\u20139/29."
     },
     {
       "id": "T17",
       "status": "waiting",
       "priority": "med",
-      "due": "Sat\u2013Sun 9/26\u20139/27",
+      "due": "Sat\u2013Sun 9/26\u20139/27 (re-energize Mon 9/28 6am)",
       "item": "NFPS.03 / coolant-line + PP-7A-9 Hydroflow outage",
-      "source": "Email / Jim Stanley + Quincy + Jason 2026-09-15/21",
-      "notes": "Quincy had asked weekend Sep 26\u201327. Formal: Jason ~7:34am ET Mon \u2014 Outage PP-7A-9 Circuit #5 @ HHA Sat Sep 26 7:00am \u2192 Sun Sep 27 11:00am; relocate Hydroflow Disconnect HAA \u2192 wall @ HBA; DPP / Jim Stanley (cc Jeff+Katheryn). See T38."
+      "source": "Email / Jim Stanley + Quincy + Jason + Hinkson 2026-09-15/21",
+      "notes": "Quincy had asked weekend Sep 26\u201327. Formal: Jason ~7:34am + Hinkson OUTAGE NOTIFICATION ~9:17am ET Mon \u2014 PP-7A-9 Circuit #5 @ HHA Sat Sep 26 7:00am \u2192 Sun Sep 27 11:00am; relocate Hydroflow Disconnect HAA \u2192 wall @ HBA; **circuit re-energized Mon Sep 28 @6:00am**. DPP / Jim Stanley. See T38."
     },
     {
       "id": "T18",
@@ -331,10 +331,19 @@
       "id": "T38",
       "status": "open",
       "priority": "high",
-      "due": "Sat\u2013Sun 9/26\u20139/27",
+      "due": "Sat\u2013Sun 9/26\u20139/27 (re-energize Mon 9/28 6am)",
       "item": "Coordinate / support PP-7A-9 Circuit #5 Hydroflow outage",
-      "source": "Email / Jason Marchbanks 2026-09-21 ~7:34am",
-      "notes": "Formal outage: PP-7A-9 #5 @ HHA; Sat Sep 26 7:00am \u2192 Sun Sep 27 11:00am ET; relocate Hydroflow Disconnect HAA \u2192 HBA wall; DPP / Jim Stanley. Photos attached. Cc Jeff+Katheryn. Ties to T17."
+      "source": "Email / Jason ~7:34am + Hinkson ~9:17am 2026-09-21",
+      "notes": "Formal outage: PP-7A-9 #5 @ HHA; Sat Sep 26 7:00am \u2192 Sun Sep 27 11:00am ET; relocate Hydroflow Disconnect HAA \u2192 HBA wall; DPP / Jim Stanley. Hinkson OUTAGE NOTIFICATION: **re-energize Mon Sep 28 @6:00am**. Calendar has Hinkson invite (Fri 1:30pm\u2013Mon 6am span) + Jason duplicates \u2014 treat work window as Sat\u2013Sun; one outage. Ties to T17."
+    },
+    {
+      "id": "T39",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP / weekend TBD",
+      "item": "Scaffold north-end K-bay for LPA Power (cable tray / balancer wire pull)",
+      "source": "Email / Joseph Buellesbach 2026-09-21 ~8:58am",
+      "notes": "Joe asks Jeff: clear direction from AMKing / H&W on what they need, and when Indcom can start \u2014 prefer weekend. Cc Kyle Herman / Steve Gordon / Mitch Pingry: does H&W have all hardware?"
     }
   ],
   "calendar": [
@@ -343,11 +352,12 @@
     "**Tue Sep 22** \u2014 Layher end caps FedEx ETA (quote S-000175; T4)",
     "**Wed Sep 23 1:00\u20131:30pm ET** \u2014 BCL7 AMK Overhead Lift Plan Review (Teams; Matt Fitts; T36)",
     "**Thu Sep 24** \u2014 Guard rail AAA\u2013AUA deadline (all-day; T3)",
-    "**Fri Sep 25** \u2014 N Bay: park/lockout 10-ton bridge crane CAT 701681 at NPX (start of ~4\u20136 wk outage; Tres Orr confirmed; T16)",
+    "**Fri Sep 25** \u2014 N Bay: park/lockout 10-ton bridge crane CAT 701681 at NPX (start of ~4\u20136 wk outage; Madak + Tres Orr; T16)",
     "**Sat Sep 26 \u2013 Tue Sep 29** \u2014 N Bay overhead hanging scaffold erection / crane lockouts (T16)",
-    "**Sat Sep 26 7:00am \u2013 Sun Sep 27 11:00am ET** \u2014 Outage PP-7A-9 Circuit #5 @ HHA (Hydroflow Disconnect HAA\u2192HBA; DPP / Jim Stanley; T17/T38) \u2014 *calendar has duplicate invite entries; one event*",
-    "**Mon Sep 28 3:00pm \u2013 Tue Sep 29 AM ET** \u2014 Outage/LOTO floor crane CAT 701734 (re-energize after Indcom scaffold complete; T16)",
-    "**Weekend Sep 26\u201327** \u2014 NFPS.03 / Quincy shutdown window now formalized as PP-7A-9 (above)",
+    "**Sat Sep 26 7:00am \u2013 Sun Sep 27 11:00am ET** \u2014 Outage PP-7A-9 Circuit #5 @ HHA (Hydroflow HAA\u2192HBA; DPP / Jim Stanley; T17/T38) \u2014 *work window*; Hinkson: re-energize Mon Sep 28 6:00am; calendar also has wide Fri\u2013Mon invite + Jason dupes (one outage)",
+    "**Mon Sep 28 6:00am ET** \u2014 PP-7A-9 Circuit #5 re-energize (Hinkson; T17/T38)",
+    "**Mon Sep 28 3:00pm \u2013 Tue Sep 29 AM ET** \u2014 Outage/LOTO floor crane CAT 701734 (Madak + Fitts; re-energize after Indcom scaffold complete; T16)",
+    "**Weekend TBD** \u2014 LPA Power scaffold @ north-end K-bay (Buellesbach ask; T39) \u2014 date not set yet",
     "**Sun Oct 5** \u2014 M-Bay stormwater drains phase-1 scaffold due (T22)"
   ],
   "events": [
@@ -410,7 +420,7 @@
       "id": "e5",
       "summary": "Outage/LOTO: N Bay 10 Ton Overhead Bridge Crane 701681",
       "location": "N Bay / NPX",
-      "description": "Park/lockout by Fri 9/25 for hanging scaffold start Sat 9/26. Duration ~4\u20136 weeks (LCU-16 + MQB 1600A). Tres Orr confirmed lockout. (T16)",
+      "description": "Park/lockout by Fri 9/25 for hanging scaffold start Sat 9/26. Duration ~4\u20136 weeks (LCU-16 + MQB 1600A). Madak formal ~8:34am + Tres Orr confirmed. (T16)",
       "start": "2026-09-25",
       "end": "2026-11-06",
       "allDay": true,
@@ -432,7 +442,7 @@
       "id": "e13",
       "summary": "Outage/Shutdown/LOTO: PP-7A-9 Circuit #5 (Hydroflow)",
       "location": "HHA / HAA\u2192HBA",
-      "description": "Jason Marchbanks formal: relocate Hydroflow Disconnect HAA to wall @ HBA. Sat Sep 26 7:00am\u2013Sun Sep 27 11:00am. DPP / Jim Stanley. Deduped calendar duplicates. (T17/T38)",
+      "description": "Jason ~7:34am + Hinkson OUTAGE NOTIFICATION ~9:17am Mon: relocate Hydroflow Disconnect HAA\u2192HBA. Work window Sat Sep 26 7:00am\u2013Sun Sep 27 11:00am. Re-energize Mon Sep 28 @6:00am. DPP / Jim Stanley. Deduped Jason/Hinkson calendar invites (wide Fri\u2013Mon Hinkson span ignored for work window). (T17/T38)",
       "start": "2026-09-26T07:00:00-04:00",
       "end": "2026-09-27T11:00:00-04:00",
       "allDay": false,
@@ -443,7 +453,7 @@
       "id": "e14",
       "summary": "Outage/LOTO: N Bay Floor Mounted Bridge Crane 701734",
       "location": "N Bay",
-      "description": "Lockout Mon 9/28 3pm for N\u2192M Bay transition / vertical cable tray scaffold. Re-energize morning 9/29 after Indcom scaffold complete. Tres Orr confirmed. (T16)",
+      "description": "Lockout Mon 9/28 3pm for N\u2192M Bay transition / vertical cable tray scaffold. Re-energize morning 9/29 after Indcom scaffold complete. Madak formal ~8:38am + Fitts/Tres Orr. (T16)",
       "start": "2026-09-28T15:00:00-04:00",
       "end": "2026-09-29T09:00:00-04:00",
       "allDay": false,
@@ -460,6 +470,18 @@
       "allDay": true,
       "type": "deadline",
       "todoId": "T22"
+    },
+    {
+      "id": "e16",
+      "summary": "Work: LPA Power scaffold (north-end K-bay) \u2014 weekend TBD",
+      "location": "K-bay north end",
+      "description": "Joseph Buellesbach: scaffold for cable tray install + balancer power wire pull. Needs AMKing/H&W direction + start timing; prefer weekend. (T39)",
+      "start": "2026-09-26",
+      "end": "2026-09-28",
+      "allDay": true,
+      "type": "work",
+      "todoId": "T39",
+      "tentative": true
     }
   ]
 }
