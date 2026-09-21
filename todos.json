@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T16:25:55-04:00",
+  "updated": "2026-09-21T17:12:58-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -145,7 +145,7 @@
       "due": "Fri 9/25 1:30pm \u2013 Mon 9/28 6am",
       "item": "NFPS.03 / coolant-line + PP-7A-9 Hydroflow outage",
       "source": "Email / Jim Stanley + Quincy + Jason + Hinkson 2026-09-15/21",
-      "notes": "**Quincy Hill ~3:46pm ET Mon confirmed** Facilities HV window: **Fri Sep 25 1:30pm \u2192 Mon Sep 28 6:00am** (impact H-bay Basarans only). DPP work still Sat\u2013Sun; circuit out Fri\u2013Mon. Jason ~7:34am + Hinkson ~9:17am; relocate Hydroflow Disconnect HAA \u2192 HBA wall. DPP / Jim Stanley. See T38."
+      "notes": "**Quincy Hill ~3:46pm ET Mon confirmed** Facilities HV window: **Fri Sep 25 1:30pm \u2192 Mon Sep 28 6:00am** (impact H-bay Basarans only). DPP work still Sat\u2013Sun; circuit out Fri\u2013Mon. Jason ~7:34am + Hinkson ~9:17am; relocate Hydroflow Disconnect HAA \u2192 HBA wall. **Jim Stanley ~5:11pm ET:** needs Hydroflow returned to service quickly after move \u2014 asked Jon to discuss what\u2019s needed. DPP / Jim Stanley. See T38."
     },
     {
       "id": "T18",
@@ -316,7 +316,7 @@
       "due": "Fri 9/25 1:30pm \u2013 Mon 9/28 6am",
       "item": "Coordinate / support PP-7A-9 Circuit #5 Hydroflow outage",
       "source": "Email / Jason + Hinkson + Quincy 2026-09-21",
-      "notes": "**Quincy ~3:46pm ET confirmed** live outage window **Fri Sep 25 1:30pm \u2192 Mon Sep 28 6:00am ET** (H-bay Basarans impact). DPP relocate Hydroflow Disconnect HAA\u2192HBA; work Sat\u2013Sun; circuit re-energize Mon 6am. Hinkson invite matches confirmed span; Jason Sat\u2013Sun dups \u2014 one outage. Ties to T17."
+      "notes": "**Quincy ~3:46pm ET confirmed** live outage window **Fri Sep 25 1:30pm \u2192 Mon Sep 28 6:00am ET** (H-bay Basarans impact). DPP relocate Hydroflow Disconnect HAA\u2192HBA; work Sat\u2013Sun; circuit re-energize Mon 6am. Hinkson invite matches confirmed span; Jason Sat\u2013Sun dups \u2014 one outage. **Jim ~5:11pm ET:** quick Hydroflow RTS after disconnect move (to Jon). Ties to T17."
     },
     {
       "id": "T39",
@@ -335,6 +335,24 @@
       "item": "Submit crew TIME / per diems week 9/14\u20139/20",
       "source": "Email / Katheryn\u2192Jeff 2026-09-21 ~2:36pm",
       "notes": "Katheryn sent hours+per diems for 21 names (Ezequiel through Lance Maxwell Reid, incl. her 60h/$700). Route/submit like prior OpSource timesheet batches."
+    },
+    {
+      "id": "T41",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP",
+      "item": "Quote Mitsubishi EDM 605842 utilities disconnect @ MKB (to source)",
+      "source": "Email / Jim Stanley 2026-09-21 ~4:59pm ET",
+      "notes": "Jim: remove all utilities to source. New at EOD."
+    },
+    {
+      "id": "T42",
+      "status": "open",
+      "priority": "med",
+      "due": "next week",
+      "item": "Schedule BSA single-story drywall office demo (Dacusville)",
+      "source": "Email / Jeff\u2192Jack 2026-09-21 ~4:53pm ET",
+      "notes": "Jeff: BSA single story demo approved; referenced wrong estimate earlier (4 or 6 / KPB). Asked Jack to plan schedule for next week."
     }
   ],
   "calendar": [
