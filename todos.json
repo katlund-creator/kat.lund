@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T10:57:12-04:00",
+  "updated": "2026-09-21T15:31:26-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -292,24 +292,6 @@
       "notes": "PDF *waste water carport invoice.pdf* to Jeff + ap.mail@indcomcorp.com. Route/confirm payment."
     },
     {
-      "id": "T34",
-      "status": "open",
-      "priority": "high",
-      "due": "ASAP",
-      "item": "Process SPC mist collectors invoice \u2014 braces (Evan Groce)",
-      "source": "Email / Evan Groce 2026-09-21 ~8:01am",
-      "notes": "PDF *mist collectors invoice.pdf* (mist collector braces) to Jeff + AP. Route/confirm payment."
-    },
-    {
-      "id": "T35",
-      "status": "open",
-      "priority": "high",
-      "due": "ASAP",
-      "item": "Process SPC pipe support invoice \u2014 for Steve (Evan Groce)",
-      "source": "Email / Evan Groce 2026-09-21 ~8:04am",
-      "notes": "PDF *pipe support for steve.pdf* to Jeff + AP. Route/confirm payment."
-    },
-    {
       "id": "T36",
       "status": "open",
       "priority": "high",
@@ -344,6 +326,15 @@
       "item": "Scaffold north-end K-bay for LPA Power (cable tray / balancer wire pull)",
       "source": "Email / Joseph Buellesbach 2026-09-21 ~8:58am",
       "notes": "Joe asks Jeff: clear direction from AMKing / H&W on what they need, and when Indcom can start \u2014 prefer weekend. Cc Kyle Herman / Steve Gordon / Mitch Pingry: does H&W have all hardware?"
+    },
+    {
+      "id": "T40",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP",
+      "item": "Submit crew TIME / per diems week 9/14\u20139/20",
+      "source": "Email / Katheryn\u2192Jeff 2026-09-21 ~2:36pm",
+      "notes": "Katheryn sent hours+per diems for 21 names (Ezequiel through Lance Maxwell Reid, incl. her 60h/$700). Route/submit like prior OpSource timesheet batches."
     }
   ],
   "calendar": [
