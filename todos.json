@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T14:07:07-04:00",
+  "updated": "2026-09-24T15:09:32-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -344,10 +344,29 @@
       "item": "UniFirst invoice 2110401108 \u2014 remind Trey drop Floor Mats",
       "source": "Email / Bill\u2192Katheryn 2026-09-24",
       "notes": "Katheryn reviewed; everything OK except Floor Mats still under Bill\u2019s name (he said cancel). Bill ~1:47pm ET: \u201cYes please\u201d \u2014 Katheryn to remind Trey."
+    },
+    {
+      "id": "T46",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP",
+      "item": "Reply Joe on past-due invoices 3878/3879/3845",
+      "source": "Email / Joseph Buellesbach 2026-09-24 ~2:21pm ET",
+      "notes": "Jeff chased midnight; Joe: 3878 approved $50k but AR overrun (ticket open); 3879 + 3845 in approvals; will receive all 3 when clear. **Asks Jeff:** difference between 3878 $50k (last week) vs new 3878 $65k from last night? Need Jeff reply."
+    },
+    {
+      "id": "T47",
+      "status": "open",
+      "priority": "med",
+      "due": "pending schedule",
+      "item": "Support / track NFPS.03 Fanuc EDM energization (4 machines)",
+      "source": "Email / Jason Marchbanks 2026-09-24 ~3:02pm ET",
+      "notes": "Request to energize Fanuc #2301383 HDA/HEA, #2301384 HEA, #2301385 HEA/HFA, #2301390 HEA Column via TP-11B-8.1 @ HDA (one-lines attached). DPP / Jim Stanley. Cc Jeff+Katheryn. Formal Hinkson window not on cal yet \u2014 watch for outage/energize invite."
     }
   ],
   "calendar": [
     "**Thu Sep 24 TODAY** \u2014 Guard rail AAA\u2013AUA deadline (all-day; T3)",
+    "**Pending schedule** \u2014 Energize 4 Fanuc EDMs NFPS.03 via TP-11B-8.1 @ HDA (#2301383/#2301384/#2301385/#2301390; Jason ~3:02pm; T47) \u2014 wait Hinkson formal window",
     "**Thu Sep 24 9:15\u20139:45am ET** \u2014 ENERGIZATION PP-11B-8-1 / TP-11B-8.1 @ HFA/HDA (12 new 3ph 208V EDM loads NFPS.03 H-Bay; Hinkson/Jason; DPP / Jim Stanley) \u2014 time now past",
     "**Fri Sep 25 7:45\u20138:45am ET** \u2014 Outage SP6-1A Circuit #23 @ TS6 (new TV receptacle; DPP / Blake Berreth) \u2014 Hinkson + Jason dupes = one outage",
     "**Fri Sep 25** \u2014 N Bay: park/lockout 10-ton bridge crane CAT 701681 at NPX (start of ~4\u20136 wk outage; Madak + Tres Orr; T16)",
