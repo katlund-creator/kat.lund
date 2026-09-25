@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T13:13:16-04:00",
+  "updated": "2026-09-25T14:12:48-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -32,12 +32,12 @@
     },
     {
       "id": "T4",
-      "status": "waiting",
+      "status": "open",
       "priority": "high",
       "due": "ASAP (truck timing)",
-      "item": "Layher rental R-000159 \u2014 waiting size options + ship timing",
-      "source": "Email / Jeremy + Jeff 2026-09-25 ~10:37am/12:14pm ET",
-      "notes": "**Fri ~10:37am ET:** Jeremy Quote R-000159; racks OK; material transfer started. **Jeff Fri ~12:14pm ET replied:** (1) decks w/ drill holes **OK** (\u201cThose decks are fine\u201d); (2) asks if extendable decks beyond O-style 5'\u20138'; (3) **how soon** can Layher send majority/all. Caps still deferred. **Waiting Jeremy** on size options + delivery timing."
+      "item": "Layher rental R-000159 \u2014 reply on Mon partial ship",
+      "source": "Email / Jeremy + Jeff 2026-09-25 ~1:40pm ET",
+      "notes": "**Fri ~1:40pm ET Jeremy:** 5'\u20138' only US stock (1.09\u20131.57m rare); **updated Quote R-000159** attached; ~half order in stock; offers **Mon partial ship**, rest mid next week. Prior: decks w/ holes OK; caps deferred. **Jeff must reply** yes/no Mon partial + confirm 5'\u20138' OK."
     },
     {
       "id": "T6",
