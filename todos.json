@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T14:12:48-04:00",
+  "updated": "2026-09-25T16:06:58-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -425,6 +425,15 @@
       "item": "Track PP-6A-5B Haas DM2 weekend outage (HBA\u2013HCA)",
       "source": "Email / Hinkson 2026-09-25 ~12:59pm ET",
       "notes": "**Hinkson Fri ~12:59pm ET formal:** PP-6A-5B Haas DM2 @ HCA; panel HBA; NFPS.03; DPP / Jim Stanley. Window **Fri until Mon Sep 28** (cal invite 1:30pm\u2192Mon 6am). Affects RP-6A-5B.2, RP-6A-5B.3 (new RP cafeteria closet), CAT#EC3219/EC3218 sumps. Overlaps T17/T38 Hydroflow weekend \u2014 awareness/coord."
+    },
+    {
+      "id": "T55",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP",
+      "item": "Resolve 2 unfound POs so Heatherly can receive for invoicing",
+      "source": "Email / William Heatherly 2026-09-25 ~3:45pm ET",
+      "notes": "**Andrew Heatherly Fri ~3:45pm ET:** went through Jeff\u2019s Wed night PO list for formal receive/invoicing; received ones the system allowed. **Highlighted not found:** **4900640864** + **4900652760**. Received OK: 4900623670, 4900623671, 4900623682. Cc Katheryn + Bill + Zachary Ciesielczyk. **Jeff must** clarify/re-send those 2 POs or help Andrew find them. Distinct from T10 (power reels)."
     }
   ],
   "calendar": [
