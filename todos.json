@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T12:07:03-04:00",
+  "updated": "2026-09-25T13:13:16-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -32,12 +32,12 @@
     },
     {
       "id": "T4",
-      "status": "open",
+      "status": "waiting",
       "priority": "high",
-      "due": "ASAP (reply + truck)",
-      "item": "Layher rental quote R-000159 received \u2014 answer deck Qs + confirm truck",
-      "source": "Email / Jeremy Bayate 2026-09-25 ~10:37am ET",
-      "notes": "**Fri ~10:37am ET:** Jeremy attached *Quote R-000159 - Indcom Corp.pdf*; racks OK; starting material transfer. **Needs Jeff reply:** (1) size range for extendable decks (Jeff asked for 20 if available); (2) OK with 2.57m decks w/ drill holes, or prefer used decks free of drill holes? Caps still deferred. Original qty list GE 300 Garlington unchanged."
+      "due": "ASAP (truck timing)",
+      "item": "Layher rental R-000159 \u2014 waiting size options + ship timing",
+      "source": "Email / Jeremy + Jeff 2026-09-25 ~10:37am/12:14pm ET",
+      "notes": "**Fri ~10:37am ET:** Jeremy Quote R-000159; racks OK; material transfer started. **Jeff Fri ~12:14pm ET replied:** (1) decks w/ drill holes **OK** (\u201cThose decks are fine\u201d); (2) asks if extendable decks beyond O-style 5'\u20138'; (3) **how soon** can Layher send majority/all. Caps still deferred. **Waiting Jeremy** on size options + delivery timing."
     },
     {
       "id": "T6",
@@ -416,6 +416,15 @@
       "item": "Attend GE Combustion AIR Purification meeting (ACT / Ductwerks / API)",
       "source": "Email / Jeff Rawls (cc Jeff) 2026-09-25 ~11:14\u201311:19am ET",
       "notes": "**Jeff Rawls Fri ~11:19am ET:** confirmed **Wed Sep 30 1:30pm ET** at GE Combustion \u2014 Tony House (ACT), Darryl Lind (Ductwerks), Jeff Flannery (Indcom), Jeff Rawls (API) with Peter Hahn / GE. Review current proposals + future plans. Brochures attached. Relates T1 (Hahn dust collector)."
+    },
+    {
+      "id": "T54",
+      "status": "open",
+      "priority": "med",
+      "due": "Fri 9/25 1:30pm \u2013 Mon 9/28 6am",
+      "item": "Track PP-6A-5B Haas DM2 weekend outage (HBA\u2013HCA)",
+      "source": "Email / Hinkson 2026-09-25 ~12:59pm ET",
+      "notes": "**Hinkson Fri ~12:59pm ET formal:** PP-6A-5B Haas DM2 @ HCA; panel HBA; NFPS.03; DPP / Jim Stanley. Window **Fri until Mon Sep 28** (cal invite 1:30pm\u2192Mon 6am). Affects RP-6A-5B.2, RP-6A-5B.3 (new RP cafeteria closet), CAT#EC3219/EC3218 sumps. Overlaps T17/T38 Hydroflow weekend \u2014 awareness/coord."
     }
   ],
   "calendar": [
@@ -424,7 +433,7 @@
     "**Mon Sep 28 8:00am\u20133:00pm ET** \u2014 Outage fire-suppression BSA office drain/valve (Impact Fire; Alex Leppard lead; Hinkson expanded Fri ~11:53am; T50) \u2014 **A/B/C bays columns S\u2013Z**; no alarms; FM+ERT notified",
     "**Fri Sep 25 TODAY 7:45\u20138:45am ET** \u2014 Outage SP6-1A Circuit #23 @ TS6 (new TV receptacle; DPP / Blake Berreth) \u2014 Hinkson + Jason dupes = one outage",
     "**Fri Sep 25 TODAY** \u2014 N Bay: park/lockout 10-ton bridge crane CAT 701681 at NPX (start of ~4\u20136 wk outage; Madak + Tres Orr; T16)",
-    "**Fri Sep 25 TODAY 1:30\u20132:15pm ET** \u2014 Outage PP-6A-5B (6A-5A-1) Haas DM2 install @ HBA/HCA (Hinkson; Jim Stanley) \u2014 overlaps Hydroflow start window",
+    "**Fri Sep 25 TODAY 1:30pm \u2013 Mon Sep 28 6:00am ET** \u2014 Outage PP-6A-5B (6A-5A-1) Haas DM2 install @ HCA (Hinkson formal ~12:59pm ET; DPP / Jim Stanley; NFPS.03) \u2014 affects RP-6A-5B.2/.3 (new RP cafeteria closet), CAT EC3219/EC3218 sumps; **same weekend window as Hydroflow** (T17/T38)",
     "**Fri Sep 25 1:30pm \u2013 Mon Sep 28 6:00am ET** \u2014 Outage PP-7A-9 Circuit #5 / HAA\u2013HCA Basaran (Hydroflow piping + disconnect HAA\u2192HBA + Haas Mill; DPP / Jim Stanley; T17/T38) \u2014 Quincy confirmed; Jason Fri one-line **PMX606793**; Evan Basaran piping estimate (T49)",
     "**Sat Sep 26 \u2013 Tue Sep 29** \u2014 N Bay overhead hanging scaffold erection / crane lockouts (T16)",
     "**Sat Sep 26 10:00\u201310:30am ET** \u2014 Outage RP-6B-2.6 @ DWA (2 duplex receptacles computer stand; was 8:30\u20139:00 \u2014 use 10:00)",
@@ -477,7 +486,8 @@
       "end": "2026-09-28T06:00:00-04:00",
       "allDay": false,
       "type": "outage",
-      "todoId": "T17/T38"
+      "todoId": "T17/T38",
+      "title": "PP-7A-9 Circuit #5 Hydroflow / HAA\u2013HCA Basaran"
     },
     {
       "id": "e19",
@@ -485,10 +495,12 @@
       "location": "HBA-HCA",
       "description": "Install Haas DM2 at HCA from PP-6A-5B. Affects RP-6A-5B.2/3 + CAT EC3219/EC3218 sumps. DPP / Jim Stanley. Overlaps Hydroflow start.",
       "start": "2026-09-25T13:30:00-04:00",
-      "end": "2026-09-25T14:15:00-04:00",
+      "end": "2026-09-28T06:00:00-04:00",
       "allDay": false,
       "type": "outage",
-      "todoId": null
+      "todoId": null,
+      "title": "PP-6A-5B Haas DM2 install @ HCA (Hinkson formal)",
+      "notes": "Hinkson Fri ~12:59pm ET formal: Haas DM2 @ HCA; panel HBA; NFPS.03; DPP / Jim Stanley. Fri until Mon Sep 28 (invite 1:30pm\u2192Mon 6am). Affects RP-6A-5B.2/.3 (new RP cafeteria closet), CAT EC3219/EC3218 sumps. Overlaps Hydroflow T17/T38. Ties T54."
     },
     {
       "id": "e6",
