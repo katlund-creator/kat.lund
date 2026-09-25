@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T10:15:22-04:00",
+  "updated": "2026-09-25T11:12:43-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -32,12 +32,12 @@
     },
     {
       "id": "T4",
-      "status": "waiting",
+      "status": "open",
       "priority": "high",
-      "due": "ASAP (quote/truck)",
-      "item": "Layher new rental quote + truck to GE (caps deferred)",
-      "source": "Email / Jeff\u2192Layher 2026-09-24 ~1:48pm ET",
-      "notes": "**Thu update:** Jeff told Obed/Jeremy/Jimmy he can wait on end caps; needs rental quote + truck secured to GE 300 Garlington: 400\u00d78'5 LWL, 100\u00d70.45 LWL, 100\u00d78'5 braces, 200\u00d78'5 steel deck, 50\u00d78'5 reinforced ledgers, 100 standard jacks, 100 short starters, 200 right-angle clamps, 50 leg locks, 50 spigot clamps, 20 U-style spigot clamps, 200 Mullen/single coupler bar clamps, 100 dog bones (smallest), 20 extendable metal boards if avail; can return fixed racks/baskets. Waiting Layher quote/truck."
+      "due": "ASAP (reply + truck)",
+      "item": "Layher rental quote R-000159 received \u2014 answer deck Qs + confirm truck",
+      "source": "Email / Jeremy Bayate 2026-09-25 ~10:37am ET",
+      "notes": "**Fri ~10:37am ET:** Jeremy attached *Quote R-000159 - Indcom Corp.pdf*; racks OK; starting material transfer. **Needs Jeff reply:** (1) size range for extendable decks (Jeff asked for 20 if available); (2) OK with 2.57m decks w/ drill holes, or prefer used decks free of drill holes? Caps still deferred. Original qty list GE 300 Garlington unchanged."
     },
     {
       "id": "T6",
