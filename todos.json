@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T09:09:59-04:00",
+  "updated": "2026-09-25T10:15:22-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -313,10 +313,10 @@
       "id": "T42",
       "status": "open",
       "priority": "med",
-      "due": "next week / Mon TBD",
+      "due": "Mon Sep 28 (tied to fire-suppression)",
       "item": "Schedule BSA single-story drywall office demo (Dacusville)",
       "source": "Email / Jeff\u2192Jack 2026-09-21 ~4:53pm ET",
-      "notes": "Jeff: BSA single story demo approved; referenced wrong estimate earlier (4 or 6 / KPB). Asked Jack to plan schedule for next week. **Evan Groce Thu ~10:32pm ET:** bump-out + bollard demo quote PDF (see T48). **Jeff Fri ~9:04am ET:** fire-suppression outage request to Hinkson for BSA office drain/valve (proposed Mon 8am\u20133pm; see T50)."
+      "notes": "Jeff: BSA single story demo approved; referenced wrong estimate earlier (4 or 6 / KPB). Asked Jack to plan schedule for next week. **Evan Groce Thu ~10:32pm ET:** bump-out + bollard demo quote PDF (see T48). **Hinkson Fri ~9:12am ET:** formal fire-suppression outage Mon 8:00am\u20133:00pm (see T50) \u2014 Jack can start Mon; Seth badge/safety still TBD."
     },
     {
       "id": "T43",
@@ -385,10 +385,10 @@
       "id": "T50",
       "status": "waiting",
       "priority": "high",
-      "due": "Mon 8am\u20133pm (proposed)",
+      "due": "Mon Sep 28 8:00am\u20133:00pm ET",
       "item": "Track BSA fire-suppression outage (drain/valve for office demo)",
-      "source": "Email / Jeff\u2192Hinkson 2026-09-25 ~9:04am ET",
-      "notes": "Jeff requested fire suppression outage: drain BSA office sprinkler head, disconnect line, tie in reachable valve for future office. **Proposed Mon 8:00am\u20133:00pm** (BSA office demo). GE lead Alex Leppard; sub Impact Fire. Cc McCurry/Roper/Leppard/Dickerson. Waiting Hinkson formal outage invite. Ties T42/T48."
+      "source": "Email / Hinkson 2026-09-25 ~9:12am ET",
+      "notes": "**Hinkson Fri ~9:12am ET:** formal *FIRE SUPPRESSION SYSTEM OUTAGE* + calendar invite \u2014 **Mon 8:00am\u20133:00pm ET**, BSA office demo, Alex Leppard lead, Impact Fire. Asking Jason Dickerson: impact scope / alarms silence / FM notify; will expand notification when answered. Still waiting full expanded Hinkson blast. Ties T42/T48."
     },
     {
       "id": "T51",
@@ -396,8 +396,8 @@
       "priority": "high",
       "due": "ASAP (quarter close)",
       "item": "Send Carl Watson program-phase quote + confirm next invoice/PO path",
-      "source": "Email / Carl + Rusty + Jeff 2026-09-25 ~8:13\u20138:52am ET",
-      "notes": "**Rusty** asked for another invoice on PO **4900628141** (pre quarter close). **Carl** approved invoice **3877** (~$134,710.90); asked Jeff for **program-phase quote** to submit new PO (hasn\u2019t seen one); notes PO still has **~$152,461** remaining after last invoice \u2014 wants confirm; checking Brian/Cody on schedule. Jeff asked for new schedule/scope (original quotes only first phase funded). Need quote + PO/invoice clarity (distinct from T46 3878/3879/3845)."
+      "source": "Email / Carl + Rusty + Jeff 2026-09-25 ~8:13\u20139:41am ET",
+      "notes": "**Rusty** asked for another invoice on PO **4900628141** (pre quarter close). **Carl** approved invoice **3877** (~$134,710.90); asked Jeff for **program-phase quote** to submit new PO (hasn\u2019t seen one); notes PO still has **~$152,461** remaining after last invoice \u2014 wants confirm; checking Brian/Cody on schedule. Jeff asked for new schedule/scope (original quotes only first phase funded). **Fri ~9:41am ET:** Carl acknowledged Rusty\u2019s PO-status reply (\u201cOK thanks\u201d). Still need program-phase quote + schedule from Carl/Brian/Cody. Distinct from T46 3878/3879/3845."
     },
     {
       "id": "T52",
@@ -406,13 +406,13 @@
       "due": "ASAP",
       "item": "OpSource as-needed hire \u2014 Tavan Hughes onboarding link",
       "source": "Email / Jeff\u2192Lisa 2026-09-25 ~8:23am ET",
-      "notes": "Jeff asked Lisa Stafford for hire-in link; as-needed (not consistent payroll). Contact: Hughestavan@gmail.com / 360-333-5560 / Tavan Hughes. Cc Julie, Katheryn, Bill. **Julie ~9:06am UTC:** forwarded to Jose/Yesenia/Allison/Lisa to send onboarding link. Waiting OpSource link."
+      "notes": "Jeff asked Lisa Stafford for hire-in link; as-needed (not consistent payroll). Contact: Hughestavan@gmail.com / 360-333-5560 / Tavan Hughes. Cc Julie, Katheryn, Bill. **Julie ~9:06am ET:** forwarded to Jose/Yesenia/Allison/Lisa. **Jose Cruz ~9:15am ET:** \u201cWill do.\u201d Still waiting actual onboarding link to Tavan."
     }
   ],
   "calendar": [
     "**OVERDUE since Thu Sep 24** \u2014 Guard rail AAA\u2013AUA deadline (all-day; T3) \u2014 no firm Bob Peterson yes/no; **work starts Sat Sep 26**",
     "**Pending schedule** \u2014 Energize 4 Fanuc EDMs NFPS.03 via TP-11B-8.1 @ HDA (#2301383/#2301384/#2301385/#2301390; Jason ~3:02pm Thu; **MOC 23582** Shanna ~3:48pm; T47) \u2014 wait Hinkson formal window",
-    "**Pending schedule (Jeff requested Fri ~9:04am)** \u2014 BSA fire-suppression drain/valve outage proposed **Mon 8:00am\u20133:00pm ET** (Impact Fire; Alex Leppard lead; T50) \u2014 wait Hinkson formal invite",
+    "**Mon Sep 28 8:00am\u20133:00pm ET** \u2014 Outage fire-suppression BSA office drain/valve (Impact Fire; Alex Leppard lead; Hinkson formal Fri ~9:12am + invite; T50) \u2014 Dickerson impact/alarms/FM Qs pending before expanded blast",
     "**Fri Sep 25 TODAY 7:45\u20138:45am ET** \u2014 Outage SP6-1A Circuit #23 @ TS6 (new TV receptacle; DPP / Blake Berreth) \u2014 Hinkson + Jason dupes = one outage",
     "**Fri Sep 25 TODAY** \u2014 N Bay: park/lockout 10-ton bridge crane CAT 701681 at NPX (start of ~4\u20136 wk outage; Madak + Tres Orr; T16)",
     "**Fri Sep 25 TODAY 1:30\u20132:15pm ET** \u2014 Outage PP-6A-5B (6A-5A-1) Haas DM2 install @ HBA/HCA (Hinkson; Jim Stanley) \u2014 overlaps Hydroflow start window",
@@ -528,11 +528,11 @@
     {
       "id": "e21",
       "type": "outage",
-      "title": "BSA fire-suppression drain/valve (proposed; pending Hinkson)",
-      "start": "2026-09-29T08:00:00-04:00",
-      "end": "2026-09-29T15:00:00-04:00",
+      "title": "BSA fire-suppression drain/valve (Hinkson formal)",
+      "start": "2026-09-28T08:00:00-04:00",
+      "end": "2026-09-28T15:00:00-04:00",
       "location": "BSA office",
-      "notes": "Jeff\u2192Hinkson Fri ~9:04am ET: drain BSA office sprinkler, disconnect, tie reachable valve. GE lead Alex Leppard; Impact Fire. Proposed Mon 8am\u20133pm. Formal invite pending. Ties T50/T42/T48.",
+      "notes": "Hinkson Fri ~9:12am ET formal outage + invite; Mon 8am\u20133pm; Alex Leppard; Impact Fire; Dickerson impact/alarms/FM Qs pending. Ties T50/T42.",
       "related": [
         "T50",
         "T42",
