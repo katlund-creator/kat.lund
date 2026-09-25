@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T16:05:53-04:00",
+  "updated": "2026-09-25T08:05:54-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -25,10 +25,10 @@
       "id": "T3",
       "status": "open",
       "priority": "high",
-      "due": "2026-09-24 TODAY",
+      "due": "2026-09-24 OVERDUE",
       "item": "Firm Bob Peterson guard rail AAA\u2013AUA",
       "source": "Email / Bob Peterson 2026-09-17",
-      "notes": "Roof leading-edge west wall; work starts Sep 26. Soft reply sent; need firm yes/no + AAA/VPS overhead-door scaffold timing / traffic reroute via VPO\u2013AAA. **Deadline is today.**"
+      "notes": "Roof leading-edge west wall; **work starts Sat Sep 26**. Soft reply sent; still need firm yes/no + AAA/VPS overhead-door scaffold timing / traffic reroute via VPO\u2013AAA. **Deadline was Thu Sep 24 \u2014 OVERDUE; no firm Bob Peterson reply in overnight/morning mail.**"
     },
     {
       "id": "T4",
@@ -135,8 +135,8 @@
       "priority": "med",
       "due": "Fri 9/25 1:30pm \u2013 Mon 9/28 6am",
       "item": "NFPS.03 / coolant-line + PP-7A-9 Hydroflow outage",
-      "source": "Email / Jim Stanley + Quincy + Jason + Hinkson 2026-09-15/23",
-      "notes": "**Quincy Hill confirmed** Facilities HV window Fri 1:30pm\u2192Mon 6am (H-bay Basarans). **Jim Stanley Wed ~10:08am ET:** HAA\u2013HCA multi-outage \u2014 extend Hydroflow piping to new Basarans, move disconnect to wall, tie in new Haas Mill; needs drain/park/clear aisle support. **Scott Barnes / Jim:** affects NFPS.03 Hydroflow only (not BL4 bucket). See T38."
+      "source": "Email / Jim Stanley + Quincy + Jason + Hinkson 2026-09-15/25",
+      "notes": "**Quincy Hill confirmed** Facilities HV window Fri 1:30pm\u2192Mon 6am (H-bay Basarans). **Jim Stanley Wed ~10:08am ET:** HAA\u2013HCA multi-outage \u2014 extend Hydroflow piping to new Basarans, move disconnect to wall, tie in new Haas Mill; needs drain/park/clear aisle support. **Scott Barnes / Jim:** affects NFPS.03 Hydroflow only (not BL4 bucket). **Jason Fri ~7:28am ET:** pre-created one-line *Hydroflow HAA PMX606793.pdf* for disconnect relocation. **Evan Groce Thu ~10:28pm ET:** Basaran piping estimate PDF (see T49). See T38."
     },
     {
       "id": "T18",
@@ -279,8 +279,8 @@
       "priority": "high",
       "due": "Fri 9/25 1:30pm \u2013 Mon 9/28 6am",
       "item": "Coordinate / support PP-7A-9 Circuit #5 Hydroflow outage",
-      "source": "Email / Jason + Hinkson + Quincy + Jim 2026-09-21/23",
-      "notes": "Quincy-confirmed window Fri 1:30pm\u2192Mon 6am. **Jim Wed:** scope includes Hydroflow piping to Basarans + Haas Mill tie-in (same HAA\u2013HCA window). DPP relocate disconnect HAA\u2192HBA; work Sat\u2013Sun. Ties to T17."
+      "source": "Email / Jason + Hinkson + Quincy + Jim 2026-09-21/25",
+      "notes": "Quincy-confirmed window Fri 1:30pm\u2192Mon 6am. **Jim Wed:** scope includes Hydroflow piping to Basarans + Haas Mill tie-in (same HAA\u2013HCA window). DPP relocate disconnect HAA\u2192HBA; work Sat\u2013Sun. **Jason Fri ~7:28am ET:** one-line *Hydroflow HAA PMX606793.pdf* attached (cc Jeff+Katheryn). **Evan Thu ~10:28pm:** Basaran piping estimate (T49). Ties to T17."
     },
     {
       "id": "T39",
@@ -316,7 +316,7 @@
       "due": "next week",
       "item": "Schedule BSA single-story drywall office demo (Dacusville)",
       "source": "Email / Jeff\u2192Jack 2026-09-21 ~4:53pm ET",
-      "notes": "Jeff: BSA single story demo approved; referenced wrong estimate earlier (4 or 6 / KPB). Asked Jack to plan schedule for next week."
+      "notes": "Jeff: BSA single story demo approved; referenced wrong estimate earlier (4 or 6 / KPB). Asked Jack to plan schedule for next week. **Evan Groce Thu ~10:32pm ET:** bump-out + bollard demo quote PDF (see T48)."
     },
     {
       "id": "T43",
@@ -362,16 +362,33 @@
       "item": "Support / track NFPS.03 Fanuc EDM energization (4 machines)",
       "source": "Email / Jason + Shanna 2026-09-24 ~3:02/3:48pm ET",
       "notes": "Request to energize Fanuc #2301383 HDA/HEA, #2301384 HEA, #2301385 HEA/HFA, #2301390 HEA Column via TP-11B-8.1 @ HDA (one-lines attached). DPP / Jim Stanley. Cc Jeff+Katheryn. **Shanna Henson ~3:48pm ET:** MOC **23582** assigned. Formal Hinkson window still not on cal \u2014 watch for outage/energize invite."
+    },
+    {
+      "id": "T48",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP",
+      "item": "Review/route SPC BSA bump-out + bollard demo quote",
+      "source": "Email / Evan Groce 2026-09-24 ~10:32pm ET",
+      "notes": "PDF *bump out demo at BSA.pdf* to Jeff. Ties to T42 (BSA single-story demo schedule). Review/approve path + fold into Jack schedule."
+    },
+    {
+      "id": "T49",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP (weekend outage)",
+      "item": "Review/route SPC Basaran piping estimate",
+      "source": "Email / Evan Groce 2026-09-24 ~10:28pm ET",
+      "notes": "PDF *Basaran piping estimate.pdf* to Jeff + steveo@pipeandpower.com. Supports HAA\u2013HCA Hydroflow/Basaran work starting Fri 1:30pm (T17/T38). Review/approve before/during weekend window."
     }
   ],
   "calendar": [
-    "**Thu Sep 24 TODAY** \u2014 Guard rail AAA\u2013AUA deadline (all-day; T3)",
-    "**Pending schedule** \u2014 Energize 4 Fanuc EDMs NFPS.03 via TP-11B-8.1 @ HDA (#2301383/#2301384/#2301385/#2301390; Jason ~3:02pm; **MOC 23582** Shanna ~3:48pm; T47) \u2014 wait Hinkson formal window",
-    "**Thu Sep 24 9:15\u20139:45am ET** \u2014 ENERGIZATION PP-11B-8-1 / TP-11B-8.1 @ HFA/HDA (12 new 3ph 208V EDM loads NFPS.03 H-Bay; Hinkson/Jason; DPP / Jim Stanley) \u2014 time now past",
-    "**Fri Sep 25 7:45\u20138:45am ET** \u2014 Outage SP6-1A Circuit #23 @ TS6 (new TV receptacle; DPP / Blake Berreth) \u2014 Hinkson + Jason dupes = one outage",
-    "**Fri Sep 25** \u2014 N Bay: park/lockout 10-ton bridge crane CAT 701681 at NPX (start of ~4\u20136 wk outage; Madak + Tres Orr; T16)",
-    "**Fri Sep 25 1:30\u20132:15pm ET** \u2014 Outage PP-6A-5B (6A-5A-1) Haas DM2 install @ HBA/HCA (Hinkson; Jim Stanley) \u2014 overlaps Hydroflow start window",
-    "**Fri Sep 25 1:30pm \u2013 Mon Sep 28 6:00am ET** \u2014 Outage PP-7A-9 Circuit #5 / HAA\u2013HCA Basaran (Hydroflow piping + disconnect HAA\u2192HBA + Haas Mill; DPP / Jim Stanley; T17/T38) \u2014 Quincy confirmed; Jim Wed detail email",
+    "**OVERDUE since Thu Sep 24** \u2014 Guard rail AAA\u2013AUA deadline (all-day; T3) \u2014 no firm Bob Peterson yes/no; **work starts Sat Sep 26**",
+    "**Pending schedule** \u2014 Energize 4 Fanuc EDMs NFPS.03 via TP-11B-8.1 @ HDA (#2301383/#2301384/#2301385/#2301390; Jason ~3:02pm Thu; **MOC 23582** Shanna ~3:48pm; T47) \u2014 wait Hinkson formal window",
+    "**Fri Sep 25 TODAY 7:45\u20138:45am ET** \u2014 Outage SP6-1A Circuit #23 @ TS6 (new TV receptacle; DPP / Blake Berreth) \u2014 Hinkson + Jason dupes = one outage",
+    "**Fri Sep 25 TODAY** \u2014 N Bay: park/lockout 10-ton bridge crane CAT 701681 at NPX (start of ~4\u20136 wk outage; Madak + Tres Orr; T16)",
+    "**Fri Sep 25 TODAY 1:30\u20132:15pm ET** \u2014 Outage PP-6A-5B (6A-5A-1) Haas DM2 install @ HBA/HCA (Hinkson; Jim Stanley) \u2014 overlaps Hydroflow start window",
+    "**Fri Sep 25 1:30pm \u2013 Mon Sep 28 6:00am ET** \u2014 Outage PP-7A-9 Circuit #5 / HAA\u2013HCA Basaran (Hydroflow piping + disconnect HAA\u2192HBA + Haas Mill; DPP / Jim Stanley; T17/T38) \u2014 Quincy confirmed; Jason Fri one-line **PMX606793**; Evan Basaran piping estimate (T49)",
     "**Sat Sep 26 \u2013 Tue Sep 29** \u2014 N Bay overhead hanging scaffold erection / crane lockouts (T16)",
     "**Sat Sep 26 10:00\u201310:30am ET** \u2014 Outage RP-6B-2.6 @ DWA (2 duplex receptacles computer stand; was 8:30\u20139:00 \u2014 use 10:00)",
     "**Mon Sep 28 6:00am ET** \u2014 PP-7A-9 Circuit #5 re-energize (Quincy/Hinkson confirmed; T17/T38)",
@@ -381,70 +398,15 @@
   ],
   "events": [
     {
-      "id": "e15",
-      "summary": "Work: AOA overhead bridge crane tie-in (ESI)",
-      "location": "AOA",
-      "description": "Mon Sep 21 Indcom scaffold support for ESI crane tie-in then bus-bar energize. (T12)",
-      "start": "2026-09-21",
-      "end": "2026-09-22",
-      "allDay": true,
-      "type": "work",
-      "todoId": "T12"
-    },
-    {
-      "id": "e10",
-      "summary": "Deadline: Layher end caps (deferred \u2014 Jeff waiting)",
-      "location": "17 International Court, Greenville, SC 29607",
-      "description": "Jeff Thu Sep 24: can wait on caps. New rental quote/truck request open as T4. Quote S-000175 was FedEx ~Tue Sep 22.",
-      "start": "2026-09-22",
-      "end": "2026-09-23",
-      "allDay": true,
-      "type": "deadline",
-      "todoId": "T4"
-    },
-    {
-      "id": "e9",
-      "summary": "Work: LCU-11N \u2192 LCU-11S breaker swap",
-      "location": "K-Bay / LCU-11",
-      "description": "Hinkson formal SWAP BREAKER Sun Sep 20: Tue Sep 22 9:00am (was Jason 7:45am). DPP / Jim Stanley. (T25)",
-      "start": "2026-09-22T09:00:00-04:00",
-      "end": "2026-09-22T09:30:00-04:00",
-      "allDay": false,
-      "type": "work",
-      "todoId": "T25"
-    },
-    {
-      "id": "e12",
-      "summary": "Meeting: BCL7 AMK Overhead Lift Plan Review",
-      "location": "Microsoft Teams",
-      "description": "Matt Fitts: review 9/26 lift plan (AMK / Paul Madak approved). JCI Lift Plan Rev.1.pdf. (T36)",
-      "start": "2026-09-23T13:00:00-04:00",
-      "end": "2026-09-23T13:30:00-04:00",
-      "allDay": false,
-      "type": "meeting",
-      "todoId": "T36"
-    },
-    {
       "id": "e4",
-      "summary": "Deadline: Guard rail AAA\u2013AUA (Bob Peterson)",
+      "summary": "OVERDUE Deadline: Guard rail AAA\u2013AUA (Bob Peterson)",
       "location": "",
-      "description": "Leading-edge guard rail due; roof work starts Sep 26. (T3)",
+      "description": "Deadline was Thu Sep 24 \u2014 OVERDUE; no firm Bob Peterson yes/no. Roof leading-edge work starts Sat Sep 26. (T3)",
       "start": "2026-09-24",
       "end": "2026-09-25",
       "allDay": true,
       "type": "deadline",
       "todoId": "T3"
-    },
-    {
-      "id": "e17",
-      "summary": "Work: ENERGIZATION PP-11B-8-1 / TP-11B-8.1",
-      "location": "HFA / HDA",
-      "description": "Energize TP-11B-8.1 for 12 new 3ph 208V EDM loads NFPS.03 H-Bay. Primary PP-11B-8 @ HFA. DPP / Jim Stanley. (Hinkson Wed)",
-      "start": "2026-09-24T09:15:00-04:00",
-      "end": "2026-09-24T09:45:00-04:00",
-      "allDay": false,
-      "type": "work",
-      "todoId": null
     },
     {
       "id": "e5",
@@ -472,7 +434,7 @@
       "id": "e13",
       "summary": "Outage/Shutdown/LOTO: PP-7A-9 Circuit #5 (Hydroflow)",
       "location": "HHA / HAA\u2192HBA",
-      "description": "Quincy Hill confirmed Facilities HV window: Fri Sep 25 1:30pm \u2192 Mon Sep 28 6:00am ET (H-bay Basarans). Jim Stanley Wed: extend Hydroflow piping to new Basarans, move disconnect to wall, tie in new Haas Mill; NFPS.03 only (Scott Barnes clarify). DPP work Sat\u2013Sun; re-energize Mon 6am. (T17/T38)",
+      "description": "Quincy Hill confirmed Facilities HV window: Fri Sep 25 1:30pm \u2192 Mon Sep 28 6:00am ET (H-bay Basarans). Jim Stanley Wed: extend Hydroflow piping to new Basarans, move disconnect to wall, tie in new Haas Mill; NFPS.03 only. Jason Fri ~7:28am ET: one-line Hydroflow HAA PMX606793.pdf for disconnect relocation. Evan Groce Thu ~10:28pm: Basaran piping estimate (T49). DPP work Sat\u2013Sun; re-energize Mon 6am. (T17/T38)",
       "start": "2026-09-25T13:30:00-04:00",
       "end": "2026-09-28T06:00:00-04:00",
       "allDay": false,
