@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T14:18:49-04:00",
+  "updated": "2026-09-28T15:10:21-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -28,7 +28,7 @@
       "due": "2026-09-24 OVERDUE",
       "item": "Firm Bob Peterson guard rail AAA\u2013AUA",
       "source": "Email / Bob Peterson 2026-09-17",
-      "notes": "Roof leading-edge west wall; **work was to start Sat Sep 26**. Soft reply sent; still need firm yes/no + AAA/VPS overhead-door scaffold timing / traffic reroute via VPO\u2013AAA. **Deadline was Thu Sep 24 \u2014 OVERDUE; no Bob Peterson reply in Fri\u2013Mon ~2:16pm mail.**"
+      "notes": "Roof leading-edge west wall; **work was to start Sat Sep 26**. Soft reply sent; still need firm yes/no + AAA/VPS overhead-door scaffold timing / traffic reroute via VPO\u2013AAA. **Deadline was Thu Sep 24 \u2014 OVERDUE; no Bob Peterson reply in Fri\u2013Mon ~3:07pm mail.**"
     },
     {
       "id": "T4",
@@ -367,10 +367,10 @@
       "id": "T50",
       "status": "open",
       "priority": "high",
-      "due": "Mon Sep 28 8:00am\u20133:00pm ET TODAY",
+      "due": "Mon Sep 28 8:00am\u20133:00pm ET PAST WINDOW",
       "item": "Track BSA fire-suppression outage (drain/valve for office demo)",
       "source": "Email / Hinkson 2026-09-25 ~9:12am + ~11:53am ET",
-      "notes": "**TODAY in window** Mon 8:00am\u20133:00pm ET (still open as of ~2:16pm). Expanded blast: **A/B/C bays columns S\u2013Z**; **no alarms**; FM+ERT. Alex Leppard / Impact Fire. No complete/cancel mail through ~2:16pm (window ends 3:00pm). Ties T42/T48. **CSWP filed ~8:50am**; Est 2015 to Shanna ~12:00pm (T42)."
+      "notes": "**Window ended ~3:00pm ET** Mon Sep 28. Expanded blast: **A/B/C bays columns S\u2013Z**; **no alarms**; FM+ERT. Alex Leppard / Impact Fire. **No complete/cancel mail through ~3:07pm** \u2014 keep open pending confirmation (do not assume complete). Ties T42/T48. **CSWP filed ~8:50am**; Est 2015 to Shanna ~12:00pm (T42)."
     },
     {
       "id": "T51",
@@ -406,7 +406,7 @@
       "due": "Oct 1 / Oct 6\u20137 ship; ~Nov 1 install",
       "item": "Track ENSER 7HA1 Build Platform shipping \u2192 Advanced Rigging / GE install",
       "source": "Email / Steven Twigg (ENSER) 2026-09-25 ~4:53pm ET",
-      "notes": "**Twigg Fri ~4:53pm ET** (Jeff+Buellesbach cc): Packing list + tentative truck schedule \u2014 **Thu Oct 1** flatbed items 13\u201317; **Tue Oct 6** 4 trucks; **Wed Oct 7** 2 lowboy. All \u2192 **Advanced Rigging** until Production clears; GE install **~Nov 1**; ENSER tech assist **Sun Nov 1\u2013Tue Nov 3**. **Mon ~9:09am ET Harvey (GE CAPEX Logistics):** if additional transport needed, complete attached **TRF** and they will schedule (FYI; no Indcom action). Awareness / possible Indcom scaffold support around install."
+      "notes": "**Twigg Fri ~4:53pm ET** (Jeff+Buellesbach cc): Packing list + tentative truck schedule \u2014 **Thu Oct 1** flatbed items 13\u201317; **Tue Oct 6** 4 trucks; **Wed Oct 7** 2 lowboy. All \u2192 **Advanced Rigging** until Production clears; GE install **~Nov 1**; ENSER tech assist **Sun Nov 1\u2013Tue Nov 3**. **Mon ~9:09am ET Harvey (GE CAPEX Logistics):** TRF offer if extra transport (FYI). **Mon ~2:26pm ET Joe Buellesbach\u2192Twigg/Harvey (Jeff cc):** clarify ENSER tech assist vs crew on site for build stand \u2014 which of assembly/placement/anchoring/accessories/electrical/pneumatic/hydraulic is ENSER vs **3rd party** hire. Watch for Indcom scope ask."
     },
     {
       "id": "T57",
@@ -446,9 +446,9 @@
     }
   ],
   "calendar": [
-    "**OVERDUE since Thu Sep 24** \u2014 Guard rail AAA\u2013AUA deadline (all-day; T3) \u2014 no firm Bob Peterson yes/no; work was to start Sat Sep 26; **still no reply Fri\u2013Mon ~2:16pm**",
+    "**OVERDUE since Thu Sep 24** \u2014 Guard rail AAA\u2013AUA deadline (all-day; T3) \u2014 no firm Bob Peterson yes/no; work was to start Sat Sep 26; **still no reply Fri\u2013Mon ~3:07pm**",
     "**Pending schedule** \u2014 Energize 4 Fanuc EDMs NFPS.03 via TP-11B-8.1 @ HDA (#2301383/#2301384/#2301385/#2301390; **MOC 23582**; T47) \u2014 wait Hinkson formal window",
-    "**Mon Sep 28 TODAY 8:00am\u20133:00pm ET** \u2014 Outage fire-suppression BSA office drain/valve (Impact Fire; Alex Leppard; T50) \u2014 **A/B/C bays columns S\u2013Z**; no alarms; FM+ERT; dupes = one outage; **CSWP filed ~8:50am**; Est 2015 to Shanna ~12:00pm (T42) \u2014 still in window ~2:16pm (ends 3:00pm)",
+    "**Mon Sep 28 PAST WINDOW 8:00am\u20133:00pm ET** \u2014 Outage fire-suppression BSA office drain/valve (Impact Fire; Alex Leppard; T50) \u2014 **A/B/C bays columns S\u2013Z**; no alarms; FM+ERT; dupes = one outage; **CSWP filed ~8:50am**; Est 2015 to Shanna ~12:00pm (T42) \u2014 **window ended ~3:00pm; no complete/cancel mail ~3:07pm** (still open pending confirmation)",
     "**DONE Mon Sep 28 ~6:20am ET** \u2014 Outage PP-7A-9 Circuit #5 / HAA\u2013HCA Hydroflow re-energize complete (McCurry \u201cOutage complete\u201d; Jason Sat disconnect done PMX606793; Jim Stanley thanks) \u2014 closes T17/T38",
     "**DONE Fri Sep 25 ~before 2:00pm ET** \u2014 Outage PP-6A-5B Haas DM2 @ HCA completed early (T54 closed)",
     "**In progress / slipped** \u2014 N Bay overhead hanging scaffold: weekend incomplete; **~3\u00d78hr mid-week 3rd shift** preferred (Fitts/Orders/Jeff Sun; T16); 10-ton CAT 701681 lockout continues ~4\u20136 wks",
@@ -518,14 +518,17 @@
     },
     {
       "id": "e21",
-      "summary": "Outage/Shutdown/LOTO: Fire Suppression System - BSA Office",
+      "summary": "Outage/Shutdown/LOTO: Fire Suppression System - BSA Office (PAST WINDOW \u2014 awaiting confirmation)",
       "location": "BSA office",
-      "description": "TODAY Mon 8:00am\u20133:00pm ET (still open ~12:21pm). Drain/valve for office demo. A/B/C bays cols S\u2013Z; no alarms; FM+ERT. Alex Leppard / Impact Fire. CSWP ~8:50am Project 23204; Est 2015 to Shanna ~12:00pm (T42). Deduped Hinkson dupes. (T50)",
+      "description": "Window Mon Sep 28 8:00am\u20133:00pm ET ended; no Hinkson/Impact/Alex complete or cancel through ~3:07pm ET. Still open pending confirmation. A/B/C bays cols S\u2013Z; no alarms; FM+ERT. Alex Leppard / Impact Fire. CSWP ~8:50am; Est 2015 to Shanna (T42). Deduped. (T50)",
       "start": "2026-09-28T08:00:00-04:00",
       "end": "2026-09-28T15:00:00-04:00",
       "allDay": false,
       "type": "outage",
-      "todoId": "T50"
+      "todoId": "T50",
+      "title": "Outage/Shutdown/LOTO: Fire Suppression System - BSA Office (PAST WINDOW \u2014 awaiting confirmation)",
+      "notes": "Window Mon Sep 28 8:00am\u20133:00pm ET ended; no Hinkson/Impact/Alex complete or cancel through ~3:07pm ET. Still open pending confirmation. A/B/C bays cols S\u2013Z; no alarms; FM+ERT. Alex Leppard / Impact Fire. CSWP ~8:50am; Est 2015 to Shanna (T42). Deduped. (T50)",
+      "status": "past_window"
     },
     {
       "id": "e8",
@@ -575,7 +578,7 @@
       "id": "e25",
       "summary": "Work: ENSER 7HA1 platform trucks \u2192 Advanced Rigging",
       "location": "Advanced Rigging warehouse",
-      "description": "Tue Oct 6 (4 trucks) + Wed Oct 7 (2 lowboy). GE install ~Nov 1\u20133. (T56)",
+      "description": "Tue Oct 6 (4 trucks) + Wed Oct 7 (2 lowboy). GE install ~Nov 1\u20133. (T56) Joe Buellesbach Mon ~2:26pm ET asked ENSER vs 3rd-party scope for assembly/placement/anchoring/accessories/utilities (Jeff cc).",
       "start": "2026-10-06",
       "end": "2026-10-08",
       "allDay": true,
