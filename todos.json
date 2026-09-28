@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T12:24:24-04:00",
+  "updated": "2026-09-28T13:15:32-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -28,16 +28,16 @@
       "due": "2026-09-24 OVERDUE",
       "item": "Firm Bob Peterson guard rail AAA\u2013AUA",
       "source": "Email / Bob Peterson 2026-09-17",
-      "notes": "Roof leading-edge west wall; **work was to start Sat Sep 26**. Soft reply sent; still need firm yes/no + AAA/VPS overhead-door scaffold timing / traffic reroute via VPO\u2013AAA. **Deadline was Thu Sep 24 \u2014 OVERDUE; no Bob Peterson reply in Fri\u2013Mon ~12:21pm mail.**"
+      "notes": "Roof leading-edge west wall; **work was to start Sat Sep 26**. Soft reply sent; still need firm yes/no + AAA/VPS overhead-door scaffold timing / traffic reroute via VPO\u2013AAA. **Deadline was Thu Sep 24 \u2014 OVERDUE; no Bob Peterson reply in Fri\u2013Mon ~1:13pm mail.**"
     },
     {
       "id": "T4",
       "status": "open",
       "priority": "high",
       "due": "ASAP (truck timing)",
-      "item": "Layher rental R-000159 \u2014 confirm Mon partial + additional items",
+      "item": "Layher rental R-000159 \u2014 issue PO on revised quote",
       "source": "Email / Jeremy + Jeff 2026-09-25/28",
-      "notes": "**Fri ~1:40pm ET Jeremy:** 5'\u20138' only US stock; **updated Quote R-000159**; ~half order; offered **Mon partial ship**, rest mid next week. **Mon ~12:03pm ET Jeff\u2192Jeremy:** \u201cI will additionally need the following-\u201d (no list/attachment in body) \u2014 started reply but **did not clearly accept Mon partial**. Still need clear yes/no on partial ship + the additional items list."
+      "notes": "**Fri ~1:40pm ET Jeremy:** 5'\u20138' only US stock; Quote R-000159; ~half order; offered Mon partial. **Mon ~12:03pm ET Jeff\u2192Jeremy:** \u201cI will additionally need the following-\u201d (no list in body). **Mon ~12:26pm ET Jeremy:** revised quote \u2014 **8'5\" decks upped to 500** + **50\u00d7 28' lattice girders**; asks for **PO when ready**. Still need Jeff PO (Mon partial now superseded by revised qty). Related: Obed Catalog ~12:46pm + New Toy product quote S-000236 (T61)."
     },
     {
       "id": "T6",
@@ -370,7 +370,7 @@
       "due": "Mon Sep 28 8:00am\u20133:00pm ET TODAY",
       "item": "Track BSA fire-suppression outage (drain/valve for office demo)",
       "source": "Email / Hinkson 2026-09-25 ~9:12am + ~11:53am ET",
-      "notes": "**TODAY in window** Mon 8:00am\u20133:00pm ET (still open as of ~12:21pm). Expanded blast: **A/B/C bays columns S\u2013Z**; **no alarms**; FM+ERT. Alex Leppard / Impact Fire. No complete/cancel mail through ~12:21pm. Ties T42/T48. **CSWP filed ~8:50am**; Est 2015 to Shanna ~12:00pm (T42)."
+      "notes": "**TODAY in window** Mon 8:00am\u20133:00pm ET (still open as of ~12:21pm). Expanded blast: **A/B/C bays columns S\u2013Z**; **no alarms**; FM+ERT. Alex Leppard / Impact Fire. No complete/cancel mail through ~1:13pm (window ends 3:00pm). Ties T42/T48. **CSWP filed ~8:50am**; Est 2015 to Shanna ~12:00pm (T42)."
     },
     {
       "id": "T51",
@@ -434,12 +434,21 @@
       "item": "Process DPP BSA Office Demo Portion (Partial) Invoice 4702",
       "source": "Email / Jason Marchbanks 2026-09-27 ~7:58am ET",
       "notes": "Joist https://client.joistapp.com/invoices/9db8e8f27ad55629c3eae977 + PDF *Invoice_4702.pdf.pdf* (cc Bill, accounting, Katheryn, Amie). Route/confirm payment. Ties T42 BSA demo."
+    },
+    {
+      "id": "T61",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP",
+      "item": "Review/approve Layher product Sales Quote S-000236 (New Toy)",
+      "source": "Email / Obed Bosch 2026-09-28 ~1:01pm ET",
+      "notes": "**Obed ~12:46pm ET:** Catalog *EN_Allround 2025* \u2014 see pages 46\u201348. **Obed ~1:01pm ET:** subject \u201cNew Toy\u201d + attachment *Sales Quote - S-000236 \u2219 INDCOM CORP (PROD).pdf* (purchase, distinct from rental R-000159 / T4). **Obed ~1:05pm ET:** \u201cThanks!\u201d (likely ack of Jeff reply off-thread/phone). Jeff needs review/approve + PO path."
     }
   ],
   "calendar": [
-    "**OVERDUE since Thu Sep 24** \u2014 Guard rail AAA\u2013AUA deadline (all-day; T3) \u2014 no firm Bob Peterson yes/no; work was to start Sat Sep 26; **still no reply Fri\u2013Mon ~12:21pm**",
+    "**OVERDUE since Thu Sep 24** \u2014 Guard rail AAA\u2013AUA deadline (all-day; T3) \u2014 no firm Bob Peterson yes/no; work was to start Sat Sep 26; **still no reply Fri\u2013Mon ~1:13pm**",
     "**Pending schedule** \u2014 Energize 4 Fanuc EDMs NFPS.03 via TP-11B-8.1 @ HDA (#2301383/#2301384/#2301385/#2301390; **MOC 23582**; T47) \u2014 wait Hinkson formal window",
-    "**Mon Sep 28 TODAY 8:00am\u20133:00pm ET** \u2014 Outage fire-suppression BSA office drain/valve (Impact Fire; Alex Leppard; T50) \u2014 **A/B/C bays columns S\u2013Z**; no alarms; FM+ERT; dupes = one outage; **CSWP filed ~8:50am**; Est 2015 to Shanna ~12:00pm (T42) \u2014 still in window ~12:21pm",
+    "**Mon Sep 28 TODAY 8:00am\u20133:00pm ET** \u2014 Outage fire-suppression BSA office drain/valve (Impact Fire; Alex Leppard; T50) \u2014 **A/B/C bays columns S\u2013Z**; no alarms; FM+ERT; dupes = one outage; **CSWP filed ~8:50am**; Est 2015 to Shanna ~12:00pm (T42) \u2014 still in window ~1:13pm (ends 3:00pm)",
     "**DONE Mon Sep 28 ~6:20am ET** \u2014 Outage PP-7A-9 Circuit #5 / HAA\u2013HCA Hydroflow re-energize complete (McCurry \u201cOutage complete\u201d; Jason Sat disconnect done PMX606793; Jim Stanley thanks) \u2014 closes T17/T38",
     "**DONE Fri Sep 25 ~before 2:00pm ET** \u2014 Outage PP-6A-5B Haas DM2 @ HCA completed early (T54 closed)",
     "**In progress / slipped** \u2014 N Bay overhead hanging scaffold: weekend incomplete; **~3\u00d78hr mid-week 3rd shift** preferred (Fitts/Orders/Jeff Sun; T16); 10-ton CAT 701681 lockout continues ~4\u20136 wks",
