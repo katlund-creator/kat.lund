@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T08:19:35-04:00",
+  "updated": "2026-09-28T09:20:06-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -295,10 +295,10 @@
       "id": "T42",
       "status": "open",
       "priority": "med",
-      "due": "Mon Sep 28 (tied to fire-suppression)",
+      "due": "Mon Sep 28\u2013Oct 5 (CSWP filed)",
       "item": "Schedule BSA single-story drywall office demo (Dacusville)",
-      "source": "Email / Jeff\u2192Jack 2026-09-21 + QB Est 2015 2026-09-28",
-      "notes": "Jeff: BSA single story demo approved; Jack can start Mon; Seth badge/safety TBD. **Evan bump-out+bollard quote (T48).** **Hinkson fire-suppression TODAY 8am\u20133pm (T50).** **Mon ~2:09am ET QuickBooks:** Estimate **2015 BSA Office Demo $97,759.38** sent to Alex Leppard (hewett.leppard) \u2014 customer quote path."
+      "source": "Email / Jeff\u2192Jack 2026-09-21 + CSWP 2026-09-28",
+      "notes": "Jeff: BSA single story demo approved; Jack can start Mon; Seth badge/safety TBD. **Evan bump-out+bollard quote (T48).** **Hinkson fire-suppression TODAY 8am\u20133pm (T50).** **Mon ~2:09am ET QB Est 2015 $97,759.38** to Alex Leppard. **Mon ~8:50am ET:** Jeff submitted **CSWP** (Smartsheet) \u2014 Project **23204** BSA office demo Sep 28\u2013Oct 5; Alex Leppard / Chuck Kirkley EHS / Jon Roper Facilities; subs **DPP + Dacusville**; SI1 powered mobile equip; GE LOTO group. **Chuck ~8:55am:** JHA cover PDF to Alex (cc Jeff)."
     },
     {
       "id": "T43",
@@ -370,7 +370,7 @@
       "due": "Mon Sep 28 8:00am\u20133:00pm ET TODAY",
       "item": "Track BSA fire-suppression outage (drain/valve for office demo)",
       "source": "Email / Hinkson 2026-09-25 ~9:12am + ~11:53am ET",
-      "notes": "**TODAY in window** Mon 8:00am\u20133:00pm ET. Expanded blast: **A/B/C bays columns S\u2013Z**; **no alarms**; FM+ERT notified. Alex Leppard lead, Impact Fire. No cancel/expand mail over weekend. Ties T42/T48. Est 2015 BSA demo quote sent to Alex (see T42)."
+      "notes": "**TODAY in window** Mon 8:00am\u20133:00pm ET. Expanded blast: **A/B/C bays columns S\u2013Z**; **no alarms**; FM+ERT notified. Alex Leppard lead, Impact Fire. No cancel/expand mail since 8:19am. Ties T42/T48. **CSWP filed ~8:50am** for BSA demo (see T42)."
     },
     {
       "id": "T51",
@@ -380,15 +380,6 @@
       "item": "Send Carl Watson program-phase quote + confirm next invoice/PO path",
       "source": "Email / Carl + Rusty + Jeff 2026-09-25 ~8:13\u20139:41am ET",
       "notes": "**Rusty** asked for another invoice on PO **4900628141** (pre quarter close). **Carl** approved invoice **3877** (~$134,710.90); asked Jeff for **program-phase quote** to submit new PO (hasn\u2019t seen one); notes PO still has **~$152,461** remaining after last invoice \u2014 wants confirm; checking Brian/Cody on schedule. Jeff asked for new schedule/scope (original quotes only first phase funded). **Fri ~9:41am ET:** Carl acknowledged Rusty\u2019s PO-status reply (\u201cOK thanks\u201d). Still need program-phase quote + schedule from Carl/Brian/Cody. Distinct from T46 3878/3879/3845."
-    },
-    {
-      "id": "T52",
-      "status": "waiting",
-      "priority": "med",
-      "due": "ASAP",
-      "item": "OpSource as-needed hire \u2014 Tavan Hughes onboarding link",
-      "source": "Email / Jeff\u2192Lisa 2026-09-25 ~8:23am ET",
-      "notes": "Jeff asked Lisa Stafford for hire-in link; as-needed (not consistent payroll). Contact: Hughestavan@gmail.com / 360-333-5560 / Tavan Hughes. Cc Julie, Katheryn, Bill. **Julie ~9:06am ET:** forwarded to Jose/Yesenia/Allison/Lisa. **Jose Cruz ~9:15am ET:** \u201cWill do.\u201d Still waiting actual onboarding link to Tavan."
     },
     {
       "id": "T53",
@@ -415,7 +406,7 @@
       "due": "Oct 1 / Oct 6\u20137 ship; ~Nov 1 install",
       "item": "Track ENSER 7HA1 Build Platform shipping \u2192 Advanced Rigging / GE install",
       "source": "Email / Steven Twigg (ENSER) 2026-09-25 ~4:53pm ET",
-      "notes": "**Twigg Fri ~4:53pm ET** (Jeff+Buellesbach cc): Packing list + tentative truck schedule \u2014 **Thu Oct 1** flatbed items 13\u201317 (lifts/HPUs/stairs/handrails/fans/shields); **Tue Oct 6** 4 trucks (scissor platforms + lowboy stair/corner; permits); **Wed Oct 7** 2 lowboy trucks (side/end platforms). All \u2192 **Advanced Rigging warehouse** until Production clears; GE relocates into main facility **~Nov 1**; ENSER tech assist **Sun Nov 1\u2013Tue Nov 3**. PDF *PACKING LIST FOR 7HA1 GREENVILLE.pdf*. Awareness / possible Indcom scaffold support around install."
+      "notes": "**Twigg Fri ~4:53pm ET** (Jeff+Buellesbach cc): Packing list + tentative truck schedule \u2014 **Thu Oct 1** flatbed items 13\u201317; **Tue Oct 6** 4 trucks; **Wed Oct 7** 2 lowboy. All \u2192 **Advanced Rigging** until Production clears; GE install **~Nov 1**; ENSER tech assist **Sun Nov 1\u2013Tue Nov 3**. **Mon ~9:09am ET Harvey (GE CAPEX Logistics):** if additional transport needed, complete attached **TRF** and they will schedule (FYI; no Indcom action). Awareness / possible Indcom scaffold support around install."
     },
     {
       "id": "T57",
@@ -448,7 +439,7 @@
   "calendar": [
     "**OVERDUE since Thu Sep 24** \u2014 Guard rail AAA\u2013AUA deadline (all-day; T3) \u2014 no firm Bob Peterson yes/no; work was to start Sat Sep 26; **still no reply Fri\u2013Mon morning**",
     "**Pending schedule** \u2014 Energize 4 Fanuc EDMs NFPS.03 via TP-11B-8.1 @ HDA (#2301383/#2301384/#2301385/#2301390; **MOC 23582**; T47) \u2014 wait Hinkson formal window",
-    "**Mon Sep 28 TODAY 8:00am\u20133:00pm ET** \u2014 Outage fire-suppression BSA office drain/valve (Impact Fire; Alex Leppard; T50) \u2014 **A/B/C bays columns S\u2013Z**; no alarms; FM+ERT; dupes = one outage",
+    "**Mon Sep 28 TODAY 8:00am\u20133:00pm ET** \u2014 Outage fire-suppression BSA office drain/valve (Impact Fire; Alex Leppard; T50) \u2014 **A/B/C bays columns S\u2013Z**; no alarms; FM+ERT; dupes = one outage; **CSWP filed ~8:50am** (Project 23204; T42)",
     "**DONE Mon Sep 28 ~6:20am ET** \u2014 Outage PP-7A-9 Circuit #5 / HAA\u2013HCA Hydroflow re-energize complete (McCurry \u201cOutage complete\u201d; Jason Sat disconnect done PMX606793; Jim Stanley thanks) \u2014 closes T17/T38",
     "**DONE Fri Sep 25 ~before 2:00pm ET** \u2014 Outage PP-6A-5B Haas DM2 @ HCA completed early (T54 closed)",
     "**In progress / slipped** \u2014 N Bay overhead hanging scaffold: weekend incomplete; **~3\u00d78hr mid-week 3rd shift** preferred (Fitts/Orders/Jeff Sun; T16); 10-ton CAT 701681 lockout continues ~4\u20136 wks",
@@ -520,7 +511,7 @@
       "id": "e21",
       "summary": "Outage/Shutdown/LOTO: Fire Suppression System - BSA Office",
       "location": "BSA office",
-      "description": "TODAY Mon 8:00am\u20133:00pm ET. Drain/valve for office demo. A/B/C bays cols S\u2013Z; no alarms; FM+ERT. Alex Leppard / Impact Fire. Deduped Hinkson dupes. (T50)",
+      "description": "TODAY Mon 8:00am\u20133:00pm ET. Drain/valve for office demo. A/B/C bays cols S\u2013Z; no alarms; FM+ERT. Alex Leppard / Impact Fire. CSWP filed ~8:50am Project 23204 (T42). Deduped Hinkson dupes. (T50)",
       "start": "2026-09-28T08:00:00-04:00",
       "end": "2026-09-28T15:00:00-04:00",
       "allDay": false,
