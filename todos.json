@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T11:20:15-04:00",
+  "updated": "2026-09-28T12:24:24-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -28,16 +28,16 @@
       "due": "2026-09-24 OVERDUE",
       "item": "Firm Bob Peterson guard rail AAA\u2013AUA",
       "source": "Email / Bob Peterson 2026-09-17",
-      "notes": "Roof leading-edge west wall; **work was to start Sat Sep 26**. Soft reply sent; still need firm yes/no + AAA/VPS overhead-door scaffold timing / traffic reroute via VPO\u2013AAA. **Deadline was Thu Sep 24 \u2014 OVERDUE; no Bob Peterson reply in Fri\u2013Mon ~11:19am mail.**"
+      "notes": "Roof leading-edge west wall; **work was to start Sat Sep 26**. Soft reply sent; still need firm yes/no + AAA/VPS overhead-door scaffold timing / traffic reroute via VPO\u2013AAA. **Deadline was Thu Sep 24 \u2014 OVERDUE; no Bob Peterson reply in Fri\u2013Mon ~12:21pm mail.**"
     },
     {
       "id": "T4",
       "status": "open",
       "priority": "high",
       "due": "ASAP (truck timing)",
-      "item": "Layher rental R-000159 \u2014 reply on Mon partial ship",
-      "source": "Email / Jeremy + Jeff 2026-09-25 ~1:40pm ET",
-      "notes": "**Fri ~1:40pm ET Jeremy:** 5'\u20138' only US stock; **updated Quote R-000159**; ~half order in stock; offers **Mon partial ship**, rest mid next week. **No Jeremy/Jeff reply over weekend** after Fri offer. **Jeff must reply** yes/no Mon partial + confirm 5'\u20138' OK \u2014 decision due today Mon Sep 28; **no Jeremy/Jeff reply through ~11:19am ET.**"
+      "item": "Layher rental R-000159 \u2014 confirm Mon partial + additional items",
+      "source": "Email / Jeremy + Jeff 2026-09-25/28",
+      "notes": "**Fri ~1:40pm ET Jeremy:** 5'\u20138' only US stock; **updated Quote R-000159**; ~half order; offered **Mon partial ship**, rest mid next week. **Mon ~12:03pm ET Jeff\u2192Jeremy:** \u201cI will additionally need the following-\u201d (no list/attachment in body) \u2014 started reply but **did not clearly accept Mon partial**. Still need clear yes/no on partial ship + the additional items list."
     },
     {
       "id": "T6",
@@ -127,7 +127,7 @@
       "due": "mid-week 3rd shift (~3\u00d78hr)",
       "item": "Finish N Bay overhead hanging scaffold (crane lockouts)",
       "source": "Email / Matt Fitts + Orders + Jeff 2026-09-15/27",
-      "notes": "**Sun ~6:59pm ET Fitts:** weekend South\u2192North overhead **not completed** (crew worn); need **~3 more 8-hr shifts** before NW corner scaffold over crane bus bar into M Bay; asked 2nd/3rd shift mid-week; red-tape 30'\u00d730' sections. **Orders ~7:28pm:** **3rd shift preferred** (no 3rd shift in N bay now). **Jeff ~7:44pm:** will adjust schedule and proceed. Fitts off-site Mon \u2014 questions to Jeff. 10-ton CAT 701681 still locked ~4\u20136 wks. Floor crane CAT 701734 LOTO was Mon 3pm/re-energize Tue AM \u2014 schedule may slip with incomplete overhead."
+      "notes": "**Sun ~6:59pm ET Fitts:** weekend South\u2192North overhead **not completed** (crew worn); need **~3 more 8-hr shifts** before NW corner scaffold over crane bus bar into M Bay; asked 2nd/3rd shift mid-week; red-tape 30'\u00d730' sections. **Orders ~7:28pm:** **3rd shift preferred** (no 3rd shift in N bay now). **Jeff ~7:44pm:** will adjust schedule and proceed. Fitts off-site Mon \u2014 questions to Jeff. 10-ton CAT 701681 still locked ~4\u20136 wks. **Mon ~11:35am ET Madak:** **Canceled** N-bay floor mounted bridge crane **CAT 701734** outage (was Mon 3pm\u2013Tue AM). Overhead scaffold still needs ~3\u00d78hr mid-week 3rd shift."
     },
     {
       "id": "T18",
@@ -298,7 +298,7 @@
       "due": "Mon Sep 28\u2013Oct 5 (CSWP filed)",
       "item": "Schedule BSA single-story drywall office demo (Dacusville)",
       "source": "Email / Jeff\u2192Jack 2026-09-21 + CSWP 2026-09-28",
-      "notes": "Jeff: BSA single story demo approved; Jack can start Mon; Seth badge/safety TBD. **Evan bump-out+bollard quote (T48).** **Hinkson fire-suppression TODAY 8am\u20133pm (T50).** **Mon ~2:09am ET QB Est 2015 $97,759.38** to Alex Leppard. **Mon ~8:50am ET:** Jeff submitted **CSWP** (Smartsheet) \u2014 Project **23204** BSA office demo Sep 28\u2013Oct 5; Alex Leppard / Chuck Kirkley EHS / Jon Roper Facilities; subs **DPP + Dacusville**; SI1 powered mobile equip; GE LOTO group. **Chuck ~8:55am:** JHA cover PDF to Alex (cc Jeff)."
+      "notes": "Jeff: BSA single story demo approved; Jack can start Mon; Seth badge/safety TBD. **Evan bump-out+bollard quote (T48).** **Hinkson fire-suppression TODAY 8am\u20133pm (T50).** **Mon ~2:09am ET QB Est 2015 $97,759.38** to Alex Leppard. **Mon ~8:50am ET:** Jeff submitted **CSWP** (Smartsheet) \u2014 Project **23204** BSA office demo Sep 28\u2013Oct 5; Alex Leppard / Chuck Kirkley EHS / Jon Roper Facilities; subs **DPP + Dacusville**; SI1 powered mobile equip; GE LOTO group. **Chuck ~8:55am:** JHA cover PDF to Alex (cc Jeff). **Mon ~12:00pm ET:** Jeff sent **Estimate 2015** PDF to **Shanna Henson** (quote already to Alex; complete by **mid next week**); Shanna ~12:03pm \u201cThank you!\u201d."
     },
     {
       "id": "T43",
@@ -332,9 +332,9 @@
       "status": "open",
       "priority": "high",
       "due": "ASAP",
-      "item": "Reply Joe on past-due invoices 3878/3879/3845",
-      "source": "Email / Joseph Buellesbach 2026-09-24 ~2:21pm ET",
-      "notes": "Jeff chased midnight; Joe: 3878 approved $50k but AR overrun (ticket open); 3879 + 3845 in approvals; will receive all 3 when clear. **Asks Jeff:** difference between 3878 $50k (last week) vs new 3878 $65k from last night? Need Jeff reply."
+      "item": "Reply Joe on 3878 $50k vs $65k (3879/3845 received)",
+      "source": "Email / Joseph Buellesbach 2026-09-24/28",
+      "notes": "**Mon ~11:52am ET Joe:** **3879 and 3845 approved and received.** Still working through **3878** issues. Prior: 3878 approved $50k but AR overrun (ticket open); asked difference vs new 3878 **$65k**. **Jeff still owes** answer on 3878 $50k vs $65k."
     },
     {
       "id": "T47",
@@ -360,8 +360,8 @@
       "priority": "high",
       "due": "ASAP (post-weekend)",
       "item": "Review/route SPC Basaran piping estimate",
-      "source": "Email / Evan Groce 2026-09-24 ~10:28pm ET",
-      "notes": "PDF *Basaran piping estimate.pdf* to Jeff + steveo@pipeandpower.com. Supported HAA\u2013HCA Hydroflow/Basaran weekend work (T17/T38 **DONE** Mon ~6:20am). Still need review/approve/route for AP/PO."
+      "source": "Email / Evan Groce 2026-09-24/28",
+      "notes": "PDF *Basaran piping estimate.pdf* (Sep 24) to Jeff + steveo@pipeandpower.com. Supported HAA\u2013HCA Hydroflow/Basaran weekend (T17/T38 **DONE**). **Mon ~12:11pm ET Evan:** attached *Estimate_416_2026-09-24.pdf* (\u201cBasaran estimate\u201d) \u2014 review/approve/route for AP/PO."
     },
     {
       "id": "T50",
@@ -370,7 +370,7 @@
       "due": "Mon Sep 28 8:00am\u20133:00pm ET TODAY",
       "item": "Track BSA fire-suppression outage (drain/valve for office demo)",
       "source": "Email / Hinkson 2026-09-25 ~9:12am + ~11:53am ET",
-      "notes": "**TODAY in window** Mon 8:00am\u20133:00pm ET. Expanded blast: **A/B/C bays columns S\u2013Z**; **no alarms**; FM+ERT notified. Alex Leppard lead, Impact Fire. No cancel/expand mail since 8:19am. Ties T42/T48. **CSWP filed ~8:50am** for BSA demo (see T42)."
+      "notes": "**TODAY in window** Mon 8:00am\u20133:00pm ET (still open as of ~12:21pm). Expanded blast: **A/B/C bays columns S\u2013Z**; **no alarms**; FM+ERT. Alex Leppard / Impact Fire. No complete/cancel mail through ~12:21pm. Ties T42/T48. **CSWP filed ~8:50am**; Est 2015 to Shanna ~12:00pm (T42)."
     },
     {
       "id": "T51",
@@ -434,25 +434,16 @@
       "item": "Process DPP BSA Office Demo Portion (Partial) Invoice 4702",
       "source": "Email / Jason Marchbanks 2026-09-27 ~7:58am ET",
       "notes": "Joist https://client.joistapp.com/invoices/9db8e8f27ad55629c3eae977 + PDF *Invoice_4702.pdf.pdf* (cc Bill, accounting, Katheryn, Amie). Route/confirm payment. Ties T42 BSA demo."
-    },
-    {
-      "id": "T60",
-      "status": "open",
-      "priority": "high",
-      "due": "ASAP",
-      "item": "Reply Ray Flowers \u2014 Okuma @ GE Vernova removal status",
-      "source": "Email / Ray Flowers (AME) 2026-09-28 ~11:19am ET",
-      "notes": "**Mon ~11:19am ET Ray:** asking for any change/updates on OKUMA machine removal. Thread: Jul 17 AME proposal *21231 INDCOM - Remove OKUMA @ GE Vernova*; **Jeff Jul 20:** waiting on GE planned work schedule. **Jeff needs to reply** with current status / still waiting. Cc businessdevelopment@ameonline.com."
     }
   ],
   "calendar": [
-    "**OVERDUE since Thu Sep 24** \u2014 Guard rail AAA\u2013AUA deadline (all-day; T3) \u2014 no firm Bob Peterson yes/no; work was to start Sat Sep 26; **still no reply Fri\u2013Mon ~11:19am**",
+    "**OVERDUE since Thu Sep 24** \u2014 Guard rail AAA\u2013AUA deadline (all-day; T3) \u2014 no firm Bob Peterson yes/no; work was to start Sat Sep 26; **still no reply Fri\u2013Mon ~12:21pm**",
     "**Pending schedule** \u2014 Energize 4 Fanuc EDMs NFPS.03 via TP-11B-8.1 @ HDA (#2301383/#2301384/#2301385/#2301390; **MOC 23582**; T47) \u2014 wait Hinkson formal window",
-    "**Mon Sep 28 TODAY 8:00am\u20133:00pm ET** \u2014 Outage fire-suppression BSA office drain/valve (Impact Fire; Alex Leppard; T50) \u2014 **A/B/C bays columns S\u2013Z**; no alarms; FM+ERT; dupes = one outage; **CSWP filed ~8:50am** (Project 23204; T42)",
+    "**Mon Sep 28 TODAY 8:00am\u20133:00pm ET** \u2014 Outage fire-suppression BSA office drain/valve (Impact Fire; Alex Leppard; T50) \u2014 **A/B/C bays columns S\u2013Z**; no alarms; FM+ERT; dupes = one outage; **CSWP filed ~8:50am**; Est 2015 to Shanna ~12:00pm (T42) \u2014 still in window ~12:21pm",
     "**DONE Mon Sep 28 ~6:20am ET** \u2014 Outage PP-7A-9 Circuit #5 / HAA\u2013HCA Hydroflow re-energize complete (McCurry \u201cOutage complete\u201d; Jason Sat disconnect done PMX606793; Jim Stanley thanks) \u2014 closes T17/T38",
     "**DONE Fri Sep 25 ~before 2:00pm ET** \u2014 Outage PP-6A-5B Haas DM2 @ HCA completed early (T54 closed)",
     "**In progress / slipped** \u2014 N Bay overhead hanging scaffold: weekend incomplete; **~3\u00d78hr mid-week 3rd shift** preferred (Fitts/Orders/Jeff Sun; T16); 10-ton CAT 701681 lockout continues ~4\u20136 wks",
-    "**Mon Sep 28 3:00pm \u2013 Tue Sep 29 AM ET** \u2014 Outage/LOTO floor crane CAT 701734 (may slip with incomplete overhead; T16) \u2014 dedupe Fitts dupes = one",
+    "**CANCELED Mon Sep 28 ~11:35am ET** \u2014 Outage/LOTO floor crane CAT 701734 (Madak cancel; was Mon 3pm\u2013Tue AM; T16) \u2014 dedupe Fitts dupes = one canceled",
     "**Weekend TBD** \u2014 LPA Power scaffold @ north-end K-bay (Buellesbach; T39)",
     "**Wed Sep 30 1:30pm ET** \u2014 Meeting GE Combustion AIR Purification (Jeff Rawls / ACT / Ductwerks / Indcom Jeff; Peter Hahn; T53)",
     "**Sun Oct 5** \u2014 M-Bay stormwater drains phase-1 scaffold due (T22)",
@@ -509,7 +500,7 @@
       "id": "e6",
       "summary": "Work: N Bay overhead hanging scaffold (slipped \u2014 mid-week 3rd shift)",
       "location": "N Bay",
-      "description": "Weekend South\u2192North incomplete; need ~3\u00d78hr mid-week 3rd shift before NW corner into M Bay. Fitts/Orders/Jeff Sun. (T16)",
+      "description": "Weekend South\u2192North incomplete; need ~3\u00d78hr mid-week 3rd shift before NW corner into M Bay. Fitts/Orders/Jeff Sun. CAT 701734 Mon 3pm LOTO CANCELED by Madak ~11:35am. (T16)",
       "start": "2026-09-26",
       "end": "2026-10-02",
       "allDay": true,
@@ -520,7 +511,7 @@
       "id": "e21",
       "summary": "Outage/Shutdown/LOTO: Fire Suppression System - BSA Office",
       "location": "BSA office",
-      "description": "TODAY Mon 8:00am\u20133:00pm ET. Drain/valve for office demo. A/B/C bays cols S\u2013Z; no alarms; FM+ERT. Alex Leppard / Impact Fire. CSWP filed ~8:50am Project 23204 (T42). Deduped Hinkson dupes. (T50)",
+      "description": "TODAY Mon 8:00am\u20133:00pm ET (still open ~12:21pm). Drain/valve for office demo. A/B/C bays cols S\u2013Z; no alarms; FM+ERT. Alex Leppard / Impact Fire. CSWP ~8:50am Project 23204; Est 2015 to Shanna ~12:00pm (T42). Deduped Hinkson dupes. (T50)",
       "start": "2026-09-28T08:00:00-04:00",
       "end": "2026-09-28T15:00:00-04:00",
       "allDay": false,
@@ -529,9 +520,9 @@
     },
     {
       "id": "e8",
-      "summary": "Outage/LOTO: N Bay Floor Mounted Bridge Crane 701734",
+      "summary": "CANCELED Outage/LOTO: N Bay Floor Mounted Bridge Crane 701734",
       "location": "N Bay",
-      "description": "Mon 3pm lockout; re-energize Tue AM after Indcom scaffold \u2014 may slip with incomplete overhead (T16). Deduped Fitts dupes.",
+      "description": "CANCELED Mon ~11:35am ET by Paul Madak (was Mon 3pm lockout / Tue AM re-energize). Ties T16 overhead scaffold slip. Deduped Fitts dupes.",
       "start": "2026-09-28T15:00:00-04:00",
       "end": "2026-09-29T09:00:00-04:00",
       "allDay": false,
