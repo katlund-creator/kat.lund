@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T09:20:06-04:00",
+  "updated": "2026-09-28T11:20:15-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -28,7 +28,7 @@
       "due": "2026-09-24 OVERDUE",
       "item": "Firm Bob Peterson guard rail AAA\u2013AUA",
       "source": "Email / Bob Peterson 2026-09-17",
-      "notes": "Roof leading-edge west wall; **work was to start Sat Sep 26**. Soft reply sent; still need firm yes/no + AAA/VPS overhead-door scaffold timing / traffic reroute via VPO\u2013AAA. **Deadline was Thu Sep 24 \u2014 OVERDUE; no Bob Peterson reply in Fri\u2013Mon morning mail.**"
+      "notes": "Roof leading-edge west wall; **work was to start Sat Sep 26**. Soft reply sent; still need firm yes/no + AAA/VPS overhead-door scaffold timing / traffic reroute via VPO\u2013AAA. **Deadline was Thu Sep 24 \u2014 OVERDUE; no Bob Peterson reply in Fri\u2013Mon ~11:19am mail.**"
     },
     {
       "id": "T4",
@@ -37,7 +37,7 @@
       "due": "ASAP (truck timing)",
       "item": "Layher rental R-000159 \u2014 reply on Mon partial ship",
       "source": "Email / Jeremy + Jeff 2026-09-25 ~1:40pm ET",
-      "notes": "**Fri ~1:40pm ET Jeremy:** 5'\u20138' only US stock; **updated Quote R-000159**; ~half order in stock; offers **Mon partial ship**, rest mid next week. **No Jeremy/Jeff reply over weekend** after Fri offer. **Jeff must reply** yes/no Mon partial + confirm 5'\u20138' OK \u2014 decision due today Mon Sep 28."
+      "notes": "**Fri ~1:40pm ET Jeremy:** 5'\u20138' only US stock; **updated Quote R-000159**; ~half order in stock; offers **Mon partial ship**, rest mid next week. **No Jeremy/Jeff reply over weekend** after Fri offer. **Jeff must reply** yes/no Mon partial + confirm 5'\u20138' OK \u2014 decision due today Mon Sep 28; **no Jeremy/Jeff reply through ~11:19am ET.**"
     },
     {
       "id": "T6",
@@ -434,10 +434,19 @@
       "item": "Process DPP BSA Office Demo Portion (Partial) Invoice 4702",
       "source": "Email / Jason Marchbanks 2026-09-27 ~7:58am ET",
       "notes": "Joist https://client.joistapp.com/invoices/9db8e8f27ad55629c3eae977 + PDF *Invoice_4702.pdf.pdf* (cc Bill, accounting, Katheryn, Amie). Route/confirm payment. Ties T42 BSA demo."
+    },
+    {
+      "id": "T60",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP",
+      "item": "Reply Ray Flowers \u2014 Okuma @ GE Vernova removal status",
+      "source": "Email / Ray Flowers (AME) 2026-09-28 ~11:19am ET",
+      "notes": "**Mon ~11:19am ET Ray:** asking for any change/updates on OKUMA machine removal. Thread: Jul 17 AME proposal *21231 INDCOM - Remove OKUMA @ GE Vernova*; **Jeff Jul 20:** waiting on GE planned work schedule. **Jeff needs to reply** with current status / still waiting. Cc businessdevelopment@ameonline.com."
     }
   ],
   "calendar": [
-    "**OVERDUE since Thu Sep 24** \u2014 Guard rail AAA\u2013AUA deadline (all-day; T3) \u2014 no firm Bob Peterson yes/no; work was to start Sat Sep 26; **still no reply Fri\u2013Mon morning**",
+    "**OVERDUE since Thu Sep 24** \u2014 Guard rail AAA\u2013AUA deadline (all-day; T3) \u2014 no firm Bob Peterson yes/no; work was to start Sat Sep 26; **still no reply Fri\u2013Mon ~11:19am**",
     "**Pending schedule** \u2014 Energize 4 Fanuc EDMs NFPS.03 via TP-11B-8.1 @ HDA (#2301383/#2301384/#2301385/#2301390; **MOC 23582**; T47) \u2014 wait Hinkson formal window",
     "**Mon Sep 28 TODAY 8:00am\u20133:00pm ET** \u2014 Outage fire-suppression BSA office drain/valve (Impact Fire; Alex Leppard; T50) \u2014 **A/B/C bays columns S\u2013Z**; no alarms; FM+ERT; dupes = one outage; **CSWP filed ~8:50am** (Project 23204; T42)",
     "**DONE Mon Sep 28 ~6:20am ET** \u2014 Outage PP-7A-9 Circuit #5 / HAA\u2013HCA Hydroflow re-energize complete (McCurry \u201cOutage complete\u201d; Jason Sat disconnect done PMX606793; Jim Stanley thanks) \u2014 closes T17/T38",
@@ -456,7 +465,7 @@
       "id": "e4",
       "summary": "OVERDUE Deadline: Guard rail AAA\u2013AUA (Bob Peterson)",
       "location": "",
-      "description": "Deadline was Thu Sep 24 \u2014 OVERDUE; no firm Bob Peterson yes/no Fri\u2013Mon morning. Work was to start Sat Sep 26. (T3)",
+      "description": "Deadline was Thu Sep 24 \u2014 OVERDUE; no firm Bob Peterson yes/no Fri\u2013Mon ~11:19am. Work was to start Sat Sep 26. (T3)",
       "start": "2026-09-24",
       "end": "2026-09-25",
       "allDay": true,
