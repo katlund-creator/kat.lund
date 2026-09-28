@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T17:06:07-04:00",
+  "updated": "2026-09-28T08:19:35-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -28,7 +28,7 @@
       "due": "2026-09-24 OVERDUE",
       "item": "Firm Bob Peterson guard rail AAA\u2013AUA",
       "source": "Email / Bob Peterson 2026-09-17",
-      "notes": "Roof leading-edge west wall; **work starts Sat Sep 26**. Soft reply sent; still need firm yes/no + AAA/VPS overhead-door scaffold timing / traffic reroute via VPO\u2013AAA. **Deadline was Thu Sep 24 \u2014 OVERDUE; no firm Bob Peterson reply in overnight/morning mail.**"
+      "notes": "Roof leading-edge west wall; **work was to start Sat Sep 26**. Soft reply sent; still need firm yes/no + AAA/VPS overhead-door scaffold timing / traffic reroute via VPO\u2013AAA. **Deadline was Thu Sep 24 \u2014 OVERDUE; no Bob Peterson reply in Fri\u2013Mon morning mail.**"
     },
     {
       "id": "T4",
@@ -37,7 +37,7 @@
       "due": "ASAP (truck timing)",
       "item": "Layher rental R-000159 \u2014 reply on Mon partial ship",
       "source": "Email / Jeremy + Jeff 2026-09-25 ~1:40pm ET",
-      "notes": "**Fri ~1:40pm ET Jeremy:** 5'\u20138' only US stock (1.09\u20131.57m rare); **updated Quote R-000159** attached; ~half order in stock; offers **Mon partial ship**, rest mid next week. Prior: decks w/ holes OK; caps deferred. **Jeff must reply** yes/no Mon partial + confirm 5'\u20138' OK."
+      "notes": "**Fri ~1:40pm ET Jeremy:** 5'\u20138' only US stock; **updated Quote R-000159**; ~half order in stock; offers **Mon partial ship**, rest mid next week. **No Jeremy/Jeff reply over weekend** after Fri offer. **Jeff must reply** yes/no Mon partial + confirm 5'\u20138' OK \u2014 decision due today Mon Sep 28."
     },
     {
       "id": "T6",
@@ -123,20 +123,11 @@
     {
       "id": "T16",
       "status": "open",
-      "priority": "med",
-      "due": "Fri 9/25\u2013Tue 9/29",
-      "item": "Prep N Bay overhead hanging scaffold (crane lockouts)",
-      "source": "Email / Matt Fitts + Paul Madak 2026-09-15/21",
-      "notes": "Formal outages: (1) park/lockout 10-ton CAT 701681 at NPX by Fri 9/25 \u2014 duration 4\u20136 weeks (LCU-16 + MQB 1600A); (2) floor crane CAT 701734 lockout Mon 9/28 3pm, re-energize 9/29 AM after Indcom scaffold complete. Tres Orr confirmed lockout. Erect hanging scaffold 9/26\u20139/29."
-    },
-    {
-      "id": "T17",
-      "status": "waiting",
-      "priority": "med",
-      "due": "Fri 9/25 1:30pm \u2013 Mon 9/28 6am",
-      "item": "NFPS.03 / coolant-line + PP-7A-9 Hydroflow outage",
-      "source": "Email / Jim Stanley + Quincy + Jason + Hinkson 2026-09-15/25",
-      "notes": "**Quincy Hill confirmed** Facilities HV window Fri 1:30pm\u2192Mon 6am (H-bay Basarans). **Jim Stanley Wed ~10:08am ET:** HAA\u2013HCA multi-outage \u2014 extend Hydroflow piping to new Basarans, move disconnect to wall, tie in new Haas Mill; needs drain/park/clear aisle support. **Scott Barnes / Jim:** affects NFPS.03 Hydroflow only (not BL4 bucket). **Jason Fri ~7:28am ET:** pre-created one-line *Hydroflow HAA PMX606793.pdf* for disconnect relocation. **Evan Groce Thu ~10:28pm ET:** Basaran piping estimate PDF (see T49). See T38."
+      "priority": "high",
+      "due": "mid-week 3rd shift (~3\u00d78hr)",
+      "item": "Finish N Bay overhead hanging scaffold (crane lockouts)",
+      "source": "Email / Matt Fitts + Orders + Jeff 2026-09-15/27",
+      "notes": "**Sun ~6:59pm ET Fitts:** weekend South\u2192North overhead **not completed** (crew worn); need **~3 more 8-hr shifts** before NW corner scaffold over crane bus bar into M Bay; asked 2nd/3rd shift mid-week; red-tape 30'\u00d730' sections. **Orders ~7:28pm:** **3rd shift preferred** (no 3rd shift in N bay now). **Jeff ~7:44pm:** will adjust schedule and proceed. Fitts off-site Mon \u2014 questions to Jeff. 10-ton CAT 701681 still locked ~4\u20136 wks. Floor crane CAT 701734 LOTO was Mon 3pm/re-energize Tue AM \u2014 schedule may slip with incomplete overhead."
     },
     {
       "id": "T18",
@@ -274,15 +265,6 @@
       "notes": "After Jeff\u2019s Fri capacity answer (<1000\u20134000 lbs / EHS+Madak approved), James asks Matt Bass (cc Jeff) if OK with trolley for getting components on top of coating cells \u2014 needs Jeff confirm for that application."
     },
     {
-      "id": "T38",
-      "status": "open",
-      "priority": "high",
-      "due": "Fri 9/25 1:30pm \u2013 Mon 9/28 6am",
-      "item": "Coordinate / support PP-7A-9 Circuit #5 Hydroflow outage",
-      "source": "Email / Jason + Hinkson + Quincy + Jim 2026-09-21/25",
-      "notes": "Quincy-confirmed window Fri 1:30pm\u2192Mon 6am. **Jim Wed:** scope includes Hydroflow piping to Basarans + Haas Mill tie-in (same HAA\u2013HCA window). DPP relocate disconnect HAA\u2192HBA; work Sat\u2013Sun. **Jason Fri ~7:28am ET:** one-line *Hydroflow HAA PMX606793.pdf* attached (cc Jeff+Katheryn). **Evan Thu ~10:28pm:** Basaran piping estimate (T49). Ties to T17."
-    },
-    {
       "id": "T39",
       "status": "open",
       "priority": "high",
@@ -315,8 +297,8 @@
       "priority": "med",
       "due": "Mon Sep 28 (tied to fire-suppression)",
       "item": "Schedule BSA single-story drywall office demo (Dacusville)",
-      "source": "Email / Jeff\u2192Jack 2026-09-21 ~4:53pm ET",
-      "notes": "Jeff: BSA single story demo approved; referenced wrong estimate earlier (4 or 6 / KPB). Asked Jack to plan schedule for next week. **Evan Groce Thu ~10:32pm ET:** bump-out + bollard demo quote PDF (see T48). **Hinkson Fri ~11:53am ET:** expanded blast \u2014 A/B/C bays cols S\u2013Z; no alarms; FM+ERT notified (see T50). Jack can start Mon; Seth badge/safety still TBD."
+      "source": "Email / Jeff\u2192Jack 2026-09-21 + QB Est 2015 2026-09-28",
+      "notes": "Jeff: BSA single story demo approved; Jack can start Mon; Seth badge/safety TBD. **Evan bump-out+bollard quote (T48).** **Hinkson fire-suppression TODAY 8am\u20133pm (T50).** **Mon ~2:09am ET QuickBooks:** Estimate **2015 BSA Office Demo $97,759.38** sent to Alex Leppard (hewett.leppard) \u2014 customer quote path."
     },
     {
       "id": "T43",
@@ -376,19 +358,19 @@
       "id": "T49",
       "status": "open",
       "priority": "high",
-      "due": "ASAP (weekend outage)",
+      "due": "ASAP (post-weekend)",
       "item": "Review/route SPC Basaran piping estimate",
       "source": "Email / Evan Groce 2026-09-24 ~10:28pm ET",
-      "notes": "PDF *Basaran piping estimate.pdf* to Jeff + steveo@pipeandpower.com. Supports HAA\u2013HCA Hydroflow/Basaran work starting Fri 1:30pm (T17/T38). Review/approve before/during weekend window."
+      "notes": "PDF *Basaran piping estimate.pdf* to Jeff + steveo@pipeandpower.com. Supported HAA\u2013HCA Hydroflow/Basaran weekend work (T17/T38 **DONE** Mon ~6:20am). Still need review/approve/route for AP/PO."
     },
     {
       "id": "T50",
       "status": "open",
       "priority": "high",
-      "due": "Mon Sep 28 8:00am\u20133:00pm ET",
+      "due": "Mon Sep 28 8:00am\u20133:00pm ET TODAY",
       "item": "Track BSA fire-suppression outage (drain/valve for office demo)",
       "source": "Email / Hinkson 2026-09-25 ~9:12am + ~11:53am ET",
-      "notes": "**Hinkson Fri ~11:53am ET expanded blast** (invite attached): Per Jason Dickerson \u2014 **affects A, B, & C bays columns S\u2013Z**; **no alarms** disabled; Hinkson notifies **FM + ERT**. Window still **Mon 8:00am\u20133:00pm ET**, BSA office demo, Alex Leppard lead, Impact Fire. Formal expanded notification sent to broad GE list. Ties T42/T48."
+      "notes": "**TODAY in window** Mon 8:00am\u20133:00pm ET. Expanded blast: **A/B/C bays columns S\u2013Z**; **no alarms**; FM+ERT notified. Alex Leppard lead, Impact Fire. No cancel/expand mail over weekend. Ties T42/T48. Est 2015 BSA demo quote sent to Alex (see T42)."
     },
     {
       "id": "T51",
@@ -434,33 +416,56 @@
       "item": "Track ENSER 7HA1 Build Platform shipping \u2192 Advanced Rigging / GE install",
       "source": "Email / Steven Twigg (ENSER) 2026-09-25 ~4:53pm ET",
       "notes": "**Twigg Fri ~4:53pm ET** (Jeff+Buellesbach cc): Packing list + tentative truck schedule \u2014 **Thu Oct 1** flatbed items 13\u201317 (lifts/HPUs/stairs/handrails/fans/shields); **Tue Oct 6** 4 trucks (scissor platforms + lowboy stair/corner; permits); **Wed Oct 7** 2 lowboy trucks (side/end platforms). All \u2192 **Advanced Rigging warehouse** until Production clears; GE relocates into main facility **~Nov 1**; ENSER tech assist **Sun Nov 1\u2013Tue Nov 3**. PDF *PACKING LIST FOR 7HA1 GREENVILLE.pdf*. Awareness / possible Indcom scaffold support around install."
+    },
+    {
+      "id": "T57",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP",
+      "item": "Process SPC BL4 50% completion invoice",
+      "source": "Email / Evan Groce 2026-09-27 ~4:12pm ET",
+      "notes": "PDF *BL4 50% completion.pdf* to Jeff + ap.mail@indcomcorp.com. Route/confirm payment."
+    },
+    {
+      "id": "T58",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP",
+      "item": "Process SPC MDC rollup door invoice",
+      "source": "Email / Evan Groce 2026-09-27 ~4:08pm ET",
+      "notes": "PDF *MDC rollup door.pdf* to Jeff + ap.mail@indcomcorp.com. Route/confirm payment."
+    },
+    {
+      "id": "T59",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP",
+      "item": "Process DPP BSA Office Demo Portion (Partial) Invoice 4702",
+      "source": "Email / Jason Marchbanks 2026-09-27 ~7:58am ET",
+      "notes": "Joist https://client.joistapp.com/invoices/9db8e8f27ad55629c3eae977 + PDF *Invoice_4702.pdf.pdf* (cc Bill, accounting, Katheryn, Amie). Route/confirm payment. Ties T42 BSA demo."
     }
   ],
   "calendar": [
-    "**OVERDUE since Thu Sep 24** \u2014 Guard rail AAA\u2013AUA deadline (all-day; T3) \u2014 no firm Bob Peterson yes/no; **work starts Sat Sep 26**",
-    "**Pending schedule** \u2014 Energize 4 Fanuc EDMs NFPS.03 via TP-11B-8.1 @ HDA (#2301383/#2301384/#2301385/#2301390; Jason ~3:02pm Thu; **MOC 23582** Shanna ~3:48pm; T47) \u2014 wait Hinkson formal window",
-    "**Mon Sep 28 8:00am\u20133:00pm ET** \u2014 Outage fire-suppression BSA office drain/valve (Impact Fire; Alex Leppard lead; Hinkson expanded Fri ~11:53am; T50) \u2014 **A/B/C bays columns S\u2013Z**; no alarms; FM+ERT notified",
-    "**Fri Sep 25 TODAY 7:45\u20138:45am ET** \u2014 Outage SP6-1A Circuit #23 @ TS6 (new TV receptacle; DPP / Blake Berreth) \u2014 Hinkson + Jason dupes = one outage",
-    "**Fri Sep 25 TODAY** \u2014 N Bay: park/lockout 10-ton bridge crane CAT 701681 at NPX (start of ~4\u20136 wk outage; Madak + Tres Orr; T16)",
-    "**DONE Fri Sep 25 ~before 2:00pm ET** \u2014 Outage PP-6A-5B Haas DM2 @ HCA **completed early**; power restored (Hinkson ~4:13pm ET; Jim Stanley thanks ~4:19pm) \u2014 was Fri 1:30pm\u2192Mon 6am; **Hydroflow T17/T38 still active** (T54 closed)",
-    "**Fri Sep 25 1:30pm \u2013 Mon Sep 28 6:00am ET** \u2014 Outage PP-7A-9 Circuit #5 / HAA\u2013HCA Basaran (Hydroflow piping + disconnect HAA\u2192HBA + Haas Mill; DPP / Jim Stanley; T17/T38) \u2014 Quincy confirmed; Jason Fri one-line **PMX606793**; Evan Basaran piping estimate (T49)",
-    "**Sat Sep 26 \u2013 Tue Sep 29** \u2014 N Bay overhead hanging scaffold erection / crane lockouts (T16)",
-    "**Sat Sep 26 10:00\u201310:30am ET** \u2014 Outage RP-6B-2.6 @ DWA (2 duplex receptacles computer stand; was 8:30\u20139:00 \u2014 use 10:00)",
-    "**Mon Sep 28 6:00am ET** \u2014 PP-7A-9 Circuit #5 re-energize (Quincy/Hinkson confirmed; T17/T38)",
-    "**Mon Sep 28 3:00pm \u2013 Tue Sep 29 AM ET** \u2014 Outage/LOTO floor crane CAT 701734 (Madak + Fitts; re-energize after Indcom scaffold complete; T16)",
-    "**Weekend TBD** \u2014 LPA Power scaffold @ north-end K-bay (Buellesbach ask; T39) \u2014 date not set yet",
-    "**Wed Sep 30 1:30pm ET** \u2014 Meeting GE Combustion AIR Purification (Jeff Rawls / ACT / Ductwerks / Indcom Jeff; Peter Hahn; T53) \u2014 proposals + future plans",
+    "**OVERDUE since Thu Sep 24** \u2014 Guard rail AAA\u2013AUA deadline (all-day; T3) \u2014 no firm Bob Peterson yes/no; work was to start Sat Sep 26; **still no reply Fri\u2013Mon morning**",
+    "**Pending schedule** \u2014 Energize 4 Fanuc EDMs NFPS.03 via TP-11B-8.1 @ HDA (#2301383/#2301384/#2301385/#2301390; **MOC 23582**; T47) \u2014 wait Hinkson formal window",
+    "**Mon Sep 28 TODAY 8:00am\u20133:00pm ET** \u2014 Outage fire-suppression BSA office drain/valve (Impact Fire; Alex Leppard; T50) \u2014 **A/B/C bays columns S\u2013Z**; no alarms; FM+ERT; dupes = one outage",
+    "**DONE Mon Sep 28 ~6:20am ET** \u2014 Outage PP-7A-9 Circuit #5 / HAA\u2013HCA Hydroflow re-energize complete (McCurry \u201cOutage complete\u201d; Jason Sat disconnect done PMX606793; Jim Stanley thanks) \u2014 closes T17/T38",
+    "**DONE Fri Sep 25 ~before 2:00pm ET** \u2014 Outage PP-6A-5B Haas DM2 @ HCA completed early (T54 closed)",
+    "**In progress / slipped** \u2014 N Bay overhead hanging scaffold: weekend incomplete; **~3\u00d78hr mid-week 3rd shift** preferred (Fitts/Orders/Jeff Sun; T16); 10-ton CAT 701681 lockout continues ~4\u20136 wks",
+    "**Mon Sep 28 3:00pm \u2013 Tue Sep 29 AM ET** \u2014 Outage/LOTO floor crane CAT 701734 (may slip with incomplete overhead; T16) \u2014 dedupe Fitts dupes = one",
+    "**Weekend TBD** \u2014 LPA Power scaffold @ north-end K-bay (Buellesbach; T39)",
+    "**Wed Sep 30 1:30pm ET** \u2014 Meeting GE Combustion AIR Purification (Jeff Rawls / ACT / Ductwerks / Indcom Jeff; Peter Hahn; T53)",
     "**Sun Oct 5** \u2014 M-Bay stormwater drains phase-1 scaffold due (T22)",
-    "**Thu Oct 1** \u2014 ENSER 7HA1 flatbed ship items 13\u201317 \u2192 Advanced Rigging (Twigg; T56)",
-    "**Tue Oct 6 \u2013 Wed Oct 7** \u2014 ENSER 7HA1 platform trucks (scissor/stair/corner/side/end; permits) \u2192 Advanced Rigging (T56)",
-    "**~Sun Nov 1 \u2013 Tue Nov 3** \u2014 7HA1 Build Platform install assist window (GE relocate from Advanced Rigging; ENSER tech; T56) \u2014 beyond 30d board but noted"
+    "**Thu Oct 1** \u2014 ENSER 7HA1 flatbed ship items 13\u201317 \u2192 Advanced Rigging (T56)",
+    "**Tue Oct 6 \u2013 Wed Oct 7** \u2014 ENSER 7HA1 platform trucks \u2192 Advanced Rigging (T56)",
+    "**~Sun Nov 1 \u2013 Tue Nov 3** \u2014 7HA1 Build Platform install assist (T56) \u2014 beyond 30d board but noted"
   ],
   "events": [
     {
       "id": "e4",
       "summary": "OVERDUE Deadline: Guard rail AAA\u2013AUA (Bob Peterson)",
       "location": "",
-      "description": "Deadline was Thu Sep 24 \u2014 OVERDUE; no firm Bob Peterson yes/no. Roof leading-edge work starts Sat Sep 26. (T3)",
+      "description": "Deadline was Thu Sep 24 \u2014 OVERDUE; no firm Bob Peterson yes/no Fri\u2013Mon morning. Work was to start Sat Sep 26. (T3)",
       "start": "2026-09-24",
       "end": "2026-09-25",
       "allDay": true,
@@ -471,7 +476,7 @@
       "id": "e5",
       "summary": "Outage/LOTO: N Bay 10 Ton Overhead Bridge Crane 701681",
       "location": "N Bay / NPX",
-      "description": "Park/lockout by Fri 9/25 for hanging scaffold start Sat 9/26. Duration ~4\u20136 weeks (LCU-16 + MQB 1600A). Madak formal ~8:34am + Tres Orr confirmed. (T16)",
+      "description": "Park/lockout by Fri 9/25 for hanging scaffold. Duration ~4\u20136 weeks (LCU-16 + MQB 1600A). Continues while T16 finishes. (T16)",
       "start": "2026-09-25",
       "end": "2026-11-06",
       "allDay": true,
@@ -479,67 +484,54 @@
       "todoId": "T16"
     },
     {
-      "id": "e18",
-      "summary": "Outage/Shutdown/LOTO: SP6-1A Circuit #23",
-      "location": "TS6 conference room",
-      "description": "Connect new TV receptacle to existing TV circuit. DPP / Blake Berreth. Hinkson + Jason dupes \u2014 one outage.",
-      "start": "2026-09-25T07:45:00-04:00",
-      "end": "2026-09-25T08:45:00-04:00",
-      "allDay": false,
-      "type": "outage",
-      "todoId": null
-    },
-    {
-      "id": "e13",
-      "summary": "Outage/Shutdown/LOTO: PP-7A-9 Circuit #5 (Hydroflow)",
-      "location": "HHA / HAA\u2192HBA",
-      "description": "Quincy Hill confirmed Facilities HV window: Fri Sep 25 1:30pm \u2192 Mon Sep 28 6:00am ET (H-bay Basarans). Jim Stanley Wed: extend Hydroflow piping to new Basarans, move disconnect to wall, tie in new Haas Mill; NFPS.03 only. Jason Fri ~7:28am ET: one-line Hydroflow HAA PMX606793.pdf for disconnect relocation. Evan Groce Thu ~10:28pm: Basaran piping estimate (T49). DPP work Sat\u2013Sun; re-energize Mon 6am. (T17/T38)",
+      "id": "e19",
+      "summary": "DONE Outage: PP-7A-9 Circuit #5 Hydroflow / HAA\u2013HCA",
+      "location": "HAA-HBA",
+      "description": "Completed Mon ~6:20am ET (McCurry). Jason Sat disconnect relocation done PMX606793. Jim Stanley thanks. Closed T17/T38.",
       "start": "2026-09-25T13:30:00-04:00",
       "end": "2026-09-28T06:00:00-04:00",
       "allDay": false,
       "type": "outage",
-      "todoId": "T17/T38",
-      "title": "PP-7A-9 Circuit #5 Hydroflow / HAA\u2013HCA Basaran"
-    },
-    {
-      "id": "e6",
-      "summary": "Outage/Scaffold: N Bay overhead hanging scaffold (crane lockouts)",
-      "location": "N Bay",
-      "description": "Erect hanging scaffold 9/26\u20139/29; floor crane CAT 701734 lockout 9/28 3pm, re-energize 9/29 AM. (T16)",
-      "start": "2026-09-26",
-      "end": "2026-09-30",
-      "allDay": true,
-      "type": "outage",
-      "todoId": "T16"
-    },
-    {
-      "id": "e16",
-      "summary": "Work: LPA Power scaffold (north-end K-bay) \u2014 weekend TBD",
-      "location": "K-bay north end",
-      "description": "Joseph Buellesbach: scaffold for cable tray install + balancer power wire pull. Needs AMKing/H&W direction + start timing; prefer weekend. (T39)",
-      "start": "2026-09-26",
-      "end": "2026-09-28",
-      "allDay": true,
-      "type": "work",
-      "todoId": "T39",
-      "tentative": true
+      "todoId": null
     },
     {
       "id": "e20",
-      "summary": "Outage/Shutdown/LOTO: RP-6B-2.6 (DWA)",
-      "location": "DWA",
-      "description": "Install (2) duplex receptacles for computer stand at DWA. Updated time 10:00\u201310:30am (was 8:30\u20139:00). DPP.",
-      "start": "2026-09-26T10:00:00-04:00",
-      "end": "2026-09-26T10:30:00-04:00",
+      "summary": "DONE Outage: PP-6A-5B Haas DM2 @ HCA (early)",
+      "location": "HBA-HCA",
+      "description": "Completed early Fri before 2pm; power restored. Closed T54.",
+      "start": "2026-09-25T13:30:00-04:00",
+      "end": "2026-09-28T06:00:00-04:00",
       "allDay": false,
       "type": "outage",
       "todoId": null
     },
     {
-      "id": "e14",
+      "id": "e6",
+      "summary": "Work: N Bay overhead hanging scaffold (slipped \u2014 mid-week 3rd shift)",
+      "location": "N Bay",
+      "description": "Weekend South\u2192North incomplete; need ~3\u00d78hr mid-week 3rd shift before NW corner into M Bay. Fitts/Orders/Jeff Sun. (T16)",
+      "start": "2026-09-26",
+      "end": "2026-10-02",
+      "allDay": true,
+      "type": "work",
+      "todoId": "T16"
+    },
+    {
+      "id": "e21",
+      "summary": "Outage/Shutdown/LOTO: Fire Suppression System - BSA Office",
+      "location": "BSA office",
+      "description": "TODAY Mon 8:00am\u20133:00pm ET. Drain/valve for office demo. A/B/C bays cols S\u2013Z; no alarms; FM+ERT. Alex Leppard / Impact Fire. Deduped Hinkson dupes. (T50)",
+      "start": "2026-09-28T08:00:00-04:00",
+      "end": "2026-09-28T15:00:00-04:00",
+      "allDay": false,
+      "type": "outage",
+      "todoId": "T50"
+    },
+    {
+      "id": "e8",
       "summary": "Outage/LOTO: N Bay Floor Mounted Bridge Crane 701734",
       "location": "N Bay",
-      "description": "Lockout Mon 9/28 3pm for N\u2192M Bay transition / vertical cable tray scaffold. Re-energize morning 9/29 after Indcom scaffold complete. Madak formal ~8:38am + Fitts/Tres Orr. (T16)",
+      "description": "Mon 3pm lockout; re-energize Tue AM after Indcom scaffold \u2014 may slip with incomplete overhead (T16). Deduped Fitts dupes.",
       "start": "2026-09-28T15:00:00-04:00",
       "end": "2026-09-29T09:00:00-04:00",
       "allDay": false,
@@ -547,24 +539,21 @@
       "todoId": "T16"
     },
     {
-      "id": "e21",
-      "type": "outage",
-      "title": "BSA fire-suppression drain/valve (Hinkson expanded)",
-      "start": "2026-09-28T08:00:00-04:00",
-      "end": "2026-09-28T15:00:00-04:00",
-      "location": "BSA office",
-      "notes": "Hinkson Fri ~11:53am ET expanded blast + invite: Mon 8am\u20133pm; Alex Leppard; Impact Fire; affects A/B/C bays cols S\u2013Z; no alarms; FM+ERT notified. Ties T50/T42/T48.",
-      "related": [
-        "T50",
-        "T42",
-        "T48"
-      ]
+      "id": "e22",
+      "summary": "Meeting: GE Combustion AIR Purification (ACT / Ductwerks / API)",
+      "location": "GE Combustion",
+      "description": "Wed Sep 30 1:30pm ET \u2014 Tony House (ACT), Darryl Lind (Ductwerks), Jeff Flannery, Jeff Rawls (API), Peter Hahn. Proposals + future plans. (T53)",
+      "start": "2026-09-30T13:30:00-04:00",
+      "end": "2026-09-30T14:30:00-04:00",
+      "allDay": false,
+      "type": "meeting",
+      "todoId": "T53"
     },
     {
-      "id": "e7",
-      "summary": "Deadline: M-Bay stormwater drains phase-1 scaffold (AM King)",
-      "location": "M-Bay",
-      "description": "Kyle Herman / AM King \u2014 phase-1 scaffold by Oct 5. (T22)",
+      "id": "e23",
+      "summary": "Deadline: M-Bay stormwater drains phase-1 scaffold",
+      "location": "M Bay",
+      "description": "Phase-1 scaffold by Oct 5 (Kyle Herman / AM King). (T22)",
       "start": "2026-10-05",
       "end": "2026-10-06",
       "allDay": true,
@@ -572,41 +561,26 @@
       "todoId": "T22"
     },
     {
-      "id": "e22",
-      "type": "meeting",
-      "title": "GE Combustion AIR Purification (ACT / Ductwerks / API / Indcom)",
-      "start": "2026-09-30T13:30:00-04:00",
-      "end": "2026-09-30T14:30:00-04:00",
-      "location": "GE Combustion",
-      "notes": "Jeff Rawls Fri ~11:19am ET confirmed Wed Sep 30 1:30pm: Tony House ACT, Darryl Lind Ductwerks, Jeff Flannery Indcom, Jeff Rawls API with Peter Hahn. Review proposals + future plans. Relates T53/T1.",
-      "related": [
-        "T53",
-        "T1"
-      ]
-    },
-    {
-      "id": "e23",
-      "summary": "ENSER 7HA1 flatbed ship (items 13\u201317) \u2192 Advanced Rigging",
+      "id": "e24",
+      "summary": "Work: ENSER 7HA1 flatbed ship (items 13\u201317) \u2192 Advanced Rigging",
       "location": "Advanced Rigging warehouse",
-      "description": "Twigg Fri ~4:53pm ET packing list: Thu Oct 1 flatbed \u2014 personnel lifts, HPUs, fiberglass stairs, handrails, fans, safety shields. (T56)",
+      "description": "Thu Oct 1 flatbed lifts/HPUs/stairs/handrails/fans/shields. (T56)",
       "start": "2026-10-01",
       "end": "2026-10-02",
       "allDay": true,
       "type": "work",
-      "todoId": "T56",
-      "title": "7HA1 ENSER flatbed ship Oct 1 (T56)"
+      "todoId": "T56"
     },
     {
-      "id": "e24",
-      "summary": "ENSER 7HA1 platform trucks \u2192 Advanced Rigging",
+      "id": "e25",
+      "summary": "Work: ENSER 7HA1 platform trucks \u2192 Advanced Rigging",
       "location": "Advanced Rigging warehouse",
-      "description": "Tue Oct 6: 4 trucks (scissor platforms Priority 1 + lowboy stair/corner; permits). Wed Oct 7: 2 lowboy trucks (side/end platforms; permits). Then hold until ~Nov 1 GE install. (T56)",
+      "description": "Tue Oct 6 (4 trucks) + Wed Oct 7 (2 lowboy). GE install ~Nov 1\u20133. (T56)",
       "start": "2026-10-06",
       "end": "2026-10-08",
       "allDay": true,
       "type": "work",
-      "todoId": "T56",
-      "title": "7HA1 ENSER platform trucks Oct 6\u20137 (T56)"
+      "todoId": "T56"
     }
   ]
 }
