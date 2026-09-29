@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T09:20:54-04:00",
+  "updated": "2026-09-29T10:18:26-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -28,7 +28,7 @@
       "due": "2026-09-24 OVERDUE",
       "item": "Firm Bob Peterson guard rail AAA\u2013AUA",
       "source": "Email / Bob Peterson 2026-09-17",
-      "notes": "Roof leading-edge west wall; **work was to start Sat Sep 26**. Soft reply sent; still need firm yes/no + AAA/VPS overhead-door scaffold timing / traffic reroute via VPO\u2013AAA. **Deadline was Thu Sep 24 \u2014 OVERDUE; no Bob Peterson reply in Fri\u2013Tue ~9:19am mail.**"
+      "notes": "Roof leading-edge west wall; **work was to start Sat Sep 26**. Soft reply sent; still need firm yes/no + AAA/VPS overhead-door scaffold timing / traffic reroute via VPO\u2013AAA. **Deadline was Thu Sep 24 \u2014 OVERDUE; no Bob Peterson reply in Fri\u2013Tue ~10:17am mail.**"
     },
     {
       "id": "T4",
@@ -274,13 +274,13 @@
       "notes": "Joe asks Jeff: clear direction from AMKing / H&W on what they need, and when Indcom can start \u2014 prefer weekend. Cc Kyle Herman / Steve Gordon / Mitch Pingry: does H&W have all hardware?"
     },
     {
-      "id": "T40",
+      "id": "T63",
       "status": "open",
       "priority": "high",
-      "due": "TODAY before noon (payroll 12:00pm)",
-      "item": "Submit crew TIME / per diems FW39 week 9/21\u20139/27 (OpSource)",
-      "source": "Email / Katheryn\u2192Jeff + Yesenia 2026-09-28/29",
-      "notes": "**Tue ~8:45am ET Yesenia:** payroll submitted by **12:00 p.m. Tuesdays**; Tue morning OK \u2014 will notify Payroll. **Tue ~8:52/8:53am ET Katheryn\u2192Jeff:** FW39 hours+per diems for week **9/21\u20139/27** (22 names after correction \u2014 Joshua Carrion per diem **$700** not $600; added **Lance Maxwell Reid** 40 hrs / $400). Prior Mon chase was \u201clast week.\u201d **Still need Jeff submit before noon today.**"
+      "due": "TODAY ASAP (payroll by noon)",
+      "item": "Correct OpSource FW39 deltas after Jeff submit (Ezequiel hrs / Joshua per diem / add Lance)",
+      "source": "Email / Jeff\u2192Julie + Katheryn FW39 2026-09-29",
+      "notes": "**Tue ~9:28am ET Jeff\u2192Julie/Payroll/Lisa (cc Bill+Katheryn):** submitted \u201cIndcom Time\u201d (21 names) \u2014 **closes submit side of T40**. **Deltas vs Katheryn ~8:53am corrected list:** Ezequiel **50 hrs** (Kat **70**); Joshua per diem **$600** (Kat **$700**); **missing Lance Maxwell Reid** 40 hrs / $400. Need correction to Julie/Payroll before/around noon if Kat\u2019s numbers are right."
     },
     {
       "id": "T41",
@@ -452,20 +452,30 @@
       "item": "Resolve UniFirst screen-print shirts path with Bill (alt vendor?)",
       "source": "Email / Herrod + Bill 2026-09-28 ~5:32/5:53pm ET",
       "notes": "**Herrod (UniFirst) ~5:32pm ET:** cannot provide screen-print shirts (3rd-party cost/logistics diverge from quote); apologizes; offered call **Tue 1\u20134pm**. **Bill ~5:53pm ET\u2192Herrod (To Jeff; cc Katheryn + Trey):** disappointed after proof-sample assurances; asks how to proceed / alternate uniform provider / what UniFirst will do; pants alone don\u2019t fulfill; **business in question**. Distinct from T45 (Floor Mats). Jeff+Bill need path."
+    },
+    {
+      "id": "T64",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP",
+      "item": "Review/route SPC North Pole repair quote (Estimate 417)",
+      "source": "Email / Evan Groce 2026-09-29 ~9:29am ET",
+      "notes": "**Evan ~9:29am ET\u2192Jeff:** \u201cNorth Pole repair\u201d + PDF *Estimate_417_2026-09-29.pdf*. Review/approve/route (same SPC path as other Evan quotes)."
     }
   ],
   "calendar": [
-    "**OVERDUE since Thu Sep 24** \u2014 Guard rail AAA\u2013AUA deadline (all-day; T3) \u2014 no firm Bob Peterson yes/no; work was to start Sat Sep 26; **still no reply Fri\u2013Tue ~9:19am**",
+    "**OVERDUE since Thu Sep 24** \u2014 Guard rail AAA\u2013AUA deadline (all-day; T3) \u2014 no firm Bob Peterson yes/no; work was to start Sat Sep 26; **still no reply Fri\u2013Tue ~10:17am**",
     "**This week / Thu Pulse** \u2014 Pallet rack highest-priority (red) repairs \u2014 Jeff plan reply Mon ~6:13pm (inventory + discuss Tue); Julia acked Tue ~6:14am; still need inventory + discuss today + red repairs before Thu Pulse; Mike\u2019s racks first (T20)",
     "**Pending schedule** \u2014 Energize 4 Fanuc EDMs NFPS.03 via TP-11B-8.1 @ HDA (#2301383/#2301384/#2301385/#2301390; **MOC 23582**; T47) \u2014 wait Hinkson formal window",
-    "**Mon Sep 28 PAST WINDOW 8:00am\u20133:00pm ET** \u2014 Outage fire-suppression BSA office drain/valve (Impact Fire; Alex Leppard; T50) \u2014 **A/B/C bays columns S\u2013Z**; no alarms; FM+ERT; dupes = one outage; **CSWP filed ~8:50am**; Est 2015 to Shanna ~12:00pm (T42) \u2014 **window ended ~3:00pm; no complete/cancel mail through ~Tue 9:19am** (still open pending confirmation)",
+    "**Mon Sep 28 PAST WINDOW 8:00am\u20133:00pm ET** \u2014 Outage fire-suppression BSA office drain/valve (Impact Fire; Alex Leppard; T50) \u2014 **A/B/C bays columns S\u2013Z**; no alarms; FM+ERT; dupes = one outage; **CSWP filed ~8:50am**; Est 2015 to Shanna ~12:00pm (T42) \u2014 **window ended ~3:00pm; no complete/cancel mail through ~Tue 10:17am** (still open pending confirmation)",
     "**DONE Mon Sep 28 ~6:20am ET** \u2014 Outage PP-7A-9 Circuit #5 / HAA\u2013HCA Hydroflow re-energize complete (McCurry \u201cOutage complete\u201d; Jason Sat disconnect done PMX606793; Jim Stanley thanks) \u2014 closes T17/T38",
     "**DONE Fri Sep 25 ~before 2:00pm ET** \u2014 Outage PP-6A-5B Haas DM2 @ HCA completed early (T54 closed)",
     "**In progress / slipped** \u2014 N Bay overhead hanging scaffold: weekend incomplete; **~3\u00d78hr mid-week 3rd shift** preferred (Fitts/Orders/Jeff Sun; T16); 10-ton CAT 701681 lockout continues ~4\u20136 wks",
     "**CANCELED Mon Sep 28 ~11:35am ET** \u2014 Outage/LOTO floor crane CAT 701734 (Madak cancel; was Mon 3pm\u2013Tue AM; T16) \u2014 dedupe Fitts dupes = one canceled",
     "**Weekend TBD** \u2014 LPA Power scaffold @ north-end K-bay (Buellesbach; T39)",
     "**Wed Sep 30 1:30pm ET** \u2014 Meeting GE Combustion AIR Purification (Jeff Rawls / ACT / Ductwerks / Indcom Jeff; Peter Hahn; T53)",
-    "**TODAY before noon (payroll 12:00pm)** \u2014 Submit OpSource crew TIME/per diems **FW39 week 9/21\u20139/27** (Yesenia ~8:45am confirmed noon payroll / Tue morning OK; Katheryn ~8:52/8:53am sent hours for 22 names; T40)",
+    "**DONE Tue ~9:28am ET** \u2014 OpSource TIME/per diems FW39 submitted by Jeff to Julie/Payroll (T40 closed); **correction still open (T63)** \u2014 Ezequiel 50 vs 70 hrs, Joshua $600 vs $700, missing Lance Maxwell Reid",
+    "**TODAY ASAP (payroll by noon)** \u2014 Correct OpSource FW39 deltas vs Katheryn ~8:53am list (T63)",
     "**Tue Sep 29 1:00\u20134:00pm ET (offered)** \u2014 UniFirst call (Herrod/Trey) on screen-print shirts path; Bill driving, Jeff on thread (T62)",
     "**Sun Oct 5** \u2014 M-Bay stormwater drains phase-1 scaffold due (T22)",
     "**Thu Oct 1** \u2014 ENSER 7HA1 flatbed ship items 13\u201317 \u2192 Advanced Rigging (T56)",
@@ -477,7 +487,7 @@
       "id": "e4",
       "summary": "OVERDUE Deadline: Guard rail AAA\u2013AUA (Bob Peterson)",
       "location": "",
-      "description": "Deadline was Thu Sep 24 \u2014 OVERDUE; no firm Bob Peterson yes/no Fri\u2013Tue ~9:19am. Work was to start Sat Sep 26. (T3)",
+      "description": "Deadline was Thu Sep 24 \u2014 OVERDUE; no firm Bob Peterson yes/no Fri\u2013Tue ~10:17am. Work was to start Sat Sep 26. (T3)",
       "start": "2026-09-24",
       "end": "2026-09-25",
       "allDay": true,
@@ -532,7 +542,7 @@
       "id": "e21",
       "summary": "Outage/Shutdown/LOTO: Fire Suppression System - BSA Office (PAST WINDOW \u2014 awaiting confirmation)",
       "location": "BSA office",
-      "description": "Window Mon Sep 28 8:00am\u20133:00pm ET ended; no Hinkson/Impact/Alex complete or cancel through ~Tue 9:19am ET. Still open pending confirmation. A/B/C bays cols S\u2013Z; no alarms; FM+ERT. Alex Leppard / Impact Fire. CSWP ~8:50am; Est 2015 to Shanna (T42). Deduped. (T50)",
+      "description": "Window Mon Sep 28 8:00am\u20133:00pm ET ended; no Hinkson/Impact/Alex complete or cancel through ~Tue 10:17am ET. Still open pending confirmation. A/B/C bays cols S\u2013Z; no alarms; FM+ERT. Alex Leppard / Impact Fire. CSWP ~8:50am; Est 2015 to Shanna (T42). Deduped. (T50)",
       "start": "2026-09-28T08:00:00-04:00",
       "end": "2026-09-28T15:00:00-04:00",
       "allDay": false,
@@ -635,14 +645,26 @@
     {
       "id": "e29",
       "type": "deadline",
-      "title": "Deadline: Submit OpSource TIME/per diems week 9/14\u20139/20 (Tue morning)",
-      "summary": "Deadline: Submit OpSource TIME/per diems FW39 week 9/21\u20139/27 (before noon)",
+      "title": "DONE Deadline: OpSource TIME/per diems FW39 submitted (correction = T63)",
+      "summary": "DONE Deadline: OpSource TIME/per diems FW39 submitted (correction = T63)",
       "start": "2026-09-29",
       "end": "2026-09-30",
       "allDay": true,
-      "description": "Yesenia Tue ~8:45am ET: payroll by 12:00pm Tuesdays; Tue morning OK. Katheryn ~8:52/8:53am sent FW39 hours (22 names after correction). Still need Jeff submit before noon. (T40)",
+      "description": "Jeff Tue ~9:28am ET submitted \u201cIndcom Time\u201d to Julie/Payroll/Lisa (cc Bill+Katheryn) \u2014 closes T40. Deltas vs Katheryn ~8:53am list tracked as T63 (Ezequiel 50 vs 70 hrs; Joshua $600 vs $700; missing Lance Maxwell Reid).",
       "todoId": "T40",
       "relatedTodo": "T40"
+    },
+    {
+      "id": "e30",
+      "type": "deadline",
+      "title": "Deadline: Correct OpSource FW39 deltas (Ezequiel / Joshua / Lance)",
+      "summary": "Deadline: Correct OpSource FW39 deltas (Ezequiel / Joshua / Lance)",
+      "start": "2026-09-29",
+      "end": "2026-09-30",
+      "allDay": true,
+      "description": "After Jeff ~9:28am submit: Ezequiel 50 vs Kat 70 hrs; Joshua per diem $600 vs $700; missing Lance Maxwell Reid 40 hrs/$400. Correct to Julie/Payroll ASAP (payroll by noon). (T63)",
+      "todoId": "T63",
+      "relatedTodo": "T63"
     }
   ]
 }
