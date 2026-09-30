@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T10:05:41-04:00",
+  "updated": "2026-09-30T11:09:08-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -343,7 +343,7 @@
       "due": "pending schedule",
       "item": "Support / track NFPS.03 Fanuc EDM energization (4 machines)",
       "source": "Email / Jason + Shanna 2026-09-24 ~3:02/3:48pm ET",
-      "notes": "Request to energize Fanuc #2301383 HDA/HEA, #2301384 HEA, #2301385 HEA/HFA, #2301390 HEA Column via TP-11B-8.1 @ HDA (one-lines attached). DPP / Jim Stanley. Cc Jeff+Katheryn. **Shanna Henson ~3:48pm ET:** MOC **23582** assigned. Formal Hinkson window still not on cal \u2014 watch for outage/energize invite."
+      "notes": "Request to energize Fanuc #2301383 HDA/HEA, #2301384 HEA, #2301385 HEA/HFA, #2301390 HEA Column via TP-11B-8.1 @ HDA (one-lines attached). DPP / Jim Stanley. Cc Jeff+Katheryn. **Shanna Henson ~3:48pm ET:** MOC **23582** assigned. Formal Fanuc energize Hinkson window still not on cal \u2014 watch for that invite. **Related:** Wed ~10:45am ET Hinkson outage **PP-11B-8 / TP-11B-8.1 feeder rotation correction** Thu Oct 1 7:45\u20139:15am @ HFA (DPP; Jim Stanley) \u2014 tracked as **T71/e36** (not the Fanuc energize)."
     },
     {
       "id": "T48",
@@ -506,6 +506,24 @@
       "item": "Track A Bay Crane outage 10/5\u201310/12 (AMK / LMM; aerial lifts)",
       "source": "Email / Matthew Fitts 2026-09-30 ~8:29am ET",
       "notes": "**Wed ~8:29am ET Fitts\u2192Tres Orr / Paul Madak** (cc Jeff@ + jeff@ + AMK/LMM/Stanley et al.): requesting **A Bay Crane Outage** for AMK + LMM **Mon Oct 5 7:00am \u2013 Mon Oct 12 (TBD end)**. AMK at **AMA\u2013ANA** pipe supports above crane rail; LMM at **ATA\u2013AUA** dust-collector ductwork + control wire conduit up wall above crane rail. **Plan: aerial lifts at this time \u2014 scaffold not indicated.** On Katheryn calendar (duped invites deduped to e35). Watch for Indcom scaffold ask or timing change."
+    },
+    {
+      "id": "T70",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP",
+      "item": "Review/route DPP NFPS.02 Electrical Proposal; wait process-piping proposal",
+      "source": "Email / Jason Marchbanks 2026-09-30 ~10:42am ET",
+      "notes": "**Wed ~10:42am ET Jason\u2192Jeff** (cc Katheryn + Bill + Amie): attached *NFPS.02 Proposal. Dynamic Electrical.pdf*. Process piping proposal \u201cwill be delivered shortly.\u201d Review/approve/route into NFPS.02 customer path. Distinct from T68 (SCI RFQ/quote + MSS Sinker chase)."
+    },
+    {
+      "id": "T71",
+      "status": "open",
+      "priority": "high",
+      "due": "Thu Oct 1 7:45am\u20139:15am ET",
+      "item": "Track outage PP-11B-8 (11S E3) feeder rotation correction @ HFA",
+      "source": "Email / Hinkson 2026-09-30 ~10:45am ET",
+      "notes": "**Wed ~10:45am ET Hinkson** (Jeff + Katheryn + Jason/Adam DPP + Jim Stanley + Madak/Roper/McCurry): **OUTAGE PP-11B-8 (11S E3)** \u2014 correct rotation of feeder for **PP-11B-8 / TP-11B-8.1**; DPP doing work; Jim Stanley ME/contact; location **HFA**. Calendar: **Thu Oct 1 7:45am\u20139:15am ET**. Related panel to T47 Fanuc energize via TP-11B-8.1 but **this = rotation correction**, not the Fanuc energization window. Deduped cal invite = e36."
     }
   ],
   "calendar": [
@@ -527,6 +545,8 @@
     "**Tue Sep 29 1:00\u20134:00pm ET (offered; window passed)** \u2014 UniFirst call (Herrod/Trey) on screen-print shirts path; Bill driving, Jeff on thread; **no path yet** (T62)",
     "**ASAP (wait SCI quote)** \u2014 NFPS.02 RFQ details **SENT** by Katheryn ~9:26am ET to SCI Mike Mullaney (2 PDFs); waiting SCI quote; still chase MSS Jason for NFPS.02 4\u00d7 Mitsubishi Sinker quote (T68)",
     "**Mon Oct 5 7:00am \u2013 Mon Oct 12 (TBD) ET** \u2014 Outage A Bay Crane for AMK (AMA\u2013ANA pipe supports) + LMM (ATA\u2013AUA dust-collector duct/wire); aerial lifts; scaffold not indicated (Fitts; T69) \u2014 dedupe cal dupes = one outage",
+    "**ASAP** \u2014 Review/route DPP NFPS.02 Electrical Proposal (*NFPS.02 Proposal. Dynamic Electrical.pdf*; Jason ~10:42am); wait process-piping proposal (T70)",
+    "**Thu Oct 1 7:45am\u20139:15am ET** \u2014 Outage PP-11B-8 (11S E3) / TP-11B-8.1 feeder rotation correction @ HFA (Hinkson; DPP; Jim Stanley ME; T71) \u2014 related panel to T47 Fanuc energize but distinct work",
     "**Sun Oct 5** \u2014 M-Bay stormwater drains phase-1 scaffold due (T22)",
     "**Thu Oct 1** \u2014 ENSER 7HA1 flatbed ship items 13\u201317 \u2192 Advanced Rigging (T56)",
     "**Tue Oct 6 \u2013 Wed Oct 7** \u2014 ENSER 7HA1 platform trucks \u2192 Advanced Rigging (T56)",
@@ -721,6 +741,20 @@
       "allDay": true,
       "type": "work",
       "todoId": "T56"
+    },
+    {
+      "id": "e36",
+      "type": "outage",
+      "summary": "Outage/Shutdown/LOTO: PP-11B-8 (11S E3) feeder rotation @ HFA",
+      "title": "Outage/Shutdown/LOTO: PP-11B-8 (11S E3) feeder rotation @ HFA",
+      "location": "HFA",
+      "description": "Thu Oct 1 7:45am\u20139:15am ET \u2014 Hinkson outage to correct rotation of feeder for PP-11B-8 / TP-11B-8.1. DPP doing work; Jim Stanley ME/contact. Related panel to T47 Fanuc energize via TP-11B-8.1 but this = rotation correction only. (T71)",
+      "start": "2026-10-01T07:45:00-04:00",
+      "end": "2026-10-01T09:15:00-04:00",
+      "allDay": false,
+      "todoId": "T71",
+      "relatedTodo": "T71",
+      "status": "scheduled"
     },
     {
       "id": "e33",
