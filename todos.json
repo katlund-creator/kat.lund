@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T09:15:29-04:00",
+  "updated": "2026-09-30T10:05:41-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -493,10 +493,10 @@
       "id": "T68",
       "status": "open",
       "priority": "high",
-      "due": "ASAP",
-      "item": "Send NFPS.02 RFQ details to SCI (Mike Mullaney); chase MSS NFPS.02 Mitsubishi Sinker quote",
-      "source": "Email / Jeff\u2194Mike Mullaney + Jeff\u2192Jason Gunter 2026-09-30",
-      "notes": "**Wed ~8:34am ET Jeff\u2192Mike (cc Katheryn):** needs SCI quote for **NFPS.02**; asks if Mike needs RFQ or already has details; scope may change later. **Wed ~8:39am ET Mike:** \u201cI will need details for that please.\u201d **Wed ~8:27am ET Jeff\u2192Jason Gunter (MSS):** thinks NFPS.02 already provided by others \u2014 asks for quote for **4 Mitsubishi Sinker EDMs** on that line. Actions: send RFQ/details to Mike (Kat cc\u2019d); confirm/get MSS NFPS.02 Sinker quote. Distinct from T15 (prior SCI BRB/BSB/C-Bay quotes) and T67 (BL4 NFPS.03 schedule)."
+      "due": "ASAP (wait SCI quote)",
+      "item": "Chase SCI NFPS.02 quote (RFQ sent); chase MSS NFPS.02 Mitsubishi Sinker quote",
+      "source": "Email / Jeff\u2194Mike Mullaney + Kat\u2192Mike + Jeff\u2192Jason Gunter 2026-09-30",
+      "notes": "**Wed ~8:34am ET Jeff\u2192Mike (cc Katheryn):** needs SCI quote for **NFPS.02**; asks if Mike needs RFQ. **Wed ~8:39am ET Mike:** \u201cI will need details for that please.\u201d **Wed ~9:26am ET Katheryn\u2192Mike (cc Jeff):** sent RFQ attachments \u2014 *RFQ \u2014 NFPS.02 - SCI.pdf* + *NFPS 7HA.02 Working file_RFQ 08_19_26 \u2026-Model.pdf* \u2014 **SCI RFQ-details DONE**; waiting SCI quote. **Wed ~8:27am ET Jeff\u2192Jason Gunter (MSS):** asks for quote for **4 Mitsubishi Sinker EDMs** on NFPS.02 if already provided. Still open: SCI quote + MSS Sinker quote. Distinct from T15 / T67."
     },
     {
       "id": "T69",
@@ -525,7 +525,7 @@
     "**Tue Sep 29 (confirm outcome)** \u2014 ITH pumps D-Bay power huddle (Andrew Heatherly + Jeff + Brandon Malone; no Wed morning follow-up mail \u2014 confirm plan/outcome; T66)",
     "**THIS WEEK ASAP** \u2014 Schedule BL4 / NFPS.03 mist-collector + fire-alarm work w/ MSS Jason Gunter \u2014 Jeff SENT ~8:27am **PO 4900652190**/card + Bill vendor + GE fire-alarm POC ask; Jason OOO Wed / service mgr scheduling (T67)",
     "**Tue Sep 29 1:00\u20134:00pm ET (offered; window passed)** \u2014 UniFirst call (Herrod/Trey) on screen-print shirts path; Bill driving, Jeff on thread; **no path yet** (T62)",
-    "**ASAP** \u2014 Send NFPS.02 RFQ details to SCI Mike Mullaney (he asked Wed ~8:39am); also chase MSS Jason for NFPS.02 4\u00d7 Mitsubishi Sinker quote if already on file (T68)",
+    "**ASAP (wait SCI quote)** \u2014 NFPS.02 RFQ details **SENT** by Katheryn ~9:26am ET to SCI Mike Mullaney (2 PDFs); waiting SCI quote; still chase MSS Jason for NFPS.02 4\u00d7 Mitsubishi Sinker quote (T68)",
     "**Mon Oct 5 7:00am \u2013 Mon Oct 12 (TBD) ET** \u2014 Outage A Bay Crane for AMK (AMA\u2013ANA pipe supports) + LMM (ATA\u2013AUA dust-collector duct/wire); aerial lifts; scaffold not indicated (Fitts; T69) \u2014 dedupe cal dupes = one outage",
     "**Sun Oct 5** \u2014 M-Bay stormwater drains phase-1 scaffold due (T22)",
     "**Thu Oct 1** \u2014 ENSER 7HA1 flatbed ship items 13\u201317 \u2192 Advanced Rigging (T56)",
