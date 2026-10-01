@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T16:07:03-04:00",
+  "updated": "2026-10-01T17:07:28-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -650,6 +650,15 @@
       "item": "Process/ack GE PO 4900660773 (~$9,901.75) \u2014 KGA Mist Collector Install (Alexander Neal)",
       "source": "Email / Ariba GE Vernova 2026-10-01 ~12:48pm ET",
       "notes": "**Thu ~12:48pm ET** Ariba new PO **4900660773** to Indcom (ariba.mail@); requester **Neal, Alexander** (Alexander.Neal@gevernova.com); Greenville Gas Turbines; NET 150; line **KGA Mist Collector Install**; amount **$9,901.75 USD**; PR **PR841924**; ship-to 300 Garlington Rd. Matches QB **Estimate 2013** / draft **EST-382** (T79). Confirm-orders / acknowledge path. Missed in ~2:18pm board sync (Ariba-only To). Distinct from T74/T75."
+    },
+    {
+      "id": "T86",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP",
+      "item": "Review/approve Lawless Systems Est 2038 (~$3,430) \u2014 MFG-EZA Ops tower furniture remove/dispose",
+      "source": "Email / Lawless Systems QB 2026-10-01 ~4:18pm ET",
+      "notes": "**Thu ~4:18pm ET** Lawless Systems Installation (QuickBooks) \u2192 Jeff + jschulz24@aol.com (cc LSIINC@bellsouth.net): **Estimate 2038** **$3,430.00** \u2014 remove and dispose furniture in **MFG-EZA Ops tower** during normal business hours; **NTE $3,430**; forklift/driver provided by Indcom. Ship-to **GE VERNOVA 300 Garlington Rd**. PO number NA. Contact Jamie Schulz (Design/Installation Mgr; 864-304-3700). PDF *Estimate_2038_from_Lawless_Systems_Installation_Inc.pdf*. Review/approve path. Relates T23 (EZA OPS Office / Training Room Conversion) but distinct vendor estimate."
     }
   ],
   "calendar": [
@@ -675,6 +684,7 @@
     "**ASAP** \u2014 Review/edit Katheryn draft quotations **EST-381A** (NFPS.03 machine power) / **EST-381B** (Basaran chilled water) / **EST-381C** (relocate spare breaker 800A feed) / **EST-415** (BL4 Basaran loop bracing) shared ~3:29\u20133:34pm ET (T77)",
     "**Need-by Mon Oct 6** \u2014 Process/ack GE Ariba PO **4900660255** (~$14,193.13; Joey Lum; PP-11B-5 outage + P&S receptacles + air hose reels) (T74)",
     "**Need-by Thu Oct 2** \u2014 Process/ack GE Ariba PO **4900660277** (~$5,453.00; Mateo Castro; UB Tubing Support) (T75)",
+    "**ASAP** \u2014 Review/approve Lawless Systems **Est 2038** (~$3,430; MFG-EZA Ops tower furniture remove/dispose; Jamie Schulz) (T86) \u2014 relates T23 EZA conversion",
     "**ASAP (ack)** \u2014 Process/ack GE Ariba PO **4900660773** (~$9,901.75; Alexander Neal; KGA Mist Collector Install / Est 2013 / EST-382) (T85)",
     "**Thu Oct 1 9:30am\u201310:00am ET** \u2014 Meeting AGV Installation Line Walk @ Meet by VTL 1.2 (Adam Edwards / Eclipse / Roper conduit; **Shanna ~2:35pm ET fwd \u2014 scaffold impact**; Jeff ~3:27pm replied (green tags NFPS.03 maybe tomorrow; N-bay tonight); Shanna ~3:34pm available Thu/Fri \u22654 + weekend shutdown; Katheryn invited/accepted; overlaps T72 Sinker) \u2014 e39 / **T76**",
     "**Thu Oct 1 7:45am\u20139:15am ET** \u2014 Outage PP-11B-8 (11S E3) / TP-11B-8.1 feeder rotation correction @ HFA (Hinkson; DPP; Jim Stanley ME; T71) \u2014 related panel to T47 Fanuc energize but distinct work",
