@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T15:10:45-04:00",
+  "updated": "2026-10-01T16:07:03-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -34,10 +34,10 @@
       "id": "T4",
       "status": "open",
       "priority": "high",
-      "due": "ASAP (partial ship staging)",
-      "item": "Layher rental R-000159 \u2014 finalize revised qty + issue PO GE-JF260930",
+      "due": "ASAP (final order IN \u2014 issue PO + ETA)",
+      "item": "Layher rental R-000159 \u2014 issue PO GE-JF260930 + confirm ship ETA",
       "source": "Email / Jeremy + Jeff 2026-09-25/28/30/10-01",
-      "notes": "**Fri\u2013Wed prior:** qty changes + Jeremy dog-bone/tube/drill-hole asks. **Wed ~4:18pm ET Jeff:** dog-bone = **baby bar ~6\"**; steel decks + tube lengths Jeremy provided **OK**. **Wed ~9:07pm ET Jeff:** drop 20' tubes \u2192 closer to **16'**; **1'7 tubes \u2192 40**, rest tubes **30**; priority partial ship: lattice girders / 8' LWL / 1' LWL / 8' + 7' steel decks / clamps; branch can ship direct OK. **Thu ~11:33am ET Jeremy:** 20'\u2192**16'5\" (7300500)** + qty adjust; **staging partial ship** while add-ons arrive. **Thu ~11:54am ET Jeremy:** pic of **2601025 ledger** from Washington \u2014 size OK? **Thu ~1:11pm ET Jeff:** \u201c**That is it!**\u201d (ledger confirmed). Still need final PO **GE-JF260930** + ship ASAP/ETA. Related: Obed Catalog + New Toy S-000236 (T61)."
+      "notes": "**Fri\u2013Wed prior:** qty changes + Jeremy dog-bone/tube/drill-hole asks. **Wed ~4:18pm ET Jeff:** dog-bone = **baby bar ~6\"**; steel decks + tube lengths Jeremy provided **OK**. **Wed ~9:07pm ET Jeff:** drop 20' tubes \u2192 closer to **16'**; **1'7 tubes \u2192 40**, rest tubes **30**; priority partial ship: lattice girders / 8' LWL / 1' LWL / 8' + 7' steel decks / clamps; branch can ship direct OK. **Thu ~11:33am ET Jeremy:** 20\u2032\u2192**16'5\" (7300500)** + qty adjust; **staging partial ship** while add-ons arrive. **Thu ~11:54am ET Jeremy:** pic of **2601025 ledger** from Washington \u2014 size OK? **Thu ~1:11pm ET Jeff:** \u201c**That is it!**\u201d (ledger confirmed). **Thu ~3:37pm ET Jeremy:** attached **Order Preview R-000159** \u2014 **final version as of 10.1.26**; \u201c**We're transferring these items now.**\u201d Still need Indcom PO **GE-JF260930** + ship ASAP/ETA. Related: Obed Catalog + New Toy S-000236 (T61)."
     },
     {
       "id": "T6",
