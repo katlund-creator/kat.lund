@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T14:18:08-04:00",
+  "updated": "2026-10-01T15:10:45-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -592,10 +592,10 @@
       "id": "T79",
       "status": "open",
       "priority": "high",
-      "due": "ASAP",
+      "due": "ASAP (PO IN \u2014 align draft)",
       "item": "Review/edit Katheryn draft quotation EST-382 KGA Exomist Power Installation",
-      "source": "Email / Google Docs share 2026-09-30 ~7:47pm ET",
-      "notes": "**Wed ~7:47pm ET** Katheryn shared Google Doc inviting Jeff to **edit**: **EST-382** KGA Exomist Power Installation \u2014 https://docs.google.com/document/d/1to5oKHqxgNatp4XckyPhteozDWiJb0iGNT7MLcGV1Rc/edit . Ties T14 (DPP Joist KGA Exomist). Jeff review/edit/approve before customer send."
+      "source": "Email / Google Docs share 2026-09-30 ~7:47pm ET + Ariba 2026-10-01",
+      "notes": "**Wed ~7:47pm ET** Katheryn shared Google Doc inviting Jeff to **edit**: **EST-382** KGA Exomist Power Installation \u2014 https://docs.google.com/document/d/1to5oKHqxgNatp4XckyPhteozDWiJb0iGNT7MLcGV1Rc/edit . Ties T14 (DPP Joist KGA Exomist). **Thu ~12:48pm ET:** GE Ariba **PO 4900660773** (~$9,901.75) **KGA Mist Collector Install** (Alexander Neal) arrived \u2014 matches QB Est 2013 / EST-382 amount (see **T85**). Align draft to PO / confirm scope; customer PO path open."
     },
     {
       "id": "T80",
@@ -641,6 +641,15 @@
       "item": "Tell OpSource when Tavan Hughes should report for work",
       "source": "Email / Jose Cruz 2026-10-01 ~8:21am ET",
       "notes": "**Thu ~8:21am ET Jose\u2192Jeff:** Tavan Hughes asking when he needs to be in \u2014 all set/ready to start (T52 onboarding closed Mon). **Jeff owes start date/time** answer. Distinct from new hire Chaz (T78)."
+    },
+    {
+      "id": "T85",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP (ack/confirm-orders)",
+      "item": "Process/ack GE PO 4900660773 (~$9,901.75) \u2014 KGA Mist Collector Install (Alexander Neal)",
+      "source": "Email / Ariba GE Vernova 2026-10-01 ~12:48pm ET",
+      "notes": "**Thu ~12:48pm ET** Ariba new PO **4900660773** to Indcom (ariba.mail@); requester **Neal, Alexander** (Alexander.Neal@gevernova.com); Greenville Gas Turbines; NET 150; line **KGA Mist Collector Install**; amount **$9,901.75 USD**; PR **PR841924**; ship-to 300 Garlington Rd. Matches QB **Estimate 2013** / draft **EST-382** (T79). Confirm-orders / acknowledge path. Missed in ~2:18pm board sync (Ariba-only To). Distinct from T74/T75."
     }
   ],
   "calendar": [
@@ -666,6 +675,7 @@
     "**ASAP** \u2014 Review/edit Katheryn draft quotations **EST-381A** (NFPS.03 machine power) / **EST-381B** (Basaran chilled water) / **EST-381C** (relocate spare breaker 800A feed) / **EST-415** (BL4 Basaran loop bracing) shared ~3:29\u20133:34pm ET (T77)",
     "**Need-by Mon Oct 6** \u2014 Process/ack GE Ariba PO **4900660255** (~$14,193.13; Joey Lum; PP-11B-5 outage + P&S receptacles + air hose reels) (T74)",
     "**Need-by Thu Oct 2** \u2014 Process/ack GE Ariba PO **4900660277** (~$5,453.00; Mateo Castro; UB Tubing Support) (T75)",
+    "**ASAP (ack)** \u2014 Process/ack GE Ariba PO **4900660773** (~$9,901.75; Alexander Neal; KGA Mist Collector Install / Est 2013 / EST-382) (T85)",
     "**Thu Oct 1 9:30am\u201310:00am ET** \u2014 Meeting AGV Installation Line Walk @ Meet by VTL 1.2 (Adam Edwards / Eclipse / Roper conduit; **Shanna ~2:35pm ET fwd \u2014 scaffold impact**; Jeff ~3:27pm replied (green tags NFPS.03 maybe tomorrow; N-bay tonight); Shanna ~3:34pm available Thu/Fri \u22654 + weekend shutdown; Katheryn invited/accepted; overlaps T72 Sinker) \u2014 e39 / **T76**",
     "**Thu Oct 1 7:45am\u20139:15am ET** \u2014 Outage PP-11B-8 (11S E3) / TP-11B-8.1 feeder rotation correction @ HFA (Hinkson; DPP; Jim Stanley ME; T71) \u2014 related panel to T47 Fanuc energize but distinct work",
     "**Thu Oct 1 9:15am\u20139:45am ET** \u2014 Energize NFPS.03 Mitsubishi Sinker EDMs #2301352/#2301353/#2301348 via TP-11B-8.1 @ HDA after T71 rotation (Hinkson/Jason; DPP; Jim Stanley; T72) \u2014 distinct from T47 Fanuc set",
@@ -675,12 +685,12 @@
     "**Tue Oct 6 \u2013 Wed Oct 7** \u2014 ENSER 7HA1 platform trucks \u2192 Advanced Rigging (T56)",
     "**Mon Nov 2 \u2013 Tue Nov 3** \u2014 7HA1 Build Platform install (ENSER crew; Twigg ~3:14pm ET clarified; T56) \u2014 beyond 30d board but noted",
     "**ASAP** \u2014 OpSource hire **Chaz Kieff**: Yesenia ~1:52pm ET Thu asks **pay rate** (T78)",
-    "**ASAP** \u2014 Review/edit Katheryn draft **EST-382** KGA Exomist (shared ~7:47pm Wed; T79) \u2014 ties T14",
+    "**ASAP (PO IN)** \u2014 Review/edit Katheryn draft **EST-382** KGA Exomist (shared ~7:47pm Wed; T79) \u2014 ties T14; **Ariba PO 4900660773** (~$9,901.75; Alexander Neal; KGA Mist Collector Install) arrived ~12:48pm ET Thu (**T85**)",
     "**ASAP** \u2014 Process DPP invoices: NFPS.03 Pay App #4 / Invoice 4705 (T80); NFPS.03 Elec/Plumb scope mods Invoice 4706 (T81); ACB Receptacles Invoice 4703 (T82)",
     "**ASAP** \u2014 Demo security-camera scaffolds + barricades @ 17 International Court (Bill\u2192Jeff; T83)",
     "**ASAP** \u2014 Tell Jose when **Tavan Hughes** should report (T84)",
     "**ASAP** \u2014 Process SPC **North Pole Invoice 220** (Evan ~11:23pm Wed; was Estimate 417 \u2014 T64)",
-    "**Thu Oct 1 morning windows** \u2014 PP-11B-8 rotation 7:45\u20139:15 (T71/e36); Sinker energize 9:15\u20139:45 (T72/e37); AGV walk 9:30\u201310:00 (T76/e39) \u2014 no complete/outcome mail as of ~2:15pm ET; RP-ABB-1 1:00\u20131:30 still unconfirmed by DPP (T73) but ACB receptacles invoice arrived (T82)"
+    "**Thu Oct 1 morning windows** \u2014 PP-11B-8 rotation 7:45\u20139:15 (T71/e36); Sinker energize 9:15\u20139:45 (T72/e37); AGV walk 9:30\u201310:00 (T76/e39) \u2014 no complete/outcome mail as of ~3:08pm ET; RP-ABB-1 1:00\u20131:30 still unconfirmed by DPP (T73) but ACB receptacles invoice arrived (T82)"
   ],
   "events": [
     {
