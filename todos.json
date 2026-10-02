@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T17:07:28-04:00",
+  "updated": "2026-10-02T08:13:17-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -484,10 +484,10 @@
       "id": "T67",
       "status": "open",
       "priority": "high",
-      "due": "THIS WEEK ASAP",
-      "item": "Schedule BL4 / NFPS.03 mist-collector + fire-alarm work with MSS (Jason Gunter); PO/payment + GE-site POC",
-      "source": "Email / Jeff\u2194Jason Gunter (MSS) 2026-09-29/30",
-      "notes": "**Tue ~7:28pm ET Jeff\u2192Jason:** ready to schedule BL4 this week; please call. (Thread = GEV RFQ; attachment *GE IND Corp NFPS 0.03 ( BL4) EDM Machines.pdf* \u2014 H-Bay mist collectors & fire alarm.) **Wed ~7:52am ET Jason:** OOO today; asks if PO sent; will check service manager on scheduling. **Wed ~8:27am ET Jeff SENT:** **PO 4900652190** or card OK; Bill Marchbanks = vendor payment setup POC; asks who for company setup if easier; needs **GE onsite fire-alarm POC** for short-notice tie-ins; also asks if MSS already has **NFPS.02** quote for **4 Mitsubishi Sinker EDMs** (see T68). Still open: Jason/service-mgr schedule this week + confirm payment/setup + site POC + NFPS.02 quote if already done. Distinct from T57 (SPC BL4 50% invoice). **Wed ~3:27pm ET Jeff\u2192Shanna:** \u201cI can\u2019t get MSS to give me a date for fire alarm tie in for mist collectors.\u201d"
+      "due": "TODAY ASAP (MSS offered Mon if ready)",
+      "item": "Schedule BL4 / NFPS.03 mist-collector + fire-alarm work with MSS (Jason Gunter / Frank Manganella); confirm Mon readiness",
+      "source": "Email / Jeff\u2194Jason Gunter + Frank Manganella (MSS) 2026-09-29/30/10-02",
+      "notes": "**Prior:** PO **4900652190**/card; Bill vendor setup; GE fire-alarm POC ask; MSS Sinker quote chase (T68); Jeff Wed still no date. **Fri ~7:43am ET Jeff\u2192Jason:** needs date for **Mitsubishi fire-alarm tie-ins** \u2014 must give customer update **today**. **Fri ~8:07am ET Frank Manganella** (Service Manager \u2013 Fire; new GEV RFQ thread): \u201cJeff is everything 100% ready for us? If so I can have someone out there **Monday**.\u201d **Action:** confirm readiness to Frank + lock Mon crew + update customer; still need GE onsite fire-alarm POC. Distinct from T57 (SPC BL4 50% invoice). Relates T68 MSS Sinker chase."
     },
     {
       "id": "T68",
@@ -556,7 +556,7 @@
       "id": "T75",
       "status": "open",
       "priority": "high",
-      "due": "Need-by Thu Oct 2",
+      "due": "Need-by TODAY Fri Oct 2",
       "item": "Process/ack GE PO 4900660277 (~$5,453.00) \u2014 UB Tubing Support (Mateo Castro)",
       "source": "Email / Ariba GE Vernova 2026-09-30 ~1:03pm ET",
       "notes": "**Wed ~1:03pm ET** Ariba new PO **4900660277** to Indcom (ariba.mail@); requester **Castro, Mateo** (Mateo.Castro1@gevernova.com; +1 864-553-1400); Greenville Gas Turbines; NET 150; need-by **2 Oct 2026**. Line: **UB Tubing Support** 1 EA @ **$5,453.00 USD**. Ship-to 300 Garlington Rd; Deliver To Castro/5250. Confirm-orders / acknowledge path. Distinct from T74 PO 4900660255 (Joey Lum / PP-11B-5)."
@@ -592,10 +592,10 @@
       "id": "T79",
       "status": "open",
       "priority": "high",
-      "due": "ASAP (PO IN \u2014 align draft)",
+      "due": "ASAP (PO IN \u2014 vendor issued)",
       "item": "Review/edit Katheryn draft quotation EST-382 KGA Exomist Power Installation",
-      "source": "Email / Google Docs share 2026-09-30 ~7:47pm ET + Ariba 2026-10-01",
-      "notes": "**Wed ~7:47pm ET** Katheryn shared Google Doc inviting Jeff to **edit**: **EST-382** KGA Exomist Power Installation \u2014 https://docs.google.com/document/d/1to5oKHqxgNatp4XckyPhteozDWiJb0iGNT7MLcGV1Rc/edit . Ties T14 (DPP Joist KGA Exomist). **Thu ~12:48pm ET:** GE Ariba **PO 4900660773** (~$9,901.75) **KGA Mist Collector Install** (Alexander Neal) arrived \u2014 matches QB Est 2013 / EST-382 amount (see **T85**). Align draft to PO / confirm scope; customer PO path open."
+      "source": "Email / Google Docs share 2026-09-30 ~7:47pm ET + Ariba 2026-10-01 + Jeff\u2192DPP 2026-10-02",
+      "notes": "**Wed ~7:47pm ET** Katheryn shared Google Doc inviting Jeff to **edit**: **EST-382** KGA Exomist Power Installation \u2014 https://docs.google.com/document/d/1to5oKHqxgNatp4XckyPhteozDWiJb0iGNT7MLcGV1Rc/edit . Ties T14 (DPP Joist KGA Exomist). **Thu ~12:48pm ET:** GE Ariba **PO 4900660773** (~$9,901.75) **KGA Mist Collector Install** (Alexander Neal) \u2014 matches QB Est 2013 / EST-382 (see **T85**). **Fri ~7:30am ET Jeff\u2192Jason Marchbanks** (cc Amie/Bill/Katheryn): use **PO 4900660773** for KGA electrical, unistrut, and duct support \u2014 **vendor PO issued**. Align draft/close loop as needed."
     },
     {
       "id": "T80",
@@ -646,10 +646,10 @@
       "id": "T85",
       "status": "open",
       "priority": "high",
-      "due": "ASAP (ack/confirm-orders)",
+      "due": "ASAP (ack/confirm-orders; vendor PO issued)",
       "item": "Process/ack GE PO 4900660773 (~$9,901.75) \u2014 KGA Mist Collector Install (Alexander Neal)",
-      "source": "Email / Ariba GE Vernova 2026-10-01 ~12:48pm ET",
-      "notes": "**Thu ~12:48pm ET** Ariba new PO **4900660773** to Indcom (ariba.mail@); requester **Neal, Alexander** (Alexander.Neal@gevernova.com); Greenville Gas Turbines; NET 150; line **KGA Mist Collector Install**; amount **$9,901.75 USD**; PR **PR841924**; ship-to 300 Garlington Rd. Matches QB **Estimate 2013** / draft **EST-382** (T79). Confirm-orders / acknowledge path. Missed in ~2:18pm board sync (Ariba-only To). Distinct from T74/T75."
+      "source": "Email / Ariba GE Vernova 2026-10-01 + Jeff\u2192DPP 2026-10-02",
+      "notes": "**Thu ~12:48pm ET** Ariba new PO **4900660773** to Indcom (ariba.mail@); requester **Neal, Alexander** (Alexander.Neal@gevernova.com); Greenville Gas Turbines; NET 150; line **KGA Mist Collector Install**; amount **$9,901.75 USD**; PR **PR841924**; ship-to 300 Garlington Rd. Matches QB **Estimate 2013** / draft **EST-382** (T79). **Fri ~7:30am ET Jeff\u2192Jason Marchbanks** (cc Amie/Bill/Katheryn): \u201cPlease use PO 4900660773 for the KGA electrical, unistrut, and duct support project.\u201d \u2014 **DPP vendor path started**. Still need GE Ariba confirm-orders/ack if not done. Distinct from T74/T75/T87."
     },
     {
       "id": "T86",
@@ -659,6 +659,24 @@
       "item": "Review/approve Lawless Systems Est 2038 (~$3,430) \u2014 MFG-EZA Ops tower furniture remove/dispose",
       "source": "Email / Lawless Systems QB 2026-10-01 ~4:18pm ET",
       "notes": "**Thu ~4:18pm ET** Lawless Systems Installation (QuickBooks) \u2192 Jeff + jschulz24@aol.com (cc LSIINC@bellsouth.net): **Estimate 2038** **$3,430.00** \u2014 remove and dispose furniture in **MFG-EZA Ops tower** during normal business hours; **NTE $3,430**; forklift/driver provided by Indcom. Ship-to **GE VERNOVA 300 Garlington Rd**. PO number NA. Contact Jamie Schulz (Design/Installation Mgr; 864-304-3700). PDF *Estimate_2038_from_Lawless_Systems_Installation_Inc.pdf*. Review/approve path. Relates T23 (EZA OPS Office / Training Room Conversion) but distinct vendor estimate."
+    },
+    {
+      "id": "T87",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP (ack; need-by Nov 2; Mark ready to invoice)",
+      "item": "Process/ack GE PO 4900660909 (~$29,233.71) \u2014 Scaffold Air Heater 3 (Robert Daniel / Mark Monroe)",
+      "source": "Email / Ariba 2026-10-01 ~8:20pm ET + Mark Monroe 2026-10-02 ~7:50am ET",
+      "notes": "**Thu ~8:20pm ET** Ariba new PO **4900660909** to Indcom (ariba.mail@); amount **$29,233.71 USD**; NET 150; need-by **2 Nov 2026**; requester **Daniel, Robert** (Robert.Daniel1@gevernova.com); PR **PR841889**; ship-to GE Gas Turbines Greenville / **Monroe, Mark**. Line: **Scaffold in support of Air Heater 3 replacement** (remove old / install new / access to insulate) \u2014 Labor $12,129.76; Material $15,865.95 (28-day rental \u00d73); Equipment $963; Consumables $275. Missed overnight after Thu 5:08pm watermark (Ariba-only To). **Fri ~7:50am ET Mark Monroe\u2192Bill+Jeff:** \u201cHave you received this PO? \u2026 ready to invoice.\u201d Confirm-orders/ack + reply Mark/Bill. Distinct from T74/T75/T85."
+    },
+    {
+      "id": "T88",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP (answer Bonitz Qs)",
+      "item": "Answer Bonitz access-floor RFQ questions for BSA / BSB conf-room flooring",
+      "source": "Email / Katheryn fwd James Henninger (Bonitz) 2026-10-01 ~5:21pm ET",
+      "notes": "**Thu ~5:21pm ET Katheryn\u2192Jeff:** \u201cHere is for the flooring for BSA\u201d \u2014 fwd **James Henninger** (Bonitz Product Specialist; jameshenninger@bonitz.com; 262-442-3097) RE: Indcom Corp. Access Floor System RFQ. James asks: (1) project name (BSB GE Gas \u2013 Conf. Room or similar?); (2) do 2 rooms off main also get low-profile flooring?; (3) how many floor outlet locations?; (4) carpet tile over ASM Q2C 1.6\" system \u2014 Bonitz provide or Indcom/GE? Attached *ASM Q2C - 1.6in Low Profile Flooring Data & Overview.pdf*. Bill+Kat already on thread with floor plan (conduit under access floor). **Jeff owes answers** (or confirm Kat/Bill own) to keep quote moving. Relates T13/T42 BSA but distinct access-floor RFQ."
     }
   ],
   "calendar": [
@@ -676,16 +694,18 @@
     "**ASAP (Tue noon payroll PAST \u2014 still open)** \u2014 Correct OpSource FW39 deltas vs Katheryn ~8:53am list (T63) \u2014 **no correction mail as of ~Wed 8:11am ET**",
     "**TODAY ASAP** \u2014 GE EHS Concern #2020260 N-Bay scaffold stairs bolts/debris (Fitts fwd ~11:44am; Orders wants look today; T65)",
     "**Tue Sep 29 (confirm outcome)** \u2014 ITH pumps D-Bay power huddle (Andrew Heatherly + Jeff + Brandon Malone; no Wed morning follow-up mail \u2014 confirm plan/outcome; T66)",
-    "**THIS WEEK ASAP** \u2014 Schedule BL4 / NFPS.03 mist-collector + fire-alarm work w/ MSS Jason Gunter \u2014 Jeff SENT ~8:27am **PO 4900652190**/card + Bill vendor + GE fire-alarm POC ask; Jason OOO Wed / service mgr scheduling; **Jeff ~3:27pm ET still can\u2019t get MSS date** for fire-alarm tie-in (T67)",
+    "**TODAY ASAP (MSS offered Mon)** \u2014 Confirm readiness to **Frank Manganella** (MSS Fire) for **Monday** crew + give customer Mitsubishi fire-alarm tie-in update (Jeff chased Jason ~7:43am ET Fri) (T67)",
     "**Tue Sep 29 1:00\u20134:00pm ET (offered; window passed)** \u2014 UniFirst call (Herrod/Trey) on screen-print shirts path; Bill driving, Jeff on thread; **no path yet** (T62)",
     "**ASAP (SCI quote IN)** \u2014 Mike ~9:48am ET Thu Oct 1 sent **NFPS.02 Data** quote PDF (13169464889\u2026); review/route (T68); still chase MSS for NFPS.02 4\u00d7 Mitsubishi Sinker quote",
     "**Mon Oct 5 7:00am \u2013 Mon Oct 12 (TBD) ET** \u2014 Outage **A&H Bay Bridge Cranes 16876 & 11495** for AMK (AMA\u2013ANA pipe supports) + LMM (ATA\u2013AUA dust-collector duct/wire); aerial lifts; scaffold not indicated (Fitts + Madak ~12:51pm confirm; T69) \u2014 dedupe cal dupes = e35",
     "**ASAP** \u2014 Review/route DPP NFPS.02 Electrical + Process Piping proposals (both IN: Electrical Jason ~10:42am; Plumbing Amie ~12:09pm) (T70)",
     "**ASAP** \u2014 Review/edit Katheryn draft quotations **EST-381A** (NFPS.03 machine power) / **EST-381B** (Basaran chilled water) / **EST-381C** (relocate spare breaker 800A feed) / **EST-415** (BL4 Basaran loop bracing) shared ~3:29\u20133:34pm ET (T77)",
     "**Need-by Mon Oct 6** \u2014 Process/ack GE Ariba PO **4900660255** (~$14,193.13; Joey Lum; PP-11B-5 outage + P&S receptacles + air hose reels) (T74)",
-    "**Need-by Thu Oct 2** \u2014 Process/ack GE Ariba PO **4900660277** (~$5,453.00; Mateo Castro; UB Tubing Support) (T75)",
+    "**TODAY need-by Fri Oct 2** \u2014 Process/ack GE Ariba PO **4900660277** (~$5,453.00; Mateo Castro; UB Tubing Support) (T75) \u2014 **no ack mail yet as of ~8:10am ET**",
     "**ASAP** \u2014 Review/approve Lawless Systems **Est 2038** (~$3,430; MFG-EZA Ops tower furniture remove/dispose; Jamie Schulz) (T86) \u2014 relates T23 EZA conversion",
-    "**ASAP (ack)** \u2014 Process/ack GE Ariba PO **4900660773** (~$9,901.75; Alexander Neal; KGA Mist Collector Install / Est 2013 / EST-382) (T85)",
+    "**ASAP (ack; vendor PO issued Fri ~7:30am)** \u2014 Process/ack GE Ariba PO **4900660773** (~$9,901.75; Alexander Neal; KGA Mist Collector Install / Est 2013 / EST-382) (T85) \u2014 Jeff issued PO to DPP Jason Marchbanks",
+    "**ASAP (ack; Mark ready to invoice)** \u2014 Process/ack GE Ariba PO **4900660909** (~$29,233.71; Robert Daniel / Mark Monroe; Scaffold Air Heater 3; need-by Nov 2) (T87)",
+    "**ASAP** \u2014 Answer Bonitz (James Henninger) BSA/BSB access-floor RFQ questions (project name / 2 side rooms / floor outlets / carpet tile) (T88)",
     "**Thu Oct 1 9:30am\u201310:00am ET** \u2014 Meeting AGV Installation Line Walk @ Meet by VTL 1.2 (Adam Edwards / Eclipse / Roper conduit; **Shanna ~2:35pm ET fwd \u2014 scaffold impact**; Jeff ~3:27pm replied (green tags NFPS.03 maybe tomorrow; N-bay tonight); Shanna ~3:34pm available Thu/Fri \u22654 + weekend shutdown; Katheryn invited/accepted; overlaps T72 Sinker) \u2014 e39 / **T76**",
     "**Thu Oct 1 7:45am\u20139:15am ET** \u2014 Outage PP-11B-8 (11S E3) / TP-11B-8.1 feeder rotation correction @ HFA (Hinkson; DPP; Jim Stanley ME; T71) \u2014 related panel to T47 Fanuc energize but distinct work",
     "**Thu Oct 1 9:15am\u20139:45am ET** \u2014 Energize NFPS.03 Mitsubishi Sinker EDMs #2301352/#2301353/#2301348 via TP-11B-8.1 @ HDA after T71 rotation (Hinkson/Jason; DPP; Jim Stanley; T72) \u2014 distinct from T47 Fanuc set",
