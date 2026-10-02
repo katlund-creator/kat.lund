@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T15:08:53-04:00",
+  "updated": "2026-10-02T16:08:12-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -34,10 +34,10 @@
       "id": "T4",
       "status": "open",
       "priority": "high",
-      "due": "ASAP (truck today vs Mon; still need PO + ETA)",
+      "due": "ASAP (Sat OT truck vs Mon; still need PO + ETA)",
       "item": "Layher rental R-000159 \u2014 issue PO GE-JF260930 + confirm ship ETA",
-      "source": "Email / Jeremy + Jeff 2026-09-25/28/30/10-01/10-02",
-      "notes": "**Fri\u2013Wed prior:** qty changes + Jeremy dog-bone/tube/drill-hole asks. **Wed\u2013Thu prior:** baby bar OK; 20\u2032\u219216'5\" (7300500); qty adjust; Order Preview R-000159 **final 10.1.26**; transferring. **Thu ~6:16pm ET Jeremy:** **1' ledgers** + **11\u00d7 28' lattice girders** coming from Washington \u2014 **not on first truck**; will send what they can from inventory. **Fri ~2:18pm ET Jeremy:** hard time finding a truck for today; keep trying; if Jeff has broker for truck to Ocala by **3:30 PM** help; otherwise **may push to Monday**. Still need Indcom PO **GE-JF260930** + confirm ship day/ETA. Related: Obed Catalog + New Toy S-000236 (T61)."
+      "source": "Email / Jeremy + Jeff + Jimmy 2026-09-25/28/30/10-01/10-02",
+      "notes": "**Prior:** Order Preview R-000159 **final 10.1.26**; transferring; **1' ledgers** + **11\u00d7 28' lattice girders** from Washington **not on first truck**. **Fri ~2:18pm ET Jeremy:** hard to find truck for today; broker by 3:30pm or Monday. **Fri ~3:25pm ET Jeff\u2192Jeremy (cc Obed/Jimmy):** ask OT to load a truck **tomorrow (Sat)**; waiting broker callback; in a bind. **Fri ~4:01pm ET Jimmy Holmes:** not about OT \u2014 brokers can't secure a truck; nibble fell through; will wait a while; if Jeff's guy finds something let Layher know. Still need Indcom PO **GE-JF260930** + ship day/ETA. Related: Obed Catalog + New Toy S-000236 (T61)."
     },
     {
       "id": "T6",
@@ -484,10 +484,10 @@
       "id": "T67",
       "status": "open",
       "priority": "high",
-      "due": "Mon Oct 5 ASAP (Jeff confirmed 6 ready; await MSS crew lock)",
+      "due": "Mon Oct 5 ASAP (6 ready; BLOCKED on MSS customer form T95)",
       "item": "Schedule BL4 / NFPS.03 mist-collector + fire-alarm work with MSS (Jason Gunter / Frank Manganella); lock Mon crew",
       "source": "Email / Jeff\u2194Jason Gunter + Frank Manganella (MSS) 2026-09-29/30/10-02",
-      "notes": "**Prior:** PO **4900652190**/card; Bill vendor setup; GE fire-alarm POC ask; MSS Sinker quote chase (T68). **Fri ~7:43am ET Jeff\u2192Jason:** needs date for Mitsubishi fire-alarm tie-ins. **Fri ~8:07am ET Frank:** can have someone **Monday** if 100% ready. **Fri ~9:03am ET Jeff\u2192Frank (cc Jason):** \u201c**6 machines are 100% ready.** Power, energization, Mitsubishi is onsite working on them. There is one machine that has not been placed yet but that will be a separate effort when we know that timeline.\u201d **Action:** await Frank/MSS Mon crew confirm + update customer; still need GE onsite fire-alarm POC. Distinct from T57. Relates T68."
+      "notes": "**Prior:** PO **4900652190**/card; Bill vendor setup; GE fire-alarm POC ask; MSS Sinker quote chase (T68). **Fri ~7:43am/8:07am/9:03am:** Frank offered Mon if ready; Jeff confirmed **6 machines 100% ready** (1 unplaced = separate). **Fri ~3:08pm ET Frank\u2192Kat+Jeff:** Indcom **not set up as MSS customer** \u2014 return customer form to start service (see **T95**). **Fri ~3:10pm ET Kat\u2192Bill+Jeff:** asked Bill to fill *New Customer Application v9_3.12.26.pdf*. **Action:** complete T95 form \u2192 then Frank/MSS Mon crew lock + update customer; still need GE onsite fire-alarm POC. Distinct from T57. Relates T68/T95."
     },
     {
       "id": "T68",
@@ -731,6 +731,15 @@
       "item": "Confirm GE invoices 3780 / 3883 / 3884 / 3886 have POs + received status (Fitts)",
       "source": "Email / Matthew Fitts 2026-10-02 ~2:50pm ET",
       "notes": "**Fri ~2:50pm ET Fitts\u2192Bill + Jeff:** received invoices last week; wants confirm already covered with POs and whether GE needs to receive them \u2014 Mitch handles finances. Invoice #s: **3780, 3883, 3884, 3886**. Jeff/Bill reply path. Distinct from T46 (3878/3879/3845) / T51 (3877)."
+    },
+    {
+      "id": "T95",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP (blocks MSS Mon crew T67)",
+      "item": "Complete MSS New Customer Application + return to Frank (Bill fill)",
+      "source": "Email / Frank Manganella\u2192Kat+Jeff + Kat\u2192Bill 2026-10-02",
+      "notes": "**Fri ~3:08pm ET Frank Manganella (MSS)\u2192Kat+Jeff:** spoke with Jason \u2014 Indcom **not set up as customer** at MSS yet; please return attached customer form so they can start service work (projects coming up). Attachment: *New Customer Application v9_3.12.26.pdf*. **Fri ~3:10pm ET Katheryn\u2192Bill Marchbanks + Jeff:** fwd asking Bill to fill form for MSS system setup. **Action:** Bill complete form \u2192 return to Frank/MSS; unblocks T67 Mon BL4/NFPS.03 fire-alarm crew. Relates T67/T68."
     }
   ],
   "calendar": [
@@ -748,7 +757,7 @@
     "**ASAP (Tue noon payroll PAST \u2014 still open)** \u2014 Correct OpSource FW39 deltas vs Katheryn ~8:53am list (T63) \u2014 **no correction mail as of ~Wed 8:11am ET**",
     "**TODAY ASAP** \u2014 GE EHS Concern #2020260 N-Bay scaffold stairs bolts/debris (Fitts fwd ~11:44am; Orders wants look today; T65)",
     "**Tue Sep 29 (confirm outcome)** \u2014 ITH pumps D-Bay power huddle (Andrew Heatherly + Jeff + Brandon Malone; no Wed morning follow-up mail \u2014 confirm plan/outcome; T66)",
-    "**Mon Oct 5 (Jeff confirmed 6 ready ~9:03am Fri)** \u2014 Await **Frank/MSS** Mon crew lock for Mitsubishi fire-alarm tie-ins; 1 unplaced machine = separate effort; update customer (T67)",
+    "**Mon Oct 5 (BLOCKED on MSS customer form T95)** \u2014 Jeff confirmed 6 ready ~9:03am Fri; Frank ~3:08pm: Indcom not MSS customer yet \u2014 complete form (T95) then Mon crew lock + update customer (T67)",
     "**Tue Sep 29 1:00\u20134:00pm ET (offered; window passed)** \u2014 UniFirst call (Herrod/Trey) on screen-print shirts path; Bill driving, Jeff on thread; **no path yet** (T62)",
     "**ASAP (advise Kat reply; MSS site visit Mon+)** \u2014 SCI NFPS.02 Data quote still to review/route (T68); **Fri ~1:57pm Kat RFQ\u2192Jason Gunter**; **~2:05pm Jason:** site visit first of week; **~2:07pm Kat\u2192Jeff** asks what to reply",
     "**Mon Oct 5 7:00am \u2013 Mon Oct 12 (TBD) ET** \u2014 Outage **A&H Bay Bridge Cranes 16876 & 11495** for AMK (AMA\u2013ANA pipe supports) + LMM (ATA\u2013AUA dust-collector duct/wire); aerial lifts; scaffold not indicated (Fitts + Madak ~12:51pm confirm; T69) \u2014 dedupe cal dupes = e35",
@@ -764,9 +773,10 @@
     "**ASAP** \u2014 Review/edit Katheryn draft **Quotation NFPS-02 Electrical & Mechanical-Plumbing** shared ~8:49am ET Fri (T90) \u2014 ties T70/T68",
     "**THIS WEEKEND** \u2014 M-Bay aisle concrete cutting MFA\u2013~MCA (Buellesbach ~10:01am Fri; road plates for A-side; review w/ affected; invite.ics not on Kat cal yet) (T91) \u2014 distinct from T22 stormwater Oct 5",
     "**Mon Oct 5 morning** \u2014 Confirm GE badge for **Artem Prokopchuk (CP-1805)** ready (Jeff\u2192Colby ~11:46am Fri; Colby OOO 10/2 auto-reply \u2014 chase/alternate) (T92)",
-    "**ASAP (truck today vs Mon; still need PO)** \u2014 Layher R-000159: Jeremy ~2:18pm Fri hard to find truck (broker by 3:30pm or Monday); 1' ledgers/11\u00d728' girders not on first truck (Thu ~6:16pm); still issue PO **GE-JF260930** (T4)",
+    "**ASAP (Sat OT truck vs Mon; still need PO)** \u2014 Layher R-000159: Jeff ~3:25pm asked OT for **tomorrow** truck (waiting broker); Jimmy ~4:01pm brokers can't secure truck (nibble fell through; if Jeff's guy finds one tell Layher); 1' ledgers/11\u00d728' girders not on first truck; still issue PO **GE-JF260930** (T4)",
     "**ASAP (estimate; await GE PO)** \u2014 AM King **Oil Bay piping** scaffold quote/plan (Russ Zubkov ~2:25pm Fri; Phase 1 flush + Phase 2 daily sections; PDF attached; ME Jim Stanley) (T93)",
     "**ASAP** \u2014 Confirm GE invoices **3780 / 3883 / 3884 / 3886** have POs + receive status (Fitts\u2192Bill+Jeff ~2:50pm Fri) (T94)",
+    "**ASAP (blocks T67 Mon)** \u2014 Bill complete MSS **New Customer Application v9_3.12.26.pdf** + return to Frank (Kat fwd ~3:10pm Fri) (T95)",
     "**Thu Oct 1 9:30am\u201310:00am ET** \u2014 Meeting AGV Installation Line Walk @ Meet by VTL 1.2 (Adam Edwards / Eclipse / Roper conduit; **Shanna ~2:35pm ET fwd \u2014 scaffold impact**; Jeff ~3:27pm replied (green tags NFPS.03 maybe tomorrow; N-bay tonight); Shanna ~3:34pm available Thu/Fri \u22654 + weekend shutdown; Katheryn invited/accepted; overlaps T72 Sinker) \u2014 e39 / **T76**",
     "**Thu Oct 1 7:45am\u20139:15am ET** \u2014 Outage PP-11B-8 (11S E3) / TP-11B-8.1 feeder rotation correction @ HFA (Hinkson; DPP; Jim Stanley ME; T71) \u2014 related panel to T47 Fanuc energize but distinct work",
     "**Thu Oct 1 9:15am\u20139:45am ET** \u2014 Energize NFPS.03 Mitsubishi Sinker EDMs #2301352/#2301353/#2301348 via TP-11B-8.1 @ HDA after T71 rotation (Hinkson/Jason; DPP; Jim Stanley; T72) \u2014 distinct from T47 Fanuc set",
