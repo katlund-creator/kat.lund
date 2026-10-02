@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T16:08:12-04:00",
+  "updated": "2026-10-02T17:13:11-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -34,10 +34,10 @@
       "id": "T4",
       "status": "open",
       "priority": "high",
-      "due": "ASAP (Sat OT truck vs Mon; still need PO + ETA)",
+      "due": "ASAP (broker/Prosponsive truck today\u2013Sat AM; still need PO + ETA)",
       "item": "Layher rental R-000159 \u2014 issue PO GE-JF260930 + confirm ship ETA",
-      "source": "Email / Jeremy + Jeff + Jimmy 2026-09-25/28/30/10-01/10-02",
-      "notes": "**Prior:** Order Preview R-000159 **final 10.1.26**; transferring; **1' ledgers** + **11\u00d7 28' lattice girders** from Washington **not on first truck**. **Fri ~2:18pm ET Jeremy:** hard to find truck for today; broker by 3:30pm or Monday. **Fri ~3:25pm ET Jeff\u2192Jeremy (cc Obed/Jimmy):** ask OT to load a truck **tomorrow (Sat)**; waiting broker callback; in a bind. **Fri ~4:01pm ET Jimmy Holmes:** not about OT \u2014 brokers can't secure a truck; nibble fell through; will wait a while; if Jeff's guy finds something let Layher know. Still need Indcom PO **GE-JF260930** + ship day/ETA. Related: Obed Catalog + New Toy S-000236 (T61)."
+      "source": "Email / Jeremy + Jeff + Jimmy + Prosponsive 2026-09-25/28/30/10-01/10-02",
+      "notes": "**Prior:** Order Preview R-000159 **final 10.1.26**; transferring; **1' ledgers** + **11\u00d7 28' lattice girders** from Washington **not on first truck**. **Fri ~2:18pm ET Jeremy:** hard to find truck for today; broker by 3:30pm or Monday. **Fri ~3:25pm ET Jeff\u2192Jeremy (cc Obed/Jimmy):** ask OT to load a truck **tomorrow (Sat)**; waiting broker callback; in a bind. **Fri ~4:01pm ET Jimmy Holmes:** not about OT \u2014 brokers can't secure a truck; nibble fell through; will wait a while; if Jeff's guy finds something let Layher know. **Fri ~4:09pm ET Jeff\u2192Jimmy:** broker searching for loading **today or tomorrow morning**; will update in ~15 min. **Fri ~4:48pm ET Alex Pittman (Prosponsive Logistics):** Customer Packet attached \u2014 **need account setup** to build load + dispatch driver (see **T97**). Still need Indcom PO **GE-JF260930** + ship day/ETA. Related: Obed Catalog + New Toy S-000236 (T61)."
     },
     {
       "id": "T6",
@@ -727,19 +727,37 @@
       "id": "T94",
       "status": "open",
       "priority": "high",
-      "due": "ASAP",
+      "due": "ASAP (Kat looped \u2014 reply Fitts)",
       "item": "Confirm GE invoices 3780 / 3883 / 3884 / 3886 have POs + received status (Fitts)",
-      "source": "Email / Matthew Fitts 2026-10-02 ~2:50pm ET",
-      "notes": "**Fri ~2:50pm ET Fitts\u2192Bill + Jeff:** received invoices last week; wants confirm already covered with POs and whether GE needs to receive them \u2014 Mitch handles finances. Invoice #s: **3780, 3883, 3884, 3886**. Jeff/Bill reply path. Distinct from T46 (3878/3879/3845) / T51 (3877)."
+      "source": "Email / Matthew Fitts + Jeff\u2192Kat 2026-10-02",
+      "notes": "**Fri ~2:50pm ET Fitts\u2192Bill + Jeff:** received invoices last week; wants confirm already covered with POs and whether GE needs to receive them \u2014 Mitch handles finances. Invoice #s: **3780, 3883, 3884, 3886**. **Fri ~4:46pm ET Jeff\u2192Katheryn:** forwarded Fitts request (no added comment) \u2014 **Kat to help confirm POs + receive status / reply**. Distinct from T46 (3878/3879/3845) / T51 (3877)."
     },
     {
       "id": "T95",
       "status": "open",
       "priority": "high",
-      "due": "ASAP (blocks MSS Mon crew T67)",
+      "due": "ASAP (blocks MSS Mon crew T67; Frank acked)",
       "item": "Complete MSS New Customer Application + return to Frank (Bill fill)",
-      "source": "Email / Frank Manganella\u2192Kat+Jeff + Kat\u2192Bill 2026-10-02",
-      "notes": "**Fri ~3:08pm ET Frank Manganella (MSS)\u2192Kat+Jeff:** spoke with Jason \u2014 Indcom **not set up as customer** at MSS yet; please return attached customer form so they can start service work (projects coming up). Attachment: *New Customer Application v9_3.12.26.pdf*. **Fri ~3:10pm ET Katheryn\u2192Bill Marchbanks + Jeff:** fwd asking Bill to fill form for MSS system setup. **Action:** Bill complete form \u2192 return to Frank/MSS; unblocks T67 Mon BL4/NFPS.03 fire-alarm crew. Relates T67/T68."
+      "source": "Email / Frank Manganella\u2192Kat+Jeff + Kat\u2192Bill + Kat\u2192Frank 2026-10-02",
+      "notes": "**Fri ~3:08pm ET Frank Manganella (MSS)\u2192Kat+Jeff:** spoke with Jason \u2014 Indcom **not set up as customer** at MSS yet; please return attached customer form so they can start service work (projects coming up). Attachment: *New Customer Application v9_3.12.26.pdf*. **Fri ~3:10pm ET Katheryn\u2192Bill Marchbanks + Jeff:** fwd asking Bill to fill form for MSS system setup. **Fri ~4:31pm ET Katheryn\u2192Frank (cc Jeff):** ack \u2014 will get filled out and returned ASAP. **Action:** Bill complete form \u2192 return to Frank/MSS; unblocks T67 Mon BL4/NFPS.03 fire-alarm crew. Relates T67/T68."
+    },
+    {
+      "id": "T96",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP (ack/confirm-orders; need-by Mon Oct 6)",
+      "item": "Process/ack GE PO 4900661220 (~$48,878.16) \u2014 FW40\u201343 C-Bay scaffolding support / machine installs & demo (Joey Lum)",
+      "source": "Email / Ariba GE Vernova 2026-10-02 ~3:27pm ET",
+      "notes": "**Fri ~3:27pm ET** Ariba new PO **4900661220** to Indcom (ariba.mail@); requester **Lum, Lamont Joey** (LamontJoey.Lum@gevernova.com; +1 864-293-2746); Greenville Gas Turbines; NET 150; need-by **6 Oct 2026**. Line: **Indcom FW40-43 CBAY Scaffolding Support, CBAY machine installs and demo** 1 EA @ **$48,878.16 USD**. Ship-to 300 Garlington Rd / Deliver To Lum/5250. Scope notes scaffold support for machine installs + Safe Access/Fall Mitigation manpower (M\u2013F plant hours). Confirm-orders / acknowledge path. Distinct from T74 (same Joey Lum / PP-11B-5 PO 4900660255) / T75 / T85 / T87."
+    },
+    {
+      "id": "T97",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP (blocks Layher truck dispatch T4)",
+      "item": "Complete Prosponsive Logistics customer/account setup + return packet (Alex Pittman)",
+      "source": "Email / Alex Pittman (Prosponsive) 2026-10-02 ~4:48pm ET",
+      "notes": "**Fri ~4:48pm ET Alex Pittman (Prosponsive Logistics; National Accounts; apittman@prosponsive.com; P 470.781.6836 / M 770-882-6319 / after-hours 678.686.0933)**\u2192Jeff: attached *Customer Packet - Prosponsive Logistics - August 2026 (1).pdf* (also sent via text). **Need account setup** to get the load built in system and **driver dispatched**. Ties T4 Layher R-000159 truck (Jeff\u2019s broker path / Sat OT ask). **Action:** complete Prosponsive customer packet/account \u2192 enable dispatch; keep Layher (Jimmy/Jeremy) looped when truck locked."
     }
   ],
   "calendar": [
@@ -773,10 +791,12 @@
     "**ASAP** \u2014 Review/edit Katheryn draft **Quotation NFPS-02 Electrical & Mechanical-Plumbing** shared ~8:49am ET Fri (T90) \u2014 ties T70/T68",
     "**THIS WEEKEND** \u2014 M-Bay aisle concrete cutting MFA\u2013~MCA (Buellesbach ~10:01am Fri; road plates for A-side; review w/ affected; invite.ics not on Kat cal yet) (T91) \u2014 distinct from T22 stormwater Oct 5",
     "**Mon Oct 5 morning** \u2014 Confirm GE badge for **Artem Prokopchuk (CP-1805)** ready (Jeff\u2192Colby ~11:46am Fri; Colby OOO 10/2 auto-reply \u2014 chase/alternate) (T92)",
-    "**ASAP (Sat OT truck vs Mon; still need PO)** \u2014 Layher R-000159: Jeff ~3:25pm asked OT for **tomorrow** truck (waiting broker); Jimmy ~4:01pm brokers can't secure truck (nibble fell through; if Jeff's guy finds one tell Layher); 1' ledgers/11\u00d728' girders not on first truck; still issue PO **GE-JF260930** (T4)",
+    "**ASAP (broker/Prosponsive truck today\u2013Sat AM; still need PO)** \u2014 Layher R-000159: Jeff ~4:09pm broker searching today/tomorrow AM; Prosponsive Customer Packet ~4:48pm needs **account setup** to dispatch (T97); Jimmy ~4:01pm nibble fell through; 1' ledgers/11\u00d728' girders not on first truck; still issue PO **GE-JF260930** (T4)",
     "**ASAP (estimate; await GE PO)** \u2014 AM King **Oil Bay piping** scaffold quote/plan (Russ Zubkov ~2:25pm Fri; Phase 1 flush + Phase 2 daily sections; PDF attached; ME Jim Stanley) (T93)",
-    "**ASAP** \u2014 Confirm GE invoices **3780 / 3883 / 3884 / 3886** have POs + receive status (Fitts\u2192Bill+Jeff ~2:50pm Fri) (T94)",
-    "**ASAP (blocks T67 Mon)** \u2014 Bill complete MSS **New Customer Application v9_3.12.26.pdf** + return to Frank (Kat fwd ~3:10pm Fri) (T95)",
+    "**ASAP (Kat looped ~4:46pm)** \u2014 Confirm GE invoices **3780 / 3883 / 3884 / 3886** have POs + receive status (Fitts\u2192Bill+Jeff ~2:50pm; Jeff fwd\u2192Kat ~4:46pm) (T94)",
+    "**ASAP (blocks T67 Mon; Frank acked ~4:31pm)** \u2014 Bill complete MSS **New Customer Application v9_3.12.26.pdf** + return to Frank (Kat\u2192Bill ~3:10pm; Kat\u2192Frank ack ~4:31pm) (T95)",
+    "**ASAP (ack; need-by Mon Oct 6)** \u2014 Process/ack GE Ariba PO **4900661220** (~$48,878.16; Joey Lum; FW40\u201343 C-Bay scaffolding support / machine installs & demo) (T96)",
+    "**ASAP (blocks T4 truck)** \u2014 Complete Prosponsive Logistics **Customer Packet** / account setup so Alex can build load + dispatch driver (Alex Pittman ~4:48pm Fri) (T97)",
     "**Thu Oct 1 9:30am\u201310:00am ET** \u2014 Meeting AGV Installation Line Walk @ Meet by VTL 1.2 (Adam Edwards / Eclipse / Roper conduit; **Shanna ~2:35pm ET fwd \u2014 scaffold impact**; Jeff ~3:27pm replied (green tags NFPS.03 maybe tomorrow; N-bay tonight); Shanna ~3:34pm available Thu/Fri \u22654 + weekend shutdown; Katheryn invited/accepted; overlaps T72 Sinker) \u2014 e39 / **T76**",
     "**Thu Oct 1 7:45am\u20139:15am ET** \u2014 Outage PP-11B-8 (11S E3) / TP-11B-8.1 feeder rotation correction @ HFA (Hinkson; DPP; Jim Stanley ME; T71) \u2014 related panel to T47 Fanuc energize but distinct work",
     "**Thu Oct 1 9:15am\u20139:45am ET** \u2014 Energize NFPS.03 Mitsubishi Sinker EDMs #2301352/#2301353/#2301348 via TP-11B-8.1 @ HDA after T71 rotation (Hinkson/Jason; DPP; Jim Stanley; T72) \u2014 distinct from T47 Fanuc set",
