@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T14:11:17-04:00",
+  "updated": "2026-10-02T15:08:53-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -34,10 +34,10 @@
       "id": "T4",
       "status": "open",
       "priority": "high",
-      "due": "ASAP (final order IN \u2014 issue PO + ETA)",
+      "due": "ASAP (truck today vs Mon; still need PO + ETA)",
       "item": "Layher rental R-000159 \u2014 issue PO GE-JF260930 + confirm ship ETA",
-      "source": "Email / Jeremy + Jeff 2026-09-25/28/30/10-01",
-      "notes": "**Fri\u2013Wed prior:** qty changes + Jeremy dog-bone/tube/drill-hole asks. **Wed ~4:18pm ET Jeff:** dog-bone = **baby bar ~6\"**; steel decks + tube lengths Jeremy provided **OK**. **Wed ~9:07pm ET Jeff:** drop 20' tubes \u2192 closer to **16'**; **1'7 tubes \u2192 40**, rest tubes **30**; priority partial ship: lattice girders / 8' LWL / 1' LWL / 8' + 7' steel decks / clamps; branch can ship direct OK. **Thu ~11:33am ET Jeremy:** 20\u2032\u2192**16'5\" (7300500)** + qty adjust; **staging partial ship** while add-ons arrive. **Thu ~11:54am ET Jeremy:** pic of **2601025 ledger** from Washington \u2014 size OK? **Thu ~1:11pm ET Jeff:** \u201c**That is it!**\u201d (ledger confirmed). **Thu ~3:37pm ET Jeremy:** attached **Order Preview R-000159** \u2014 **final version as of 10.1.26**; \u201c**We're transferring these items now.**\u201d Still need Indcom PO **GE-JF260930** + ship ASAP/ETA. Related: Obed Catalog + New Toy S-000236 (T61)."
+      "source": "Email / Jeremy + Jeff 2026-09-25/28/30/10-01/10-02",
+      "notes": "**Fri\u2013Wed prior:** qty changes + Jeremy dog-bone/tube/drill-hole asks. **Wed\u2013Thu prior:** baby bar OK; 20\u2032\u219216'5\" (7300500); qty adjust; Order Preview R-000159 **final 10.1.26**; transferring. **Thu ~6:16pm ET Jeremy:** **1' ledgers** + **11\u00d7 28' lattice girders** coming from Washington \u2014 **not on first truck**; will send what they can from inventory. **Fri ~2:18pm ET Jeremy:** hard time finding a truck for today; keep trying; if Jeff has broker for truck to Ocala by **3:30 PM** help; otherwise **may push to Monday**. Still need Indcom PO **GE-JF260930** + confirm ship day/ETA. Related: Obed Catalog + New Toy S-000236 (T61)."
     },
     {
       "id": "T6",
@@ -713,6 +713,24 @@
       "item": "Confirm GE badge for Artem Prokopchuk (CP-1805) \u2014 Colby OOO Fri",
       "source": "Email / Jeff\u2192Colby Murphy 2026-10-02 ~11:46am ET",
       "notes": "**Fri ~11:46am ET Jeff\u2192Colby Murphy:** please submit badge request for **Monday morning** \u2014 **Artem Prokopchuk / CP-1805**. **Fri ~11:47am ET Colby auto-reply:** **Out of office on 10/2**. Request sent but not confirmed processed \u2014 chase Colby Mon AM or find alternate GE badge contact so Artem has access Monday. Same CP-1805 path as prior Marquel Falk badge (closed when submitted)."
+    },
+    {
+      "id": "T93",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP (estimate/quote; await GE PO)",
+      "item": "Quote / plan AM King Oil Bay piping scaffolding (M-Bay; Russ Zubkov)",
+      "source": "Email / Russ Zubkov (AM King) 2026-10-02 ~2:25pm ET",
+      "notes": "**Fri ~2:25pm ET Russ\u2192Jeff** (cc Adam Watkins): follow-up on walkthrough weeks ago; still waiting **GE approval/PO**; will give **few weeks' notice** once PO in. Attached *M-bay Oil Piping Scaffolding- Current 9-25-26.pdf*. **Phase 1:** scaffold erected during **flushing**. **Phase 2:** after flush/clean \u2014 demo ~**100 LF pipe/day**; daily scaffold sections (yellow blocks) move each day. Start estimate/quote; optional another walkthrough (+ mechanical). Keep Russ looped on GE; ME **Jim Stanley**. Distinct from T22 (M-Bay stormwater drains) / T39 (LPA K-bay)."
+    },
+    {
+      "id": "T94",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP",
+      "item": "Confirm GE invoices 3780 / 3883 / 3884 / 3886 have POs + received status (Fitts)",
+      "source": "Email / Matthew Fitts 2026-10-02 ~2:50pm ET",
+      "notes": "**Fri ~2:50pm ET Fitts\u2192Bill + Jeff:** received invoices last week; wants confirm already covered with POs and whether GE needs to receive them \u2014 Mitch handles finances. Invoice #s: **3780, 3883, 3884, 3886**. Jeff/Bill reply path. Distinct from T46 (3878/3879/3845) / T51 (3877)."
     }
   ],
   "calendar": [
@@ -746,6 +764,9 @@
     "**ASAP** \u2014 Review/edit Katheryn draft **Quotation NFPS-02 Electrical & Mechanical-Plumbing** shared ~8:49am ET Fri (T90) \u2014 ties T70/T68",
     "**THIS WEEKEND** \u2014 M-Bay aisle concrete cutting MFA\u2013~MCA (Buellesbach ~10:01am Fri; road plates for A-side; review w/ affected; invite.ics not on Kat cal yet) (T91) \u2014 distinct from T22 stormwater Oct 5",
     "**Mon Oct 5 morning** \u2014 Confirm GE badge for **Artem Prokopchuk (CP-1805)** ready (Jeff\u2192Colby ~11:46am Fri; Colby OOO 10/2 auto-reply \u2014 chase/alternate) (T92)",
+    "**ASAP (truck today vs Mon; still need PO)** \u2014 Layher R-000159: Jeremy ~2:18pm Fri hard to find truck (broker by 3:30pm or Monday); 1' ledgers/11\u00d728' girders not on first truck (Thu ~6:16pm); still issue PO **GE-JF260930** (T4)",
+    "**ASAP (estimate; await GE PO)** \u2014 AM King **Oil Bay piping** scaffold quote/plan (Russ Zubkov ~2:25pm Fri; Phase 1 flush + Phase 2 daily sections; PDF attached; ME Jim Stanley) (T93)",
+    "**ASAP** \u2014 Confirm GE invoices **3780 / 3883 / 3884 / 3886** have POs + receive status (Fitts\u2192Bill+Jeff ~2:50pm Fri) (T94)",
     "**Thu Oct 1 9:30am\u201310:00am ET** \u2014 Meeting AGV Installation Line Walk @ Meet by VTL 1.2 (Adam Edwards / Eclipse / Roper conduit; **Shanna ~2:35pm ET fwd \u2014 scaffold impact**; Jeff ~3:27pm replied (green tags NFPS.03 maybe tomorrow; N-bay tonight); Shanna ~3:34pm available Thu/Fri \u22654 + weekend shutdown; Katheryn invited/accepted; overlaps T72 Sinker) \u2014 e39 / **T76**",
     "**Thu Oct 1 7:45am\u20139:15am ET** \u2014 Outage PP-11B-8 (11S E3) / TP-11B-8.1 feeder rotation correction @ HFA (Hinkson; DPP; Jim Stanley ME; T71) \u2014 related panel to T47 Fanuc energize but distinct work",
     "**Thu Oct 1 9:15am\u20139:45am ET** \u2014 Energize NFPS.03 Mitsubishi Sinker EDMs #2301352/#2301353/#2301348 via TP-11B-8.1 @ HDA after T71 rotation (Hinkson/Jason; DPP; Jim Stanley; T72) \u2014 distinct from T47 Fanuc set",
