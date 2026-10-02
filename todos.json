@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T09:10:45-04:00",
+  "updated": "2026-10-02T10:14:21-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -664,10 +664,10 @@
       "id": "T87",
       "status": "open",
       "priority": "high",
-      "due": "ASAP (SAP invoice; need-by Nov 2)",
+      "due": "ASAP (SAP invoice NOW \u2014 GE received; need-by Nov 2)",
       "item": "Process/ack GE PO 4900660909 (~$29,233.71) \u2014 Scaffold Air Heater 3 (Robert Daniel / Mark Monroe); invoice via SAP",
-      "source": "Email / Ariba 2026-10-01 ~8:20pm ET + Mark/Jeff 2026-10-02",
-      "notes": "**Thu ~8:20pm ET** Ariba PO **4900660909** **$29,233.71**; need-by **2 Nov 2026**; requester **Robert Daniel**; ship-to / **Mark Monroe**; PR841889; NET 150. Line: Scaffold Air Heater 3 replacement. **Fri ~7:50am ET Mark\u2192Bill+Jeff:** ready to invoice. **Fri ~9:00am ET Jeff\u2192Mark (cc Bill):** confirmed PO but \u201c**was not ready to invoice**\u201d; if Mark has received it, Jeff \u201c**will invoice through SAP**.\u201d Still need SAP invoice + confirm-orders/ack if not done. Distinct from T74/T75/T85."
+      "source": "Email / Ariba 2026-10-01 ~8:20pm ET + Mark/Jeff/Rusty 2026-10-02",
+      "notes": "**Thu ~8:20pm ET** Ariba PO **4900660909** **$29,233.71**; need-by **2 Nov 2026**; requester **Robert Daniel**; ship-to / **Mark Monroe**; PR841889; NET 150. Line: Scaffold Air Heater 3 replacement. **Fri ~7:50am ET Mark\u2192Bill+Jeff:** ready to invoice. **Fri ~9:00am ET Jeff\u2192Mark (cc Bill):** confirmed PO but \u201c**was not ready to invoice**\u201d; if Mark has received it, Jeff \u201c**will invoice through SAP**.\u201d **Fri ~9:12am ET Mark\u2192Rusty:** \u201cPlease receive it.\u201d **Fri ~9:27am ET Rusty Daniel\u2192Mark (cc Jeff):** \u201c**PO# 4900660909 Received in Ariba**.\u201d GE receive done \u2014 **Jeff should invoice through SAP now**. Distinct from T74/T75/T85."
     },
     {
       "id": "T88",
@@ -695,6 +695,15 @@
       "item": "Review/edit Katheryn draft quotation NFPS-02 Electrical & Mechanical-Plumbing (shared with Jeff)",
       "source": "Email / Google Docs share 2026-10-02 ~8:49am ET",
       "notes": "**Fri ~8:49am ET** Katheryn shared Google Doc inviting Jeff to **edit**: **Quotation NFPS-02 - Electrical & Mechanical-Plumbing - GE Vernova** \u2014 https://docs.google.com/document/d/1iyWmwhviL1hkrEC96hPbVdKaGtoPOEmAsRKveg7WlaM/edit . Ties T70 (DPP NFPS.02 Electrical + Plumbing proposals) + T68 (SCI NFPS.02 Data). Jeff review/edit/approve path before customer send."
+    },
+    {
+      "id": "T91",
+      "status": "open",
+      "priority": "high",
+      "due": "THIS WEEKEND (review w/ affected)",
+      "item": "Review / support M-Bay aisle concrete cutting (MFA\u2013~MCA close; road plates for A-side access)",
+      "source": "Email / Joseph Buellesbach 2026-10-02 ~10:01am ET",
+      "notes": "**Fri ~10:01am ET Joe\u2192Steve Gordon + Jeff + Matt Orders + Anthony Matti + Chuck Kirkley:** starting **concrete cutting through M-bay aisle this weekend**; closing aisle **MFA to ~MCA**; **road plates** over current ditch to maintain A-side equipment access; wants **review with all affected parties**. invite.ics attached (not yet on Katheryn Google Calendar). Distinct from T22 (M-Bay stormwater drains phase-1 scaffold Oct 5) and T39 (LPA Power K-bay). Watch Indcom scaffold/access impact."
     }
   ],
   "calendar": [
@@ -722,10 +731,11 @@
     "**TODAY need-by Fri Oct 2** \u2014 Process/ack GE Ariba PO **4900660277** (~$5,453.00; Mateo Castro; UB Tubing Support) (T75) \u2014 **no ack mail yet as of ~8:10am ET**",
     "**ASAP** \u2014 Review/approve Lawless Systems **Est 2038** (~$3,430; MFG-EZA Ops tower furniture remove/dispose; Jamie Schulz) (T86) \u2014 relates T23 EZA conversion",
     "**ASAP (ack; vendor PO issued Fri ~7:30am)** \u2014 Process/ack GE Ariba PO **4900660773** (~$9,901.75; Alexander Neal; KGA Mist Collector Install / Est 2013 / EST-382) (T85) \u2014 Jeff issued PO to DPP Jason Marchbanks",
-    "**ASAP (SAP invoice)** \u2014 GE Ariba PO **4900660909** (~$29,233.71; Air Heater 3 scaffold; need-by Nov 2) \u2014 Jeff ~9:00am Fri confirmed to Mark will **invoice through SAP** (T87)",
+    "**ASAP (SAP invoice NOW \u2014 GE received ~9:27am Fri)** \u2014 GE Ariba PO **4900660909** (~$29,233.71; Air Heater 3 scaffold; need-by Nov 2) \u2014 Rusty Daniel confirmed **Received in Ariba**; Jeff invoice through SAP (T87)",
     "**ASAP** \u2014 Answer Bonitz (James Henninger) BSA/BSB access-floor RFQ questions (project name / 2 side rooms / floor outlets / carpet tile) (T88)",
     "**Pending Hinkson window** \u2014 Energize NFPS.03 Mitsubishi Sinker EDMs **#2301350 @ HAA / #2301351 @ HCA / #2301349 @ HDA** via TP-11B-8.1 (Jason ~9:03am Fri; distinct from T72 Thu set) (T89)",
     "**ASAP** \u2014 Review/edit Katheryn draft **Quotation NFPS-02 Electrical & Mechanical-Plumbing** shared ~8:49am ET Fri (T90) \u2014 ties T70/T68",
+    "**THIS WEEKEND** \u2014 M-Bay aisle concrete cutting MFA\u2013~MCA (Buellesbach ~10:01am Fri; road plates for A-side; review w/ affected; invite.ics not on Kat cal yet) (T91) \u2014 distinct from T22 stormwater Oct 5",
     "**Thu Oct 1 9:30am\u201310:00am ET** \u2014 Meeting AGV Installation Line Walk @ Meet by VTL 1.2 (Adam Edwards / Eclipse / Roper conduit; **Shanna ~2:35pm ET fwd \u2014 scaffold impact**; Jeff ~3:27pm replied (green tags NFPS.03 maybe tomorrow; N-bay tonight); Shanna ~3:34pm available Thu/Fri \u22654 + weekend shutdown; Katheryn invited/accepted; overlaps T72 Sinker) \u2014 e39 / **T76**",
     "**Thu Oct 1 7:45am\u20139:15am ET** \u2014 Outage PP-11B-8 (11S E3) / TP-11B-8.1 feeder rotation correction @ HFA (Hinkson; DPP; Jim Stanley ME; T71) \u2014 related panel to T47 Fanuc energize but distinct work",
     "**Thu Oct 1 9:15am\u20139:45am ET** \u2014 Energize NFPS.03 Mitsubishi Sinker EDMs #2301352/#2301353/#2301348 via TP-11B-8.1 @ HDA after T71 rotation (Hinkson/Jason; DPP; Jim Stanley; T72) \u2014 distinct from T47 Fanuc set",
@@ -1003,6 +1013,17 @@
       "relatedTodo": "T73",
       "status": "pending_confirm",
       "notes": " Thu ~11:50am ET DPP ACB Receptacles Invoice 4703 arrived (T82); still no DPP time-confirm mail on outage."
+    },
+    {
+      "id": "e40",
+      "type": "work",
+      "title": "Work: M-Bay aisle concrete cutting MFA\u2013~MCA (road plates; review w/ affected)",
+      "start": "2026-10-03",
+      "end": "2026-10-05",
+      "allDay": true,
+      "location": "M-Bay aisle MFA\u2013~MCA",
+      "notes": "Buellesbach Fri ~10:01am ET: cutting this weekend; close aisle MFA\u2013~MCA; road plates for A-side access. Ties T91. Distinct from T22 stormwater Oct 5. ICS attached to mail but not on Katheryn Google Calendar.",
+      "todoId": "T91"
     },
     {
       "id": "e23",
