@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T12:07:35-04:00",
+  "updated": "2026-10-02T14:11:17-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -493,10 +493,10 @@
       "id": "T68",
       "status": "open",
       "priority": "high",
-      "due": "ASAP (review SCI quote)",
+      "due": "ASAP (advise Kat reply; MSS site visit Mon+)",
       "item": "Review/route SCI NFPS.02 Data quote; chase MSS NFPS.02 Mitsubishi Sinker quote",
-      "source": "Email / Jeff\u2194Mike Mullaney + Kat\u2192Mike + Jeff\u2192Jason Gunter 2026-09-30/10-01",
-      "notes": "**Wed:** SCI RFQ details SENT by Katheryn; waiting quote; MSS Sinker chase still open. **Thu ~9:48am ET Mike\u2192Jeff (cc Kat):** attached SCI quote **13169464889- Indcom GE NFPS.02 Data 10-1-26.pdf** \u2014 network connections for NFPS at GE Greenville. **SCI quote IN \u2014 review/route.** MSS NFPS.02 4\u00d7 Mitsubishi Sinker quote still outstanding. Distinct from T15."
+      "source": "Email / Jeff\u2194Mike Mullaney + Kat\u2192Mike + Kat\u2192Jason Gunter 2026-09-30/10-01/10-02",
+      "notes": "**Wed\u2013Thu prior:** SCI quote IN (13169464889\u2026); MSS Sinker chase open. **Fri ~1:57pm ET Katheryn\u2192Jason Gunter (MSS)** RFQ NFPS.02: 4\u00d7 EDM Mist Collector & Fire Alarm @ M Bay MQA\u2013MNA (SOW #7 fire suppression on sinker EDMs); Indcom provides conduit/boxes; cc path via Jeff. **Fri ~2:05pm ET Jason\u2192Katheryn (cc Frank):** will reach **first of the week** and **schedule a site visit**. **Fri ~2:07pm ET Katheryn\u2192Jeff:** fwd asking **what to reply**. **Action:** Jeff advise Kat reply (or ack wait for Mon site visit); still need MSS quote after visit; still review/route SCI Data quote. Distinct from T15 / T67 (BL4 Mon crew)."
     },
     {
       "id": "T69",
@@ -732,7 +732,7 @@
     "**Tue Sep 29 (confirm outcome)** \u2014 ITH pumps D-Bay power huddle (Andrew Heatherly + Jeff + Brandon Malone; no Wed morning follow-up mail \u2014 confirm plan/outcome; T66)",
     "**Mon Oct 5 (Jeff confirmed 6 ready ~9:03am Fri)** \u2014 Await **Frank/MSS** Mon crew lock for Mitsubishi fire-alarm tie-ins; 1 unplaced machine = separate effort; update customer (T67)",
     "**Tue Sep 29 1:00\u20134:00pm ET (offered; window passed)** \u2014 UniFirst call (Herrod/Trey) on screen-print shirts path; Bill driving, Jeff on thread; **no path yet** (T62)",
-    "**ASAP (SCI quote IN)** \u2014 Mike ~9:48am ET Thu Oct 1 sent **NFPS.02 Data** quote PDF (13169464889\u2026); review/route (T68); still chase MSS for NFPS.02 4\u00d7 Mitsubishi Sinker quote",
+    "**ASAP (advise Kat reply; MSS site visit Mon+)** \u2014 SCI NFPS.02 Data quote still to review/route (T68); **Fri ~1:57pm Kat RFQ\u2192Jason Gunter**; **~2:05pm Jason:** site visit first of week; **~2:07pm Kat\u2192Jeff** asks what to reply",
     "**Mon Oct 5 7:00am \u2013 Mon Oct 12 (TBD) ET** \u2014 Outage **A&H Bay Bridge Cranes 16876 & 11495** for AMK (AMA\u2013ANA pipe supports) + LMM (ATA\u2013AUA dust-collector duct/wire); aerial lifts; scaffold not indicated (Fitts + Madak ~12:51pm confirm; T69) \u2014 dedupe cal dupes = e35",
     "**ASAP** \u2014 Review/route DPP NFPS.02 Electrical + Process Piping proposals (both IN: Electrical Jason ~10:42am; Plumbing Amie ~12:09pm) (T70)",
     "**ASAP** \u2014 Review/edit Katheryn draft quotations **EST-381A** (NFPS.03 machine power) / **EST-381B** (Basaran chilled water) / **EST-381C** (relocate spare breaker 800A feed) / **EST-415** (BL4 Basaran loop bracing) shared ~3:29\u20133:34pm ET (T77)",
