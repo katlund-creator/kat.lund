@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T10:14:21-04:00",
+  "updated": "2026-10-02T12:07:35-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -704,6 +704,15 @@
       "item": "Review / support M-Bay aisle concrete cutting (MFA\u2013~MCA close; road plates for A-side access)",
       "source": "Email / Joseph Buellesbach 2026-10-02 ~10:01am ET",
       "notes": "**Fri ~10:01am ET Joe\u2192Steve Gordon + Jeff + Matt Orders + Anthony Matti + Chuck Kirkley:** starting **concrete cutting through M-bay aisle this weekend**; closing aisle **MFA to ~MCA**; **road plates** over current ditch to maintain A-side equipment access; wants **review with all affected parties**. invite.ics attached (not yet on Katheryn Google Calendar). Distinct from T22 (M-Bay stormwater drains phase-1 scaffold Oct 5) and T39 (LPA Power K-bay). Watch Indcom scaffold/access impact."
+    },
+    {
+      "id": "T92",
+      "status": "open",
+      "priority": "high",
+      "due": "Mon Oct 5 morning",
+      "item": "Confirm GE badge for Artem Prokopchuk (CP-1805) \u2014 Colby OOO Fri",
+      "source": "Email / Jeff\u2192Colby Murphy 2026-10-02 ~11:46am ET",
+      "notes": "**Fri ~11:46am ET Jeff\u2192Colby Murphy:** please submit badge request for **Monday morning** \u2014 **Artem Prokopchuk / CP-1805**. **Fri ~11:47am ET Colby auto-reply:** **Out of office on 10/2**. Request sent but not confirmed processed \u2014 chase Colby Mon AM or find alternate GE badge contact so Artem has access Monday. Same CP-1805 path as prior Marquel Falk badge (closed when submitted)."
     }
   ],
   "calendar": [
@@ -736,6 +745,7 @@
     "**Pending Hinkson window** \u2014 Energize NFPS.03 Mitsubishi Sinker EDMs **#2301350 @ HAA / #2301351 @ HCA / #2301349 @ HDA** via TP-11B-8.1 (Jason ~9:03am Fri; distinct from T72 Thu set) (T89)",
     "**ASAP** \u2014 Review/edit Katheryn draft **Quotation NFPS-02 Electrical & Mechanical-Plumbing** shared ~8:49am ET Fri (T90) \u2014 ties T70/T68",
     "**THIS WEEKEND** \u2014 M-Bay aisle concrete cutting MFA\u2013~MCA (Buellesbach ~10:01am Fri; road plates for A-side; review w/ affected; invite.ics not on Kat cal yet) (T91) \u2014 distinct from T22 stormwater Oct 5",
+    "**Mon Oct 5 morning** \u2014 Confirm GE badge for **Artem Prokopchuk (CP-1805)** ready (Jeff\u2192Colby ~11:46am Fri; Colby OOO 10/2 auto-reply \u2014 chase/alternate) (T92)",
     "**Thu Oct 1 9:30am\u201310:00am ET** \u2014 Meeting AGV Installation Line Walk @ Meet by VTL 1.2 (Adam Edwards / Eclipse / Roper conduit; **Shanna ~2:35pm ET fwd \u2014 scaffold impact**; Jeff ~3:27pm replied (green tags NFPS.03 maybe tomorrow; N-bay tonight); Shanna ~3:34pm available Thu/Fri \u22654 + weekend shutdown; Katheryn invited/accepted; overlaps T72 Sinker) \u2014 e39 / **T76**",
     "**Thu Oct 1 7:45am\u20139:15am ET** \u2014 Outage PP-11B-8 (11S E3) / TP-11B-8.1 feeder rotation correction @ HFA (Hinkson; DPP; Jim Stanley ME; T71) \u2014 related panel to T47 Fanuc energize but distinct work",
     "**Thu Oct 1 9:15am\u20139:45am ET** \u2014 Energize NFPS.03 Mitsubishi Sinker EDMs #2301352/#2301353/#2301348 via TP-11B-8.1 @ HDA after T71 rotation (Hinkson/Jason; DPP; Jim Stanley; T72) \u2014 distinct from T47 Fanuc set",
