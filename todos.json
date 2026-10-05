@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T09:20:01-04:00",
+  "updated": "2026-10-05T10:19:36-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -785,9 +785,37 @@
       "item": "GE Vernova payments moving from MUFG SCF \u2192 GEV Paid early-pay program \u2014 watch cutover + late payments",
       "source": "Email / Bill Marchbanks 2026-10-05 8:00am ET",
       "notes": "**Mon 8:00am ET Bill\u2192Jeff, Kat, Ben (accounting@):** Nicholas Black (GE sourcing) confirmed Indcom moves to **GEV Paid**. GE pays directly; MUFG still calculates the discount; phased rollout ~3 months (portal supplier.tradepayables.com marks **GEVPAY**); invoice submission/POs unchanged; **1\u20134 day payment blackout** around cutover. Bill confirming bank details in GE Supplier Connect. **After cutover, flag anything late \u2192 chase GEV AP, not MUFG.** Booking of the early-pay discount (sales discount vs financing fee) \u2014 Bill asked \u201cSam\u201d to confirm (recipient is Ben; likely meant Ben). FYI/watch for Kat."
+    },
+    {
+      "id": "T103",
+      "status": "open",
+      "priority": "high",
+      "due": "Tue Oct 6 9:30am ET",
+      "item": "Shutdown FMS-7 Circuit #3 \u2014 BSA Office demo (remove 4 exterior receptacles)",
+      "source": "Email / Jason Marchbanks\u2192Hinkson + Hinkson SHUTDOWN NOTIFICATION 2026-10-05 ~9:17/9:42am ET",
+      "notes": "**Mon ~9:17am ET Jason (DPP)** shutdown request; **~9:42am ET Hinkson** formal notification/invite: **FMS-7 ckt #3**, **Tue Oct 6 9:30\u201310:00am ET**, location **CWA Mezz** (panel location listed unknown); purpose demo BSA Office electrical \u2014 remove (4) remaining receptacles outside existing BSA office; DPP; GE Lead Adam (Alex) Leppard. No scaffold mentioned. Ties T13 BSA office. Calendar has 3 entries (Hinkson invite + 2 duplicate holds) \u2014 deduped to one board event (e44)."
+    },
+    {
+      "id": "T104",
+      "status": "open",
+      "priority": "med",
+      "due": "Need-by Dec 21 (ack now; invoice per rental cycle)",
+      "item": "Process/ack GE PO 4900661672 ($22,125.00) \u2014 Material Rental Cycles Sep 1\u2013Jan 18 (Joey Lum)",
+      "source": "Email / Ariba GE Vernova 2026-10-05 ~9:20am ET",
+      "notes": "**Mon ~9:20am ET** Ariba new PO **4900661672** to Indcom (ariba.mail@); requester **Lum, Lamont Joey**; **PR841755**; NET 150; FCA; line 1 Material 1 EA **$22,125.00**, need-by **21 Dec 2026**; description **Material Rental Cycles** Sep 1\u2013Sep 28 / Sep 29\u2013Oct 26 / Oct 27\u2013Nov 23 / Nov 24\u2013Dec 21 / Dec 22\u2013Jan 18. Ack in Ariba + set up cycle invoicing."
+    },
+    {
+      "id": "T105",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP (PO to start staging)",
+      "item": "Issue PO for Layher rental quote R-000214 (material Jeff requested from Obed)",
+      "source": "Email / Jeremy Bayate (cc Jimmy Holmes + Obed Bosch) 2026-10-05 ~10:15am ET",
+      "notes": "**Mon ~10:15am ET Jeremy:** received the material Jeff requested from Obed; attached *Quote R-000214 - Indcom Corp.pdf*; **issue PO and Layher will begin staging for shipping**. Separate from R-000159 (T4) and sales quote S-000236 (T61) \u2014 confirm overlap. FYI same morning (~10:08am ET) Jeremy: tube end caps arrived from Germany, FedEx to 17 International Ct (office)."
     }
   ],
   "calendar": [
+    "**Tue Oct 6 9:30\u201310:00am ET @ CWA Mezz** \u2014 Shutdown **FMS-7 Circuit #3** \u2014 BSA Office demo (remove 4 exterior receptacles; DPP; GE Lead Leppard) \u2014 Hinkson invite + 2 duplicate holds = one shutdown (T103)",
     "**OVERDUE since Thu Sep 24** \u2014 Guard rail AAA\u2013AUA deadline (all-day; T3) \u2014 no firm Bob Peterson yes/no; work was to start Sat Sep 26; **still no reply Fri\u2013Wed ~8:11am**",
     "**TODAY ASAP / before Thu Pulse 11:00am ET** \u2014 Pallet rack highest-priority (red) repairs \u2014 Julia Wed ~6:22am needs material-order/schedule update for Pulse briefing; Jeff draft ~6:48am \u201cdefinite answer today\u201d (confirm sent); still need answer + red repairs (Mike\u2019s first) (T20)",
     "**Pending schedule** \u2014 Energize 4 Fanuc EDMs NFPS.03 via TP-11B-8.1 @ HDA (#2301383/#2301384/#2301385/#2301390; **MOC 23582**; T47) \u2014 wait Hinkson formal window",
@@ -1205,6 +1233,30 @@
       "type": "work",
       "todoId": "T56",
       "title": "Work: ENSER 7HA1 build stand move-in (~Nov 1) + install Nov 2\u20133 (ENSER crew)"
+    },
+    {
+      "id": "e44",
+      "type": "outage",
+      "title": "Outage/Shutdown/LOTO: FMS-7 Circuit #3 \u2014 BSA Office demo",
+      "summary": "Outage/Shutdown/LOTO: FMS-7 Circuit #3 \u2014 BSA Office demo",
+      "location": "CWA Mezz (FMS-7 ckt #3; panel location listed unknown)",
+      "description": "Tue Oct 6 9:30\u201310:00am ET \u2014 Hinkson shutdown notification (Jason/DPP request). Demo BSA Office electrical: remove 4 remaining exterior receptacles. GE Lead Adam (Alex) Leppard. Deduped Hinkson invite + 2 hold copies. (T103)",
+      "start": "2026-10-06T09:30:00-04:00",
+      "end": "2026-10-06T10:00:00-04:00",
+      "allDay": false,
+      "todoId": "T103"
+    },
+    {
+      "id": "e45",
+      "type": "deadline",
+      "title": "Deadline: GE PO 4900661672 need-by \u2014 Material Rental Cycles ($22,125)",
+      "summary": "Deadline: GE PO 4900661672 need-by (Joey Lum)",
+      "location": "Ariba / SAP Business Network",
+      "description": "PO 4900661672 Material Rental Cycles Sep 1\u2013Jan 18; PR841755; need-by Dec 21. Ack now; invoice per cycle. (T104)",
+      "start": "2026-12-21",
+      "end": "2026-12-22",
+      "allDay": true,
+      "todoId": "T104"
     }
   ]
 }
