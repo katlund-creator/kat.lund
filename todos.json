@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T14:08:43-04:00",
+  "updated": "2026-10-05T15:14:02-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -574,10 +574,10 @@
       "id": "T78",
       "status": "open",
       "priority": "high",
-      "due": "ASAP",
-      "item": "OpSource as-needed hire \u2014 Chaz Kieff: answer Yesenia on pay rate + finish onboarding",
+      "due": "ASAP (onboarding DONE Mon ~2:36pm \u2014 Jeff owes start date + pay rate)",
+      "item": "OpSource as-needed hire \u2014 Chaz Kieff: tell Yesenia start date + pay rate",
       "source": "Email / Jeff\u2192Allison + Yesenia 2026-09-30/10-01",
-      "notes": "**Wed ~6:02pm ET Jeff\u2192Allison/Yesenia/Payroll (cc Bill):** hire-in for **Chaz Kieff** 504-777-6011 / Chazkieff2@gmail.com. **Wed ~6:04pm Yesenia:** will get ready. **Thu ~1:52pm ET Yesenia\u2192Jeff:** \u201cWhat would be the pay for this new hire?\u201d \u2014 **Jeff owes pay rate** to complete onboarding. Distinct from Tavan (T84)."
+      "notes": "**Wed ~6:02pm ET Jeff\u2192Allison/Yesenia/Payroll (cc Bill):** hire-in for **Chaz Kieff** 504-777-6011 / Chazkieff2@gmail.com. **Wed ~6:04pm Yesenia:** will get ready. **Thu ~1:52pm ET Yesenia\u2192Jeff:** \u201cWhat would be the pay for this new hire?\u201d \u2014 **Jeff owes pay rate** to complete onboarding. Distinct from Tavan (T84). **Mon Oct 5 ~2:36pm ET Yesenia\u2192Jeff:** Chaz **completed OpSource onboarding** \u2014 asks Jeff when he is set to **start** and his **pay rate**."
     },
     {
       "id": "T79",
@@ -725,12 +725,12 @@
     },
     {
       "id": "T95",
-      "status": "open",
+      "status": "waiting",
       "priority": "high",
-      "due": "ASAP (vendor-packet reply to Frank is a DRAFT in Jeff Gmail ~1:07pm \u2014 confirm send; MSS form itself still owed; blocks T67)",
+      "due": "WAITING Frank/MSS to return full package to accounting@ (vendor packet SENT by Kat Mon ~1:25pm; blocks T67)",
       "item": "Complete MSS New Customer Application + return to Frank (Bill fill)",
       "source": "Email / Frank Manganella\u2192Kat+Jeff + Kat\u2192Bill + Kat\u2192Frank 2026-10-02 + Bill 2026-10-04",
-      "notes": "**Fri ~3:08pm ET Frank Manganella (MSS)\u2192Kat+Jeff:** spoke with Jason \u2014 Indcom **not set up as customer** at MSS yet; please return attached customer form so they can start service work (projects coming up). Attachment: *New Customer Application v9_3.12.26.pdf*. **Fri ~3:10pm ET Katheryn\u2192Bill Marchbanks + Jeff:** fwd asking Bill to fill form for MSS system setup. **Fri ~4:31pm ET Katheryn\u2192Frank (cc Jeff):** ack \u2014 will get filled out and returned ASAP. **Action:** Bill complete form \u2192 return to Frank/MSS; unblocks T67 Mon BL4/NFPS.03 fire-alarm crew. Relates T67/T68. **Sun Oct 4 ~11:00am ET Bill\u2192Jeff+Kat (cc Ben O'Dell accounting@):** new vendor-setup process \u2014 **Jeff or Kat** classify + send (Bill not filling it). For **MSS**: classify **subcontractor**; attach the standing **credit-application PDF** to MSS's own form + send the **subcontractor vendor request**; vendor name in email; leave credit limit blank; Net 30; **copy Ben**, don't copy Bill; ask MSS to return the whole package to accounting@indcomcorp.com; send only signature-required forms to Bill. Steps doc https://docs.google.com/document/d/1FGkkIQdZniCX6kYQBq2a_GBfZeyr8RoO_JFC7daI8vo/edit \u00b7 credit app https://drive.google.com/file/d/1s9wHBpI9oXqzhTwADnrOsyXsqnNRLH3s/view \u00b7 subcontractor request https://docs.google.com/document/d/1BkCipzDiR9jOOe3ascb5gFs7T9bbMVfoietEWL94nJc/edit . **Mon Oct 5 ~1:07pm ET DRAFT (Jeff Gmail, label DRAFT \u2014 not sent):** \"Re: New customer form \u2014 MSS Solutions vendor packet\" to Frank, cc accounting@ + Kat \u2014 attaches Indcom **Application for Credit (Net 30)** + **subcontractor vendor info request** + MSS *New Customer Application v9_3.12.26.pdf*; asks Frank to complete and return full package to **Ben at accounting@indcomcorp.com**. Note: Frank asked **Indcom** to fill out MSS's customer form \u2014 confirm draft direction is right before it goes out."
+      "notes": "**Fri ~3:08pm ET Frank Manganella (MSS)\u2192Kat+Jeff:** spoke with Jason \u2014 Indcom **not set up as customer** at MSS yet; please return attached customer form so they can start service work (projects coming up). Attachment: *New Customer Application v9_3.12.26.pdf*. **Fri ~3:10pm ET Katheryn\u2192Bill Marchbanks + Jeff:** fwd asking Bill to fill form for MSS system setup. **Fri ~4:31pm ET Katheryn\u2192Frank (cc Jeff):** ack \u2014 will get filled out and returned ASAP. **Action:** Bill complete form \u2192 return to Frank/MSS; unblocks T67 Mon BL4/NFPS.03 fire-alarm crew. Relates T67/T68. **Sun Oct 4 ~11:00am ET Bill\u2192Jeff+Kat (cc Ben O'Dell accounting@):** new vendor-setup process \u2014 **Jeff or Kat** classify + send (Bill not filling it). For **MSS**: classify **subcontractor**; attach the standing **credit-application PDF** to MSS's own form + send the **subcontractor vendor request**; vendor name in email; leave credit limit blank; Net 30; **copy Ben**, don't copy Bill; ask MSS to return the whole package to accounting@indcomcorp.com; send only signature-required forms to Bill. Steps doc https://docs.google.com/document/d/1FGkkIQdZniCX6kYQBq2a_GBfZeyr8RoO_JFC7daI8vo/edit \u00b7 credit app https://drive.google.com/file/d/1s9wHBpI9oXqzhTwADnrOsyXsqnNRLH3s/view \u00b7 subcontractor request https://docs.google.com/document/d/1BkCipzDiR9jOOe3ascb5gFs7T9bbMVfoietEWL94nJc/edit . **Mon Oct 5 ~1:07pm ET DRAFT (Jeff Gmail, label DRAFT \u2014 not sent):** \"Re: New customer form \u2014 MSS Solutions vendor packet\" to Frank, cc accounting@ + Kat \u2014 attaches Indcom **Application for Credit (Net 30)** + **subcontractor vendor info request** + MSS *New Customer Application v9_3.12.26.pdf*; asks Frank to complete and return full package to **Ben at accounting@indcomcorp.com**. Note: Frank asked **Indcom** to fill out MSS's customer form \u2014 confirm draft direction is right before it goes out. **Mon Oct 5 ~1:25pm ET SENT \u2014 Katheryn\u2192Frank (cc Jeff):** vendor packet with *Indcom Corp \u2014 Application for Credit.pdf* (Net 30) + *Vendor information request \u2014 subcontractor.pdf*; asks Frank to complete with MSS customer form and return full package to Ben at accounting@indcomcorp.com. Draft question resolved. Now **waiting on MSS** return package."
     },
     {
       "id": "T96",
@@ -930,7 +930,7 @@
     "**~Sun Nov 1 (tentative)** \u2014 ENSER 7HA1 build stand move from Advanced Rigging into plant (ENSER rep directs; GE rigging) then Nov 2\u20133 install (Twigg Fri ~6:24pm) (T56)",
     "**ASAP** \u2014 Quote MM Repair Area for Martin Brown: 220V 1-ph crane power (*101A.pdf*) + 1600 lb rotary into Haas EC1600 / remove plate; Martin offered walk (T108)",
     "**ASAP** \u2014 Jeff verify LastPass blocked master-password login (Duncan SC, ~12:13pm) + Google new Mac sign-in (~12:11pm) (T109)",
-    "**Confirm send** \u2014 MSS vendor-packet reply to Frank sits as DRAFT in Jeff Gmail (~1:07pm) (T95/T67)",
+    "**SENT Mon ~1:25pm** \u2014 Katheryn sent MSS vendor packet to Frank (cc Jeff); waiting MSS return package to accounting@ (T95/T67)",
     "**Need-by Fri Oct 16** \u2014 Ack GE Ariba PO **4900661869** ($97,759.38; Alex Leppard; **BSA Renovation**) (T111)",
     "**Need-by Mon Nov 9 (FW41\u201344)** \u2014 Ack GE Ariba PO **4900661816** ($49,470; Joey Lum; C-Bay weekly machine cleaning, 2 techs \u00d7 40 hr/wk) (T110)"
   ],
