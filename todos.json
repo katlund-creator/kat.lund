@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T15:14:02-04:00",
+  "updated": "2026-10-05T17:09:01-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -866,6 +866,15 @@
       "item": "Process/ack GE PO 4900661869 ($97,759.38) \u2014 BSA Renovation (Alex Leppard)",
       "source": "Email / Ariba GE Vernova 2026-10-05 ~1:40pm ET",
       "notes": "**Mon ~1:40pm ET** Ariba new PO **4900661869** to Indcom (ariba.mail@); requester **Leppard, Hewett Alexander**; **PR841864**; NET 150; FCA; line 1 Material 97,759.38 LE @ $1 = **$97,759.38**, need-by **16 Oct 2026**, description **BSA Renovation**. Ties BSA office work (T13 Allied Modular dwgs / RFQ Rev B, T42/T48 demo, T88 Bonitz access floor, T103 FMS-7 shutdown). Ack/confirm order."
+    },
+    {
+      "id": "T112",
+      "status": "open",
+      "priority": "med",
+      "due": "ASAP (GE action required)",
+      "item": "GE Vernova VNDLY onboarding \u2014 accept vendor-network invite, log in, verify Indcom contingent workers",
+      "source": "Email / VNDLY + Natalia Acosta (GE Vernova) 2026-10-05 ~4:13\u20134:19pm ET",
+      "notes": "**Mon ~4:13pm ET** noreply@vndly.com: GE Vernova invited Indcom to its **Workday VNDLY** vendor network \u2014 accept invite + create company profile. **~4:19pm ET Natalia Acosta (GE Vernova, consultant):** all GE Vernova contingent workers now managed in VNDLY; Jeff's username **Jflannery** at gevernova.vndly.com (first login: Continue \u2192 Forgot Password \u2192 email reset). **ACTION REQUIRED:** log in and confirm Indcom workers are present + details accurate; correct contractor info; contact CW.VendorSupport@ge.com if work orders wrong/missing. Guides attached (VNDLY Vendor Login/Setup, Worker Profile Vendor Guide)."
     }
   ],
   "calendar": [
