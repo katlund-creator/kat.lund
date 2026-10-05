@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T10:19:36-04:00",
+  "updated": "2026-10-05T11:11:40-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -50,21 +50,21 @@
     },
     {
       "id": "T7",
-      "status": "open",
+      "status": "waiting",
       "priority": "high",
-      "due": "this week",
+      "due": "waiting GE approval/PO",
       "item": "Deliver Jim Stanley change-order numbers",
       "source": "Email / James Stanley 2026-09-16",
-      "notes": "Need numbers for: (1) NFPS.03 line changes, (2) M-Bay tool-crib disconnect + H-Bay reinstall, (3) decommission old wire EDM at EYA + install new. Jeff said working with Jason; unknowns quoted separately."
+      "notes": "Need numbers for: (1) NFPS.03 line changes, (2) M-Bay tool-crib disconnect + H-Bay reinstall, (3) decommission old wire EDM at EYA + install new. Jeff said working with Jason; unknowns quoted separately. **Mon ~10:27\u201310:46am ET Indcom QuickBooks estimates sent to Jim Stanley:** Est **2003** NFPS.03 New 800A Panel & Transformer Feeder (**$131,030.97**); **2016** Breaker Swap for New Panel (**$12,732.72**); **2017** Basaran chilled water mods (**$19,250.00**); **2018** NFPS.03 machine power 480V\u2192208V (**$36,227.92**); **2019** BL4 change order Basaran loop/bracing/supports (**$21,467.60**); **2020** NFPS.03 Mist Collector support stand bracing (**$3,607.58**). Now **waiting Jim Stanley approval / GE POs**. Tool-crib (item 2) + EYA wire EDM (item 3) not seen in this batch \u2014 confirm."
     },
     {
       "id": "T8",
-      "status": "open",
+      "status": "waiting",
       "priority": "high",
-      "due": "this week",
+      "due": "waiting GE approval/PO",
       "item": "Review / price NFPS.03 Change Order PDF",
       "source": "Email / Jason Marchbanks 2026-09-16",
-      "notes": "Attachment *NFPS.03 Change Order.pdf* \u2014 feed T7."
+      "notes": "Attachment *NFPS.03 Change Order.pdf* \u2014 feed T7. **Mon ~10:27\u201310:46am ET:** NFPS.03 estimates 2003/2016/2018/2020 sent to Jim Stanley via QuickBooks (see T7)."
     },
     {
       "id": "T9",
@@ -563,12 +563,12 @@
     },
     {
       "id": "T77",
-      "status": "open",
+      "status": "waiting",
       "priority": "high",
-      "due": "ASAP",
+      "due": "sent \u2014 waiting GE approval",
       "item": "Review/edit Katheryn draft quotations EST-381A/B/C + EST-415 (shared with Jeff)",
       "source": "Email / Google Docs shares 2026-09-30 ~3:29\u20133:34pm ET",
-      "notes": "**Wed ~3:29\u20133:34pm ET** Katheryn shared 4 Google Docs inviting Jeff to **edit**: (1) **EST-381A** NFPS.03 Machine Power Configuration Changes (ties T7/T8) \u2014 https://docs.google.com/document/d/1h9U5CU_uZsb5rFgOiKg2K0rLQram3L8PTuYyxvX5H-k/edit ; (2) **EST-381B** Basaran Chilled Water Modifications (ties T49) \u2014 https://docs.google.com/document/d/1rfD7scfGVwwSkmgLeti-02R2p6NI3W31UoAZJSYetjg/edit ; (3) **EST-381C** Relocate Spare Breaker 800A Panel Feed \u2014 https://docs.google.com/document/d/1AF7hh3wSyMN__045__cOTeMGvVYG2MQ7J17Q4gLSVOM/edit ; (4) **EST-415** BL4 Basaran Loop, Bracing & Supports (ties T67/T57) \u2014 https://docs.google.com/document/d/1LG0L9DTbiZYFzRmUN5hZL8Ae7xymazXwf7lm62A9DQA/edit . Jeff review/edit/approve path before customer send. **Also see NEW T79 EST-382 KGA Exomist.**"
+      "notes": "**Wed ~3:29\u20133:34pm ET** Katheryn shared 4 Google Docs inviting Jeff to **edit**: (1) **EST-381A** NFPS.03 Machine Power Configuration Changes (ties T7/T8) \u2014 https://docs.google.com/document/d/1h9U5CU_uZsb5rFgOiKg2K0rLQram3L8PTuYyxvX5H-k/edit ; (2) **EST-381B** Basaran Chilled Water Modifications (ties T49) \u2014 https://docs.google.com/document/d/1rfD7scfGVwwSkmgLeti-02R2p6NI3W31UoAZJSYetjg/edit ; (3) **EST-381C** Relocate Spare Breaker 800A Panel Feed \u2014 https://docs.google.com/document/d/1AF7hh3wSyMN__045__cOTeMGvVYG2MQ7J17Q4gLSVOM/edit ; (4) **EST-415** BL4 Basaran Loop, Bracing & Supports (ties T67/T57) \u2014 https://docs.google.com/document/d/1LG0L9DTbiZYFzRmUN5hZL8Ae7xymazXwf7lm62A9DQA/edit . Jeff review/edit/approve path before customer send. **Also see NEW T79 EST-382 KGA Exomist.** **Mon ~10:29\u201310:31am ET:** finalized + sent to Jim Stanley as QuickBooks Est **2018** (381A, $36,227.92), **2017** (381B, $19,250.00), **2016** (381C-related breaker swap, $12,732.72), **2019** (415, $21,467.60). Waiting approval/PO (T7)."
     },
     {
       "id": "T78",
@@ -812,9 +812,28 @@
       "item": "Issue PO for Layher rental quote R-000214 (material Jeff requested from Obed)",
       "source": "Email / Jeremy Bayate (cc Jimmy Holmes + Obed Bosch) 2026-10-05 ~10:15am ET",
       "notes": "**Mon ~10:15am ET Jeremy:** received the material Jeff requested from Obed; attached *Quote R-000214 - Indcom Corp.pdf*; **issue PO and Layher will begin staging for shipping**. Separate from R-000159 (T4) and sales quote S-000236 (T61) \u2014 confirm overlap. FYI same morning (~10:08am ET) Jeremy: tube end caps arrived from Germany, FedEx to 17 International Ct (office)."
+    },
+    {
+      "id": "T106",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP (PO approved \u2014 invoice fix)",
+      "item": "Fix/clarify Invoice 3919 Husky Fan Install ($26,479.95) \u2014 add Husky Warehouse dispatch so GE can issue PO",
+      "source": "Email / James Ray (GE) 2026-10-05 ~10:45am ET",
+      "notes": "**Mon ~10:45am ET James Ray** (reply to Fri QuickBooks invoice 3919; to mail@ + GE AP team Veronica Kyle/Kristen Jackson/Zachary Kleiner/Randy Krattley; cc jeff@): **team approved to issue PO**, but there's a **Dispatch attached to Husky Warehouse** that he doesn't see reflected in the invoice. Jeff/Kat: revise invoice 3919 (or explain) so PO can issue."
+    },
+    {
+      "id": "T107",
+      "status": "open",
+      "priority": "high",
+      "due": "Tue Oct 6 9:00\u20139:30am ET",
+      "item": "Attend BAA Scaffold Walk (Gas Manifold Demo) \u2014 Scott Tulloch",
+      "source": "Email / Scott Tulloch (GE) invite 2026-10-05 ~10:32am ET",
+      "notes": "**Mon ~10:32am ET Tulloch** invite to Jeff + Michael Sassa (AM King) + Cliff Little + Paul Madak: **BAA Scaffold Walk**, part of **Gas Manifold Demo**, **Tue Oct 6 9:00\u20139:30am ET @ BAA** (on Jeff's cal, not Kat's; Jeff not yet accepted). Right before FMS-7 shutdown 9:30 (T103). Scope/quote scaffold after walk."
     }
   ],
   "calendar": [
+    "**Tue Oct 6 9:00\u20139:30am ET @ BAA** \u2014 Meeting **BAA Scaffold Walk** (Gas Manifold Demo; Scott Tulloch; AM King Sassa, Cliff Little, Madak) \u2014 on Jeff's cal only (T107) \u2014 then FMS-7 shutdown 9:30 (T103)",
     "**Tue Oct 6 9:30\u201310:00am ET @ CWA Mezz** \u2014 Shutdown **FMS-7 Circuit #3** \u2014 BSA Office demo (remove 4 exterior receptacles; DPP; GE Lead Leppard) \u2014 Hinkson invite + 2 duplicate holds = one shutdown (T103)",
     "**OVERDUE since Thu Sep 24** \u2014 Guard rail AAA\u2013AUA deadline (all-day; T3) \u2014 no firm Bob Peterson yes/no; work was to start Sat Sep 26; **still no reply Fri\u2013Wed ~8:11am**",
     "**TODAY ASAP / before Thu Pulse 11:00am ET** \u2014 Pallet rack highest-priority (red) repairs \u2014 Julia Wed ~6:22am needs material-order/schedule update for Pulse briefing; Jeff draft ~6:48am \u201cdefinite answer today\u201d (confirm sent); still need answer + red repairs (Mike\u2019s first) (T20)",
@@ -1257,6 +1276,18 @@
       "end": "2026-12-22",
       "allDay": true,
       "todoId": "T104"
+    },
+    {
+      "id": "e46",
+      "type": "meeting",
+      "title": "Meeting: BAA Scaffold Walk (Gas Manifold Demo)",
+      "summary": "Meeting: BAA Scaffold Walk (Gas Manifold Demo) \u2014 Scott Tulloch",
+      "location": "BAA",
+      "description": "Tue Oct 6 9:00\u20139:30am ET \u2014 Scott Tulloch (GE) invite to Jeff + Michael Sassa (AM King) + Cliff Little + Paul Madak; part of Gas Manifold Demo. Right before FMS-7 ckt #3 shutdown 9:30 (T103). (T107)",
+      "start": "2026-10-06T09:00:00-04:00",
+      "end": "2026-10-06T09:30:00-04:00",
+      "allDay": false,
+      "todoId": "T107"
     }
   ]
 }
