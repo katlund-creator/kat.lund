@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T13:14:10-04:00",
+  "updated": "2026-10-05T14:08:43-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -848,6 +848,24 @@
       "item": "Jeff verify LastPass blocked login + Google new Mac sign-in (was it him?)",
       "source": "Email / LastPass + Google security alerts 2026-10-05 ~12:11\u201312:13pm ET",
       "notes": "**~12:11pm ET Google:** new sign-in to jeff.flannery@indcomcorp.com on a **Mac OS** device. **~12:13pm ET LastPass:** someone used Jeff's **master password** from an unrecognized device/location \u2014 **Duncan, SC**, IP 47.35.252.64; LastPass **blocked** it. If not Jeff: change LastPass master password (and anywhere it's reused) + review Google account devices. If it was Jeff: verify device in LastPass."
+    },
+    {
+      "id": "T110",
+      "status": "open",
+      "priority": "med",
+      "due": "Need-by Mon Nov 9 (ack now; FW41\u201344 work)",
+      "item": "Process/ack GE PO 4900661816 ($49,470.00) \u2014 C-Bay weekly machine cleaning support FW41\u201344 (Joey Lum)",
+      "source": "Email / Ariba GE Vernova 2026-10-05 ~1:12pm ET",
+      "notes": "**Mon ~1:12pm ET** Ariba new PO **4900661816** to Indcom (ariba.mail@); requester **Lum, Lamont Joey**; **PR840798**; NET 150; FCA; line 1 Material 1 EA **$49,470.00**, need-by **9 Nov 2026**. Scope: **two Industrial Techs, 40 hrs/wk**, clean C-Bay machines (internal/external panels, belt covers; scaffold/lifts for hard-to-reach; coordinate downtime), supplies incl. anti-static cloths/Fantastik/microfiber; Mon\u2013Fri normal plant hours. Ack/confirm order + staff the 2 techs."
+    },
+    {
+      "id": "T111",
+      "status": "open",
+      "priority": "high",
+      "due": "Need-by Fri Oct 16 (ack now)",
+      "item": "Process/ack GE PO 4900661869 ($97,759.38) \u2014 BSA Renovation (Alex Leppard)",
+      "source": "Email / Ariba GE Vernova 2026-10-05 ~1:40pm ET",
+      "notes": "**Mon ~1:40pm ET** Ariba new PO **4900661869** to Indcom (ariba.mail@); requester **Leppard, Hewett Alexander**; **PR841864**; NET 150; FCA; line 1 Material 97,759.38 LE @ $1 = **$97,759.38**, need-by **16 Oct 2026**, description **BSA Renovation**. Ties BSA office work (T13 Allied Modular dwgs / RFQ Rev B, T42/T48 demo, T88 Bonitz access floor, T103 FMS-7 shutdown). Ack/confirm order."
     }
   ],
   "calendar": [
@@ -912,7 +930,9 @@
     "**~Sun Nov 1 (tentative)** \u2014 ENSER 7HA1 build stand move from Advanced Rigging into plant (ENSER rep directs; GE rigging) then Nov 2\u20133 install (Twigg Fri ~6:24pm) (T56)",
     "**ASAP** \u2014 Quote MM Repair Area for Martin Brown: 220V 1-ph crane power (*101A.pdf*) + 1600 lb rotary into Haas EC1600 / remove plate; Martin offered walk (T108)",
     "**ASAP** \u2014 Jeff verify LastPass blocked master-password login (Duncan SC, ~12:13pm) + Google new Mac sign-in (~12:11pm) (T109)",
-    "**Confirm send** \u2014 MSS vendor-packet reply to Frank sits as DRAFT in Jeff Gmail (~1:07pm) (T95/T67)"
+    "**Confirm send** \u2014 MSS vendor-packet reply to Frank sits as DRAFT in Jeff Gmail (~1:07pm) (T95/T67)",
+    "**Need-by Fri Oct 16** \u2014 Ack GE Ariba PO **4900661869** ($97,759.38; Alex Leppard; **BSA Renovation**) (T111)",
+    "**Need-by Mon Nov 9 (FW41\u201344)** \u2014 Ack GE Ariba PO **4900661816** ($49,470; Joey Lum; C-Bay weekly machine cleaning, 2 techs \u00d7 40 hr/wk) (T110)"
   ],
   "events": [
     {
@@ -1309,6 +1329,30 @@
       "end": "2026-10-06T09:30:00-04:00",
       "allDay": false,
       "todoId": "T107"
+    },
+    {
+      "id": "e47",
+      "type": "deadline",
+      "title": "Deadline: GE PO 4900661869 need-by \u2014 BSA Renovation ($97,759.38)",
+      "summary": "Deadline: GE PO 4900661869 need-by (Alex Leppard)",
+      "location": "Ariba / SAP Business Network",
+      "description": "PO 4900661869 BSA Renovation; PR841864; need-by Fri Oct 16. Ack/confirm order. (T111)",
+      "start": "2026-10-16",
+      "end": "2026-10-17",
+      "allDay": true,
+      "todoId": "T111"
+    },
+    {
+      "id": "e48",
+      "type": "deadline",
+      "title": "Deadline: GE PO 4900661816 need-by \u2014 C-Bay machine cleaning FW41\u201344 ($49,470)",
+      "summary": "Deadline: GE PO 4900661816 need-by (Joey Lum)",
+      "location": "Ariba / SAP Business Network",
+      "description": "PO 4900661816 weekly C-Bay machine cleaning, 2 Industrial Techs \u00d7 40 hr/wk, FW41\u201344; PR840798; need-by Mon Nov 9. (T110)",
+      "start": "2026-11-09",
+      "end": "2026-11-10",
+      "allDay": true,
+      "todoId": "T110"
     }
   ]
 }
