@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T17:13:11-04:00",
+  "updated": "2026-10-05T09:20:01-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -34,10 +34,10 @@
       "id": "T4",
       "status": "open",
       "priority": "high",
-      "due": "ASAP (broker/Prosponsive truck today\u2013Sat AM; still need PO + ETA)",
+      "due": "WAITING Layher truck (Prosponsive load CANCELLED Sat); still need PO + ETA",
       "item": "Layher rental R-000159 \u2014 issue PO GE-JF260930 + confirm ship ETA",
       "source": "Email / Jeremy + Jeff + Jimmy + Prosponsive 2026-09-25/28/30/10-01/10-02",
-      "notes": "**Prior:** Order Preview R-000159 **final 10.1.26**; transferring; **1' ledgers** + **11\u00d7 28' lattice girders** from Washington **not on first truck**. **Fri ~2:18pm ET Jeremy:** hard to find truck for today; broker by 3:30pm or Monday. **Fri ~3:25pm ET Jeff\u2192Jeremy (cc Obed/Jimmy):** ask OT to load a truck **tomorrow (Sat)**; waiting broker callback; in a bind. **Fri ~4:01pm ET Jimmy Holmes:** not about OT \u2014 brokers can't secure a truck; nibble fell through; will wait a while; if Jeff's guy finds something let Layher know. **Fri ~4:09pm ET Jeff\u2192Jimmy:** broker searching for loading **today or tomorrow morning**; will update in ~15 min. **Fri ~4:48pm ET Alex Pittman (Prosponsive Logistics):** Customer Packet attached \u2014 **need account setup** to build load + dispatch driver (see **T97**). Still need Indcom PO **GE-JF260930** + ship day/ETA. Related: Obed Catalog + New Toy S-000236 (T61)."
+      "notes": "**Prior:** Order Preview R-000159 **final 10.1.26**; transferring; **1' ledgers** + **11\u00d7 28' lattice girders** from Washington **not on first truck**. **Fri ~2:18pm ET Jeremy:** hard to find truck for today; broker by 3:30pm or Monday. **Fri ~3:25pm ET Jeff\u2192Jeremy (cc Obed/Jimmy):** ask OT to load a truck **tomorrow (Sat)**; waiting broker callback; in a bind. **Fri ~4:01pm ET Jimmy Holmes:** not about OT \u2014 brokers can't secure a truck; nibble fell through; will wait a while; if Jeff's guy finds something let Layher know. **Fri ~4:09pm ET Jeff\u2192Jimmy:** broker searching for loading **today or tomorrow morning**; will update in ~15 min. **Fri ~4:48pm ET Alex Pittman (Prosponsive Logistics):** Customer Packet attached \u2014 **need account setup** to build load + dispatch driver (see **T97**). Still need Indcom PO **GE-JF260930** + ship day/ETA. Related: Obed Catalog + New Toy S-000236 (T61). **Sat Oct 3 ~12:53pm ET Jeff\u2192Bill:** Prosponsive load **cancelled** \u2014 Layher couldn't get a truck in time; Jeff will **wait for Layher to find/schedule a truck**; job starts when material arrives. (Fri ~5:31pm Jeff had sent Bill the Prosponsive freight form; Bill ~6:15pm asked turnaround; Bill Sat ~1:38pm: building standard credit-app template.) **T97 closed.** Still need Layher ship date/ETA + Indcom PO **GE-JF260930**."
     },
     {
       "id": "T6",
@@ -160,10 +160,10 @@
       "id": "T22",
       "status": "open",
       "priority": "high",
-      "due": "2026-10-05",
+      "due": "2026-10-05 TODAY",
       "item": "M-Bay overhead stormwater drains \u2014 phase-1 scaffold (Kyle Herman / AM King)",
       "source": "Email / Kyle Herman + Jeff\u2192Katheryn 2026-09-17/18",
-      "notes": "Phase-1 scaffold by Oct 5; drawings attached. Second higher level after beams. Jeff Fri: forwarded to Katheryn (cc Bill) for review/assessment of material needed + CAD."
+      "notes": "Phase-1 scaffold by Oct 5; drawings attached. Second higher level after beams. Jeff Fri: forwarded to Katheryn (cc Bill) for review/assessment of material needed + CAD. **Mon Oct 5 ~9:16am ET:** due today \u2014 no Kyle Herman / AM King / Jeff mail on phase-1 scaffold status since Fri; confirm erected or new date."
     },
     {
       "id": "T23",
@@ -403,10 +403,10 @@
       "id": "T56",
       "status": "open",
       "priority": "med",
-      "due": "Oct 1 / Oct 6\u20137 ship; Nov 2\u20133 install",
+      "due": "Oct 6\u20137 trucks; ~Nov 1 move-in; Nov 2\u20133 install",
       "item": "Track ENSER 7HA1 Build Platform shipping \u2192 Advanced Rigging / GE install",
-      "source": "Email / Steven Twigg (ENSER) 2026-09-25/28",
-      "notes": "**Twigg Fri ~4:53pm ET** (Jeff+Buellesbach cc): Packing list + tentative truck schedule \u2014 **Thu Oct 1** flatbed items 13\u201317; **Tue Oct 6** 4 trucks; **Wed Oct 7** 2 lowboy. All \u2192 **Advanced Rigging** until Production clears; GE relocates to plant. **Mon ~9:09am ET Harvey:** TRF offer if extra transport (FYI). **Mon ~2:26pm ET Joe\u2192Twigg/Harvey (Jeff cc):** asked ENSER vs 3rd-party for assembly/placement/anchoring/accessories/electrical/pneumatic/hydraulic. **Mon ~3:14pm ET Twigg reply (Jeff cc):** ENSER brings **own hired rigging crew** for install of all build platforms, **placement + anchoring**; ENSER ensures **all electrical connections** + platform **fully functional**; install **Mon Nov 2 \u2013 on/before Tue Nov 3**; needs **GE tech rep** for exact placement before anchoring. Pneumatic/hydraulic/accessory assembly not itemized but \u201cfully functional\u201d claim. Indcom 3rd-party hire for those scope items looks **unlikely** unless GE asks otherwise \u2014 keep watching."
+      "source": "Email / Steven Twigg (ENSER) 2026-09-25/28/10-02",
+      "notes": "**Twigg Fri ~4:53pm ET** (Jeff+Buellesbach cc): Packing list + tentative truck schedule \u2014 **Thu Oct 1** flatbed items 13\u201317; **Tue Oct 6** 4 trucks; **Wed Oct 7** 2 lowboy. All \u2192 **Advanced Rigging** until Production clears; GE relocates to plant. **Mon ~9:09am ET Harvey:** TRF offer if extra transport (FYI). **Mon ~2:26pm ET Joe\u2192Twigg/Harvey (Jeff cc):** asked ENSER vs 3rd-party for assembly/placement/anchoring/accessories/electrical/pneumatic/hydraulic. **Mon ~3:14pm ET Twigg reply (Jeff cc):** ENSER brings **own hired rigging crew** for install of all build platforms, **placement + anchoring**; ENSER ensures **all electrical connections** + platform **fully functional**; install **Mon Nov 2 \u2013 on/before Tue Nov 3**; needs **GE tech rep** for exact placement before anchoring. Pneumatic/hydraulic/accessory assembly not itemized but \u201cfully functional\u201d claim. Indcom 3rd-party hire for those scope items looks **unlikely** unless GE asks otherwise \u2014 keep watching. **Fri Oct 2 ~6:24pm ET Twigg\u2192Buellesbach/Harvey (Jeff cc):** formal *Shipping and Installation Responsibilities* \u2014 ENSER trucks all platforms/stairs Gastonia\u2192Advanced Rigging; **tentatively Nov 1** ENSER rep directs move into plant; **GE** handles transport/rigging/positioning + engineer sign-off; ENSER anchors, re-connects internal electrical, latches, ground straps, tests with facility power/air. **GE facility must provide:** 4\u00d7 air drops \u226590 psi (2 each end); Exhaust End: 1\u00d7 480V P&S + 3\u00d7 Size-2 Meltric 120V (cord reels) + 1\u00d7 Size-1 Meltric 120V; Inlet End: 3\u00d7 480V P&S + 1\u00d7 Size-2 Meltric + 1\u00d7 Size-1 Meltric. \u2192 Indcom/DPP quote for these = **T99**."
     },
     {
       "id": "T57",
@@ -423,8 +423,8 @@
       "priority": "high",
       "due": "ASAP",
       "item": "Process SPC MDC rollup door invoice",
-      "source": "Email / Evan Groce 2026-09-27 ~4:08pm ET",
-      "notes": "PDF *MDC rollup door.pdf* to Jeff + ap.mail@indcomcorp.com. Route/confirm payment."
+      "source": "Email / Evan Groce 2026-09-27 + 2026-10-03",
+      "notes": "PDF *MDC rollup door.pdf* to Jeff + ap.mail@indcomcorp.com. Route/confirm payment. **Sat Oct 3 ~11:56am ET Evan\u2192ap.mail + Jeff:** \u201cRoll up door repair invoice\u201d \u2014 PDF **Invoice_221_2026-11-02.pdf**. Likely the formal invoice for the same rollup-door job (like T64 Est 417\u2192Inv 220) \u2014 **confirm not a duplicate** before AP pays both."
     },
     {
       "id": "T59",
@@ -484,10 +484,10 @@
       "id": "T67",
       "status": "open",
       "priority": "high",
-      "due": "Mon Oct 5 ASAP (6 ready; BLOCKED on MSS customer form T95)",
+      "due": "Mon Oct 5 (BLOCKED on MSS customer form T95 \u2014 no MSS crew mail yet)",
       "item": "Schedule BL4 / NFPS.03 mist-collector + fire-alarm work with MSS (Jason Gunter / Frank Manganella); lock Mon crew",
       "source": "Email / Jeff\u2194Jason Gunter + Frank Manganella (MSS) 2026-09-29/30/10-02",
-      "notes": "**Prior:** PO **4900652190**/card; Bill vendor setup; GE fire-alarm POC ask; MSS Sinker quote chase (T68). **Fri ~7:43am/8:07am/9:03am:** Frank offered Mon if ready; Jeff confirmed **6 machines 100% ready** (1 unplaced = separate). **Fri ~3:08pm ET Frank\u2192Kat+Jeff:** Indcom **not set up as MSS customer** \u2014 return customer form to start service (see **T95**). **Fri ~3:10pm ET Kat\u2192Bill+Jeff:** asked Bill to fill *New Customer Application v9_3.12.26.pdf*. **Action:** complete T95 form \u2192 then Frank/MSS Mon crew lock + update customer; still need GE onsite fire-alarm POC. Distinct from T57. Relates T68/T95."
+      "notes": "**Prior:** PO **4900652190**/card; Bill vendor setup; GE fire-alarm POC ask; MSS Sinker quote chase (T68). **Fri ~7:43am/8:07am/9:03am:** Frank offered Mon if ready; Jeff confirmed **6 machines 100% ready** (1 unplaced = separate). **Fri ~3:08pm ET Frank\u2192Kat+Jeff:** Indcom **not set up as MSS customer** \u2014 return customer form to start service (see **T95**). **Fri ~3:10pm ET Kat\u2192Bill+Jeff:** asked Bill to fill *New Customer Application v9_3.12.26.pdf*. **Action:** complete T95 form \u2192 then Frank/MSS Mon crew lock + update customer; still need GE onsite fire-alarm POC. Distinct from T57. Relates T68/T95. **Mon ~9:16am ET:** no Frank/MSS crew-arrival mail today; form (T95) not yet returned per mail."
     },
     {
       "id": "T68",
@@ -502,10 +502,10 @@
       "id": "T69",
       "status": "open",
       "priority": "med",
-      "due": "Mon Oct 5 \u2013 Mon Oct 12",
+      "due": "Mon Oct 5 \u2013 Mon Oct 12 (STARTED today 7:00am)",
       "item": "Track A&H Bay Bridge Crane outage 10/5\u201310/12 (cranes 16876 & 11495; AMK / LMM; aerial lifts)",
       "source": "Email / Matthew Fitts + Paul Madak 2026-09-30",
-      "notes": "**Wed ~8:29am ET Fitts** requesting A Bay Crane Outage for AMK + LMM **Mon Oct 5 7:00am \u2013 Mon Oct 12 (TBD end)**. **Wed ~12:51pm ET Madak blast** confirms **A&H-Bay Bridge Crane (16876 & 11495)** outage same window (invite.ics). AMK at **AMA\u2013ANA** pipe supports above crane rail; LMM at **ATA\u2013AUA** dust-collector ductwork + control wire conduit up wall above crane rail. **Plan: aerial lifts \u2014 scaffold not indicated.** Katheryn cal still shows A Bay Crane (duped = e35). Watch for Indcom scaffold ask or timing change."
+      "notes": "**Wed ~8:29am ET Fitts** requesting A Bay Crane Outage for AMK + LMM **Mon Oct 5 7:00am \u2013 Mon Oct 12 (TBD end)**. **Wed ~12:51pm ET Madak blast** confirms **A&H-Bay Bridge Crane (16876 & 11495)** outage same window (invite.ics). AMK at **AMA\u2013ANA** pipe supports above crane rail; LMM at **ATA\u2013AUA** dust-collector ductwork + control wire conduit up wall above crane rail. **Plan: aerial lifts \u2014 scaffold not indicated.** Katheryn cal still shows A Bay Crane (duped = e35). Watch for Indcom scaffold ask or timing change. **Mon Oct 5:** outage window began 7:00am ET; no new Fitts/Madak change mail; Katheryn cal now shows a single A Bay Crane invite."
     },
     {
       "id": "T70",
@@ -560,15 +560,6 @@
       "item": "Process/ack GE PO 4900660277 (~$5,453.00) \u2014 UB Tubing Support (Mateo Castro)",
       "source": "Email / Ariba GE Vernova 2026-09-30 ~1:03pm ET",
       "notes": "**Wed ~1:03pm ET** Ariba new PO **4900660277** to Indcom (ariba.mail@); requester **Castro, Mateo** (Mateo.Castro1@gevernova.com; +1 864-553-1400); Greenville Gas Turbines; NET 150; need-by **2 Oct 2026**. Line: **UB Tubing Support** 1 EA @ **$5,453.00 USD**. Ship-to 300 Garlington Rd; Deliver To Castro/5250. Confirm-orders / acknowledge path. Distinct from T74 PO 4900660255 (Joey Lum / PP-11B-5)."
-    },
-    {
-      "id": "T76",
-      "status": "open",
-      "priority": "med",
-      "due": "Thu Oct 1 9:30\u201310:00am ET (window passed \u2014 confirm outcome)",
-      "item": "Attend/assess AGV Installation Line Walk \u2014 scaffold impact @ VTL 1.2",
-      "source": "Email / Shanna Henson fwd 2026-09-30/10-01",
-      "notes": "**Wed ~2:35pm ET Shanna\u2192Jeff:** AGV walk Thu Oct 1 9:30\u201310:00am @ VTL 1.2 \u2014 scaffold impact. **Wed ~3:27/3:34pm:** Jeff/Shanna exchange (green tags maybe Thu; N-bay hanger). **Wed ~4:53pm / Thu ~6:32am:** N-bay hanger + Combustion stairs clarified (see T16). Cal = e39. Window passed ~10:00am ET Thu \u2014 no outcome mail yet; confirm scaffold impact / actions. Overlapped T72 Sinker."
     },
     {
       "id": "T77",
@@ -673,19 +664,19 @@
       "id": "T88",
       "status": "open",
       "priority": "high",
-      "due": "ASAP (answer Bonitz Qs)",
+      "due": "ASAP (Kat relay Jeff answers to Bonitz)",
       "item": "Answer Bonitz access-floor RFQ questions for BSA / BSB conf-room flooring",
-      "source": "Email / Katheryn fwd James Henninger (Bonitz) 2026-10-01 ~5:21pm ET",
-      "notes": "**Thu ~5:21pm ET Katheryn\u2192Jeff:** \u201cHere is for the flooring for BSA\u201d \u2014 fwd **James Henninger** (Bonitz Product Specialist; jameshenninger@bonitz.com; 262-442-3097) RE: Indcom Corp. Access Floor System RFQ. James asks: (1) project name (BSB GE Gas \u2013 Conf. Room or similar?); (2) do 2 rooms off main also get low-profile flooring?; (3) how many floor outlet locations?; (4) carpet tile over ASM Q2C 1.6\" system \u2014 Bonitz provide or Indcom/GE? Attached *ASM Q2C - 1.6in Low Profile Flooring Data & Overview.pdf*. Bill+Kat already on thread with floor plan (conduit under access floor). **Jeff owes answers** (or confirm Kat/Bill own) to keep quote moving. Relates T13/T42 BSA but distinct access-floor RFQ."
+      "source": "Email / Katheryn fwd James Henninger (Bonitz) 2026-10-01 + Jeff\u2192Kat 2026-10-05",
+      "notes": "**Thu ~5:21pm ET Katheryn\u2192Jeff:** \u201cHere is for the flooring for BSA\u201d \u2014 fwd **James Henninger** (Bonitz Product Specialist; jameshenninger@bonitz.com; 262-442-3097) RE: Indcom Corp. Access Floor System RFQ. James asks: (1) project name (BSB GE Gas \u2013 Conf. Room or similar?); (2) do 2 rooms off main also get low-profile flooring?; (3) how many floor outlet locations?; (4) carpet tile over ASM Q2C 1.6\" system \u2014 Bonitz provide or Indcom/GE? Attached *ASM Q2C - 1.6in Low Profile Flooring Data & Overview.pdf*. Bill+Kat already on thread with floor plan (conduit under access floor). **Jeff owes answers** (or confirm Kat/Bill own) to keep quote moving. Relates T13/T42 BSA but distinct access-floor RFQ. **Mon Oct 5 ~9:09am ET Jeff\u2192Katheryn:** floor receptacles at **each desk location + the conference-room table**; Alex wants **tile, not carpet** \u2014 color similar to the tile in the **KIB office**. **Action (Kat):** relay to James Henninger; still open: project name (e.g., *BSB GE Gas \u2013 Conf. Room*), whether the **2 side rooms** get the low-profile floor, exact outlet count (= desk count + table), and whether Bonitz supplies the tile."
     },
     {
       "id": "T89",
       "status": "open",
       "priority": "high",
-      "due": "pending Hinkson window",
+      "due": "Mon Oct 5 7:45\u20138:15am ET (window passed \u2014 confirm complete)",
       "item": "Track energization NFPS.03 Mitsubishi Sinker EDMs (#2301350/#2301351/#2301349) via TP-11B-8.1 @ HDA",
-      "source": "Email / Jason Marchbanks 2026-10-02 ~9:03am ET",
-      "notes": "**Fri ~9:03am ET Jason\u2192Hinkson/McCurry** (cc Jeff+Katheryn+Jim Stanley+Shanna+Roper+Adam/Amie DPP): request energize **Mitsubishi Sinker EDM #2301350 @ HAA**, **#2301351 @ HCA**, **#2301349 @ HDA**; TP-11B-8.1 @ HDA; DPP; Jim Stanley GE Lead; one-lines attached. **Distinct from T72** (#2301352/#2301353/#2301348 Thu Oct 1 window) and **T47** Fanuc set. Wait Hinkson formal calendar window."
+      "source": "Email / Jason Marchbanks 2026-10-02 + Hinkson 2026-10-04",
+      "notes": "**Fri ~9:03am ET Jason\u2192Hinkson/McCurry** (cc Jeff+Katheryn+Jim Stanley+Shanna+Roper+Adam/Amie DPP): request energize **Mitsubishi Sinker EDM #2301350 @ HAA**, **#2301351 @ HCA**, **#2301349 @ HDA**; TP-11B-8.1 @ HDA; DPP; Jim Stanley GE Lead; one-lines attached. **Distinct from T72** (#2301352/#2301353/#2301348 Thu Oct 1 window) and **T47** Fanuc set. Wait Hinkson formal calendar window. **Sun Oct 4 ~9:02am ET Hinkson** formal: **ENERGIZATION REQUEST \u2013 TP-11B-8.1 ckts 13, 21, 23** (same 3 Sinkers) \u2014 calendar **Mon Oct 5 7:45\u20138:15am ET @ HDA** (on Katheryn cal = e41). Window passed \u2014 no complete mail yet as of ~9:16am."
     },
     {
       "id": "T90",
@@ -725,21 +716,21 @@
     },
     {
       "id": "T94",
-      "status": "open",
+      "status": "waiting",
       "priority": "high",
-      "due": "ASAP (Kat looped \u2014 reply Fitts)",
+      "due": "ASAP (Kat reviewed \u2014 Jeff reply Fitts / get POs 3884-3886)",
       "item": "Confirm GE invoices 3780 / 3883 / 3884 / 3886 have POs + received status (Fitts)",
       "source": "Email / Matthew Fitts + Jeff\u2192Kat 2026-10-02",
-      "notes": "**Fri ~2:50pm ET Fitts\u2192Bill + Jeff:** received invoices last week; wants confirm already covered with POs and whether GE needs to receive them \u2014 Mitch handles finances. Invoice #s: **3780, 3883, 3884, 3886**. **Fri ~4:46pm ET Jeff\u2192Katheryn:** forwarded Fitts request (no added comment) \u2014 **Kat to help confirm POs + receive status / reply**. Distinct from T46 (3878/3879/3845) / T51 (3877)."
+      "notes": "**Fri ~2:50pm ET Fitts\u2192Bill + Jeff:** received invoices last week; wants confirm already covered with POs and whether GE needs to receive them \u2014 Mitch handles finances. Invoice #s: **3780, 3883, 3884, 3886**. **Fri ~4:46pm ET Jeff\u2192Katheryn:** forwarded Fitts request (no added comment) \u2014 **Kat to help confirm POs + receive status / reply**. Distinct from T46 (3878/3879/3845) / T51 (3877). **Fri ~5:28pm ET Katheryn\u2192Jeff** review: **3883** has PO **4900657873** (AAA demo + material return; due in 11 days; build already paid); **3780** has PO **4900657858** (pre-shift inspections + material, two 28-day cycles; due in 11 days); **3884** (AMA duct enclosure build), **3885** (AMA duct enclosure demo), **3886** (West Wall outside H Bay \u2014 freight/labor/material/equipment) have **NO PO** in QuickBooks \u2014 **overdue 21 days**. Waiting on Jeff to reply Fitts/Mitch + get POs for 3884/3885/3886 (Fitts didn't list 3885 but same gap)."
     },
     {
       "id": "T95",
       "status": "open",
       "priority": "high",
-      "due": "ASAP (blocks MSS Mon crew T67; Frank acked)",
+      "due": "ASAP (Kat/Jeff send MSS form + credit app; blocks T67)",
       "item": "Complete MSS New Customer Application + return to Frank (Bill fill)",
-      "source": "Email / Frank Manganella\u2192Kat+Jeff + Kat\u2192Bill + Kat\u2192Frank 2026-10-02",
-      "notes": "**Fri ~3:08pm ET Frank Manganella (MSS)\u2192Kat+Jeff:** spoke with Jason \u2014 Indcom **not set up as customer** at MSS yet; please return attached customer form so they can start service work (projects coming up). Attachment: *New Customer Application v9_3.12.26.pdf*. **Fri ~3:10pm ET Katheryn\u2192Bill Marchbanks + Jeff:** fwd asking Bill to fill form for MSS system setup. **Fri ~4:31pm ET Katheryn\u2192Frank (cc Jeff):** ack \u2014 will get filled out and returned ASAP. **Action:** Bill complete form \u2192 return to Frank/MSS; unblocks T67 Mon BL4/NFPS.03 fire-alarm crew. Relates T67/T68."
+      "source": "Email / Frank Manganella\u2192Kat+Jeff + Kat\u2192Bill + Kat\u2192Frank 2026-10-02 + Bill 2026-10-04",
+      "notes": "**Fri ~3:08pm ET Frank Manganella (MSS)\u2192Kat+Jeff:** spoke with Jason \u2014 Indcom **not set up as customer** at MSS yet; please return attached customer form so they can start service work (projects coming up). Attachment: *New Customer Application v9_3.12.26.pdf*. **Fri ~3:10pm ET Katheryn\u2192Bill Marchbanks + Jeff:** fwd asking Bill to fill form for MSS system setup. **Fri ~4:31pm ET Katheryn\u2192Frank (cc Jeff):** ack \u2014 will get filled out and returned ASAP. **Action:** Bill complete form \u2192 return to Frank/MSS; unblocks T67 Mon BL4/NFPS.03 fire-alarm crew. Relates T67/T68. **Sun Oct 4 ~11:00am ET Bill\u2192Jeff+Kat (cc Ben O'Dell accounting@):** new vendor-setup process \u2014 **Jeff or Kat** classify + send (Bill not filling it). For **MSS**: classify **subcontractor**; attach the standing **credit-application PDF** to MSS's own form + send the **subcontractor vendor request**; vendor name in email; leave credit limit blank; Net 30; **copy Ben**, don't copy Bill; ask MSS to return the whole package to accounting@indcomcorp.com; send only signature-required forms to Bill. Steps doc https://docs.google.com/document/d/1FGkkIQdZniCX6kYQBq2a_GBfZeyr8RoO_JFC7daI8vo/edit \u00b7 credit app https://drive.google.com/file/d/1s9wHBpI9oXqzhTwADnrOsyXsqnNRLH3s/view \u00b7 subcontractor request https://docs.google.com/document/d/1BkCipzDiR9jOOe3ascb5gFs7T9bbMVfoietEWL94nJc/edit ."
     },
     {
       "id": "T96",
@@ -751,13 +742,49 @@
       "notes": "**Fri ~3:27pm ET** Ariba new PO **4900661220** to Indcom (ariba.mail@); requester **Lum, Lamont Joey** (LamontJoey.Lum@gevernova.com; +1 864-293-2746); Greenville Gas Turbines; NET 150; need-by **6 Oct 2026**. Line: **Indcom FW40-43 CBAY Scaffolding Support, CBAY machine installs and demo** 1 EA @ **$48,878.16 USD**. Ship-to 300 Garlington Rd / Deliver To Lum/5250. Scope notes scaffold support for machine installs + Safe Access/Fall Mitigation manpower (M\u2013F plant hours). Confirm-orders / acknowledge path. Distinct from T74 (same Joey Lum / PP-11B-5 PO 4900660255) / T75 / T85 / T87."
     },
     {
-      "id": "T97",
+      "id": "T98",
       "status": "open",
       "priority": "high",
-      "due": "ASAP (blocks Layher truck dispatch T4)",
-      "item": "Complete Prosponsive Logistics customer/account setup + return packet (Alex Pittman)",
-      "source": "Email / Alex Pittman (Prosponsive) 2026-10-02 ~4:48pm ET",
-      "notes": "**Fri ~4:48pm ET Alex Pittman (Prosponsive Logistics; National Accounts; apittman@prosponsive.com; P 470.781.6836 / M 770-882-6319 / after-hours 678.686.0933)**\u2192Jeff: attached *Customer Packet - Prosponsive Logistics - August 2026 (1).pdf* (also sent via text). **Need account setup** to get the load built in system and **driver dispatched**. Ties T4 Layher R-000159 truck (Jeff\u2019s broker path / Sat OT ask). **Action:** complete Prosponsive customer packet/account \u2192 enable dispatch; keep Layher (Jimmy/Jeremy) looped when truck locked."
+      "due": "Need-by TODAY Mon Oct 5 (ack + invoice)",
+      "item": "Process/ack GE PO 4900661420 ($33,276.00) \u2014 FW38/39/40 UA Buildstand Inspections, 1st/2nd/3rd shifts (Andrew Heatherly)",
+      "source": "Email / Ariba GE Vernova 2026-10-05 ~3:25am ET",
+      "notes": "**Mon ~3:25am ET** Ariba new PO **4900661420** to Indcom (ariba.mail@); requester **William Andrew Heatherly** (William.Heatherly@gevernova.com; +1 864-252-5624); Greenville Gas Turbines; NET 150; **PR838153**; line **FW38, 39, & 40 UA Buildstand Inspections for 1st, 2nd, and 3rd Shifts** \u2014 service **Sep 14 \u2013 Oct 4**; **$33,276.00**; need-by **5 Oct 2026**. Confirm order in Ariba + invoice (service already done). Ties T55 (Heatherly PO receiving). Distinct from T96/T87/T85/T74/T75."
+    },
+    {
+      "id": "T99",
+      "status": "waiting",
+      "priority": "high",
+      "due": "Quote before ~Nov 1 buildstand arrival",
+      "item": "DIA buildstand support RFQ \u2014 DPP to quote GE-side receptacles/air + mount 220 pump reel at DIA",
+      "source": "Email / Jeff\u2192Jason Marchbanks (cc Amie + Kat) 2026-10-05 ~8:45am ET",
+      "notes": "**Mon ~8:45am ET Jeff\u2192Jason (DPP; cc Amie Naylor + Katheryn's personal Gmail):** ENSER confirmed what's needed for the new buildstand arriving **~Nov 1 at DIA**; this is also where one of the **220 pump reels** mounts to the stand (Jeff suggests cord-chain-style cover like other stands in the bay). Listed GE-side scope: **4\u00d7 air drops \u226590 psi**; **4\u00d7 480V Pass & Seymour**, **4\u00d7 Size-2 Meltric 120V** (cord reels), **2\u00d7 Size-1 Meltric 120V** general. \u201cPlease confirm what we need to add to the area and quote accordingly.\u201d **Jason ~8:50am ET:** \u201cOn it.\u201d Waiting for DPP quote \u2192 Indcom quote to GE. Ties T56 (ENSER) + T10 (ITH power reels DQA/DIA)."
+    },
+    {
+      "id": "T100",
+      "status": "open",
+      "priority": "med",
+      "due": "pending Hinkson window",
+      "item": "Track energization NFPS.03 Haas DM-2 #2301427 @ HCA via PP-6A-5B @ HBA",
+      "source": "Email / Jason Marchbanks\u2192Hinkson/McCurry 2026-10-05 ~7:14am ET",
+      "notes": "**Mon ~7:14am ET Jason** (cc Roper, Shanna, Jeff, Katheryn, Adam McClure): energize **Haas DM-2 #2301427 @ HCA**; panel **PP-6A-5B @ HBA**; one-line attached (*Haas DM2 HCA 2301427.pdf*); DPP; GE Lead Jim Stanley. Wait for Hinkson formal window/invite. Distinct from closed T54 (PP-6A-5B Haas DM2 outage Sep 25) and T89 Sinkers."
+    },
+    {
+      "id": "T101",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP (see deck for need-by dates)",
+      "item": "AGV Lift & Rotate walk results \u2014 remove scaffold stairs @ CKA + move/remove stairs @ COA (arc-flash space)",
+      "source": "Email / Adam Edwards (GE) 2026-10-05 ~7:46am ET",
+      "notes": "**Mon ~7:46am ET Adam Edwards** (to Eclipse/GE team + Shanna, Kat, Jeff, Kirkley, Julia): notes from the AGV install walk + *Lift and Rotate Installation Walk Results.pptx* (work + dates it must be done by to avoid AGV Lift & Rotate install delays). **Indcom scaffold impact:** **CKA** \u2014 scaffolding + stairs not in planned layout \u2192 **scaffold stairs must be removed** (assigned Jon Roper/EHS); **COA** \u2014 stairs not in layout + encroach on lift-and-rotate **arc-flash protected space** \u2192 **move/remove** (Jon Roper/EHS). Others (not Indcom): CFB Eclipse cost; CSB/CYA shot-peen air tanks relocate (Joey Lum/Dalton Crooks); CTB lockers/tool crib move (Maintenance/Motion). **Action:** open deck for required dates; coordinate with Roper on stair removal/relocation + any re-access plan. Closes T76 walk outcome."
+    },
+    {
+      "id": "T102",
+      "status": "open",
+      "priority": "low",
+      "due": "Watch Oct\u2013Dec (cutover blackout 1\u20134 days)",
+      "item": "GE Vernova payments moving from MUFG SCF \u2192 GEV Paid early-pay program \u2014 watch cutover + late payments",
+      "source": "Email / Bill Marchbanks 2026-10-05 8:00am ET",
+      "notes": "**Mon 8:00am ET Bill\u2192Jeff, Kat, Ben (accounting@):** Nicholas Black (GE sourcing) confirmed Indcom moves to **GEV Paid**. GE pays directly; MUFG still calculates the discount; phased rollout ~3 months (portal supplier.tradepayables.com marks **GEVPAY**); invoice submission/POs unchanged; **1\u20134 day payment blackout** around cutover. Bill confirming bank details in GE Supplier Connect. **After cutover, flag anything late \u2192 chase GEV AP, not MUFG.** Booking of the early-pay discount (sales discount vs financing fee) \u2014 Bill asked \u201cSam\u201d to confirm (recipient is Ben; likely meant Ben). FYI/watch for Kat."
     }
   ],
   "calendar": [
@@ -796,12 +823,12 @@
     "**ASAP (Kat looped ~4:46pm)** \u2014 Confirm GE invoices **3780 / 3883 / 3884 / 3886** have POs + receive status (Fitts\u2192Bill+Jeff ~2:50pm; Jeff fwd\u2192Kat ~4:46pm) (T94)",
     "**ASAP (blocks T67 Mon; Frank acked ~4:31pm)** \u2014 Bill complete MSS **New Customer Application v9_3.12.26.pdf** + return to Frank (Kat\u2192Bill ~3:10pm; Kat\u2192Frank ack ~4:31pm) (T95)",
     "**ASAP (ack; need-by Mon Oct 6)** \u2014 Process/ack GE Ariba PO **4900661220** (~$48,878.16; Joey Lum; FW40\u201343 C-Bay scaffolding support / machine installs & demo) (T96)",
-    "**ASAP (blocks T4 truck)** \u2014 Complete Prosponsive Logistics **Customer Packet** / account setup so Alex can build load + dispatch driver (Alex Pittman ~4:48pm Fri) (T97)",
+    "**DONE/CANCELLED Sat Oct 3** \u2014 Prosponsive load cancelled (Jeff ~12:53pm); no packet needed (T97 closed); T4 waits on Layher truck",
     "**Thu Oct 1 9:30am\u201310:00am ET** \u2014 Meeting AGV Installation Line Walk @ Meet by VTL 1.2 (Adam Edwards / Eclipse / Roper conduit; **Shanna ~2:35pm ET fwd \u2014 scaffold impact**; Jeff ~3:27pm replied (green tags NFPS.03 maybe tomorrow; N-bay tonight); Shanna ~3:34pm available Thu/Fri \u22654 + weekend shutdown; Katheryn invited/accepted; overlaps T72 Sinker) \u2014 e39 / **T76**",
     "**Thu Oct 1 7:45am\u20139:15am ET** \u2014 Outage PP-11B-8 (11S E3) / TP-11B-8.1 feeder rotation correction @ HFA (Hinkson; DPP; Jim Stanley ME; T71) \u2014 related panel to T47 Fanuc energize but distinct work",
     "**Thu Oct 1 9:15am\u20139:45am ET** \u2014 Energize NFPS.03 Mitsubishi Sinker EDMs #2301352/#2301353/#2301348 via TP-11B-8.1 @ HDA after T71 rotation (Hinkson/Jason; DPP; Jim Stanley; T72) \u2014 distinct from T47 Fanuc set",
     "**Thu Oct 1 (confirm time \u2014 was 1:00\u20131:30pm ET)** \u2014 Outage RP-ABB-1 @ **AAB** (alt panel approved) for 2\u00d7 Quad Receptacles for ACB Computers (Jason/Adam/Hinkson; DPP; James Ray); Hinkson ~1:03pm asked if still want outage tomorrow + what time (T73) \u2014 cal = e38",
-    "**Sun Oct 5** \u2014 M-Bay stormwater drains phase-1 scaffold due (T22)",
+    "**Mon Oct 5 TODAY** \u2014 M-Bay stormwater drains phase-1 scaffold due (T22) \u2014 no status mail since Fri",
     "**Thu Oct 1** \u2014 ENSER 7HA1 flatbed ship items 13\u201317 \u2192 Advanced Rigging (T56)",
     "**Tue Oct 6 \u2013 Wed Oct 7** \u2014 ENSER 7HA1 platform trucks \u2192 Advanced Rigging (T56)",
     "**Mon Nov 2 \u2013 Tue Nov 3** \u2014 7HA1 Build Platform install (ENSER crew; Twigg ~3:14pm ET clarified; T56) \u2014 beyond 30d board but noted",
@@ -811,7 +838,13 @@
     "**ASAP** \u2014 Demo security-camera scaffolds + barricades @ 17 International Court (Bill\u2192Jeff; T83)",
     "**ASAP** \u2014 Tell Jose when **Tavan Hughes** should report (T84)",
     "**ASAP** \u2014 Process SPC **North Pole Invoice 220** (Evan ~11:23pm Wed; was Estimate 417 \u2014 T64)",
-    "**Thu Oct 1 morning windows** \u2014 PP-11B-8 rotation 7:45\u20139:15 (T71/e36); Sinker energize 9:15\u20139:45 (T72/e37); AGV walk 9:30\u201310:00 (T76/e39) \u2014 no complete/outcome mail as of ~3:08pm ET; RP-ABB-1 1:00\u20131:30 still unconfirmed by DPP (T73) but ACB receptacles invoice arrived (T82)"
+    "**Thu Oct 1 morning windows** \u2014 PP-11B-8 rotation 7:45\u20139:15 (T71/e36); Sinker energize 9:15\u20139:45 (T72/e37); AGV walk 9:30\u201310:00 (T76/e39) \u2014 no complete/outcome mail as of ~3:08pm ET; RP-ABB-1 1:00\u20131:30 still unconfirmed by DPP (T73) but ACB receptacles invoice arrived (T82)",
+    "**Mon Oct 5 7:45\u20138:15am ET (passed \u2014 confirm complete)** \u2014 Energization TP-11B-8.1 ckts 13/21/23 @ HDA \u2014 Mitsubishi Sinkers #2301350/#2301351/#2301349 (Hinkson Sun invite; DPP; Jim Stanley) (T89) \u2014 e41",
+    "**Need-by TODAY Mon Oct 5** \u2014 Ack/invoice GE Ariba PO **4900661420** ($33,276; Heatherly; FW38\u201340 UA Buildstand Inspections) (T98)",
+    "**Waiting DPP quote** \u2014 DIA buildstand support (air drops + P&S/Meltric receptacles + 220 pump reel mount) for ENSER stand ~Nov 1 (Jeff\u2192Jason ~8:45am; Jason \u201cOn it\u201d) (T99)",
+    "**Pending Hinkson window** \u2014 Energize Haas DM-2 #2301427 @ HCA via PP-6A-5B @ HBA (Jason ~7:14am Mon) (T100)",
+    "**ASAP (see deck dates)** \u2014 AGV Lift & Rotate: remove scaffold stairs @ CKA; move/remove stairs @ COA (Adam Edwards walk notes ~7:46am Mon) (T101)",
+    "**~Sun Nov 1 (tentative)** \u2014 ENSER 7HA1 build stand move from Advanced Rigging into plant (ENSER rep directs; GE rigging) then Nov 2\u20133 install (Twigg Fri ~6:24pm) (T56)"
   ],
   "events": [
     {
@@ -1038,16 +1071,16 @@
       "id": "e39",
       "type": "meeting",
       "summary": "Meeting: AGV Installation Line Walk @ VTL 1.2 (scaffold impact \u2014 T76)",
-      "title": "Meeting: AGV Installation Line Walk @ VTL 1.2 (scaffold impact; window passed \u2014 confirm outcome)",
+      "title": "DONE Meeting: AGV Installation Line Walk @ VTL 1.2 (results \u2192 T101)",
       "location": "Meet by VTL 1.2",
       "description": "Thu Oct 1 9:30am\u201310:00am ET \u2014 Adam Edwards (GE) walk with Eclipse (Jim/Misty) + Roper conduit moves; identify unexpected equipment/stairs before Lift and rotates install. **Wed ~2:35pm ET Shanna\u2192Jeff:** \u201cwill affect your scaffolding\u201d \u2014 Jeff may attend. Katheryn invited/accepted. Overlaps T72 Sinker energize 9:15\u20139:45am. (T76)",
       "start": "2026-10-01T09:30:00-04:00",
       "end": "2026-10-01T10:00:00-04:00",
       "allDay": false,
-      "status": "scheduled",
-      "todoId": "T76",
+      "status": "done",
+      "todoId": "T101",
       "relatedTodo": "T76",
-      "notes": "Shanna fwd ~2:35pm scaffold impact; Jeff ~3:27pm replied (green tags NFPS.03 maybe tomorrow; N-bay tonight); Shanna ~3:34pm available Thu/Fri \u22654 + weekend shutdown. Overlaps T72. Linked T76. Shanna Thu ~6:32am ET: Combustion stairs already done; weekend=machine Tetris. No walk outcome mail as of ~2:15pm ET."
+      "notes": "Shanna fwd ~2:35pm scaffold impact; Jeff ~3:27pm replied (green tags NFPS.03 maybe tomorrow; N-bay tonight); Shanna ~3:34pm available Thu/Fri \u22654 + weekend shutdown. Overlaps T72. Linked T76. Shanna Thu ~6:32am ET: Combustion stairs already done; weekend=machine Tetris. No walk outcome mail as of ~2:15pm ET. Mon Oct 5 ~7:46am ET Adam Edwards walk notes + PPTX: CKA scaffold stairs remove; COA stairs move/remove (T101)."
     },
     {
       "id": "e33",
@@ -1095,7 +1128,20 @@
       "end": "2026-10-06",
       "allDay": true,
       "type": "deadline",
-      "todoId": "T22"
+      "todoId": "T22",
+      "notes": "Mon Oct 5: due today \u2014 no status mail since Fri."
+    },
+    {
+      "id": "e42",
+      "type": "deadline",
+      "title": "Deadline: Ack/invoice GE PO 4900661420 \u2014 FW38\u201340 UA Buildstand Inspections ($33,276)",
+      "summary": "Deadline: GE PO 4900661420 need-by",
+      "location": "Ariba / SAP Business Network",
+      "description": "Ariba PO 4900661420 (Andrew Heatherly; PR838153) need-by Oct 5; service Sep 14\u2013Oct 4. (T98)",
+      "start": "2026-10-05",
+      "end": "2026-10-06",
+      "allDay": true,
+      "todoId": "T98"
     },
     {
       "id": "e35",
@@ -1112,6 +1158,20 @@
       "status": "scheduled"
     },
     {
+      "id": "e41",
+      "type": "outage",
+      "title": "Energization: TP-11B-8.1 ckts 13/21/23 \u2014 Mitsubishi Sinkers #2301350/#2301351/#2301349 @ HDA",
+      "summary": "Energization: TP-11B-8.1 ckts 13/21/23 \u2014 Mitsubishi Sinkers @ HDA",
+      "location": "HDA (TP-11B-8.1)",
+      "description": "Hinkson Sun Oct 4 ~9:02am ET invite: energize Mitsubishi Sinker EDM #2301350 @ HAA, #2301351 @ HCA, #2301349 @ HDA via TP-11B-8.1 @ HDA. DPP; GE Lead Jim Stanley. On Katheryn calendar. Window passed \u2014 confirm complete. (T89)",
+      "start": "2026-10-05T07:45:00-04:00",
+      "end": "2026-10-05T08:15:00-04:00",
+      "allDay": false,
+      "todoId": "T89",
+      "relatedTodo": "T89",
+      "status": "pending_confirm"
+    },
+    {
       "id": "e25",
       "summary": "Work: ENSER 7HA1 platform trucks \u2192 Advanced Rigging",
       "location": "Advanced Rigging warehouse",
@@ -1123,15 +1183,28 @@
       "todoId": "T56"
     },
     {
+      "id": "e43",
+      "type": "deadline",
+      "title": "Deadline: Ack GE POs 4900661220 (C-Bay FW40\u201343) + 4900660255 (PP-11B-5) need-by",
+      "summary": "Deadline: GE POs need-by Oct 6 (Joey Lum)",
+      "location": "Ariba / SAP Business Network",
+      "description": "PO 4900661220 ~$48,878.16 (T96) and PO 4900660255 ~$14,193.13 (T74) \u2014 both Joey Lum, need-by Oct 6.",
+      "start": "2026-10-06",
+      "end": "2026-10-07",
+      "allDay": true,
+      "todoId": "T96"
+    },
+    {
       "id": "e26",
       "summary": "Work: ENSER 7HA1 Build Platform install (ENSER crew)",
       "location": "GE facility (from Advanced Rigging)",
-      "description": "Twigg Mon ~3:14pm ET: ENSER own hired rigging crew \u2014 platforms, placement, anchoring, electrical; fully functional. Needs GE tech rep for exact placement before anchoring. Mon Nov 2 \u2013 on/before Tue Nov 3. (T56)",
-      "start": "2026-11-02",
+      "description": "Twigg Mon ~3:14pm ET: ENSER own hired rigging crew \u2014 platforms, placement, anchoring, electrical; fully functional. Needs GE tech rep for exact placement before anchoring. Mon Nov 2 \u2013 on/before Tue Nov 3. (T56) Fri Oct 2 ~6:24pm ET Twigg formal responsibilities: tentatively Nov 1 move from Advanced Rigging into plant (GE rigging/positioning; ENSER rep directs); ENSER anchors/electrical/ground straps/test; GE provides 4\u00d7 air \u226590psi + 4\u00d7480V P&S + 4\u00d7 Size-2 + 2\u00d7 Size-1 Meltric (Indcom/DPP quote = T99).",
+      "start": "2026-11-01",
       "end": "2026-11-04",
       "allDay": true,
       "type": "work",
-      "todoId": "T56"
+      "todoId": "T56",
+      "title": "Work: ENSER 7HA1 build stand move-in (~Nov 1) + install Nov 2\u20133 (ENSER crew)"
     }
   ]
 }
