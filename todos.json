@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T12:13:57-04:00",
+  "updated": "2026-10-05T13:14:10-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -487,7 +487,7 @@
       "due": "Mon Oct 5 (BLOCKED on MSS customer form T95 \u2014 no MSS crew mail yet)",
       "item": "Schedule BL4 / NFPS.03 mist-collector + fire-alarm work with MSS (Jason Gunter / Frank Manganella); lock Mon crew",
       "source": "Email / Jeff\u2194Jason Gunter + Frank Manganella (MSS) 2026-09-29/30/10-02",
-      "notes": "**Prior:** PO **4900652190**/card; Bill vendor setup; GE fire-alarm POC ask; MSS Sinker quote chase (T68). **Fri ~7:43am/8:07am/9:03am:** Frank offered Mon if ready; Jeff confirmed **6 machines 100% ready** (1 unplaced = separate). **Fri ~3:08pm ET Frank\u2192Kat+Jeff:** Indcom **not set up as MSS customer** \u2014 return customer form to start service (see **T95**). **Fri ~3:10pm ET Kat\u2192Bill+Jeff:** asked Bill to fill *New Customer Application v9_3.12.26.pdf*. **Action:** complete T95 form \u2192 then Frank/MSS Mon crew lock + update customer; still need GE onsite fire-alarm POC. Distinct from T57. Relates T68/T95. **Mon ~9:16am ET:** no Frank/MSS crew-arrival mail today; form (T95) not yet returned per mail."
+      "notes": "**Prior:** PO **4900652190**/card; Bill vendor setup; GE fire-alarm POC ask; MSS Sinker quote chase (T68). **Fri ~7:43am/8:07am/9:03am:** Frank offered Mon if ready; Jeff confirmed **6 machines 100% ready** (1 unplaced = separate). **Fri ~3:08pm ET Frank\u2192Kat+Jeff:** Indcom **not set up as MSS customer** \u2014 return customer form to start service (see **T95**). **Fri ~3:10pm ET Kat\u2192Bill+Jeff:** asked Bill to fill *New Customer Application v9_3.12.26.pdf*. **Action:** complete T95 form \u2192 then Frank/MSS Mon crew lock + update customer; still need GE onsite fire-alarm POC. Distinct from T57. Relates T68/T95. **Mon ~9:16am ET:** no Frank/MSS crew-arrival mail today; form (T95) not yet returned per mail. **Mon ~1:07pm ET:** MSS vendor-packet reply to Frank drafted in Jeff Gmail (not yet sent) \u2014 see T95."
     },
     {
       "id": "T68",
@@ -727,10 +727,10 @@
       "id": "T95",
       "status": "open",
       "priority": "high",
-      "due": "ASAP (Kat/Jeff send MSS form + credit app; blocks T67)",
+      "due": "ASAP (vendor-packet reply to Frank is a DRAFT in Jeff Gmail ~1:07pm \u2014 confirm send; MSS form itself still owed; blocks T67)",
       "item": "Complete MSS New Customer Application + return to Frank (Bill fill)",
       "source": "Email / Frank Manganella\u2192Kat+Jeff + Kat\u2192Bill + Kat\u2192Frank 2026-10-02 + Bill 2026-10-04",
-      "notes": "**Fri ~3:08pm ET Frank Manganella (MSS)\u2192Kat+Jeff:** spoke with Jason \u2014 Indcom **not set up as customer** at MSS yet; please return attached customer form so they can start service work (projects coming up). Attachment: *New Customer Application v9_3.12.26.pdf*. **Fri ~3:10pm ET Katheryn\u2192Bill Marchbanks + Jeff:** fwd asking Bill to fill form for MSS system setup. **Fri ~4:31pm ET Katheryn\u2192Frank (cc Jeff):** ack \u2014 will get filled out and returned ASAP. **Action:** Bill complete form \u2192 return to Frank/MSS; unblocks T67 Mon BL4/NFPS.03 fire-alarm crew. Relates T67/T68. **Sun Oct 4 ~11:00am ET Bill\u2192Jeff+Kat (cc Ben O'Dell accounting@):** new vendor-setup process \u2014 **Jeff or Kat** classify + send (Bill not filling it). For **MSS**: classify **subcontractor**; attach the standing **credit-application PDF** to MSS's own form + send the **subcontractor vendor request**; vendor name in email; leave credit limit blank; Net 30; **copy Ben**, don't copy Bill; ask MSS to return the whole package to accounting@indcomcorp.com; send only signature-required forms to Bill. Steps doc https://docs.google.com/document/d/1FGkkIQdZniCX6kYQBq2a_GBfZeyr8RoO_JFC7daI8vo/edit \u00b7 credit app https://drive.google.com/file/d/1s9wHBpI9oXqzhTwADnrOsyXsqnNRLH3s/view \u00b7 subcontractor request https://docs.google.com/document/d/1BkCipzDiR9jOOe3ascb5gFs7T9bbMVfoietEWL94nJc/edit ."
+      "notes": "**Fri ~3:08pm ET Frank Manganella (MSS)\u2192Kat+Jeff:** spoke with Jason \u2014 Indcom **not set up as customer** at MSS yet; please return attached customer form so they can start service work (projects coming up). Attachment: *New Customer Application v9_3.12.26.pdf*. **Fri ~3:10pm ET Katheryn\u2192Bill Marchbanks + Jeff:** fwd asking Bill to fill form for MSS system setup. **Fri ~4:31pm ET Katheryn\u2192Frank (cc Jeff):** ack \u2014 will get filled out and returned ASAP. **Action:** Bill complete form \u2192 return to Frank/MSS; unblocks T67 Mon BL4/NFPS.03 fire-alarm crew. Relates T67/T68. **Sun Oct 4 ~11:00am ET Bill\u2192Jeff+Kat (cc Ben O'Dell accounting@):** new vendor-setup process \u2014 **Jeff or Kat** classify + send (Bill not filling it). For **MSS**: classify **subcontractor**; attach the standing **credit-application PDF** to MSS's own form + send the **subcontractor vendor request**; vendor name in email; leave credit limit blank; Net 30; **copy Ben**, don't copy Bill; ask MSS to return the whole package to accounting@indcomcorp.com; send only signature-required forms to Bill. Steps doc https://docs.google.com/document/d/1FGkkIQdZniCX6kYQBq2a_GBfZeyr8RoO_JFC7daI8vo/edit \u00b7 credit app https://drive.google.com/file/d/1s9wHBpI9oXqzhTwADnrOsyXsqnNRLH3s/view \u00b7 subcontractor request https://docs.google.com/document/d/1BkCipzDiR9jOOe3ascb5gFs7T9bbMVfoietEWL94nJc/edit . **Mon Oct 5 ~1:07pm ET DRAFT (Jeff Gmail, label DRAFT \u2014 not sent):** \"Re: New customer form \u2014 MSS Solutions vendor packet\" to Frank, cc accounting@ + Kat \u2014 attaches Indcom **Application for Credit (Net 30)** + **subcontractor vendor info request** + MSS *New Customer Application v9_3.12.26.pdf*; asks Frank to complete and return full package to **Ben at accounting@indcomcorp.com**. Note: Frank asked **Indcom** to fill out MSS's customer form \u2014 confirm draft direction is right before it goes out."
     },
     {
       "id": "T96",
@@ -830,6 +830,24 @@
       "item": "Attend BAA Scaffold Walk (Gas Manifold Demo) \u2014 Scott Tulloch",
       "source": "Email / Scott Tulloch (GE) invite 2026-10-05 ~10:32am ET",
       "notes": "**Mon ~10:32am ET Tulloch** invite to Jeff + Michael Sassa (AM King) + Cliff Little + Paul Madak: **BAA Scaffold Walk**, part of **Gas Manifold Demo**, **Tue Oct 6 9:00\u20139:30am ET @ BAA** (on Jeff's cal, not Kat's; Jeff not yet accepted). Right before FMS-7 shutdown 9:30 (T103). Scope/quote scaffold after walk."
+    },
+    {
+      "id": "T108",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP (Martin offered area walk)",
+      "item": "Quote MM Repair Area work for Martin Brown \u2014 (1) 220V 1-ph crane power; (2) 1600 lb rotary into Haas EC1600 + remove current plate",
+      "source": "Email / Martin Brown (GE Repair Process Eng) 2026-10-05 ~12:19pm ET",
+      "notes": "**Mon ~12:19pm ET Martin Brown (Industrialization / Greenville Service Center)\u2192Jeff:** two quotes for **MM Repair Area**: (1) **Crane Power** \u2014 install electrical power to a crane, **220V single phase** (attachment *101A.pdf*); (2) get a **1600 lb rotary** into the **Haas EC1600** + **remove the current plate** in the machine (discussed previously). Martin free to walk the area; tel 864-361-0344. Schedule walk \u2192 quote."
+    },
+    {
+      "id": "T109",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP",
+      "item": "Jeff verify LastPass blocked login + Google new Mac sign-in (was it him?)",
+      "source": "Email / LastPass + Google security alerts 2026-10-05 ~12:11\u201312:13pm ET",
+      "notes": "**~12:11pm ET Google:** new sign-in to jeff.flannery@indcomcorp.com on a **Mac OS** device. **~12:13pm ET LastPass:** someone used Jeff's **master password** from an unrecognized device/location \u2014 **Duncan, SC**, IP 47.35.252.64; LastPass **blocked** it. If not Jeff: change LastPass master password (and anywhere it's reused) + review Google account devices. If it was Jeff: verify device in LastPass."
     }
   ],
   "calendar": [
@@ -891,7 +909,10 @@
     "**Waiting DPP quote** \u2014 DIA buildstand support (air drops + P&S/Meltric receptacles + 220 pump reel mount) for ENSER stand ~Nov 1 (Jeff\u2192Jason ~8:45am; Jason \u201cOn it\u201d) (T99)",
     "**Pending Hinkson window** \u2014 Energize Haas DM-2 #2301427 @ HCA via PP-6A-5B @ HBA (Jason ~7:14am Mon) (T100)",
     "**ASAP (see deck dates)** \u2014 AGV Lift & Rotate: remove scaffold stairs @ CKA; move/remove stairs @ COA (Adam Edwards walk notes ~7:46am Mon) (T101)",
-    "**~Sun Nov 1 (tentative)** \u2014 ENSER 7HA1 build stand move from Advanced Rigging into plant (ENSER rep directs; GE rigging) then Nov 2\u20133 install (Twigg Fri ~6:24pm) (T56)"
+    "**~Sun Nov 1 (tentative)** \u2014 ENSER 7HA1 build stand move from Advanced Rigging into plant (ENSER rep directs; GE rigging) then Nov 2\u20133 install (Twigg Fri ~6:24pm) (T56)",
+    "**ASAP** \u2014 Quote MM Repair Area for Martin Brown: 220V 1-ph crane power (*101A.pdf*) + 1600 lb rotary into Haas EC1600 / remove plate; Martin offered walk (T108)",
+    "**ASAP** \u2014 Jeff verify LastPass blocked master-password login (Duncan SC, ~12:13pm) + Google new Mac sign-in (~12:11pm) (T109)",
+    "**Confirm send** \u2014 MSS vendor-packet reply to Frank sits as DRAFT in Jeff Gmail (~1:07pm) (T95/T67)"
   ],
   "events": [
     {
