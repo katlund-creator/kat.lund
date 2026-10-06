@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T14:09:07-04:00",
+  "updated": "2026-10-06T16:15:16-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -824,12 +824,12 @@
     },
     {
       "id": "T108",
-      "status": "open",
+      "status": "waiting",
       "priority": "high",
       "due": "ASAP (Martin offered area walk)",
       "item": "Quote MM Repair Area work for Martin Brown \u2014 (1) 220V 1-ph crane power; (2) 1600 lb rotary into Haas EC1600 + remove current plate",
       "source": "Email / Martin Brown (GE Repair Process Eng) 2026-10-05 ~12:19pm ET",
-      "notes": "**Mon ~12:19pm ET Martin Brown (Industrialization / Greenville Service Center)\u2192Jeff:** two quotes for **MM Repair Area**: (1) **Crane Power** \u2014 install electrical power to a crane, **220V single phase** (attachment *101A.pdf*); (2) get a **1600 lb rotary** into the **Haas EC1600** + **remove the current plate** in the machine (discussed previously). Martin free to walk the area; tel 864-361-0344. Schedule walk \u2192 quote."
+      "notes": "**Mon ~12:19pm ET Martin Brown (Industrialization / Greenville Service Center)\u2192Jeff:** two quotes for **MM Repair Area**: (1) **Crane Power** \u2014 install electrical power to a crane, **220V single phase** (attachment *101A.pdf*); (2) get a **1600 lb rotary** into the **Haas EC1600** + **remove the current plate** in the machine (discussed previously). Martin free to walk the area; tel 864-361-0344. Schedule walk \u2192 quote. **Tue Oct 6 ~3:27pm ET Jeff fwd Martin's request to Jason Marchbanks (DPP):** \u201cMM repair quote needed.\u201d Now waiting DPP pricing \u2192 Indcom quote to Martin."
     },
     {
       "id": "T109",
@@ -910,7 +910,7 @@
       "due": "Fri Oct 9 install / Sat Oct 10 removal (tentative)",
       "item": "BAA scaffold for Gas Manifold Demo \u2014 install Fri Oct 9 after crane stop + rail bagged; remove Sat Oct 10 after pipe demo",
       "source": "Email / Scott Tulloch (GE) BAA Scaffold Walk recap 2026-10-06 ~12:18pm + outage-support ask ~12:22pm ET",
-      "notes": "**Tue ~12:18pm ET Tulloch** recap (to Jeff, Michael Sassa/AM King, Cliff Little, Paul Madak; cc Lambley, B. White, Lor, C. Lewis, Whitmire, Corley, Berend, Du Vall, Watkins): **crane stop required at BAA and rail \"bagged\" before scaffolding install**; **tentative 10/9 scaffold install, 10/10 removal** after pipe demos complete; powders in BAA shifted/accessible for production. Manifold demo planned weekend of **Sat Oct 10** \u2014 all four gases demo'd back to headers. **AMK to submit outage request.** Gas safety: H2 isolate/vent/purge B-Bay; O2 isolate/vent/purge A+B Bays (maintenance); N2 LOTO accessible at BAA; Argon LOTO at BAB above quad cell. A-Bay keeps TBC coating access, **no HVOF**. **~12:22pm ET Tulloch\u2192Thomas Wharton + James Ray (cc Sassa, Watkins, Jeff, Du Vall):** schedule **outage maintenance support Oct 10** (H2 purge B-Bay, O2 A/B Bays) **including crane and scaffolding groups**. Next: plan crew/material for Fri BAA install + Sat removal; confirm crane stop/rail bagging timing; quote/PO path."
+      "notes": "**Tue ~12:18pm ET Tulloch** recap (to Jeff, Michael Sassa/AM King, Cliff Little, Paul Madak; cc Lambley, B. White, Lor, C. Lewis, Whitmire, Corley, Berend, Du Vall, Watkins): **crane stop required at BAA and rail \"bagged\" before scaffolding install**; **tentative 10/9 scaffold install, 10/10 removal** after pipe demos complete; powders in BAA shifted/accessible for production. Manifold demo planned weekend of **Sat Oct 10** \u2014 all four gases demo'd back to headers. **AMK to submit outage request.** Gas safety: H2 isolate/vent/purge B-Bay; O2 isolate/vent/purge A+B Bays (maintenance); N2 LOTO accessible at BAA; Argon LOTO at BAB above quad cell. A-Bay keeps TBC coating access, **no HVOF**. **~12:22pm ET Tulloch\u2192Thomas Wharton + James Ray (cc Sassa, Watkins, Jeff, Du Vall):** schedule **outage maintenance support Oct 10** (H2 purge B-Bay, O2 A/B Bays) **including crane and scaffolding groups**. Next: plan crew/material for Fri BAA install + Sat removal; confirm crane stop/rail bagging timing; quote/PO path. **Tue ~3:49pm ET Jon Roper fwd (FYI \u201ccould affect your weekend plans\u201d):** AMK BCL7 crane-lift **exclusion zone Sat Oct 10 6:00am\u20137:00pm ET** ANA/ANB thru AYA/AYB + Admin bldg 1st/2nd floors \u2014 check whether BAA removal / weekend access overlaps (see **T120**)."
     },
     {
       "id": "T118",
@@ -920,9 +920,38 @@
       "item": "OpSource new hire \u2014 Daniel Ramirez: wait for onboarding, then give start date + pay rate",
       "source": "Email / Jeff\u2192Julie Solesbee + Yesenia Portes reply 2026-10-06 ~2:04\u20132:07pm ET",
       "notes": "**Tue ~2:04pm ET Jeff\u2192Julie (OpSource):** send new-hire link for **Daniel Ramirez** (Alex7daniel@gmail.com, 504-385-7044). **~2:07pm ET Yesenia:** will do; will notify Jeff once he completes OpSource onboarding. Next: Jeff owes **start date + pay rate** once onboarded (same pattern as Chaz Kieff T78)."
+    },
+    {
+      "id": "T119",
+      "status": "open",
+      "priority": "med",
+      "due": "Need-by Tue Nov 3 (ack now; invoice per rental cycle)",
+      "item": "Process/ack GE PO 4900662406 ($46,278.34) \u2014 Material rental Oct 2\u2013Oct 29 (28-day min cycle) (Joey Lum)",
+      "source": "Email / Ariba GE Vernova 2026-10-06 ~3:39pm ET",
+      "notes": "**Tue ~3:39pm ET** Ariba new PO **4900662406** to Indcom (ariba.mail@); requester **Lum, Lamont Joey**; **PR840787**; NET 150 (150 DD NET); FCA; line 1 Material 1 EA **$46,278.34**, need-by **3 Nov 2026**; description **Rental Period October 2 \u2013 October 29 2026, Domestic Material Allocation, 28-Day Minimum Rental Cycle Cost $46,278.34**. Ship-to 300 Garlington Rd (5250). Likely the GE side of the Layher rental (T4 R-000159) \u2014 confirm which rental it covers; ack/confirm in Ariba."
+    },
+    {
+      "id": "T120",
+      "status": "open",
+      "priority": "high",
+      "due": "Sat Oct 10 6:00am\u20137:00pm ET",
+      "item": "BCL7 crane-lift exclusion zone ANA/ANB\u2013AYA/AYB + Admin bldg \u2014 plan weekend work around it",
+      "source": "Email / Jon Roper fwd of Hinkson/AMK (Nate Barney) advisory, 2026-10-06 ~3:49pm ET",
+      "notes": "**Tue ~3:49pm ET Roper\u2192Jeff + Adam Watkins + Rita Burch (AMK):** \u201cFYI, this could affect your weekend plans.\u201d Original Hinkson appt (Oct 1): **BLOCKED ACCESS/EXCLUSION ZONE \u2014 BCL7 Infrastructure Crane Lift Plan**, **Sat Oct 10 6:00am\u20137:00pm ET**, complete access restriction **ANA/ANB thru AYA/AYB** plus areas west inside **Standera/Administration Building (1st + 2nd floors)**; AMK crane lifts of process piping onto high roof; includes GE HVAC replacement. Attachments *Crane Lift Outage_ 10.10.26.pdf* + *Logistics Plan 10.10.26.pdf* (not downloaded). Check impact on Sat crew/scaffold plans (T117 BAA removal, A Bay crane work)."
+    },
+    {
+      "id": "T121",
+      "status": "open",
+      "priority": "med",
+      "due": "meeting time per invite (not readable here)",
+      "item": "Michael Sassa (AM King) meeting \u2014 VPS lighting over restricted areas / coater 3 & 4",
+      "source": "Email / Michael Sassa 2026-10-06 ~4:02pm ET",
+      "notes": "**Tue ~4:02pm ET Sassa\u2192Jeff + Adam Watkins (AMK) + Matt Fitts (GE):** meeting invite (*invite.ics*) \u2014 \u201clet me know if this time doesn't work\u201d; wants to discuss opportunities for **new lighting over coater 3 & 4** areas. Meeting time is only in the .ics (attachment download not signed in; not on Katheryn's calendar). Jeff to accept/decline; prep lighting install opportunity."
     }
   ],
   "calendar": [
+    "**Sat Oct 10 6:00am\u20137:00pm ET @ ANA/ANB\u2013AYA/AYB + Admin bldg** \u2014 Exclusion zone **BCL7 crane lift** (AMK piping to high roof; Roper FYI could affect weekend plans) (T120)",
+    "**TBD (per Sassa invite.ics, sent Tue ~4:02pm)** \u2014 Meeting **VPS lighting over coater 3 & 4** (Michael Sassa/AMK, Adam Watkins, Matt Fitts) (T121)",
     "**Fri Oct 9 (tentative) @ BAA** \u2014 Work **BAA scaffold install** for Gas Manifold Demo \u2014 needs **crane stop at BAA + rail bagged** first (Tulloch recap ~12:18pm Tue) (T117)",
     "**Sat Oct 10 @ A/B Bays (BAA)** \u2014 Outage **Gas Manifold Demo** \u2014 H2 isolate/vent/purge B-Bay; O2 A+B Bays; N2/Argon LOTO; AMK submitting outage request; maintenance support incl. crane + scaffold groups; **BAA scaffold removal after pipe demo** (T117)",
     "**Wed Oct 7 9:30am ET @ MEB** \u2014 Shutdown **PP-7B-2 Circuit #6** \u2014 remove Downdraft Table CAT#701624 @ MGB (DPP; GE Lead Jim Stanley) \u2014 Hinkson notification ~10:00am Tue; invite + Jeff hold = one shutdown (T113)",
@@ -990,6 +1019,7 @@
     "**ASAP** \u2014 Jeff verify LastPass blocked master-password login (Duncan SC, ~12:13pm) + Google new Mac sign-in (~12:11pm) (T109)",
     "**SENT Mon ~1:25pm** \u2014 Katheryn sent MSS vendor packet to Frank (cc Jeff); waiting MSS return package to accounting@ (T95/T67)",
     "**Need-by Fri Oct 16** \u2014 Ack GE Ariba PO **4900661869** ($97,759.38; Alex Leppard; **BSA Renovation**) (T111)",
+    "**Need-by Tue Nov 3** \u2014 Ack GE Ariba PO **4900662406** ($46,278.34; Joey Lum; material rental Oct 2\u201329, 28-day min cycle) (T119)",
     "**Need-by Mon Nov 9 (FW41\u201344)** \u2014 Ack GE Ariba PO **4900661816** ($49,470; Joey Lum; C-Bay weekly machine cleaning, 2 techs \u00d7 40 hr/wk) (T110)"
   ],
   "events": [
@@ -1459,6 +1489,30 @@
       "end": "2026-10-11",
       "allDay": true,
       "todoId": "T117"
+    },
+    {
+      "id": "e53",
+      "type": "outage",
+      "title": "Exclusion zone: BCL7 crane lift \u2014 ANA/ANB thru AYA/AYB + Admin",
+      "summary": "Blocked access 6am\u20137pm (AMK crane lifts; could affect weekend plans)",
+      "location": "ANA/ANB thru AYA/AYB; Standera/Admin bldg 1st+2nd floors",
+      "description": "Hinkson/AMK (Nate Barney) advisory fwd by Jon Roper Tue ~3:49pm ET: complete access restriction Sat Oct 10 6:00am\u20137:00pm ET for crane lifting of mechanical process piping onto high roof; includes GE HVAC replacement. Check impact on weekend crew/scaffold work (T117). (T120)",
+      "start": "2026-10-10T06:00:00-04:00",
+      "end": "2026-10-10T19:00:00-04:00",
+      "allDay": false,
+      "todoId": "T120"
+    },
+    {
+      "id": "e54",
+      "type": "deadline",
+      "title": "Deadline: ack GE PO 4900662406 (material rental Oct 2\u201329)",
+      "summary": "Need-by Nov 3 \u2014 $46,278.34 (Joey Lum)",
+      "location": "Ariba",
+      "description": "Ariba PO 4900662406, requester Lamont Joey Lum, PR840787, $46,278.34, rental period Oct 2\u2013Oct 29 2026 (28-day minimum rental cycle). (T119)",
+      "start": "2026-11-03",
+      "end": "2026-11-04",
+      "allDay": true,
+      "todoId": "T119"
     }
   ]
 }
