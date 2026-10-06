@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T11:12:32-04:00",
+  "updated": "2026-10-06T12:11:24-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -154,7 +154,7 @@
       "due": "TODAY ASAP (before Thu Pulse 11am)",
       "item": "Repair highest-priority pallet rack items (red uprights/beams); inventory + answer Julia",
       "source": "Email / Julia + Brian Hill 2026-09-17/28\u201330",
-      "notes": "**Wed ~6:22am ET Julia:** update on ordering material / scheduling top-priority repairs \u2014 she briefs Rebecca + Jason at **Thu Pulse 11:00am ET**. **Wed ~6:48am ET Jeff draft** (Gmail DRAFT label \u2014 confirm sent): \u201cdefinite answer to you today\u201d; sourcing repair kits + lead times for quote/timeline. Still need **definite answer TODAY** + knock out **red** uprights/beams (Mike\u2019s racks first) before Pulse. Brian Rouby staging near shipping/wood shed."
+      "notes": "**Wed ~6:22am ET Julia:** update on ordering material / scheduling top-priority repairs \u2014 she briefs Rebecca + Jason at **Thu Pulse 11:00am ET**. **Wed ~6:48am ET Jeff draft** (Gmail DRAFT label \u2014 confirm sent): \u201cdefinite answer to you today\u201d; sourcing repair kits + lead times for quote/timeline. Still need **definite answer TODAY** + knock out **red** uprights/beams (Mike\u2019s racks first) before Pulse. Brian Rouby staging near shipping/wood shed. **Tue Oct 6 ~11:41\u201311:42am ET Bryan Bullington (bullina2@outlook.com) fwd to Jeff:** (1) his Thu Oct 1 ~4:23pm *Red repairs* note to Jeff+Katheryn \u2014 red repairs started Fri Oct 2 in pole barn area using surplus uprights; J-pins elsewhere on campus; labor **$35,000**; Rack Armour repair kits (Amentum + train areas, **8\u201310 wk lead**) **$32,264.22** + freight; replacement horiz/diag braces for welded uprights **$4.602** (as written \u2014 likely $4,602) + freight; J-pins + install/checking Broach/Die rack nuts & bolts **$4,500**; forklift + scissor lift rental **$3,900/mo**. (2) Interlake Mecalux (Sara Wells, Fri Oct 2) pricing for **30\u00d7 I75 42\"\u00d7264\" (22') + 20\u00d7 42\"\u00d7144\"** replacement uprights \u2014 *GE VERNOVA 10-2-26.pdf*, FOB IL, ~**$3,000** freight est. Use to build GE quote/timeline for Julia."
     },
     {
       "id": "T22",
@@ -806,21 +806,21 @@
     },
     {
       "id": "T105",
-      "status": "open",
+      "status": "waiting",
       "priority": "high",
-      "due": "ASAP (PO to start staging)",
+      "due": "WAITING Layher staging/ship ETA (PO sent Tue ~11:29am)",
       "item": "Issue PO for Layher rental quote R-000214 (material Jeff requested from Obed)",
       "source": "Email / Jeremy Bayate (cc Jimmy Holmes + Obed Bosch) 2026-10-05 ~10:15am ET",
-      "notes": "**Mon ~10:15am ET Jeremy:** received the material Jeff requested from Obed; attached *Quote R-000214 - Indcom Corp.pdf*; **issue PO and Layher will begin staging for shipping**. Separate from R-000159 (T4) and sales quote S-000236 (T61) \u2014 confirm overlap. FYI same morning (~10:08am ET) Jeremy: tube end caps arrived from Germany, FedEx to 17 International Ct (office)."
+      "notes": "**Mon ~10:15am ET Jeremy:** received the material Jeff requested from Obed; attached *Quote R-000214 - Indcom Corp.pdf*; issue PO and Layher will begin staging for shipping. Separate from R-000159 (T4) and sales quote S-000236 (T61) \u2014 confirm overlap. FYI same morning (~10:08am ET) Jeremy: tube end caps arrived from Germany, FedEx to 17 International Ct (office). **Tue Oct 6 ~11:29am ET Jeff\u2192Jeremy:** PO **GE-JF261006** issued. Now waiting Layher staging + ship/delivery ETA."
     },
     {
       "id": "T106",
       "status": "open",
       "priority": "high",
-      "due": "ASAP (PO approved \u2014 invoice fix)",
-      "item": "Fix/clarify Invoice 3919 Husky Fan Install ($26,479.95) \u2014 add Husky Warehouse dispatch so GE can issue PO",
-      "source": "Email / James Ray (GE) 2026-10-05 ~10:45am ET",
-      "notes": "**Mon ~10:45am ET James Ray** (reply to Fri QuickBooks invoice 3919; to mail@ + GE AP team Veronica Kyle/Kristen Jackson/Zachary Kleiner/Randy Krattley; cc jeff@): **team approved to issue PO**, but there's a **Dispatch attached to Husky Warehouse** that he doesn't see reflected in the invoice. Jeff/Kat: revise invoice 3919 (or explain) so PO can issue."
+      "due": "ASAP (PO issued \u2014 invoice against it)",
+      "item": "Invoice 3919 Husky Fan Install ($26,479.95) \u2014 process against GE PO 4200338644",
+      "source": "Email / James Ray + Kristen Jackson (GE) 2026-10-05/06",
+      "notes": "**Mon ~10:45am ET James Ray:** team approved to issue PO, but a Dispatch attached to Husky Warehouse wasn't reflected on the invoice. **Mon ~4:12pm ET Veronica Kyle:** asked James for the L2L dispatch. **Tue Oct 6 ~11:44am ET Kristen Jackson (GE on-site CSR):** use **PO # 4200338644** to process the invoice; original **Dispatch # 81807**; asked Zachary Kleiner to release. **~11:45am ET Ariba:** new PO **4200338644** received ($26,479.95; \u201cinvoice 3919 Husky Fan Install/L2L 81807\u201d). Next: submit/flip invoice 3919 against PO 4200338644 in Ariba once released."
     },
     {
       "id": "T107",
@@ -919,7 +919,7 @@
     "**Tue Oct 6 9:00\u20139:30am ET @ BAA** \u2014 Meeting **BAA Scaffold Walk** (Gas Manifold Demo; Scott Tulloch; AM King Sassa, Cliff Little, Madak) \u2014 on Jeff's cal only (T107) \u2014 then FMS-7 shutdown 9:30 (T103)",
     "**Tue Oct 6 9:30\u201310:00am ET @ CWA Mezz** \u2014 Shutdown **FMS-7 Circuit #3** \u2014 BSA Office demo (remove 4 exterior receptacles; DPP; GE Lead Leppard) \u2014 Hinkson invite + 2 duplicate holds = one shutdown (T103)",
     "**OVERDUE since Thu Sep 24** \u2014 Guard rail AAA\u2013AUA deadline (all-day; T3) \u2014 no firm Bob Peterson yes/no; work was to start Sat Sep 26; **still no reply Fri\u2013Wed ~8:11am**",
-    "**TODAY ASAP / before Thu Pulse 11:00am ET** \u2014 Pallet rack highest-priority (red) repairs \u2014 Julia Wed ~6:22am needs material-order/schedule update for Pulse briefing; Jeff draft ~6:48am \u201cdefinite answer today\u201d (confirm sent); still need answer + red repairs (Mike\u2019s first) (T20)",
+    "**TODAY ASAP / before Thu Pulse 11:00am ET** \u2014 Pallet rack highest-priority (red) repairs \u2014 Julia Wed ~6:22am needs material-order/schedule update for Pulse briefing; Jeff draft ~6:48am \u201cdefinite answer today\u201d (confirm sent); still need answer + red repairs (Mike\u2019s first) (T20) \u2014 **Tue ~11:41am:** Bryan Bullington fwd red-repair pricing (labor $35k; Rack Armour kits $32,264.22 + frt, 8\u201310 wk) + Interlake Mecalux upright quote (~$3k frt)",
     "**Pending schedule** \u2014 Energize 4 Fanuc EDMs NFPS.03 via TP-11B-8.1 @ HDA (#2301383/#2301384/#2301385/#2301390; **MOC 23582**; T47) \u2014 wait Hinkson formal window",
     "**Mon Sep 28 PAST WINDOW 8:00am\u20133:00pm ET** \u2014 Outage fire-suppression BSA office drain/valve (Impact Fire; Alex Leppard; T50) \u2014 **A/B/C bays columns S\u2013Z**; no alarms; FM+ERT; dupes = one outage; **CSWP filed ~8:50am**; Est 2015 to Shanna ~12:00pm (T42) \u2014 **window ended ~3:00pm; no complete/cancel mail through ~Tue 5:11pm** (still open pending confirmation)",
     "**DONE Mon Sep 28 ~6:20am ET** \u2014 Outage PP-7A-9 Circuit #5 / HAA\u2013HCA Hydroflow re-energize complete (McCurry \u201cOutage complete\u201d; Jason Sat disconnect done PMX606793; Jim Stanley thanks) \u2014 closes T17/T38",
