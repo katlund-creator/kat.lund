@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T16:15:16-04:00",
+  "updated": "2026-10-06T17:04:58-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -946,7 +946,16 @@
       "due": "meeting time per invite (not readable here)",
       "item": "Michael Sassa (AM King) meeting \u2014 VPS lighting over restricted areas / coater 3 & 4",
       "source": "Email / Michael Sassa 2026-10-06 ~4:02pm ET",
-      "notes": "**Tue ~4:02pm ET Sassa\u2192Jeff + Adam Watkins (AMK) + Matt Fitts (GE):** meeting invite (*invite.ics*) \u2014 \u201clet me know if this time doesn't work\u201d; wants to discuss opportunities for **new lighting over coater 3 & 4** areas. Meeting time is only in the .ics (attachment download not signed in; not on Katheryn's calendar). Jeff to accept/decline; prep lighting install opportunity."
+      "notes": "**Tue ~4:02pm ET Sassa\u2192Jeff + Adam Watkins (AMK) + Matt Fitts (GE):** meeting invite (*invite.ics*) \u2014 \u201clet me know if this time doesn't work\u201d; wants to discuss opportunities for **new lighting over coater 3 & 4** areas. Meeting time is only in the .ics (attachment download not signed in; not on Katheryn's calendar). Jeff to accept/decline; prep lighting install opportunity. **Tue ~5:03pm ET re-check:** email body has no time (only *invite.ics*); not on Katheryn's calendar \u2014 still unknown."
+    },
+    {
+      "id": "T122",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP (\"earliest convenience\")",
+      "item": "Review + quote GE Nozzle Fab Relocation Project RFQ REV_0 (Jim Stanley)",
+      "source": "Email / James Stanley (GE Vernova) 2026-10-06 ~4:44pm ET",
+      "notes": "**Tue ~4:44pm ET Jim Stanley\u2192Jeff:** \"Please review and quote at your earliest convenience.\" Attachment *Nozzle Fab Relocation Project RFQ REV_0.docx* (~52 KB; not downloaded \u2014 Gmail attachment download not available here). Scope not in body \u2014 open the RFQ, then price (likely Jason/DPP electrical + Indcom scaffold/support, same pattern as T7/T8 NFPS.03). New project; no due date stated."
     }
   ],
   "calendar": [
