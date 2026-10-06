@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T17:09:01-04:00",
+  "updated": "2026-10-06T09:21:09-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -875,9 +875,28 @@
       "item": "GE Vernova VNDLY onboarding \u2014 accept vendor-network invite, log in, verify Indcom contingent workers",
       "source": "Email / VNDLY + Natalia Acosta (GE Vernova) 2026-10-05 ~4:13\u20134:19pm ET",
       "notes": "**Mon ~4:13pm ET** noreply@vndly.com: GE Vernova invited Indcom to its **Workday VNDLY** vendor network \u2014 accept invite + create company profile. **~4:19pm ET Natalia Acosta (GE Vernova, consultant):** all GE Vernova contingent workers now managed in VNDLY; Jeff's username **Jflannery** at gevernova.vndly.com (first login: Continue \u2192 Forgot Password \u2192 email reset). **ACTION REQUIRED:** log in and confirm Indcom workers are present + details accurate; correct contractor info; contact CW.VendorSupport@ge.com if work orders wrong/missing. Guides attached (VNDLY Vendor Login/Setup, Worker Profile Vendor Guide)."
+    },
+    {
+      "id": "T113",
+      "status": "open",
+      "priority": "high",
+      "due": "Wed Oct 7 9:30am ET",
+      "item": "Track shutdown PP-7B-2 Circuit #6 @ MEB \u2014 remove Downdraft Table CAT#701624 @ MGB (DPP)",
+      "source": "Email / Jason Marchbanks\u2192Hinkson/McCurry 2026-10-06 ~9:18am ET",
+      "notes": "**Tue ~9:18am ET Jason (DPP)** to Hinkson + McCurry (cc Roper, Jim Stanley, Jeff, Katheryn, Adam McClure, Amie Naylor): shutdown **PP-7B-2 ckt #6**, **Wed Oct 7 9:30am ET**; panel **MEB**, machine **MGB**; purpose remove **Downdraft Table CAT#701624**; GE Lead **Jim Stanley**; sub DPP; site photos attached. Duration not stated. No scaffold mentioned. Waiting Hinkson formal notification/invite."
+    },
+    {
+      "id": "T114",
+      "status": "waiting",
+      "priority": "med",
+      "due": "next week (FW41 payroll)",
+      "item": "Caleb Carson final pay \u2014 FW40 40 hrs / $400 per diem held until returned items confirmed",
+      "source": "Email / Katheryn TIME FW40 ~8:26am + Jeff\u2192OpSource ~9:12am 2026-10-06",
+      "notes": "Katheryn's FW40 list had **Caleb Carson 40 hrs, per diem $400**; Jeff's OpSource submit says **assignment ended \u2014 final payment next week** once everything is confirmed returned. Confirm returns, then add Caleb's FW40 hours/per diem to next week's submit. All other 21 lines matched Katheryn's list."
     }
   ],
   "calendar": [
+    "**Wed Oct 7 9:30am ET @ MEB** \u2014 Shutdown **PP-7B-2 Circuit #6** \u2014 remove Downdraft Table CAT#701624 @ MGB (DPP; GE Lead Jim Stanley) \u2014 request only, no Hinkson invite yet (T113)",
     "**Tue Oct 6 9:00\u20139:30am ET @ BAA** \u2014 Meeting **BAA Scaffold Walk** (Gas Manifold Demo; Scott Tulloch; AM King Sassa, Cliff Little, Madak) \u2014 on Jeff's cal only (T107) \u2014 then FMS-7 shutdown 9:30 (T103)",
     "**Tue Oct 6 9:30\u201310:00am ET @ CWA Mezz** \u2014 Shutdown **FMS-7 Circuit #3** \u2014 BSA Office demo (remove 4 exterior receptacles; DPP; GE Lead Leppard) \u2014 Hinkson invite + 2 duplicate holds = one shutdown (T103)",
     "**OVERDUE since Thu Sep 24** \u2014 Guard rail AAA\u2013AUA deadline (all-day; T3) \u2014 no firm Bob Peterson yes/no; work was to start Sat Sep 26; **still no reply Fri\u2013Wed ~8:11am**",
@@ -1362,6 +1381,18 @@
       "end": "2026-11-10",
       "allDay": true,
       "todoId": "T110"
+    },
+    {
+      "id": "e49",
+      "type": "outage",
+      "title": "Outage: PP-7B-2 Circuit #6 \u2014 Downdraft Table removal",
+      "summary": "Shutdown PP-7B-2 ckt #6 @ MEB (DPP)",
+      "location": "Panel MEB / Machine MGB",
+      "description": "DPP shutdown request (Jason Marchbanks Tue ~9:18am ET): PP-7B-2 Circuit #6, Wed Oct 7 9:30am ET; panel MEB, machine MGB; remove Downdraft Table CAT#701624; GE Lead Jim Stanley. Duration not stated (1h hold). (T113)",
+      "start": "2026-10-07T09:30:00-04:00",
+      "end": "2026-10-07T10:30:00-04:00",
+      "allDay": false,
+      "todoId": "T113"
     }
   ]
 }
