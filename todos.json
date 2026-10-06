@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T09:21:09-04:00",
+  "updated": "2026-10-06T10:14:27-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -141,11 +141,11 @@
     {
       "id": "T19",
       "status": "open",
-      "priority": "low",
-      "due": "this week",
+      "priority": "med",
+      "due": "pick up now",
       "item": "Sign/return Sheri tax ACTION pages (3)",
       "source": "Email / Sheri Saunders CPA 2026-09-14",
-      "notes": "Personal \u2014 workpapers at front desk; AMP question call window was Thu 9\u201310:30."
+      "notes": "Personal \u2014 workpapers at front desk; AMP question call window was Thu 9\u201310:30. **Tue Oct 6 ~9:43am ET Lea Burns (Saunders O'Dell CPA):** paperwork **ready for pick up** \u2014 210 E Trade St, Simpsonville (864-963-3467)."
     },
     {
       "id": "T20",
@@ -883,7 +883,7 @@
       "due": "Wed Oct 7 9:30am ET",
       "item": "Track shutdown PP-7B-2 Circuit #6 @ MEB \u2014 remove Downdraft Table CAT#701624 @ MGB (DPP)",
       "source": "Email / Jason Marchbanks\u2192Hinkson/McCurry 2026-10-06 ~9:18am ET",
-      "notes": "**Tue ~9:18am ET Jason (DPP)** to Hinkson + McCurry (cc Roper, Jim Stanley, Jeff, Katheryn, Adam McClure, Amie Naylor): shutdown **PP-7B-2 ckt #6**, **Wed Oct 7 9:30am ET**; panel **MEB**, machine **MGB**; purpose remove **Downdraft Table CAT#701624**; GE Lead **Jim Stanley**; sub DPP; site photos attached. Duration not stated. No scaffold mentioned. Waiting Hinkson formal notification/invite."
+      "notes": "**Tue ~9:18am ET Jason (DPP)** to Hinkson + McCurry (cc Roper, Jim Stanley, Jeff, Katheryn, Adam McClure, Amie Naylor): shutdown **PP-7B-2 ckt #6**, **Wed Oct 7 9:30am ET**; panel **MEB**, machine **MGB**; purpose remove **Downdraft Table CAT#701624**; GE Lead **Jim Stanley**; sub DPP; site photos attached. Duration not stated. No scaffold mentioned. **Tue ~10:00am ET Hinkson SHUTDOWN NOTIFICATION** issued (invite on Kat's cal 9:30\u201310:00am) \u2014 confirmed. Runs alongside PP-7B-1 ckt #11 at 9:35 (T115)."
     },
     {
       "id": "T114",
@@ -893,10 +893,20 @@
       "item": "Caleb Carson final pay \u2014 FW40 40 hrs / $400 per diem held until returned items confirmed",
       "source": "Email / Katheryn TIME FW40 ~8:26am + Jeff\u2192OpSource ~9:12am 2026-10-06",
       "notes": "Katheryn's FW40 list had **Caleb Carson 40 hrs, per diem $400**; Jeff's OpSource submit says **assignment ended \u2014 final payment next week** once everything is confirmed returned. Confirm returns, then add Caleb's FW40 hours/per diem to next week's submit. All other 21 lines matched Katheryn's list."
+    },
+    {
+      "id": "T115",
+      "status": "open",
+      "priority": "high",
+      "due": "Wed Oct 7 9:35am ET",
+      "item": "Track shutdown PP-7B-1 Circuit #11 @ MDB \u2014 remove Mitsubishi PMX605842 + Mist Collector PMX605844 @ MGB (DPP)",
+      "source": "Email / Jason Marchbanks ~9:23am + Hinkson notification ~10:04am ET 2026-10-06",
+      "notes": "**Tue ~9:23am ET Jason (DPP)** request \u2192 **~10:04am ET Hinkson SHUTDOWN NOTIFICATION - PP-7B-1 ckt-11** (cc Roper, McCurry, Jim Stanley, Jeff, Katheryn, McClure, Naylor, Shanna): **Wed Oct 7 9:35am ET**; panel **MDB**, machine **MGB**; remove **Mitsubishi PMX605842** and **Mist Collector PMX605844**; GE Lead **Jim Stanley**; sub DPP. Duration not stated. No scaffold mentioned. Same morning/area as T113 (PP-7B-2 ckt #6 9:30). Kat cal has Hinkson invite + 2 duplicate holds = one shutdown."
     }
   ],
   "calendar": [
-    "**Wed Oct 7 9:30am ET @ MEB** \u2014 Shutdown **PP-7B-2 Circuit #6** \u2014 remove Downdraft Table CAT#701624 @ MGB (DPP; GE Lead Jim Stanley) \u2014 request only, no Hinkson invite yet (T113)",
+    "**Wed Oct 7 9:30am ET @ MEB** \u2014 Shutdown **PP-7B-2 Circuit #6** \u2014 remove Downdraft Table CAT#701624 @ MGB (DPP; GE Lead Jim Stanley) \u2014 Hinkson notification ~10:00am Tue; invite + Jeff hold = one shutdown (T113)",
+    "**Wed Oct 7 9:35am ET @ MDB** \u2014 Shutdown **PP-7B-1 Circuit #11** \u2014 remove Mitsubishi PMX605842 + Mist Collector PMX605844 @ MGB (DPP; GE Lead Jim Stanley) \u2014 Hinkson notification ~10:04am Tue; invite + 2 duplicate holds = one shutdown (T115)",
     "**Tue Oct 6 9:00\u20139:30am ET @ BAA** \u2014 Meeting **BAA Scaffold Walk** (Gas Manifold Demo; Scott Tulloch; AM King Sassa, Cliff Little, Madak) \u2014 on Jeff's cal only (T107) \u2014 then FMS-7 shutdown 9:30 (T103)",
     "**Tue Oct 6 9:30\u201310:00am ET @ CWA Mezz** \u2014 Shutdown **FMS-7 Circuit #3** \u2014 BSA Office demo (remove 4 exterior receptacles; DPP; GE Lead Leppard) \u2014 Hinkson invite + 2 duplicate holds = one shutdown (T103)",
     "**OVERDUE since Thu Sep 24** \u2014 Guard rail AAA\u2013AUA deadline (all-day; T3) \u2014 no firm Bob Peterson yes/no; work was to start Sat Sep 26; **still no reply Fri\u2013Wed ~8:11am**",
@@ -1386,13 +1396,25 @@
       "id": "e49",
       "type": "outage",
       "title": "Outage: PP-7B-2 Circuit #6 \u2014 Downdraft Table removal",
-      "summary": "Shutdown PP-7B-2 ckt #6 @ MEB (DPP)",
+      "summary": "Shutdown PP-7B-2 ckt #6 @ MEB (DPP) \u2014 confirmed",
       "location": "Panel MEB / Machine MGB",
-      "description": "DPP shutdown request (Jason Marchbanks Tue ~9:18am ET): PP-7B-2 Circuit #6, Wed Oct 7 9:30am ET; panel MEB, machine MGB; remove Downdraft Table CAT#701624; GE Lead Jim Stanley. Duration not stated (1h hold). (T113)",
+      "description": "DPP shutdown request (Jason Marchbanks Tue ~9:18am ET): PP-7B-2 Circuit #6, Wed Oct 7 9:30am ET; panel MEB, machine MGB; remove Downdraft Table CAT#701624; GE Lead Jim Stanley. Duration not stated (1h hold). Hinkson SHUTDOWN NOTIFICATION issued Tue ~10:00am ET (confirmed). (T113)",
       "start": "2026-10-07T09:30:00-04:00",
       "end": "2026-10-07T10:30:00-04:00",
       "allDay": false,
       "todoId": "T113"
+    },
+    {
+      "id": "e50",
+      "type": "outage",
+      "title": "Outage: PP-7B-1 Circuit #11 \u2014 Mitsubishi + Mist Collector removal",
+      "summary": "Shutdown PP-7B-1 ckt #11 @ MDB (DPP) \u2014 confirmed",
+      "location": "Panel MDB / Machine MGB",
+      "description": "DPP request (Jason Marchbanks Tue ~9:23am ET) + Hinkson SHUTDOWN NOTIFICATION ~10:04am ET: PP-7B-1 Circuit #11, Wed Oct 7 9:35am ET; panel MDB, machine MGB; remove Mitsubishi PMX605842 and Mist Collector PMX605844; GE Lead Jim Stanley. Duration not stated (1h hold). (T115)",
+      "start": "2026-10-07T09:35:00-04:00",
+      "end": "2026-10-07T10:35:00-04:00",
+      "allDay": false,
+      "todoId": "T115"
     }
   ]
 }
