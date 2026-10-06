@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T12:11:24-04:00",
+  "updated": "2026-10-06T13:13:09-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -817,19 +817,10 @@
       "id": "T106",
       "status": "open",
       "priority": "high",
-      "due": "ASAP (PO issued \u2014 invoice against it)",
+      "due": "ASAP (PO released ~12:29pm \u2014 invoice now)",
       "item": "Invoice 3919 Husky Fan Install ($26,479.95) \u2014 process against GE PO 4200338644",
       "source": "Email / James Ray + Kristen Jackson (GE) 2026-10-05/06",
-      "notes": "**Mon ~10:45am ET James Ray:** team approved to issue PO, but a Dispatch attached to Husky Warehouse wasn't reflected on the invoice. **Mon ~4:12pm ET Veronica Kyle:** asked James for the L2L dispatch. **Tue Oct 6 ~11:44am ET Kristen Jackson (GE on-site CSR):** use **PO # 4200338644** to process the invoice; original **Dispatch # 81807**; asked Zachary Kleiner to release. **~11:45am ET Ariba:** new PO **4200338644** received ($26,479.95; \u201cinvoice 3919 Husky Fan Install/L2L 81807\u201d). Next: submit/flip invoice 3919 against PO 4200338644 in Ariba once released."
-    },
-    {
-      "id": "T107",
-      "status": "open",
-      "priority": "high",
-      "due": "Tue Oct 6 9:00\u20139:30am ET",
-      "item": "Attend BAA Scaffold Walk (Gas Manifold Demo) \u2014 Scott Tulloch",
-      "source": "Email / Scott Tulloch (GE) invite 2026-10-05 ~10:32am ET",
-      "notes": "**Mon ~10:32am ET Tulloch** invite to Jeff + Michael Sassa (AM King) + Cliff Little + Paul Madak: **BAA Scaffold Walk**, part of **Gas Manifold Demo**, **Tue Oct 6 9:00\u20139:30am ET @ BAA** (on Jeff's cal, not Kat's; Jeff not yet accepted). Right before FMS-7 shutdown 9:30 (T103). Scope/quote scaffold after walk."
+      "notes": "**Mon ~10:45am ET James Ray:** team approved to issue PO, but a Dispatch attached to Husky Warehouse wasn't reflected on the invoice. **Mon ~4:12pm ET Veronica Kyle:** asked James for the L2L dispatch. **Tue Oct 6 ~11:44am ET Kristen Jackson (GE on-site CSR):** use **PO # 4200338644** to process the invoice; original **Dispatch # 81807**; asked Zachary Kleiner to release. **~11:45am ET Ariba:** new PO **4200338644** received ($26,479.95; \u201cinvoice 3919 Husky Fan Install/L2L 81807\u201d). **~12:29pm ET Zachary Kleiner (GE):** **PO released.** Next: submit/flip invoice 3919 against PO 4200338644 in Ariba now."
     },
     {
       "id": "T108",
@@ -911,12 +902,23 @@
       "item": "Review/approve DPP vendor invoices 4707 (KGA Exomist) + 4708 (Yellow Class 0 insulating blankets)",
       "source": "Email / Jason Marchbanks (DPP) 2026-10-06 ~11:06am + ~11:10am ET",
       "notes": "**Tue ~11:06am ET Jason (DPP)** \"KGA Exomist Invoice\" \u2014 *Invoice_4707.pdf* + Joist link; **~11:10am ET** \"Yellow Class 0 - Insulating Blankets Invoice\" \u2014 *Invoice_4708.pdf* + Joist link (sent twice). To Jeff, cc Bill, accounting@, Katheryn, Amie Naylor. Amounts not read (PDF download blocked \u2014 Gmail file connection not signed in). KGA work ties **T85** GE PO 4900660773 / Est 2013 / EST-382 (T79) \u2014 confirm vs Jeff's vendor PO to DPP, then bill GE. Insulating blankets: confirm which job/PO it belongs to."
+    },
+    {
+      "id": "T117",
+      "status": "open",
+      "priority": "high",
+      "due": "Fri Oct 9 install / Sat Oct 10 removal (tentative)",
+      "item": "BAA scaffold for Gas Manifold Demo \u2014 install Fri Oct 9 after crane stop + rail bagged; remove Sat Oct 10 after pipe demo",
+      "source": "Email / Scott Tulloch (GE) BAA Scaffold Walk recap 2026-10-06 ~12:18pm + outage-support ask ~12:22pm ET",
+      "notes": "**Tue ~12:18pm ET Tulloch** recap (to Jeff, Michael Sassa/AM King, Cliff Little, Paul Madak; cc Lambley, B. White, Lor, C. Lewis, Whitmire, Corley, Berend, Du Vall, Watkins): **crane stop required at BAA and rail \"bagged\" before scaffolding install**; **tentative 10/9 scaffold install, 10/10 removal** after pipe demos complete; powders in BAA shifted/accessible for production. Manifold demo planned weekend of **Sat Oct 10** \u2014 all four gases demo'd back to headers. **AMK to submit outage request.** Gas safety: H2 isolate/vent/purge B-Bay; O2 isolate/vent/purge A+B Bays (maintenance); N2 LOTO accessible at BAA; Argon LOTO at BAB above quad cell. A-Bay keeps TBC coating access, **no HVOF**. **~12:22pm ET Tulloch\u2192Thomas Wharton + James Ray (cc Sassa, Watkins, Jeff, Du Vall):** schedule **outage maintenance support Oct 10** (H2 purge B-Bay, O2 A/B Bays) **including crane and scaffolding groups**. Next: plan crew/material for Fri BAA install + Sat removal; confirm crane stop/rail bagging timing; quote/PO path."
     }
   ],
   "calendar": [
+    "**Fri Oct 9 (tentative) @ BAA** \u2014 Work **BAA scaffold install** for Gas Manifold Demo \u2014 needs **crane stop at BAA + rail bagged** first (Tulloch recap ~12:18pm Tue) (T117)",
+    "**Sat Oct 10 @ A/B Bays (BAA)** \u2014 Outage **Gas Manifold Demo** \u2014 H2 isolate/vent/purge B-Bay; O2 A+B Bays; N2/Argon LOTO; AMK submitting outage request; maintenance support incl. crane + scaffold groups; **BAA scaffold removal after pipe demo** (T117)",
     "**Wed Oct 7 9:30am ET @ MEB** \u2014 Shutdown **PP-7B-2 Circuit #6** \u2014 remove Downdraft Table CAT#701624 @ MGB (DPP; GE Lead Jim Stanley) \u2014 Hinkson notification ~10:00am Tue; invite + Jeff hold = one shutdown (T113)",
     "**Wed Oct 7 9:35am ET @ MDB** \u2014 Shutdown **PP-7B-1 Circuit #11** \u2014 remove Mitsubishi PMX605842 + Mist Collector PMX605844 @ MGB (DPP; GE Lead Jim Stanley) \u2014 Hinkson notification ~10:04am Tue; invite + 2 duplicate holds = one shutdown (T115)",
-    "**Tue Oct 6 9:00\u20139:30am ET @ BAA** \u2014 Meeting **BAA Scaffold Walk** (Gas Manifold Demo; Scott Tulloch; AM King Sassa, Cliff Little, Madak) \u2014 on Jeff's cal only (T107) \u2014 then FMS-7 shutdown 9:30 (T103)",
+    "**DONE Tue Oct 6 @ BAA** \u2014 BAA Scaffold Walk (Gas Manifold Demo; Tulloch) held \u2014 recap ~12:18pm \u2192 install Fri Oct 9 / removal Sat Oct 10 (T107 closed \u2192 T117)",
     "**Tue Oct 6 9:30\u201310:00am ET @ CWA Mezz** \u2014 Shutdown **FMS-7 Circuit #3** \u2014 BSA Office demo (remove 4 exterior receptacles; DPP; GE Lead Leppard) \u2014 Hinkson invite + 2 duplicate holds = one shutdown (T103)",
     "**OVERDUE since Thu Sep 24** \u2014 Guard rail AAA\u2013AUA deadline (all-day; T3) \u2014 no firm Bob Peterson yes/no; work was to start Sat Sep 26; **still no reply Fri\u2013Wed ~8:11am**",
     "**TODAY ASAP / before Thu Pulse 11:00am ET** \u2014 Pallet rack highest-priority (red) repairs \u2014 Julia Wed ~6:22am needs material-order/schedule update for Pulse briefing; Jeff draft ~6:48am \u201cdefinite answer today\u201d (confirm sent); still need answer + red repairs (Mike\u2019s first) (T20) \u2014 **Tue ~11:41am:** Bryan Bullington fwd red-repair pricing (labor $35k; Rack Armour kits $32,264.22 + frt, 8\u201310 wk) + Interlake Mecalux upright quote (~$3k frt)",
@@ -1368,14 +1370,14 @@
     {
       "id": "e46",
       "type": "meeting",
-      "title": "Meeting: BAA Scaffold Walk (Gas Manifold Demo)",
+      "title": "Done: BAA Scaffold Walk (Gas Manifold Demo)",
       "summary": "Meeting: BAA Scaffold Walk (Gas Manifold Demo) \u2014 Scott Tulloch",
       "location": "BAA",
-      "description": "Tue Oct 6 9:00\u20139:30am ET \u2014 Scott Tulloch (GE) invite to Jeff + Michael Sassa (AM King) + Cliff Little + Paul Madak; part of Gas Manifold Demo. Right before FMS-7 ckt #3 shutdown 9:30 (T103). (T107)",
+      "description": "Tue Oct 6 9:00\u20139:30am ET \u2014 Scott Tulloch (GE) invite to Jeff + Michael Sassa (AM King) + Cliff Little + Paul Madak; part of Gas Manifold Demo. Right before FMS-7 ckt #3 shutdown 9:30 (T103). (T107) \u2014 Walk held; recap Tue ~12:18pm ET: install Fri Oct 9 / removal Sat Oct 10 (T117).",
       "start": "2026-10-06T09:00:00-04:00",
       "end": "2026-10-06T09:30:00-04:00",
       "allDay": false,
-      "todoId": "T107"
+      "todoId": "T117"
     },
     {
       "id": "e47",
@@ -1424,6 +1426,30 @@
       "end": "2026-10-07T10:35:00-04:00",
       "allDay": false,
       "todoId": "T115"
+    },
+    {
+      "id": "e51",
+      "type": "work",
+      "title": "Work: BAA scaffold install \u2014 Gas Manifold Demo (tentative)",
+      "summary": "BAA scaffold install (crane stop + rail bagged first)",
+      "location": "BAA",
+      "description": "Tulloch BAA Scaffold Walk recap Tue ~12:18pm ET: crane stop required at BAA and rail bagged before scaffold install; tentative Fri Oct 9 install; powders in BAA shifted/accessible for production. (T117)",
+      "start": "2026-10-09",
+      "end": "2026-10-10",
+      "allDay": true,
+      "todoId": "T117"
+    },
+    {
+      "id": "e52",
+      "type": "outage",
+      "title": "Outage: Gas Manifold Demo \u2014 H2/O2 purge A/B Bays + BAA scaffold removal",
+      "summary": "Gas manifold pipe demo outage (AMK request pending)",
+      "location": "A/B Bays (BAA)",
+      "description": "Pipe demo weekend of Sat Oct 10: all four gases demo'd back to headers. H2 isolate/vent/purge B-Bay; O2 A+B Bays (maintenance); N2 LOTO at BAA; Argon LOTO at BAB above quad cell. A-Bay keeps TBC coating, no HVOF. AMK to submit outage request; Tulloch asked Wharton/Ray for maintenance support incl. crane + scaffold groups. BAA scaffold removal after pipe demo. (T117)",
+      "start": "2026-10-10",
+      "end": "2026-10-11",
+      "allDay": true,
+      "todoId": "T117"
     }
   ]
 }
