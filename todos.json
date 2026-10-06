@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T13:13:09-04:00",
+  "updated": "2026-10-06T14:09:07-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -911,6 +911,15 @@
       "item": "BAA scaffold for Gas Manifold Demo \u2014 install Fri Oct 9 after crane stop + rail bagged; remove Sat Oct 10 after pipe demo",
       "source": "Email / Scott Tulloch (GE) BAA Scaffold Walk recap 2026-10-06 ~12:18pm + outage-support ask ~12:22pm ET",
       "notes": "**Tue ~12:18pm ET Tulloch** recap (to Jeff, Michael Sassa/AM King, Cliff Little, Paul Madak; cc Lambley, B. White, Lor, C. Lewis, Whitmire, Corley, Berend, Du Vall, Watkins): **crane stop required at BAA and rail \"bagged\" before scaffolding install**; **tentative 10/9 scaffold install, 10/10 removal** after pipe demos complete; powders in BAA shifted/accessible for production. Manifold demo planned weekend of **Sat Oct 10** \u2014 all four gases demo'd back to headers. **AMK to submit outage request.** Gas safety: H2 isolate/vent/purge B-Bay; O2 isolate/vent/purge A+B Bays (maintenance); N2 LOTO accessible at BAA; Argon LOTO at BAB above quad cell. A-Bay keeps TBC coating access, **no HVOF**. **~12:22pm ET Tulloch\u2192Thomas Wharton + James Ray (cc Sassa, Watkins, Jeff, Du Vall):** schedule **outage maintenance support Oct 10** (H2 purge B-Bay, O2 A/B Bays) **including crane and scaffolding groups**. Next: plan crew/material for Fri BAA install + Sat removal; confirm crane stop/rail bagging timing; quote/PO path."
+    },
+    {
+      "id": "T118",
+      "status": "waiting",
+      "priority": "med",
+      "due": "when OpSource onboarding completes",
+      "item": "OpSource new hire \u2014 Daniel Ramirez: wait for onboarding, then give start date + pay rate",
+      "source": "Email / Jeff\u2192Julie Solesbee + Yesenia Portes reply 2026-10-06 ~2:04\u20132:07pm ET",
+      "notes": "**Tue ~2:04pm ET Jeff\u2192Julie (OpSource):** send new-hire link for **Daniel Ramirez** (Alex7daniel@gmail.com, 504-385-7044). **~2:07pm ET Yesenia:** will do; will notify Jeff once he completes OpSource onboarding. Next: Jeff owes **start date + pay rate** once onboarded (same pattern as Chaz Kieff T78)."
     }
   ],
   "calendar": [
