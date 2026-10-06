@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T10:14:27-04:00",
+  "updated": "2026-10-06T11:12:32-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -902,6 +902,15 @@
       "item": "Track shutdown PP-7B-1 Circuit #11 @ MDB \u2014 remove Mitsubishi PMX605842 + Mist Collector PMX605844 @ MGB (DPP)",
       "source": "Email / Jason Marchbanks ~9:23am + Hinkson notification ~10:04am ET 2026-10-06",
       "notes": "**Tue ~9:23am ET Jason (DPP)** request \u2192 **~10:04am ET Hinkson SHUTDOWN NOTIFICATION - PP-7B-1 ckt-11** (cc Roper, McCurry, Jim Stanley, Jeff, Katheryn, McClure, Naylor, Shanna): **Wed Oct 7 9:35am ET**; panel **MDB**, machine **MGB**; remove **Mitsubishi PMX605842** and **Mist Collector PMX605844**; GE Lead **Jim Stanley**; sub DPP. Duration not stated. No scaffold mentioned. Same morning/area as T113 (PP-7B-2 ckt #6 9:30). Kat cal has Hinkson invite + 2 duplicate holds = one shutdown."
+    },
+    {
+      "id": "T116",
+      "status": "open",
+      "priority": "med",
+      "due": "this week (AP)",
+      "item": "Review/approve DPP vendor invoices 4707 (KGA Exomist) + 4708 (Yellow Class 0 insulating blankets)",
+      "source": "Email / Jason Marchbanks (DPP) 2026-10-06 ~11:06am + ~11:10am ET",
+      "notes": "**Tue ~11:06am ET Jason (DPP)** \"KGA Exomist Invoice\" \u2014 *Invoice_4707.pdf* + Joist link; **~11:10am ET** \"Yellow Class 0 - Insulating Blankets Invoice\" \u2014 *Invoice_4708.pdf* + Joist link (sent twice). To Jeff, cc Bill, accounting@, Katheryn, Amie Naylor. Amounts not read (PDF download blocked \u2014 Gmail file connection not signed in). KGA work ties **T85** GE PO 4900660773 / Est 2013 / EST-382 (T79) \u2014 confirm vs Jeff's vendor PO to DPP, then bill GE. Insulating blankets: confirm which job/PO it belongs to."
     }
   ],
   "calendar": [
