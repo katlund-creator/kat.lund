@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T10:14:51-04:00",
+  "updated": "2026-10-07T12:36:04-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -154,7 +154,7 @@
       "due": "TODAY ASAP (before Thu Pulse 11am)",
       "item": "Repair highest-priority pallet rack items (red uprights/beams); inventory + answer Julia",
       "source": "Email / Julia + Brian Hill 2026-09-17/28\u201330",
-      "notes": "**Wed ~6:22am ET Julia:** update on ordering material / scheduling top-priority repairs \u2014 she briefs Rebecca + Jason at **Thu Pulse 11:00am ET**. **Wed ~6:48am ET Jeff draft** (Gmail DRAFT label \u2014 confirm sent): \u201cdefinite answer to you today\u201d; sourcing repair kits + lead times for quote/timeline. Still need **definite answer TODAY** + knock out **red** uprights/beams (Mike\u2019s racks first) before Pulse. Brian Rouby staging near shipping/wood shed. **Tue Oct 6 ~11:41\u201311:42am ET Bryan Bullington (bullina2@outlook.com) fwd to Jeff:** (1) his Thu Oct 1 ~4:23pm *Red repairs* note to Jeff+Katheryn \u2014 red repairs started Fri Oct 2 in pole barn area using surplus uprights; J-pins elsewhere on campus; labor **$35,000**; Rack Armour repair kits (Amentum + train areas, **8\u201310 wk lead**) **$32,264.22** + freight; replacement horiz/diag braces for welded uprights **$4.602** (as written \u2014 likely $4,602) + freight; J-pins + install/checking Broach/Die rack nuts & bolts **$4,500**; forklift + scissor lift rental **$3,900/mo**. (2) Interlake Mecalux (Sara Wells, Fri Oct 2) pricing for **30\u00d7 I75 42\"\u00d7264\" (22') + 20\u00d7 42\"\u00d7144\"** replacement uprights \u2014 *GE VERNOVA 10-2-26.pdf*, FOB IL, ~**$3,000** freight est. Use to build GE quote/timeline for Julia. **Wed Oct 7 ~9:41am ET Brian Hill (GE EHS)\u2192Jeff + Mike Rice (cc Chuck Kirkley):** move off Pole Barn \u2014 prioritize **MDC Nozzle Supply** storage racks (line 54 of report) with Mike Rice (see **T124**). **~9:56am ET Jeff\u2192Brian:** original **pole barn repairs + newfound damage COMPLETED**; crew planned to move to that area today."
+      "notes": "**Wed ~6:22am ET Julia:** update on ordering material / scheduling top-priority repairs \u2014 she briefs Rebecca + Jason at **Thu Pulse 11:00am ET**. **Wed ~6:48am ET Jeff draft** (Gmail DRAFT label \u2014 confirm sent): \u201cdefinite answer to you today\u201d; sourcing repair kits + lead times for quote/timeline. Still need **definite answer TODAY** + knock out **red** uprights/beams (Mike\u2019s racks first) before Pulse. Brian Rouby staging near shipping/wood shed. **Tue Oct 6 ~11:41\u201311:42am ET Bryan Bullington (bullina2@outlook.com) fwd to Jeff:** (1) his Thu Oct 1 ~4:23pm *Red repairs* note to Jeff+Katheryn \u2014 red repairs started Fri Oct 2 in pole barn area using surplus uprights; J-pins elsewhere on campus; labor **$35,000**; Rack Armour repair kits (Amentum + train areas, **8\u201310 wk lead**) **$32,264.22** + freight; replacement horiz/diag braces for welded uprights **$4.602** (as written \u2014 likely $4,602) + freight; J-pins + install/checking Broach/Die rack nuts & bolts **$4,500**; forklift + scissor lift rental **$3,900/mo**. (2) Interlake Mecalux (Sara Wells, Fri Oct 2) pricing for **30\u00d7 I75 42\"\u00d7264\" (22') + 20\u00d7 42\"\u00d7144\"** replacement uprights \u2014 *GE VERNOVA 10-2-26.pdf*, FOB IL, ~**$3,000** freight est. Use to build GE quote/timeline for Julia. **Wed Oct 7 ~9:41am ET Brian Hill (GE EHS)\u2192Jeff + Mike Rice (cc Chuck Kirkley):** move off Pole Barn \u2014 prioritize **MDC Nozzle Supply** storage racks (line 54 of report) with Mike Rice (see **T124**). **~9:56am ET Jeff\u2192Brian:** original **pole barn repairs + newfound damage COMPLETED**; crew planned to move to that area today. **Wed ~11:03am ET Julia Filiatreau\u2192Jeff:** asks Jeff to help **update the rack-repair metrics** (numbers in embedded table image) \u2014 see **T125**."
     },
     {
       "id": "T22",
@@ -352,7 +352,7 @@
       "due": "ASAP",
       "item": "Review/route SPC BSA bump-out + bollard demo quote",
       "source": "Email / Evan Groce 2026-09-24 ~10:32pm ET",
-      "notes": "PDF *bump out demo at BSA.pdf* to Jeff. Ties to T42 (BSA single-story demo schedule). Review/approve path + fold into Jack schedule."
+      "notes": "PDF *bump out demo at BSA.pdf* to Jeff. Ties to T42 (BSA single-story demo schedule). Review/approve path + fold into Jack schedule. **Wed ~10:45am ET Evan Groce\u2192Jeff:** *BSA demo quote* \u2014 attached **Estimate_414_2026-09-11.pdf** (re-sent; route/approve with T42)."
     },
     {
       "id": "T49",
@@ -406,7 +406,7 @@
       "due": "Oct 6\u20137 trucks; ~Nov 1 move-in; Nov 2\u20133 install",
       "item": "Track ENSER 7HA1 Build Platform shipping \u2192 Advanced Rigging / GE install",
       "source": "Email / Steven Twigg (ENSER) 2026-09-25/28/10-02",
-      "notes": "**Twigg Fri ~4:53pm ET** (Jeff+Buellesbach cc): Packing list + tentative truck schedule \u2014 **Thu Oct 1** flatbed items 13\u201317; **Tue Oct 6** 4 trucks; **Wed Oct 7** 2 lowboy. All \u2192 **Advanced Rigging** until Production clears; GE relocates to plant. **Mon ~9:09am ET Harvey:** TRF offer if extra transport (FYI). **Mon ~2:26pm ET Joe\u2192Twigg/Harvey (Jeff cc):** asked ENSER vs 3rd-party for assembly/placement/anchoring/accessories/electrical/pneumatic/hydraulic. **Mon ~3:14pm ET Twigg reply (Jeff cc):** ENSER brings **own hired rigging crew** for install of all build platforms, **placement + anchoring**; ENSER ensures **all electrical connections** + platform **fully functional**; install **Mon Nov 2 \u2013 on/before Tue Nov 3**; needs **GE tech rep** for exact placement before anchoring. Pneumatic/hydraulic/accessory assembly not itemized but \u201cfully functional\u201d claim. Indcom 3rd-party hire for those scope items looks **unlikely** unless GE asks otherwise \u2014 keep watching. **Fri Oct 2 ~6:24pm ET Twigg\u2192Buellesbach/Harvey (Jeff cc):** formal *Shipping and Installation Responsibilities* \u2014 ENSER trucks all platforms/stairs Gastonia\u2192Advanced Rigging; **tentatively Nov 1** ENSER rep directs move into plant; **GE** handles transport/rigging/positioning + engineer sign-off; ENSER anchors, re-connects internal electrical, latches, ground straps, tests with facility power/air. **GE facility must provide:** 4\u00d7 air drops \u226590 psi (2 each end); Exhaust End: 1\u00d7 480V P&S + 3\u00d7 Size-2 Meltric 120V (cord reels) + 1\u00d7 Size-1 Meltric 120V; Inlet End: 3\u00d7 480V P&S + 1\u00d7 Size-2 Meltric + 1\u00d7 Size-1 Meltric. \u2192 Indcom/DPP quote for these = **T99**."
+      "notes": "**Twigg Fri ~4:53pm ET** (Jeff+Buellesbach cc): Packing list + tentative truck schedule \u2014 **Thu Oct 1** flatbed items 13\u201317; **Tue Oct 6** 4 trucks; **Wed Oct 7** 2 lowboy. All \u2192 **Advanced Rigging** until Production clears; GE relocates to plant. **Mon ~9:09am ET Harvey:** TRF offer if extra transport (FYI). **Mon ~2:26pm ET Joe\u2192Twigg/Harvey (Jeff cc):** asked ENSER vs 3rd-party for assembly/placement/anchoring/accessories/electrical/pneumatic/hydraulic. **Mon ~3:14pm ET Twigg reply (Jeff cc):** ENSER brings **own hired rigging crew** for install of all build platforms, **placement + anchoring**; ENSER ensures **all electrical connections** + platform **fully functional**; install **Mon Nov 2 \u2013 on/before Tue Nov 3**; needs **GE tech rep** for exact placement before anchoring. Pneumatic/hydraulic/accessory assembly not itemized but \u201cfully functional\u201d claim. Indcom 3rd-party hire for those scope items looks **unlikely** unless GE asks otherwise \u2014 keep watching. **Fri Oct 2 ~6:24pm ET Twigg\u2192Buellesbach/Harvey (Jeff cc):** formal *Shipping and Installation Responsibilities* \u2014 ENSER trucks all platforms/stairs Gastonia\u2192Advanced Rigging; **tentatively Nov 1** ENSER rep directs move into plant; **GE** handles transport/rigging/positioning + engineer sign-off; ENSER anchors, re-connects internal electrical, latches, ground straps, tests with facility power/air. **GE facility must provide:** 4\u00d7 air drops \u226590 psi (2 each end); Exhaust End: 1\u00d7 480V P&S + 3\u00d7 Size-2 Meltric 120V (cord reels) + 1\u00d7 Size-1 Meltric 120V; Inlet End: 3\u00d7 480V P&S + 1\u00d7 Size-2 Meltric + 1\u00d7 Size-1 Meltric. \u2192 Indcom/DPP quote for these = **T99**. **Wed ~10:53am ET Twigg\u2192Harvey/Buellesbach:** last **three trucks departed ~10:05am**, about halfway. **~11:03am ET Matthew Hinty (Advanced Rigging):** all prior loads **arrived OK yesterday**; will confirm today's added load on arrival."
     },
     {
       "id": "T57",
@@ -577,7 +577,7 @@
       "due": "ASAP \u2014 Jeff owes Chaz pay rate (started Mon 10/5 nights)",
       "item": "OpSource as-needed hire \u2014 Chaz Kieff: tell Yesenia start date + pay rate",
       "source": "Email / Jeff\u2192Allison + Yesenia 2026-09-30/10-01",
-      "notes": "**Wed ~6:02pm ET Jeff\u2192Allison/Yesenia/Payroll (cc Bill):** hire-in for **Chaz Kieff** 504-777-6011 / Chazkieff2@gmail.com. **Wed ~6:04pm Yesenia:** will get ready. **Thu ~1:52pm ET Yesenia\u2192Jeff:** \u201cWhat would be the pay for this new hire?\u201d \u2014 **Jeff owes pay rate** to complete onboarding. Distinct from Tavan (T84). **Mon Oct 5 ~2:36pm ET Yesenia\u2192Jeff:** Chaz **completed OpSource onboarding** \u2014 asks Jeff when he is set to **start** and his **pay rate**. **Tue ~5:42pm ET Jeff\u2192Yesenia:** Chaz **started 10/5 on night shift**; Jeff is assessing pay rate based on skillset and will let her know soon \u2014 **pay rate still owed**."
+      "notes": "**Wed ~6:02pm ET Jeff\u2192Allison/Yesenia/Payroll (cc Bill):** hire-in for **Chaz Kieff** 504-777-6011 / Chazkieff2@gmail.com. **Wed ~6:04pm Yesenia:** will get ready. **Thu ~1:52pm ET Yesenia\u2192Jeff:** \u201cWhat would be the pay for this new hire?\u201d \u2014 **Jeff owes pay rate** to complete onboarding. Distinct from Tavan (T84). **Mon Oct 5 ~2:36pm ET Yesenia\u2192Jeff:** Chaz **completed OpSource onboarding** \u2014 asks Jeff when he is set to **start** and his **pay rate**. **Tue ~5:42pm ET Jeff\u2192Yesenia:** Chaz **started 10/5 on night shift**; Jeff is assessing pay rate based on skillset and will let her know soon \u2014 **pay rate still owed**. **Wed ~10:14am ET Yesenia:** they'll assign Chaz **once they have his pay rate** \u2014 still owed by Jeff."
     },
     {
       "id": "T79",
@@ -973,10 +973,56 @@
       "due": "TODAY (GE EHS priority)",
       "item": "MDC Nozzle Supply storage racks (line 54 of report) \u2014 repair/replace with Mike Rice; shuffle his inventory as racks are fixed",
       "source": "Email / Brian Hill (GE EHS) 2026-10-07 ~9:41am ET",
-      "notes": "**Wed ~9:41am ET Brian Hill\u2192Jeff + Mike Rice (864-203-9384), cc Chuck Kirkley:** please prioritize and work with Mike Rice on repair/replacement of his storage racks at **MDC Nozzle Supply** (line 54 of the report); some inventory must be shuffled as racks are fixed. **~9:56am ET Jeff\u2192Brian (cc Mike, Chuck):** pole barn original + newfound damage done; couldn't reach crew yet but they planned to move there today; Jeff will check in when back onsite. Part of rack program (T20). Confirm crew started + coordinate with Mike Rice."
+      "notes": "**Wed ~9:41am ET Brian Hill\u2192Jeff + Mike Rice (864-203-9384), cc Chuck Kirkley:** please prioritize and work with Mike Rice on repair/replacement of his storage racks at **MDC Nozzle Supply** (line 54 of the report); some inventory must be shuffled as racks are fixed. **~9:56am ET Jeff\u2192Brian (cc Mike, Chuck):** pole barn original + newfound damage done; couldn't reach crew yet but they planned to move there today; Jeff will check in when back onsite. Part of rack program (T20). Confirm crew started + coordinate with Mike Rice. **Wed ~10:20am ET Jeff\u2192Brian Hill:** MDC racks were **cleaned out yesterday evening** and crew is **working it now**."
+    },
+    {
+      "id": "T125",
+      "status": "open",
+      "priority": "high",
+      "due": "TODAY ASAP",
+      "item": "Update GE EHS rack-repair metrics for Julia Filiatreau",
+      "source": "Email / Julia Filiatreau (GE EHS) 2026-10-07 ~11:03am ET",
+      "notes": "*updating metrics for rack repairs* \u2014 Julia asks Jeff to help update the numbers in her metrics table (embedded image). Ties to T20 (pole barn done) + T124 (MDC racks in progress)."
+    },
+    {
+      "id": "T126",
+      "status": "open",
+      "priority": "med",
+      "due": "ASAP",
+      "item": "Quote BL5 (Bucket Line 5) floor mats removal/disposal + install \u2014 Duncan Holman",
+      "source": "Email / Duncan Holman (GE Buckets) 2026-10-07 ~10:19am ET",
+      "notes": "Remove/dispose current mats + install new; two mat types (softer diamond-tread in front of some machines \u2014 detailed drawing to follow); perimeter siding + corner pieces; a few cuts around machine feet. **GE supplies all mat/siding material** (labor-only quote). Attachments: *Bucket Line 5 Floor Mats.pdf* + *.dwg*. Duncan 864-960-6354."
+    },
+    {
+      "id": "T127",
+      "status": "waiting",
+      "priority": "high",
+      "due": "next few days (waiting Buellesbach)",
+      "item": "MAA column-line scaffold \u2014 lower-crane shutdown window or beam-trolley option",
+      "source": "Email / Jeff\u2192Joseph Buellesbach (cc Jim Stanley) 2026-10-07 ~10:26am ET",
+      "notes": "Jeff (after review w/ Tres): scaffold install in column line needs **lower cranes shut down**; area workers don't need them but **machine at MCA uses it regularly**. Option: **beam trolley** like H-Bay Basarans. Asked Joe for trolley OK **or** a crane-shutdown window over the next few days. Waiting reply."
+    },
+    {
+      "id": "T128",
+      "status": "open",
+      "priority": "med",
+      "due": "ASAP",
+      "item": "Review/route SPC Estimate 421 \u2014 BL4 transformer mezzanine handrails",
+      "source": "Email / Evan Groce 2026-10-07 ~10:48am ET",
+      "notes": "PDF *Estimate_421_2026-10-07.pdf* to Jeff. Review, fold into GE quote/BL4 change order (cf. T7/T49)."
+    },
+    {
+      "id": "T129",
+      "status": "open",
+      "priority": "high",
+      "due": "Wed Oct 7\u2013Thu Oct 8 (to hold Fri Oct 9 slot)",
+      "item": "Answer JMT Flooring on GE VCT removal (30x35 area) \u2014 confirm Fri Oct 9, first floor?, ride-on machine OK?",
+      "source": "Email / Matthew Larmore (JMT Commercial Flooring) 2026-10-07 ~11:37am ET",
+      "notes": "JMT can come **Fri Oct 9** to remove VCT: **$825** removal; **$1,245** if adhesive must be removed; floor patch for adhesive residue **$75 per 10 lb bag** (a few bags likely). Prices assume an **on-site dumpster provided by others**. Matthew asks: is it on the **first floor**, any issue using their **ride-on machine** (smaller machine possible, slower; may use smaller given size). **30x35 area.** Jeff to confirm Friday + answers; arrange dumpster; fold cost into the related GE quote."
     }
   ],
   "calendar": [
+    "**Fri Oct 9 (offered \u2014 needs Jeff yes)** \u2014 Work **JMT Flooring VCT removal** 30x35 area ($825 / $1,245 w/ adhesive; on-site dumpster by others; confirm first floor + ride-on machine) (T129)",
     "**Sat Oct 10 6:00am\u20137:00pm ET @ ANA/ANB\u2013AYA/AYB + Admin bldg** \u2014 Exclusion zone **BCL7 crane lift** (AMK piping to high roof; Roper FYI could affect weekend plans) (T120)",
     "**TBD (per Sassa invite.ics, sent Tue ~4:02pm)** \u2014 Meeting **VPS lighting over coater 3 & 4** (Michael Sassa/AMK, Adam Watkins, Matt Fitts) (T121)",
     "**Fri Oct 9 (tentative) @ BAA** \u2014 Work **BAA scaffold install** for Gas Manifold Demo \u2014 needs **crane stop at BAA + rail bagged** first (Tulloch recap ~12:18pm Tue) (T117)",
@@ -1034,7 +1080,10 @@
     "**ASAP** \u2014 Process DPP invoices: NFPS.03 Pay App #4 / Invoice 4705 (T80); NFPS.03 Elec/Plumb scope mods Invoice 4706 (T81); ACB Receptacles Invoice 4703 (T82)",
     "**ASAP** \u2014 Demo security-camera scaffolds + barricades @ 17 International Court (Bill\u2192Jeff; T83)",
     "**ASAP (Jose chased again Wed ~9:31am)** \u2014 Tell Jose when **Tavan Hughes** should report (T84)",
-    "**TODAY (GE EHS priority)** \u2014 MDC Nozzle Supply storage racks w/ **Mike Rice** 864-203-9384 (line 54; Brian Hill ~9:41am; pole barn done per Jeff ~9:56am) (T124/T20)",
+    "**TODAY (GE EHS priority)** \u2014 MDC Nozzle Supply storage racks w/ **Mike Rice** 864-203-9384 (line 54; Brian Hill ~9:41am; pole barn done per Jeff ~9:56am; racks cleaned out, crew working it ~10:20am) (T124/T20)",
+    "**TODAY ASAP** \u2014 Help Julia update GE EHS rack-repair metrics (T125)",
+    "**Next few days (waiting Buellesbach)** \u2014 MAA column-line scaffold: lower-crane shutdown window vs beam-trolley option; MCA machine uses crane (T127)",
+    "**ASAP** \u2014 Quote BL5 floor mats removal/install (GE-supplied material; Duncan Holman; T126); review SPC Est 421 BL4 mezz handrails (T128)",
     "**ASAP** \u2014 Process SPC **North Pole Invoice 220** (Evan ~11:23pm Wed; was Estimate 417 \u2014 T64)",
     "**Thu Oct 1 morning windows** \u2014 PP-11B-8 rotation 7:45\u20139:15 (T71/e36); Sinker energize 9:15\u20139:45 (T72/e37); AGV walk 9:30\u201310:00 (T76/e39) \u2014 no complete/outcome mail as of ~3:08pm ET; RP-ABB-1 1:00\u20131:30 still unconfirmed by DPP (T73) but ACB receptacles invoice arrived (T82)",
     "**Mon Oct 5 7:45\u20138:15am ET (passed \u2014 confirm complete)** \u2014 Energization TP-11B-8.1 ckts 13/21/23 @ HDA \u2014 Mitsubishi Sinkers #2301350/#2301351/#2301349 (Hinkson Sun invite; DPP; Jim Stanley) (T89) \u2014 e41",
@@ -1542,6 +1591,17 @@
       "end": "2026-11-04",
       "allDay": true,
       "todoId": "T119"
+    },
+    {
+      "id": "e55",
+      "summary": "TENTATIVE Work: JMT Flooring VCT removal (30x35 area)",
+      "location": "TBD (confirm first floor)",
+      "description": "Offered by Matthew Larmore (JMT) for Fri Oct 9 \u2014 needs Jeff yes. $825 removal / $1,245 with adhesive; patch $75 per 10 lb bag; on-site dumpster by others; confirm ride-on machine OK. (T129)",
+      "start": "2026-10-09",
+      "end": "2026-10-10",
+      "allDay": true,
+      "type": "work",
+      "todoId": "T129"
     }
   ]
 }
