@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T15:17:37-04:00",
+  "updated": "2026-10-07T17:13:23-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -1019,6 +1019,24 @@
       "item": "Review/route SPC Invoice 222 \u2014 North Pole finger repair",
       "source": "Email / Evan Groce (SPC) 2026-10-07 ~2:11pm ET",
       "notes": "*North Pole finger repair* \u2014 \u201cPlease see attached invoice\u201d \u2014 PDF **Invoice_222_2026-11-06.pdf** to Jeff + ap.mail. Separate from the earlier North Pole repair Invoice 220 (T64). Route/confirm payment."
+    },
+    {
+      "id": "T133",
+      "status": "open",
+      "priority": "med",
+      "due": "ASAP (AP)",
+      "item": "Review/route SPC invoice \u2014 BL4 change orders (Invoice 223)",
+      "source": "Email / Evan Groce (SPC) 2026-10-07 ~4:18pm ET",
+      "notes": "*BL4 change orders* \u2014 \u201cPlease see attached invoice\u201d \u2014 PDF **Invoice_223_2026-11-06.pdf** to Jeff + ap.mail. Ties BL4 change-order work (cf. T7 Est 2019, T128 Est 421). Route/confirm payment; bill GE per change order."
+    },
+    {
+      "id": "T134",
+      "status": "open",
+      "priority": "med",
+      "due": "ASAP (AP)",
+      "item": "Review/route SPC invoice \u2014 BL4 coolant piping",
+      "source": "Email / Evan Groce (SPC) 2026-10-07 ~4:20pm ET",
+      "notes": "*BL4 coolant piping invoice* \u2014 \u201cPlease see attached invoice\u201d \u2014 PDF **BL4 coolant piping invoice.pdf** to Jeff + ap.mail (invoice # not in email body). Route/confirm payment; bill GE per BL4 change order (cf. T7)."
     }
   ],
   "calendar": [
@@ -1084,7 +1102,7 @@
     "**TODAY (GE EHS priority)** \u2014 MDC Nozzle Supply storage racks w/ **Mike Rice** 864-203-9384 (line 54; Brian Hill ~9:41am; pole barn done per Jeff ~9:56am; racks cleaned out, crew working it ~10:20am) (T124/T20)",
     "**TODAY ASAP** \u2014 Help Julia update GE EHS rack-repair metrics (T125)",
     "**Next few days (waiting Buellesbach)** \u2014 MAA column-line scaffold: lower-crane shutdown window vs beam-trolley option; MCA machine uses crane (T127)",
-    "**ASAP** \u2014 Quote BL5 floor mats removal/install (GE-supplied material; Duncan Holman; T126); review SPC Est 421 BL4 mezz handrails (T128)",
+    "**ASAP** \u2014 Quote BL5 floor mats removal/install (GE-supplied material; Duncan Holman; T126); review SPC Est 421 BL4 mezz handrails (T128); route SPC BL4 invoices (T133 change orders Inv 223, T134 coolant piping)",
     "**ASAP** \u2014 Process SPC **North Pole Invoice 220** (Evan ~11:23pm Wed; was Estimate 417 \u2014 T64)",
     "**Thu Oct 1 morning windows** \u2014 PP-11B-8 rotation 7:45\u20139:15 (T71/e36); Sinker energize 9:15\u20139:45 (T72/e37); AGV walk 9:30\u201310:00 (T76/e39) \u2014 no complete/outcome mail as of ~3:08pm ET; RP-ABB-1 1:00\u20131:30 still unconfirmed by DPP (T73) but ACB receptacles invoice arrived (T82)",
     "**Mon Oct 5 7:45\u20138:15am ET (passed \u2014 confirm complete)** \u2014 Energization TP-11B-8.1 ckts 13/21/23 @ HDA \u2014 Mitsubishi Sinkers #2301350/#2301351/#2301349 (Hinkson Sun invite; DPP; Jim Stanley) (T89) \u2014 e41",
