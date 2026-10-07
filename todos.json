@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T09:14:08-04:00",
+  "updated": "2026-10-07T10:14:51-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -154,7 +154,7 @@
       "due": "TODAY ASAP (before Thu Pulse 11am)",
       "item": "Repair highest-priority pallet rack items (red uprights/beams); inventory + answer Julia",
       "source": "Email / Julia + Brian Hill 2026-09-17/28\u201330",
-      "notes": "**Wed ~6:22am ET Julia:** update on ordering material / scheduling top-priority repairs \u2014 she briefs Rebecca + Jason at **Thu Pulse 11:00am ET**. **Wed ~6:48am ET Jeff draft** (Gmail DRAFT label \u2014 confirm sent): \u201cdefinite answer to you today\u201d; sourcing repair kits + lead times for quote/timeline. Still need **definite answer TODAY** + knock out **red** uprights/beams (Mike\u2019s racks first) before Pulse. Brian Rouby staging near shipping/wood shed. **Tue Oct 6 ~11:41\u201311:42am ET Bryan Bullington (bullina2@outlook.com) fwd to Jeff:** (1) his Thu Oct 1 ~4:23pm *Red repairs* note to Jeff+Katheryn \u2014 red repairs started Fri Oct 2 in pole barn area using surplus uprights; J-pins elsewhere on campus; labor **$35,000**; Rack Armour repair kits (Amentum + train areas, **8\u201310 wk lead**) **$32,264.22** + freight; replacement horiz/diag braces for welded uprights **$4.602** (as written \u2014 likely $4,602) + freight; J-pins + install/checking Broach/Die rack nuts & bolts **$4,500**; forklift + scissor lift rental **$3,900/mo**. (2) Interlake Mecalux (Sara Wells, Fri Oct 2) pricing for **30\u00d7 I75 42\"\u00d7264\" (22') + 20\u00d7 42\"\u00d7144\"** replacement uprights \u2014 *GE VERNOVA 10-2-26.pdf*, FOB IL, ~**$3,000** freight est. Use to build GE quote/timeline for Julia."
+      "notes": "**Wed ~6:22am ET Julia:** update on ordering material / scheduling top-priority repairs \u2014 she briefs Rebecca + Jason at **Thu Pulse 11:00am ET**. **Wed ~6:48am ET Jeff draft** (Gmail DRAFT label \u2014 confirm sent): \u201cdefinite answer to you today\u201d; sourcing repair kits + lead times for quote/timeline. Still need **definite answer TODAY** + knock out **red** uprights/beams (Mike\u2019s racks first) before Pulse. Brian Rouby staging near shipping/wood shed. **Tue Oct 6 ~11:41\u201311:42am ET Bryan Bullington (bullina2@outlook.com) fwd to Jeff:** (1) his Thu Oct 1 ~4:23pm *Red repairs* note to Jeff+Katheryn \u2014 red repairs started Fri Oct 2 in pole barn area using surplus uprights; J-pins elsewhere on campus; labor **$35,000**; Rack Armour repair kits (Amentum + train areas, **8\u201310 wk lead**) **$32,264.22** + freight; replacement horiz/diag braces for welded uprights **$4.602** (as written \u2014 likely $4,602) + freight; J-pins + install/checking Broach/Die rack nuts & bolts **$4,500**; forklift + scissor lift rental **$3,900/mo**. (2) Interlake Mecalux (Sara Wells, Fri Oct 2) pricing for **30\u00d7 I75 42\"\u00d7264\" (22') + 20\u00d7 42\"\u00d7144\"** replacement uprights \u2014 *GE VERNOVA 10-2-26.pdf*, FOB IL, ~**$3,000** freight est. Use to build GE quote/timeline for Julia. **Wed Oct 7 ~9:41am ET Brian Hill (GE EHS)\u2192Jeff + Mike Rice (cc Chuck Kirkley):** move off Pole Barn \u2014 prioritize **MDC Nozzle Supply** storage racks (line 54 of report) with Mike Rice (see **T124**). **~9:56am ET Jeff\u2192Brian:** original **pole barn repairs + newfound damage COMPLETED**; crew planned to move to that area today."
     },
     {
       "id": "T22",
@@ -487,7 +487,7 @@
       "due": "6 of 7 machines DONE (Frank Wed ~8:22am ET); 7th \u2014 Jeff tells MSS when placed",
       "item": "Schedule BL4 / NFPS.03 mist-collector + fire-alarm work with MSS (Jason Gunter / Frank Manganella); lock Mon crew",
       "source": "Email / Jeff\u2194Jason Gunter + Frank Manganella (MSS) 2026-09-29/30/10-02",
-      "notes": "**Prior:** PO **4900652190**/card; Bill vendor setup; GE fire-alarm POC ask; MSS Sinker quote chase (T68). **Fri ~7:43am/8:07am/9:03am:** Frank offered Mon if ready; Jeff confirmed **6 machines 100% ready** (1 unplaced = separate). **Fri ~3:08pm ET Frank\u2192Kat+Jeff:** Indcom **not set up as MSS customer** \u2014 return customer form to start service (see **T95**). **Fri ~3:10pm ET Kat\u2192Bill+Jeff:** asked Bill to fill *New Customer Application v9_3.12.26.pdf*. **Action:** complete T95 form \u2192 then Frank/MSS Mon crew lock + update customer; still need GE onsite fire-alarm POC. Distinct from T57. Relates T68/T95. **Mon ~9:16am ET:** no Frank/MSS crew-arrival mail today; form (T95) not yet returned per mail. **Mon ~1:07pm ET:** MSS vendor-packet reply to Frank drafted in Jeff Gmail (not yet sent) \u2014 see T95. **Wed Oct 7 ~8:22am ET Frank Manganella (MSS)\u2192Jeff (cc Jason Gunter):** MSS **pulled wire for, installed, and programmed 6 FMM-1s + 6 FRM-1s** for monitoring/shutdown of associated equipment in **H-Bay** \u2014 6 machines done. **7th machine not yet installed; wire in place.** Frank: \"let me know when this is ready, we can come back and finish.\" **Action:** Jeff notify Frank when 7th machine is placed; expect MSS invoice for completed 6. (Work proceeded, so T95 customer setup evidently cleared.)"
+      "notes": "**Prior:** PO **4900652190**/card; Bill vendor setup; GE fire-alarm POC ask; MSS Sinker quote chase (T68). **Fri ~7:43am/8:07am/9:03am:** Frank offered Mon if ready; Jeff confirmed **6 machines 100% ready** (1 unplaced = separate). **Fri ~3:08pm ET Frank\u2192Kat+Jeff:** Indcom **not set up as MSS customer** \u2014 return customer form to start service (see **T95**). **Fri ~3:10pm ET Kat\u2192Bill+Jeff:** asked Bill to fill *New Customer Application v9_3.12.26.pdf*. **Action:** complete T95 form \u2192 then Frank/MSS Mon crew lock + update customer; still need GE onsite fire-alarm POC. Distinct from T57. Relates T68/T95. **Mon ~9:16am ET:** no Frank/MSS crew-arrival mail today; form (T95) not yet returned per mail. **Mon ~1:07pm ET:** MSS vendor-packet reply to Frank drafted in Jeff Gmail (not yet sent) \u2014 see T95. **Wed Oct 7 ~8:22am ET Frank Manganella (MSS)\u2192Jeff (cc Jason Gunter):** MSS **pulled wire for, installed, and programmed 6 FMM-1s + 6 FRM-1s** for monitoring/shutdown of associated equipment in **H-Bay** \u2014 6 machines done. **7th machine not yet installed; wire in place.** Frank: \"let me know when this is ready, we can come back and finish.\" **Action:** Jeff notify Frank when 7th machine is placed; expect MSS invoice for completed 6. (Work proceeded, so T95 customer setup evidently cleared.) **Wed ~9:48am ET Jeff\u2192Frank:** will let him know when the 7th machine is scheduled to be installed; thanked MSS."
     },
     {
       "id": "T68",
@@ -631,7 +631,7 @@
       "due": "ASAP",
       "item": "Tell OpSource when Tavan Hughes should report for work",
       "source": "Email / Jose Cruz 2026-10-01 ~8:21am ET",
-      "notes": "**Thu ~8:21am ET Jose\u2192Jeff:** Tavan Hughes asking when he needs to be in \u2014 all set/ready to start (T52 onboarding closed Mon). **Jeff owes start date/time** answer. Distinct from new hire Chaz (T78)."
+      "notes": "**Thu ~8:21am ET Jose\u2192Jeff:** Tavan Hughes asking when he needs to be in \u2014 all set/ready to start (T52 onboarding closed Mon). **Jeff owes start date/time** answer. Distinct from new hire Chaz (T78). **Wed Oct 7 ~9:31am ET Jose Cruz\u2192Jeff (2nd chase):** Tavan reached out again asking when he will hear anything about starting work. Still no Jeff answer seen."
     },
     {
       "id": "T85",
@@ -965,6 +965,15 @@
       "item": "GE Contingent Workforce (CW) portal setup \u2014 Jeff stuck at username step (\u201ccontact admin\u201d)",
       "source": "Email / Jeff\u2192CW.VendorSupport@ge.com 2026-10-06 ~5:34pm ET",
       "notes": "**Tue ~5:34pm ET Jeff\u2192CW Vendor Support:** first step of entering username says contact admin \u2014 does he need to be on location / GE network? Request logged as ticket **[261006-000337]** (first response within 1 business day). Copy to cw.vendorsupport@gevernova.com was **blocked** by GE mail-flow rule (undeliverable). Waiting GE CW reply."
+    },
+    {
+      "id": "T124",
+      "status": "open",
+      "priority": "high",
+      "due": "TODAY (GE EHS priority)",
+      "item": "MDC Nozzle Supply storage racks (line 54 of report) \u2014 repair/replace with Mike Rice; shuffle his inventory as racks are fixed",
+      "source": "Email / Brian Hill (GE EHS) 2026-10-07 ~9:41am ET",
+      "notes": "**Wed ~9:41am ET Brian Hill\u2192Jeff + Mike Rice (864-203-9384), cc Chuck Kirkley:** please prioritize and work with Mike Rice on repair/replacement of his storage racks at **MDC Nozzle Supply** (line 54 of the report); some inventory must be shuffled as racks are fixed. **~9:56am ET Jeff\u2192Brian (cc Mike, Chuck):** pole barn original + newfound damage done; couldn't reach crew yet but they planned to move there today; Jeff will check in when back onsite. Part of rack program (T20). Confirm crew started + coordinate with Mike Rice."
     }
   ],
   "calendar": [
@@ -1024,7 +1033,8 @@
     "**ASAP (PO IN)** \u2014 Review/edit Katheryn draft **EST-382** KGA Exomist (shared ~7:47pm Wed; T79) \u2014 ties T14; **Ariba PO 4900660773** (~$9,901.75; Alexander Neal; KGA Mist Collector Install) arrived ~12:48pm ET Thu (**T85**)",
     "**ASAP** \u2014 Process DPP invoices: NFPS.03 Pay App #4 / Invoice 4705 (T80); NFPS.03 Elec/Plumb scope mods Invoice 4706 (T81); ACB Receptacles Invoice 4703 (T82)",
     "**ASAP** \u2014 Demo security-camera scaffolds + barricades @ 17 International Court (Bill\u2192Jeff; T83)",
-    "**ASAP** \u2014 Tell Jose when **Tavan Hughes** should report (T84)",
+    "**ASAP (Jose chased again Wed ~9:31am)** \u2014 Tell Jose when **Tavan Hughes** should report (T84)",
+    "**TODAY (GE EHS priority)** \u2014 MDC Nozzle Supply storage racks w/ **Mike Rice** 864-203-9384 (line 54; Brian Hill ~9:41am; pole barn done per Jeff ~9:56am) (T124/T20)",
     "**ASAP** \u2014 Process SPC **North Pole Invoice 220** (Evan ~11:23pm Wed; was Estimate 417 \u2014 T64)",
     "**Thu Oct 1 morning windows** \u2014 PP-11B-8 rotation 7:45\u20139:15 (T71/e36); Sinker energize 9:15\u20139:45 (T72/e37); AGV walk 9:30\u201310:00 (T76/e39) \u2014 no complete/outcome mail as of ~3:08pm ET; RP-ABB-1 1:00\u20131:30 still unconfirmed by DPP (T73) but ACB receptacles invoice arrived (T82)",
     "**Mon Oct 5 7:45\u20138:15am ET (passed \u2014 confirm complete)** \u2014 Energization TP-11B-8.1 ckts 13/21/23 @ HDA \u2014 Mitsubishi Sinkers #2301350/#2301351/#2301349 (Hinkson Sun invite; DPP; Jim Stanley) (T89) \u2014 e41",
