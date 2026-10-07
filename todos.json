@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T14:15:59-04:00",
+  "updated": "2026-10-07T15:17:37-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -547,10 +547,10 @@
       "id": "T75",
       "status": "open",
       "priority": "high",
-      "due": "Need-by TODAY Fri Oct 2",
-      "item": "Process/ack GE PO 4900660277 (~$5,453.00) \u2014 UB Tubing Support (Mateo Castro)",
+      "due": "Need-by Fri Oct 9 (new PO 4900662844 \u2014 ack now)",
+      "item": "Process/ack GE PO 4900662844 ($5,453.00; need-by Oct 9) \u2014 UB Tubing Support (Mateo Castro) \u2014 supersedes/duplicates PO 4900660277?",
       "source": "Email / Ariba GE Vernova 2026-09-30 ~1:03pm ET",
-      "notes": "**Wed ~1:03pm ET** Ariba new PO **4900660277** to Indcom (ariba.mail@); requester **Castro, Mateo** (Mateo.Castro1@gevernova.com; +1 864-553-1400); Greenville Gas Turbines; NET 150; need-by **2 Oct 2026**. Line: **UB Tubing Support** 1 EA @ **$5,453.00 USD**. Ship-to 300 Garlington Rd; Deliver To Castro/5250. Confirm-orders / acknowledge path. Distinct from T74 PO 4900660255 (Joey Lum / PP-11B-5)."
+      "notes": "**Wed ~1:03pm ET** Ariba new PO **4900660277** to Indcom (ariba.mail@); requester **Castro, Mateo** (Mateo.Castro1@gevernova.com; +1 864-553-1400); Greenville Gas Turbines; NET 150; need-by **2 Oct 2026**. Line: **UB Tubing Support** 1 EA @ **$5,453.00 USD**. Ship-to 300 Garlington Rd; Deliver To Castro/5250. Confirm-orders / acknowledge path. Distinct from T74 PO 4900660255 (Joey Lum / PP-11B-5). **Wed Oct 7 ~2:13pm ET** Ariba **new PO 4900662844** (Version 1) to Indcom (ariba.mail@): same requester **Mateo Castro**, same line **UB Tubing Support** 1 EA @ **$5,453.00**, **PR844332**, NET 150 (150 DD NET), FCA, need-by **9 Oct 2026**. Looks like a re-issue of PO 4900660277 (same scope + amount) \u2014 confirm with Mateo whether it replaces 4900660277 or is a second order before acking/invoicing so it is not billed twice."
     },
     {
       "id": "T77",
@@ -853,10 +853,10 @@
       "id": "T112",
       "status": "open",
       "priority": "med",
-      "due": "ASAP (GE action required)",
+      "due": "Profile ACTIVE \u2014 log in, review open jobs + verify workers",
       "item": "GE Vernova VNDLY onboarding \u2014 accept vendor-network invite, log in, verify Indcom contingent workers",
       "source": "Email / VNDLY + Natalia Acosta (GE Vernova) 2026-10-05 ~4:13\u20134:19pm ET",
-      "notes": "**Mon ~4:13pm ET** noreply@vndly.com: GE Vernova invited Indcom to its **Workday VNDLY** vendor network \u2014 accept invite + create company profile. **~4:19pm ET Natalia Acosta (GE Vernova, consultant):** all GE Vernova contingent workers now managed in VNDLY; Jeff's username **Jflannery** at gevernova.vndly.com (first login: Continue \u2192 Forgot Password \u2192 email reset). **ACTION REQUIRED:** log in and confirm Indcom workers are present + details accurate; correct contractor info; contact CW.VendorSupport@ge.com if work orders wrong/missing. Guides attached (VNDLY Vendor Login/Setup, Worker Profile Vendor Guide)."
+      "notes": "**Mon ~4:13pm ET** noreply@vndly.com: GE Vernova invited Indcom to its **Workday VNDLY** vendor network \u2014 accept invite + create company profile. **~4:19pm ET Natalia Acosta (GE Vernova, consultant):** all GE Vernova contingent workers now managed in VNDLY; Jeff's username **Jflannery** at gevernova.vndly.com (first login: Continue \u2192 Forgot Password \u2192 email reset). **ACTION REQUIRED:** log in and confirm Indcom workers are present + details accurate; correct contractor info; contact CW.VendorSupport@ge.com if work orders wrong/missing. Guides attached (VNDLY Vendor Login/Setup, Worker Profile Vendor Guide). **Wed Oct 7 ~2:40pm ET noreply@vndly.com:** GE Vernova **completed vendor onboarding \u2014 Indcom profile is now Active**; log in to Workday VNDLY to see open jobs. Remaining: log in, review open jobs, confirm Indcom workers/details are correct."
     },
     {
       "id": "T114",
@@ -997,10 +997,10 @@
       "id": "T130",
       "status": "open",
       "priority": "high",
-      "due": "Answer AMK/GE this week (first window Fri Oct 16)",
-      "item": "Scaffold for AMK VPS lighting install over Coater #3 + #4 \u2014 settle dates (GE offers Fri Oct 16 + Sat Oct 17)",
+      "due": "Confirm crew/material for Fri Oct 16\u2013Sun Oct 18 (GE + AMK agreed)",
+      "item": "Scaffold for AMK VPS lighting install over Coater #3 + #4 \u2014 Fri Oct 16\u2013Sun Oct 18 (GE + AMK agreed)",
       "source": "Email / Michael Sassa (AM King) 2026-10-07 ~1:19pm ET + Peter Lambley (GE) reply ~1:26pm ET",
-      "notes": "**Wed ~1:19pm ET Sassa\u2192Matt Fitts, Mitch Reese, Erick Baker, Pete Lambley, Jeff (cc Adam Watkins, Nate Barney):** AMK needs access to install new fixtures over **Coater #3 and #4**. Proposed: **Coater #4 shut down Sat Oct 17 (1 day)**; **Coater #3 shut down Sat Oct 24 + Sun Oct 25 (2 days)**. Needs **scaffold erected by 7:00am** on 10/17 and 10/24; scaffold ready to come down **5:30pm** on 10/17 and 10/25. Existing lighting demo not included (later). Open to shifting to Fridays. **~1:26pm ET Pete Lambley (GE):** can they take **both coaters Fri Oct 16 + Sat Oct 17** (physical inventory, coaters not running); **not committing to the following weekend** \u2014 production must run. Jeff to plan scaffold crew/material for the Oct 16\u201317 window and confirm with AMK/GE. Related meeting: T121."
+      "notes": "**Wed ~1:19pm ET Sassa\u2192Matt Fitts, Mitch Reese, Erick Baker, Pete Lambley, Jeff (cc Adam Watkins, Nate Barney):** AMK needs access to install new fixtures over **Coater #3 and #4**. Proposed: **Coater #4 shut down Sat Oct 17 (1 day)**; **Coater #3 shut down Sat Oct 24 + Sun Oct 25 (2 days)**. Needs **scaffold erected by 7:00am** on 10/17 and 10/24; scaffold ready to come down **5:30pm** on 10/17 and 10/25. Existing lighting demo not included (later). Open to shifting to Fridays. **~1:26pm ET Pete Lambley (GE):** can they take **both coaters Fri Oct 16 + Sat Oct 17** (physical inventory, coaters not running); **not committing to the following weekend** \u2014 production must run. Jeff to plan scaffold crew/material for the Oct 16\u201317 window and confirm with AMK/GE. Related meeting: T121. **~2:29pm ET Sassa:** asked to also use **Sun Oct 18** so both areas get completed, if scaffolding can support it. **~2:30pm ET Pete Lambley:** \u201cYes. Let\u2019s aim for **Friday 16th \u2013 Sunday 18th**.\u201d Oct 24\u201325 plan dropped. Jeff/Indcom now need to confirm scaffold crew + material can support a **3-day window Fri Oct 16\u2013Sun Oct 18** (up by 7am, down 5:30pm per AMK) and reply to AMK/GE."
     },
     {
       "id": "T131",
@@ -1022,8 +1022,7 @@
     }
   ],
   "calendar": [
-    "**Fri Oct 16\u2013Sat Oct 17 (GE offer \u2014 needs AMK/Jeff confirm)** \u2014 Work **scaffold for AMK VPS lighting over Coater #3 + #4** (GE physical inventory, coaters down; scaffold up by 7am, down after 5:30pm) (T130)",
-    "**Sat Oct 24\u2013Sun Oct 25 (AMK proposal \u2014 GE NOT committing; production runs)** \u2014 Work **Coater #3 scaffold** for VPS lighting (AMK's original plan; likely replaced by Oct 16\u201317) (T130)",
+    "**Fri Oct 16\u2013Sun Oct 18 (GE Pete Lambley + AMK agreed Wed ~2:30pm; Indcom to confirm crew)** \u2014 Work **scaffold for AMK VPS lighting over Coater #3 + #4** (GE physical inventory, coaters down; scaffold up by 7am, down 5:30pm) (T130)",
     "**Fri Oct 9 (offered \u2014 needs Jeff yes)** \u2014 Work **JMT Flooring VCT removal** 30x35 area ($825 / $1,245 w/ adhesive; on-site dumpster by others; confirm first floor + ride-on machine) (T129)",
     "**Sat Oct 10 6:00am\u20137:00pm ET @ ANA/ANB\u2013AYA/AYB + Admin bldg** \u2014 Exclusion zone **BCL7 crane lift** (AMK piping to high roof; Roper FYI could affect weekend plans) (T120)",
     "**TBD (per Sassa invite.ics, sent Tue ~4:02pm)** \u2014 Meeting **VPS lighting over coater 3 & 4** (Michael Sassa/AMK, Adam Watkins, Matt Fitts) (T121)",
@@ -1054,7 +1053,7 @@
     "**ASAP** \u2014 Review/route DPP NFPS.02 Electrical + Process Piping proposals (both IN: Electrical Jason ~10:42am; Plumbing Amie ~12:09pm) (T70)",
     "**ASAP** \u2014 Review/edit Katheryn draft quotations **EST-381A** (NFPS.03 machine power) / **EST-381B** (Basaran chilled water) / **EST-381C** (relocate spare breaker 800A feed) / **EST-415** (BL4 Basaran loop bracing) shared ~3:29\u20133:34pm ET (T77)",
     "**Need-by Mon Oct 6** \u2014 Process/ack GE Ariba PO **4900660255** (~$14,193.13; Joey Lum; PP-11B-5 outage + P&S receptacles + air hose reels) (T74)",
-    "**TODAY need-by Fri Oct 2** \u2014 Process/ack GE Ariba PO **4900660277** (~$5,453.00; Mateo Castro; UB Tubing Support) (T75) \u2014 **no ack mail yet as of ~8:10am ET**",
+    "**Need-by Fri Oct 9** \u2014 Process/ack GE Ariba PO **4900662844** ($5,453.00; Mateo Castro; UB Tubing Support; re-issue of 4900660277? confirm before invoicing) (T75)",
     "**ASAP** \u2014 Review/approve Lawless Systems **Est 2038** (~$3,430; MFG-EZA Ops tower furniture remove/dispose; Jamie Schulz) (T86) \u2014 relates T23 EZA conversion",
     "**ASAP (ack; vendor PO issued Fri ~7:30am)** \u2014 Process/ack GE Ariba PO **4900660773** (~$9,901.75; Alexander Neal; KGA Mist Collector Install / Est 2013 / EST-382) (T85) \u2014 Jeff issued PO to DPP Jason Marchbanks",
     "**ASAP (SAP invoice NOW \u2014 GE received ~9:27am Fri)** \u2014 GE Ariba PO **4900660909** (~$29,233.71; Air Heater 3 scaffold; need-by Nov 2) \u2014 Rusty Daniel confirmed **Received in Ariba**; Jeff invoice through SAP (T87)",
@@ -1608,24 +1607,12 @@
     {
       "id": "e56",
       "type": "work",
-      "title": "TENTATIVE Work: scaffold for AMK VPS lighting over Coater #3 + #4",
-      "summary": "GE offers Fri Oct 16 + Sat Oct 17 (physical inventory, coaters down) \u2014 confirm with AMK",
+      "title": "Work: scaffold for AMK VPS lighting over Coater #3 + #4",
+      "summary": "Fri Oct 16\u2013Sun Oct 18 \u2014 GE (Pete Lambley) + AMK agreed; Indcom to confirm crew/material",
       "location": "VPS \u2014 Coater #3 and #4",
-      "description": "Michael Sassa (AM King) Wed ~1:19pm ET: needs scaffold up by 7am, ready to come down 5:30pm, to install new fixtures over Coaters #3/#4. Pete Lambley (GE) ~1:26pm ET: take both coaters Fri Oct 16 + Sat Oct 17. (T130)",
+      "description": "Michael Sassa (AM King): scaffold up by 7am, ready to come down 5:30pm, to install new fixtures over Coaters #3/#4. Pete Lambley (GE) Wed ~2:30pm ET: aim for Fri Oct 16\u2013Sun Oct 18 (physical inventory, coaters down). (T130)",
       "start": "2026-10-16",
-      "end": "2026-10-18",
-      "allDay": true,
-      "todoId": "T130"
-    },
-    {
-      "id": "e57",
-      "type": "work",
-      "title": "TENTATIVE Work: Coater #3 scaffold (AMK original plan)",
-      "summary": "Oct 24\u201325 \u2014 GE not committing (production must run); likely replaced by Oct 16\u201317",
-      "location": "VPS \u2014 Coater #3",
-      "description": "AMK proposed Coater #3 shutdown Sat Oct 24 + Sun Oct 25, scaffold up by 7am 10/24, down 5:30pm 10/25. Pete Lambley (GE) not committing to that weekend. (T130)",
-      "start": "2026-10-24",
-      "end": "2026-10-26",
+      "end": "2026-10-19",
       "allDay": true,
       "todoId": "T130"
     }
