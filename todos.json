@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T12:36:04-04:00",
+  "updated": "2026-10-07T14:15:59-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -283,15 +283,6 @@
       "notes": "**Tue ~9:28am ET Jeff\u2192Julie/Payroll/Lisa (cc Bill+Katheryn):** submitted \u201cIndcom Time\u201d (21 names) \u2014 **closes submit side of T40**. **Deltas vs Katheryn ~8:53am corrected list:** Ezequiel **50 hrs** (Kat **70**); Joshua per diem **$600** (Kat **$700**); **missing Lance Maxwell Reid** 40 hrs / $400. **Noon payroll window passed (~12:00pm ET Tue) with no correction mail as of ~Wed 8:11am ET.** Still need correction to Julie/Payroll ASAP if Kat\u2019s numbers are right."
     },
     {
-      "id": "T41",
-      "status": "open",
-      "priority": "high",
-      "due": "ASAP",
-      "item": "Review/route Mitsubishi EDM 605842 utilities disconnect quote @ MKB/MGB",
-      "source": "Email / Jim Stanley + Jason 2026-09-21/23",
-      "notes": "Jim Mon ~4:59pm: remove all utilities to source. **Jason Wed ~5:20pm ET:** Joist estimate *Mitsubishi EDM 605842 \u2013 Utility Demolition (MGB)* https://client.joistapp.com/estimates/292ad081eee19486cda3b87c (cc Bill, Katheryn). Review/approve path."
-    },
-    {
       "id": "T42",
       "status": "open",
       "priority": "med",
@@ -352,7 +343,7 @@
       "due": "ASAP",
       "item": "Review/route SPC BSA bump-out + bollard demo quote",
       "source": "Email / Evan Groce 2026-09-24 ~10:32pm ET",
-      "notes": "PDF *bump out demo at BSA.pdf* to Jeff. Ties to T42 (BSA single-story demo schedule). Review/approve path + fold into Jack schedule. **Wed ~10:45am ET Evan Groce\u2192Jeff:** *BSA demo quote* \u2014 attached **Estimate_414_2026-09-11.pdf** (re-sent; route/approve with T42)."
+      "notes": "PDF *bump out demo at BSA.pdf* to Jeff. Ties to T42 (BSA single-story demo schedule). Review/approve path + fold into Jack schedule. **Wed ~10:45am ET Evan Groce\u2192Jeff:** *BSA demo quote* \u2014 attached **Estimate_414_2026-09-11.pdf** (re-sent; route/approve with T42). **Wed ~12:54pm ET Evan\u2192Jeff:** *BSA DEMO* \u2014 same **Estimate_414_2026-09-11.pdf** re-sent again (2nd chase today)."
     },
     {
       "id": "T49",
@@ -868,15 +859,6 @@
       "notes": "**Mon ~4:13pm ET** noreply@vndly.com: GE Vernova invited Indcom to its **Workday VNDLY** vendor network \u2014 accept invite + create company profile. **~4:19pm ET Natalia Acosta (GE Vernova, consultant):** all GE Vernova contingent workers now managed in VNDLY; Jeff's username **Jflannery** at gevernova.vndly.com (first login: Continue \u2192 Forgot Password \u2192 email reset). **ACTION REQUIRED:** log in and confirm Indcom workers are present + details accurate; correct contractor info; contact CW.VendorSupport@ge.com if work orders wrong/missing. Guides attached (VNDLY Vendor Login/Setup, Worker Profile Vendor Guide)."
     },
     {
-      "id": "T113",
-      "status": "open",
-      "priority": "high",
-      "due": "Wed Oct 7 9:30am ET",
-      "item": "Track shutdown PP-7B-2 Circuit #6 @ MEB \u2014 remove Downdraft Table CAT#701624 @ MGB (DPP)",
-      "source": "Email / Jason Marchbanks\u2192Hinkson/McCurry 2026-10-06 ~9:18am ET",
-      "notes": "**Tue ~9:18am ET Jason (DPP)** to Hinkson + McCurry (cc Roper, Jim Stanley, Jeff, Katheryn, Adam McClure, Amie Naylor): shutdown **PP-7B-2 ckt #6**, **Wed Oct 7 9:30am ET**; panel **MEB**, machine **MGB**; purpose remove **Downdraft Table CAT#701624**; GE Lead **Jim Stanley**; sub DPP; site photos attached. Duration not stated. No scaffold mentioned. **Tue ~10:00am ET Hinkson SHUTDOWN NOTIFICATION** issued (invite on Kat's cal 9:30\u201310:00am) \u2014 confirmed. Runs alongside PP-7B-1 ckt #11 at 9:35 (T115)."
-    },
-    {
       "id": "T114",
       "status": "waiting",
       "priority": "med",
@@ -884,15 +866,6 @@
       "item": "Caleb Carson final pay \u2014 FW40 40 hrs / $400 per diem held until returned items confirmed",
       "source": "Email / Katheryn TIME FW40 ~8:26am + Jeff\u2192OpSource ~9:12am 2026-10-06",
       "notes": "Katheryn's FW40 list had **Caleb Carson 40 hrs, per diem $400**; Jeff's OpSource submit says **assignment ended \u2014 final payment next week** once everything is confirmed returned. Confirm returns, then add Caleb's FW40 hours/per diem to next week's submit. All other 21 lines matched Katheryn's list."
-    },
-    {
-      "id": "T115",
-      "status": "open",
-      "priority": "high",
-      "due": "Wed Oct 7 9:35am ET",
-      "item": "Track shutdown PP-7B-1 Circuit #11 @ MDB \u2014 remove Mitsubishi PMX605842 + Mist Collector PMX605844 @ MGB (DPP)",
-      "source": "Email / Jason Marchbanks ~9:23am + Hinkson notification ~10:04am ET 2026-10-06",
-      "notes": "**Tue ~9:23am ET Jason (DPP)** request \u2192 **~10:04am ET Hinkson SHUTDOWN NOTIFICATION - PP-7B-1 ckt-11** (cc Roper, McCurry, Jim Stanley, Jeff, Katheryn, McClure, Naylor, Shanna): **Wed Oct 7 9:35am ET**; panel **MDB**, machine **MGB**; remove **Mitsubishi PMX605842** and **Mist Collector PMX605844**; GE Lead **Jim Stanley**; sub DPP. Duration not stated. No scaffold mentioned. Same morning/area as T113 (PP-7B-2 ckt #6 9:30). Kat cal has Hinkson invite + 2 duplicate holds = one shutdown."
     },
     {
       "id": "T116",
@@ -946,7 +919,7 @@
       "due": "meeting time per invite (not readable here)",
       "item": "Michael Sassa (AM King) meeting \u2014 VPS lighting over restricted areas / coater 3 & 4",
       "source": "Email / Michael Sassa 2026-10-06 ~4:02pm ET",
-      "notes": "**Tue ~4:02pm ET Sassa\u2192Jeff + Adam Watkins (AMK) + Matt Fitts (GE):** meeting invite (*invite.ics*) \u2014 \u201clet me know if this time doesn't work\u201d; wants to discuss opportunities for **new lighting over coater 3 & 4** areas. Meeting time is only in the .ics (attachment download not signed in; not on Katheryn's calendar). Jeff to accept/decline; prep lighting install opportunity. **Tue ~5:03pm ET re-check:** email body has no time (only *invite.ics*); not on Katheryn's calendar \u2014 still unknown."
+      "notes": "**Tue ~4:02pm ET Sassa\u2192Jeff + Adam Watkins (AMK) + Matt Fitts (GE):** meeting invite (*invite.ics*) \u2014 \u201clet me know if this time doesn't work\u201d; wants to discuss opportunities for **new lighting over coater 3 & 4** areas. Meeting time is only in the .ics (attachment download not signed in; not on Katheryn's calendar). Jeff to accept/decline; prep lighting install opportunity. **Tue ~5:03pm ET re-check:** email body has no time (only *invite.ics*); not on Katheryn's calendar \u2014 still unknown. **Wed Oct 7 ~1:19pm ET Sassa** emailed the actual scaffold/shutdown ask for the coater work \u2014 tracked as **T130**."
     },
     {
       "id": "T122",
@@ -1019,9 +992,38 @@
       "item": "Answer JMT Flooring on GE VCT removal (30x35 area) \u2014 confirm Fri Oct 9, first floor?, ride-on machine OK?",
       "source": "Email / Matthew Larmore (JMT Commercial Flooring) 2026-10-07 ~11:37am ET",
       "notes": "JMT can come **Fri Oct 9** to remove VCT: **$825** removal; **$1,245** if adhesive must be removed; floor patch for adhesive residue **$75 per 10 lb bag** (a few bags likely). Prices assume an **on-site dumpster provided by others**. Matthew asks: is it on the **first floor**, any issue using their **ride-on machine** (smaller machine possible, slower; may use smaller given size). **30x35 area.** Jeff to confirm Friday + answers; arrange dumpster; fold cost into the related GE quote."
+    },
+    {
+      "id": "T130",
+      "status": "open",
+      "priority": "high",
+      "due": "Answer AMK/GE this week (first window Fri Oct 16)",
+      "item": "Scaffold for AMK VPS lighting install over Coater #3 + #4 \u2014 settle dates (GE offers Fri Oct 16 + Sat Oct 17)",
+      "source": "Email / Michael Sassa (AM King) 2026-10-07 ~1:19pm ET + Peter Lambley (GE) reply ~1:26pm ET",
+      "notes": "**Wed ~1:19pm ET Sassa\u2192Matt Fitts, Mitch Reese, Erick Baker, Pete Lambley, Jeff (cc Adam Watkins, Nate Barney):** AMK needs access to install new fixtures over **Coater #3 and #4**. Proposed: **Coater #4 shut down Sat Oct 17 (1 day)**; **Coater #3 shut down Sat Oct 24 + Sun Oct 25 (2 days)**. Needs **scaffold erected by 7:00am** on 10/17 and 10/24; scaffold ready to come down **5:30pm** on 10/17 and 10/25. Existing lighting demo not included (later). Open to shifting to Fridays. **~1:26pm ET Pete Lambley (GE):** can they take **both coaters Fri Oct 16 + Sat Oct 17** (physical inventory, coaters not running); **not committing to the following weekend** \u2014 production must run. Jeff to plan scaffold crew/material for the Oct 16\u201317 window and confirm with AMK/GE. Related meeting: T121."
+    },
+    {
+      "id": "T131",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP (AP)",
+      "item": "Review/route DPP Invoices 4709 (Mitsubishi EDM 605842 Utility Demolition, MGB) + 4710 (Downdraft Table #701624 Utility Demolition, MGB)",
+      "source": "Email / Jason Marchbanks (DPP) 2026-10-07 ~1:24pm + ~1:26pm ET",
+      "notes": "**Wed ~1:24pm ET** *Mitsubishi EDM 605842 \u2013 Utility Demolition (MGB)* \u2014 PDF *Invoice_4709.pdf.pdf* + Joist https://client.joistapp.com/invoices/cdddc94e617a9564e2d4c019. **~1:26pm ET** *Downdraft Table #701624 \u2013 Utility Demolition (MGB)* \u2014 PDF *Invoice_4710.pdf.pdf* + Joist https://client.joistapp.com/invoices/f5280f2d38ff0fe67cffca14. Both cc Bill, accounting, Amie Naylor, Katheryn. Work followed today's PP-7B-1 ckt #11 / PP-7B-2 ckt #6 shutdowns (T115/T113 closed) and the earlier EDM estimate (T41 closed). Route/confirm payment; bill GE per change order (cf. T7)."
+    },
+    {
+      "id": "T132",
+      "status": "open",
+      "priority": "med",
+      "due": "ASAP (AP)",
+      "item": "Review/route SPC Invoice 222 \u2014 North Pole finger repair",
+      "source": "Email / Evan Groce (SPC) 2026-10-07 ~2:11pm ET",
+      "notes": "*North Pole finger repair* \u2014 \u201cPlease see attached invoice\u201d \u2014 PDF **Invoice_222_2026-11-06.pdf** to Jeff + ap.mail. Separate from the earlier North Pole repair Invoice 220 (T64). Route/confirm payment."
     }
   ],
   "calendar": [
+    "**Fri Oct 16\u2013Sat Oct 17 (GE offer \u2014 needs AMK/Jeff confirm)** \u2014 Work **scaffold for AMK VPS lighting over Coater #3 + #4** (GE physical inventory, coaters down; scaffold up by 7am, down after 5:30pm) (T130)",
+    "**Sat Oct 24\u2013Sun Oct 25 (AMK proposal \u2014 GE NOT committing; production runs)** \u2014 Work **Coater #3 scaffold** for VPS lighting (AMK's original plan; likely replaced by Oct 16\u201317) (T130)",
     "**Fri Oct 9 (offered \u2014 needs Jeff yes)** \u2014 Work **JMT Flooring VCT removal** 30x35 area ($825 / $1,245 w/ adhesive; on-site dumpster by others; confirm first floor + ride-on machine) (T129)",
     "**Sat Oct 10 6:00am\u20137:00pm ET @ ANA/ANB\u2013AYA/AYB + Admin bldg** \u2014 Exclusion zone **BCL7 crane lift** (AMK piping to high roof; Roper FYI could affect weekend plans) (T120)",
     "**TBD (per Sassa invite.ics, sent Tue ~4:02pm)** \u2014 Meeting **VPS lighting over coater 3 & 4** (Michael Sassa/AMK, Adam Watkins, Matt Fitts) (T121)",
@@ -1602,6 +1604,30 @@
       "allDay": true,
       "type": "work",
       "todoId": "T129"
+    },
+    {
+      "id": "e56",
+      "type": "work",
+      "title": "TENTATIVE Work: scaffold for AMK VPS lighting over Coater #3 + #4",
+      "summary": "GE offers Fri Oct 16 + Sat Oct 17 (physical inventory, coaters down) \u2014 confirm with AMK",
+      "location": "VPS \u2014 Coater #3 and #4",
+      "description": "Michael Sassa (AM King) Wed ~1:19pm ET: needs scaffold up by 7am, ready to come down 5:30pm, to install new fixtures over Coaters #3/#4. Pete Lambley (GE) ~1:26pm ET: take both coaters Fri Oct 16 + Sat Oct 17. (T130)",
+      "start": "2026-10-16",
+      "end": "2026-10-18",
+      "allDay": true,
+      "todoId": "T130"
+    },
+    {
+      "id": "e57",
+      "type": "work",
+      "title": "TENTATIVE Work: Coater #3 scaffold (AMK original plan)",
+      "summary": "Oct 24\u201325 \u2014 GE not committing (production must run); likely replaced by Oct 16\u201317",
+      "location": "VPS \u2014 Coater #3",
+      "description": "AMK proposed Coater #3 shutdown Sat Oct 24 + Sun Oct 25, scaffold up by 7am 10/24, down 5:30pm 10/25. Pete Lambley (GE) not committing to that weekend. (T130)",
+      "start": "2026-10-24",
+      "end": "2026-10-26",
+      "allDay": true,
+      "todoId": "T130"
     }
   ]
 }
