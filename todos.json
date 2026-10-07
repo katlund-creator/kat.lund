@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T17:04:58-04:00",
+  "updated": "2026-10-07T08:05:56-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -433,7 +433,7 @@
       "due": "ASAP",
       "item": "Process DPP BSA Office Demo Portion (Partial) Invoice 4702",
       "source": "Email / Jason Marchbanks 2026-09-27 ~7:58am ET",
-      "notes": "Joist https://client.joistapp.com/invoices/9db8e8f27ad55629c3eae977 + PDF *Invoice_4702.pdf.pdf* (cc Bill, accounting, Katheryn, Amie). Route/confirm payment. Ties T42 BSA demo."
+      "notes": "Joist https://client.joistapp.com/invoices/9db8e8f27ad55629c3eae977 + PDF *Invoice_4702.pdf.pdf* (cc Bill, accounting, Katheryn, Amie). Route/confirm payment. Ties T42 BSA demo. **Tue ~5:49pm ET Jeff\u2192Jason (re: BSA Office Demo Portion):** \u201cPO for BSA office demo **4900661869**\u201d (GE BSA Renovation PO, T111). Still confirm Indcom pays DPP 4702."
     },
     {
       "id": "T61",
@@ -496,7 +496,7 @@
       "due": "ASAP (MSS $7,500 budget # IN; formal proposal pending)",
       "item": "Review/route SCI NFPS.02 Data quote; chase MSS NFPS.02 Mitsubishi Sinker quote",
       "source": "Email / Jeff\u2194Mike Mullaney + Kat\u2192Mike + Kat\u2192Jason Gunter 2026-09-30/10-01/10-02",
-      "notes": "**Wed\u2013Thu prior:** SCI quote IN (13169464889\u2026); MSS Sinker chase open. **Fri ~1:57pm ET Katheryn\u2192Jason Gunter (MSS)** RFQ NFPS.02: 4\u00d7 EDM Mist Collector & Fire Alarm @ M Bay MQA\u2013MNA (SOW #7 fire suppression on sinker EDMs); Indcom provides conduit/boxes; cc path via Jeff. **Fri ~2:05pm ET Jason\u2192Katheryn (cc Frank):** will reach **first of the week** and **schedule a site visit**. **Fri ~2:07pm ET Katheryn\u2192Jeff:** fwd asking **what to reply**. **Action:** Jeff advise Kat reply (or ack wait for Mon site visit); still need MSS quote after visit; still review/route SCI Data quote. Distinct from T15 / T67 (BL4 Mon crew). **Mon ~8:47am ET Kat\u2192Jason Gunter:** need numbers ASAP \u2014 rough estimate off NFPS.03 install? **~11:23am ET Jason Gunter (MSS):** use **$7,500** as the number; he will work on the proposal (apologized for delay). **~11:32am ET Kat\u2192Jeff:** fwd the MSS number; proposal based off NFPS.03 for NFPS.02. Fold $7,500 into NFPS.02 quote (T90); waiting MSS formal proposal; SCI Data quote still to route."
+      "notes": "**Wed\u2013Thu prior:** SCI quote IN (13169464889\u2026); MSS Sinker chase open. **Fri ~1:57pm ET Katheryn\u2192Jason Gunter (MSS)** RFQ NFPS.02: 4\u00d7 EDM Mist Collector & Fire Alarm @ M Bay MQA\u2013MNA (SOW #7 fire suppression on sinker EDMs); Indcom provides conduit/boxes; cc path via Jeff. **Fri ~2:05pm ET Jason\u2192Katheryn (cc Frank):** will reach **first of the week** and **schedule a site visit**. **Fri ~2:07pm ET Katheryn\u2192Jeff:** fwd asking **what to reply**. **Action:** Jeff advise Kat reply (or ack wait for Mon site visit); still need MSS quote after visit; still review/route SCI Data quote. Distinct from T15 / T67 (BL4 Mon crew). **Mon ~8:47am ET Kat\u2192Jason Gunter:** need numbers ASAP \u2014 rough estimate off NFPS.03 install? **~11:23am ET Jason Gunter (MSS):** use **$7,500** as the number; he will work on the proposal (apologized for delay). **~11:32am ET Kat\u2192Jeff:** fwd the MSS number; proposal based off NFPS.03 for NFPS.02. Fold $7,500 into NFPS.02 quote (T90); waiting MSS formal proposal; SCI Data quote still to route. **Wed Oct 7 ~2:15am ET:** NFPS.02 **Estimate 2022 ($1,732,812.09)** sent to Jim Stanley (T90) \u2014 confirm SCI Data + MSS fire-alarm/Sinker scope are inside it; MSS formal proposal still pending."
     },
     {
       "id": "T69",
@@ -509,12 +509,12 @@
     },
     {
       "id": "T70",
-      "status": "open",
+      "status": "waiting",
       "priority": "high",
-      "due": "ASAP",
+      "due": "folded into NFPS.02 Est 2022 (sent Wed ~2:15am) \u2014 waiting GE",
       "item": "Review/route DPP NFPS.02 Electrical + Process Piping proposals",
       "source": "Email / Jason + Amie (DPP) 2026-09-30 ~10:42am/12:09pm ET",
-      "notes": "**Wed ~10:42am ET Jason\u2192Jeff** (cc Katheryn + Bill + Amie): *NFPS.02 Proposal. Dynamic Electrical.pdf*. **Wed ~12:09pm ET Amie\u2192Jeff** (cc Katheryn + Bill + Jason): *NFPS.02 Proposal. Dynamic Plumbing.pdf* (process piping) \u2014 **both proposals NOW IN**. Review/approve/route into NFPS.02 customer path. Distinct from T68 (SCI RFQ/quote + MSS Sinker chase)."
+      "notes": "**Wed ~10:42am ET Jason\u2192Jeff** (cc Katheryn + Bill + Amie): *NFPS.02 Proposal. Dynamic Electrical.pdf*. **Wed ~12:09pm ET Amie\u2192Jeff** (cc Katheryn + Bill + Jason): *NFPS.02 Proposal. Dynamic Plumbing.pdf* (process piping) \u2014 **both proposals NOW IN**. Review/approve/route into NFPS.02 customer path. Distinct from T68 (SCI RFQ/quote + MSS Sinker chase). **Wed Oct 7 ~2:15am ET:** NFPS.02 customer quote **Estimate 2022 ($1,732,812.09)** sent to Jim Stanley (T90) \u2014 DPP proposals presumed folded in; waiting GE approval, then issue DPP PO."
     },
     {
       "id": "T71",
@@ -574,10 +574,10 @@
       "id": "T78",
       "status": "open",
       "priority": "high",
-      "due": "ASAP (onboarding DONE Mon ~2:36pm \u2014 Jeff owes start date + pay rate)",
+      "due": "ASAP \u2014 Jeff owes Chaz pay rate (started Mon 10/5 nights)",
       "item": "OpSource as-needed hire \u2014 Chaz Kieff: tell Yesenia start date + pay rate",
       "source": "Email / Jeff\u2192Allison + Yesenia 2026-09-30/10-01",
-      "notes": "**Wed ~6:02pm ET Jeff\u2192Allison/Yesenia/Payroll (cc Bill):** hire-in for **Chaz Kieff** 504-777-6011 / Chazkieff2@gmail.com. **Wed ~6:04pm Yesenia:** will get ready. **Thu ~1:52pm ET Yesenia\u2192Jeff:** \u201cWhat would be the pay for this new hire?\u201d \u2014 **Jeff owes pay rate** to complete onboarding. Distinct from Tavan (T84). **Mon Oct 5 ~2:36pm ET Yesenia\u2192Jeff:** Chaz **completed OpSource onboarding** \u2014 asks Jeff when he is set to **start** and his **pay rate**."
+      "notes": "**Wed ~6:02pm ET Jeff\u2192Allison/Yesenia/Payroll (cc Bill):** hire-in for **Chaz Kieff** 504-777-6011 / Chazkieff2@gmail.com. **Wed ~6:04pm Yesenia:** will get ready. **Thu ~1:52pm ET Yesenia\u2192Jeff:** \u201cWhat would be the pay for this new hire?\u201d \u2014 **Jeff owes pay rate** to complete onboarding. Distinct from Tavan (T84). **Mon Oct 5 ~2:36pm ET Yesenia\u2192Jeff:** Chaz **completed OpSource onboarding** \u2014 asks Jeff when he is set to **start** and his **pay rate**. **Tue ~5:42pm ET Jeff\u2192Yesenia:** Chaz **started 10/5 on night shift**; Jeff is assessing pay rate based on skillset and will let her know soon \u2014 **pay rate still owed**."
     },
     {
       "id": "T79",
@@ -680,12 +680,12 @@
     },
     {
       "id": "T90",
-      "status": "open",
+      "status": "waiting",
       "priority": "high",
-      "due": "ASAP",
+      "due": "SENT Wed ~2:15am ET \u2014 waiting GE (Jim Stanley) approval/PO",
       "item": "Review/edit Katheryn draft quotation NFPS-02 Electrical & Mechanical-Plumbing (shared with Jeff)",
       "source": "Email / Google Docs share 2026-10-02 ~8:49am ET",
-      "notes": "**Fri ~8:49am ET** Katheryn shared Google Doc inviting Jeff to **edit**: **Quotation NFPS-02 - Electrical & Mechanical-Plumbing - GE Vernova** \u2014 https://docs.google.com/document/d/1iyWmwhviL1hkrEC96hPbVdKaGtoPOEmAsRKveg7WlaM/edit . Ties T70 (DPP NFPS.02 Electrical + Plumbing proposals) + T68 (SCI NFPS.02 Data). Jeff review/edit/approve path before customer send."
+      "notes": "**Fri ~8:49am ET** Katheryn shared Google Doc inviting Jeff to **edit**: **Quotation NFPS-02 - Electrical & Mechanical-Plumbing - GE Vernova** \u2014 https://docs.google.com/document/d/1iyWmwhviL1hkrEC96hPbVdKaGtoPOEmAsRKveg7WlaM/edit . Ties T70 (DPP NFPS.02 Electrical + Plumbing proposals) + T68 (SCI NFPS.02 Data). Jeff review/edit/approve path before customer send. **Tue ~5:06pm ET Katheryn\u2192Bill+Jeff:** \u201cPlease look this over so we can get it sent out.\u201d **Bill ~6:39pm:** likely ~9pm before he can review; **Kat ~7:32pm:** formatting issue fixed; **Bill ~10:04pm:** \u201ccall me.\u201d **~11:21pm ET** Kat shared Google Doc *Complete Scope - Quotation NFPS-02* with Jeff (edit). **Wed ~12:15am ET** Kat\u2192Jeff *UPDATED NFPS.02*. **Wed ~2:15am ET QuickBooks Estimate 2022 *NFPS.02* \u2014 $1,732,812.09 \u2014 sent to Jim Stanley (GE)** (Review and approve). Now waiting GE approval/PO."
     },
     {
       "id": "T91",
@@ -838,7 +838,7 @@
       "due": "ASAP",
       "item": "Jeff verify LastPass blocked login + Google new Mac sign-in (was it him?)",
       "source": "Email / LastPass + Google security alerts 2026-10-05 ~12:11\u201312:13pm ET",
-      "notes": "**~12:11pm ET Google:** new sign-in to jeff.flannery@indcomcorp.com on a **Mac OS** device. **~12:13pm ET LastPass:** someone used Jeff's **master password** from an unrecognized device/location \u2014 **Duncan, SC**, IP 47.35.252.64; LastPass **blocked** it. If not Jeff: change LastPass master password (and anywhere it's reused) + review Google account devices. If it was Jeff: verify device in LastPass."
+      "notes": "**~12:11pm ET Google:** new sign-in to jeff.flannery@indcomcorp.com on a **Mac OS** device. **~12:13pm ET LastPass:** someone used Jeff's **master password** from an unrecognized device/location \u2014 **Duncan, SC**, IP 47.35.252.64; LastPass **blocked** it. If not Jeff: change LastPass master password (and anywhere it's reused) + review Google account devices. If it was Jeff: verify device in LastPass. **Tue ~6:05pm ET Box:** new login from *Mac Safari*. **Tue ~6:12pm ET LastPass:** ANOTHER blocked login attempt using Jeff's master password from an unrecognized device/location. Repeat attempt \u2014 if not Jeff, change LastPass master password now."
     },
     {
       "id": "T110",
@@ -847,7 +847,7 @@
       "due": "Need-by Mon Nov 9 (ack now; FW41\u201344 work)",
       "item": "Process/ack GE PO 4900661816 ($49,470.00) \u2014 C-Bay weekly machine cleaning support FW41\u201344 (Joey Lum)",
       "source": "Email / Ariba GE Vernova 2026-10-05 ~1:12pm ET",
-      "notes": "**Mon ~1:12pm ET** Ariba new PO **4900661816** to Indcom (ariba.mail@); requester **Lum, Lamont Joey**; **PR840798**; NET 150; FCA; line 1 Material 1 EA **$49,470.00**, need-by **9 Nov 2026**. Scope: **two Industrial Techs, 40 hrs/wk**, clean C-Bay machines (internal/external panels, belt covers; scaffold/lifts for hard-to-reach; coordinate downtime), supplies incl. anti-static cloths/Fantastik/microfiber; Mon\u2013Fri normal plant hours. Ack/confirm order + staff the 2 techs."
+      "notes": "**Mon ~1:12pm ET** Ariba new PO **4900661816** to Indcom (ariba.mail@); requester **Lum, Lamont Joey**; **PR840798**; NET 150; FCA; line 1 Material 1 EA **$49,470.00**, need-by **9 Nov 2026**. Scope: **two Industrial Techs, 40 hrs/wk**, clean C-Bay machines (internal/external panels, belt covers; scaffold/lifts for hard-to-reach; coordinate downtime), supplies incl. anti-static cloths/Fantastik/microfiber; Mon\u2013Fri normal plant hours. Ack/confirm order + staff the 2 techs. **Tue ~6:34pm ET QuickBooks invoice 3889 *FW37 - FW40 Cleaning* \u2014 $49,470.00 balance due \u2014 sent to Joey Lum** (\u201cLooks like this bunch was skipped\u201d). Note invoice says FW37\u201340 while PO 4900661816 scope is FW41\u201344 \u2014 confirm PO/period match."
     },
     {
       "id": "T111",
@@ -952,10 +952,19 @@
       "id": "T122",
       "status": "open",
       "priority": "high",
-      "due": "ASAP (\"earliest convenience\")",
+      "due": "ASAP \u2014 quote with best-possible dates (Jeff sending RFQs to subs)",
       "item": "Review + quote GE Nozzle Fab Relocation Project RFQ REV_0 (Jim Stanley)",
       "source": "Email / James Stanley (GE Vernova) 2026-10-06 ~4:44pm ET",
-      "notes": "**Tue ~4:44pm ET Jim Stanley\u2192Jeff:** \"Please review and quote at your earliest convenience.\" Attachment *Nozzle Fab Relocation Project RFQ REV_0.docx* (~52 KB; not downloaded \u2014 Gmail attachment download not available here). Scope not in body \u2014 open the RFQ, then price (likely Jason/DPP electrical + Indcom scaffold/support, same pattern as T7/T8 NFPS.03). New project; no due date stated."
+      "notes": "**Tue ~4:44pm ET Jim Stanley\u2192Jeff:** \"Please review and quote at your earliest convenience.\" Attachment *Nozzle Fab Relocation Project RFQ REV_0.docx* (~52 KB; not downloaded \u2014 Gmail attachment download not available here). Scope not in body \u2014 open the RFQ, then price (likely Jason/DPP electrical + Indcom scaffold/support, same pattern as T7/T8 NFPS.03). New project; no due date stated. **Tue ~5:24pm ET Jeff\u2192Jim:** will review the area and **send out RFQs**; **Indcom will not be able to meet the concrete and epoxy start dates**. **Tue ~9:09pm ET Jim:** \u201cUnderstood, put your best dates that are possible.\u201d Next: sub RFQs out \u2192 price + proposed schedule dates back to Jim."
+    },
+    {
+      "id": "T123",
+      "status": "waiting",
+      "priority": "med",
+      "due": "GE first response within 1 business day",
+      "item": "GE Contingent Workforce (CW) portal setup \u2014 Jeff stuck at username step (\u201ccontact admin\u201d)",
+      "source": "Email / Jeff\u2192CW.VendorSupport@ge.com 2026-10-06 ~5:34pm ET",
+      "notes": "**Tue ~5:34pm ET Jeff\u2192CW Vendor Support:** first step of entering username says contact admin \u2014 does he need to be on location / GE network? Request logged as ticket **[261006-000337]** (first response within 1 business day). Copy to cw.vendorsupport@gevernova.com was **blocked** by GE mail-flow rule (undeliverable). Waiting GE CW reply."
     }
   ],
   "calendar": [
@@ -994,7 +1003,7 @@
     "**ASAP (SAP invoice NOW \u2014 GE received ~9:27am Fri)** \u2014 GE Ariba PO **4900660909** (~$29,233.71; Air Heater 3 scaffold; need-by Nov 2) \u2014 Rusty Daniel confirmed **Received in Ariba**; Jeff invoice through SAP (T87)",
     "**ASAP** \u2014 Answer Bonitz (James Henninger) BSA/BSB access-floor RFQ questions (project name / 2 side rooms / floor outlets / carpet tile) (T88)",
     "**Pending Hinkson window** \u2014 Energize NFPS.03 Mitsubishi Sinker EDMs **#2301350 @ HAA / #2301351 @ HCA / #2301349 @ HDA** via TP-11B-8.1 (Jason ~9:03am Fri; distinct from T72 Thu set) (T89)",
-    "**ASAP** \u2014 Review/edit Katheryn draft **Quotation NFPS-02 Electrical & Mechanical-Plumbing** shared ~8:49am ET Fri (T90) \u2014 ties T70/T68",
+    "**SENT Wed Oct 7 ~2:15am ET \u2014 waiting GE** \u2014 NFPS.02 customer quote **Estimate 2022 ($1,732,812.09)** to Jim Stanley (T90; folds T70/T68)",
     "**THIS WEEKEND** \u2014 M-Bay aisle concrete cutting MFA\u2013~MCA (Buellesbach ~10:01am Fri; road plates for A-side; review w/ affected; invite.ics not on Kat cal yet) (T91) \u2014 distinct from T22 stormwater Oct 5",
     "**Mon Oct 5 morning** \u2014 Confirm GE badge for **Artem Prokopchuk (CP-1805)** ready (Jeff\u2192Colby ~11:46am Fri; Colby OOO 10/2 auto-reply \u2014 chase/alternate) (T92)",
     "**WAITING truck arrival to load (Layher brokers found truck Mon ~11:44am ET); still need ETA + PO** \u2014 Layher R-000159: Prosponsive load cancelled Sat; Jeff ~11:36am asked status; Jeremy ~11:44am truck found, waiting for it to arrive to load; 1' ledgers/11\u00d728' girders not on first truck; still issue PO **GE-JF260930** (T4)",
@@ -1025,6 +1034,7 @@
     "**ASAP (see deck dates)** \u2014 AGV Lift & Rotate: remove scaffold stairs @ CKA; move/remove stairs @ COA (Adam Edwards walk notes ~7:46am Mon) (T101)",
     "**~Sun Nov 1 (tentative)** \u2014 ENSER 7HA1 build stand move from Advanced Rigging into plant (ENSER rep directs; GE rigging) then Nov 2\u20133 install (Twigg Fri ~6:24pm) (T56)",
     "**ASAP** \u2014 Quote MM Repair Area for Martin Brown: 220V 1-ph crane power (*101A.pdf*) + 1600 lb rotary into Haas EC1600 / remove plate; Martin offered walk (T108)",
+    "**ASAP (best-possible dates)** \u2014 Nozzle Fab Relocation RFQ REV_0 quote for Jim Stanley; Jeff sending sub RFQs; can't meet concrete/epoxy start dates (T122)",
     "**ASAP** \u2014 Jeff verify LastPass blocked master-password login (Duncan SC, ~12:13pm) + Google new Mac sign-in (~12:11pm) (T109)",
     "**SENT Mon ~1:25pm** \u2014 Katheryn sent MSS vendor packet to Frank (cc Jeff); waiting MSS return package to accounting@ (T95/T67)",
     "**Need-by Fri Oct 16** \u2014 Ack GE Ariba PO **4900661869** ($97,759.38; Alex Leppard; **BSA Renovation**) (T111)",
