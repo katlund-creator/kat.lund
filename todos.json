@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T08:08:58-04:00",
+  "updated": "2026-10-08T09:17:40-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -500,12 +500,12 @@
     },
     {
       "id": "T70",
-      "status": "waiting",
+      "status": "open",
       "priority": "high",
-      "due": "folded into NFPS.02 Est 2022 (sent Wed ~2:15am) \u2014 waiting GE",
+      "due": "REVIEW \u2014 DPP sent UPDATED proposals Thu Oct 8; check vs Estimate 2022",
       "item": "Review/route DPP NFPS.02 Electrical + Process Piping proposals",
       "source": "Email / Jason + Amie (DPP) 2026-09-30 ~10:42am/12:09pm ET",
-      "notes": "**Wed ~10:42am ET Jason\u2192Jeff** (cc Katheryn + Bill + Amie): *NFPS.02 Proposal. Dynamic Electrical.pdf*. **Wed ~12:09pm ET Amie\u2192Jeff** (cc Katheryn + Bill + Jason): *NFPS.02 Proposal. Dynamic Plumbing.pdf* (process piping) \u2014 **both proposals NOW IN**. Review/approve/route into NFPS.02 customer path. Distinct from T68 (SCI RFQ/quote + MSS Sinker chase). **Wed Oct 7 ~2:15am ET:** NFPS.02 customer quote **Estimate 2022 ($1,732,812.09)** sent to Jim Stanley (T90) \u2014 DPP proposals presumed folded in; waiting GE approval, then issue DPP PO."
+      "notes": "**Wed ~10:42am ET Jason\u2192Jeff** (cc Katheryn + Bill + Amie): *NFPS.02 Proposal. Dynamic Electrical.pdf*. **Wed ~12:09pm ET Amie\u2192Jeff** (cc Katheryn + Bill + Jason): *NFPS.02 Proposal. Dynamic Plumbing.pdf* (process piping) \u2014 **both proposals NOW IN**. Review/approve/route into NFPS.02 customer path. Distinct from T68 (SCI RFQ/quote + MSS Sinker chase). **Wed Oct 7 ~2:15am ET:** NFPS.02 customer quote **Estimate 2022 ($1,732,812.09)** sent to Jim Stanley (T90) \u2014 DPP proposals presumed folded in; waiting GE approval, then issue DPP PO. **Thu Oct 8 ~8:44am ET Amie Naylor (DPP)\u2192Jeff (cc Katheryn, Bill, Jason, Steven Olivieri):** *NFPS.02 Proposal. Dynamic Plumbing (10.08).pdf*; **~8:52am ET** *NFPS.02 Proposal. Dynamic Electrical (10.08).pdf* \u2014 updated DPP proposals arrived AFTER Estimate 2022 went to Jim Stanley. Compare against Estimate 2022 / NFPS-02 Cost Breakdown sheet (T90) and decide whether the GE quote needs a revision."
     },
     {
       "id": "T71",
@@ -676,7 +676,7 @@
       "due": "SENT Wed ~2:15am ET \u2014 waiting GE (Jim Stanley) approval/PO",
       "item": "Review/edit Katheryn draft quotation NFPS-02 Electrical & Mechanical-Plumbing (shared with Jeff)",
       "source": "Email / Google Docs share 2026-10-02 ~8:49am ET",
-      "notes": "**Fri ~8:49am ET** Katheryn shared Google Doc inviting Jeff to **edit**: **Quotation NFPS-02 - Electrical & Mechanical-Plumbing - GE Vernova** \u2014 https://docs.google.com/document/d/1iyWmwhviL1hkrEC96hPbVdKaGtoPOEmAsRKveg7WlaM/edit . Ties T70 (DPP NFPS.02 Electrical + Plumbing proposals) + T68 (SCI NFPS.02 Data). Jeff review/edit/approve path before customer send. **Tue ~5:06pm ET Katheryn\u2192Bill+Jeff:** \u201cPlease look this over so we can get it sent out.\u201d **Bill ~6:39pm:** likely ~9pm before he can review; **Kat ~7:32pm:** formatting issue fixed; **Bill ~10:04pm:** \u201ccall me.\u201d **~11:21pm ET** Kat shared Google Doc *Complete Scope - Quotation NFPS-02* with Jeff (edit). **Wed ~12:15am ET** Kat\u2192Jeff *UPDATED NFPS.02*. **Wed ~2:15am ET QuickBooks Estimate 2022 *NFPS.02* \u2014 $1,732,812.09 \u2014 sent to Jim Stanley (GE)** (Review and approve). Now waiting GE approval/PO. **Wed ~8:39pm ET** Katheryn shared Google Sheet **NFPS-02 Cost Breakdown** with Jeff (edit) \u2014 supporting cost detail for Est 2022; still waiting Jim Stanley approval/PO."
+      "notes": "**Fri ~8:49am ET** Katheryn shared Google Doc inviting Jeff to **edit**: **Quotation NFPS-02 - Electrical & Mechanical-Plumbing - GE Vernova** \u2014 https://docs.google.com/document/d/1iyWmwhviL1hkrEC96hPbVdKaGtoPOEmAsRKveg7WlaM/edit . Ties T70 (DPP NFPS.02 Electrical + Plumbing proposals) + T68 (SCI NFPS.02 Data). Jeff review/edit/approve path before customer send. **Tue ~5:06pm ET Katheryn\u2192Bill+Jeff:** \u201cPlease look this over so we can get it sent out.\u201d **Bill ~6:39pm:** likely ~9pm before he can review; **Kat ~7:32pm:** formatting issue fixed; **Bill ~10:04pm:** \u201ccall me.\u201d **~11:21pm ET** Kat shared Google Doc *Complete Scope - Quotation NFPS-02* with Jeff (edit). **Wed ~12:15am ET** Kat\u2192Jeff *UPDATED NFPS.02*. **Wed ~2:15am ET QuickBooks Estimate 2022 *NFPS.02* \u2014 $1,732,812.09 \u2014 sent to Jim Stanley (GE)** (Review and approve). Now waiting GE approval/PO. **Wed ~8:39pm ET** Katheryn shared Google Sheet **NFPS-02 Cost Breakdown** with Jeff (edit) \u2014 supporting cost detail for Est 2022; still waiting Jim Stanley approval/PO. **Thu Oct 8 ~8:44/8:52am ET:** DPP sent updated (10.08) Plumbing + Electrical proposals \u2014 see T70; may require revising Estimate 2022."
     },
     {
       "id": "T91",
@@ -815,12 +815,12 @@
     },
     {
       "id": "T108",
-      "status": "waiting",
+      "status": "open",
       "priority": "high",
-      "due": "ASAP (Martin offered area walk)",
+      "due": "ASAP \u2014 DPP pricing IN (Thu ~8:36am); build Indcom quote to Martin",
       "item": "Quote MM Repair Area work for Martin Brown \u2014 (1) 220V 1-ph crane power; (2) 1600 lb rotary into Haas EC1600 + remove current plate",
       "source": "Email / Martin Brown (GE Repair Process Eng) 2026-10-05 ~12:19pm ET",
-      "notes": "**Mon ~12:19pm ET Martin Brown (Industrialization / Greenville Service Center)\u2192Jeff:** two quotes for **MM Repair Area**: (1) **Crane Power** \u2014 install electrical power to a crane, **220V single phase** (attachment *101A.pdf*); (2) get a **1600 lb rotary** into the **Haas EC1600** + **remove the current plate** in the machine (discussed previously). Martin free to walk the area; tel 864-361-0344. Schedule walk \u2192 quote. **Tue Oct 6 ~3:27pm ET Jeff fwd Martin's request to Jason Marchbanks (DPP):** \u201cMM repair quote needed.\u201d Now waiting DPP pricing \u2192 Indcom quote to Martin."
+      "notes": "**Mon ~12:19pm ET Martin Brown (Industrialization / Greenville Service Center)\u2192Jeff:** two quotes for **MM Repair Area**: (1) **Crane Power** \u2014 install electrical power to a crane, **220V single phase** (attachment *101A.pdf*); (2) get a **1600 lb rotary** into the **Haas EC1600** + **remove the current plate** in the machine (discussed previously). Martin free to walk the area; tel 864-361-0344. Schedule walk \u2192 quote. **Tue Oct 6 ~3:27pm ET Jeff fwd Martin's request to Jason Marchbanks (DPP):** \u201cMM repair quote needed.\u201d Now waiting DPP pricing \u2192 Indcom quote to Martin. **Thu Oct 8 ~8:36am ET Jason Marchbanks (DPP)\u2192Jeff (cc Katheryn, Bill, Amie):** *MM Repair Jib Crane* estimate via Joist \u2014 https://client.joistapp.com/estimates/2996b33fcfd18c2a39b7a355 (amount not in email; open link). Next: build Indcom quote to Martin Brown (check whether it covers only crane power or also the Haas EC1600 rotary/plate)."
     },
     {
       "id": "T109",
@@ -955,7 +955,7 @@
       "due": "SENT Wed ~11:24pm ET \u2014 waiting Julia ack",
       "item": "Update GE EHS rack-repair metrics for Julia Filiatreau",
       "source": "Email / Julia Filiatreau (GE EHS) 2026-10-07 ~11:03am ET",
-      "notes": "*updating metrics for rack repairs* \u2014 Julia asks Jeff to help update the numbers in her metrics table (embedded image). Ties to T20 (pole barn done) + T124 (MDC racks in progress). **Wed ~11:24pm ET Jeff\u2192Julia (cc Katheryn):** \u201creceived an update for the item that was reviewed and has been changed from their current condition to **Green**\u201d \u2014 attached *GE REPAIR PROGRESS REPORT.pdf*. Waiting Julia to confirm metrics updated."
+      "notes": "*updating metrics for rack repairs* \u2014 Julia asks Jeff to help update the numbers in her metrics table (embedded image). Ties to T20 (pole barn done) + T124 (MDC racks in progress). **Wed ~11:24pm ET Jeff\u2192Julia (cc Katheryn):** \u201creceived an update for the item that was reviewed and has been changed from their current condition to **Green**\u201d \u2014 attached *GE REPAIR PROGRESS REPORT.pdf*. Waiting Julia to confirm metrics updated. **Thu Oct 8 ~8:53am ET Jeff\u2192Julia (cc Katheryn):** sent *GE Vernova Rack Inspection Map - 10_8.pdf* (PDF export of the Google Slides with original findings + latest updates); \"will continue to update these files as work progresses.\" Still waiting Julia."
     },
     {
       "id": "T126",
@@ -1150,7 +1150,8 @@
     "**Pending Hinkson window** \u2014 Energize Haas DM-2 #2301427 @ HCA via PP-6A-5B @ HBA (Jason ~7:14am Mon) (T100)",
     "**ASAP (see deck dates)** \u2014 AGV Lift & Rotate: remove scaffold stairs @ CKA; move/remove stairs @ COA (Adam Edwards walk notes ~7:46am Mon) (T101)",
     "**~Sun Nov 1 (tentative)** \u2014 ENSER 7HA1 build stand move from Advanced Rigging into plant (ENSER rep directs; GE rigging) then Nov 2\u20133 install (Twigg Fri ~6:24pm) (T56)",
-    "**ASAP** \u2014 Quote MM Repair Area for Martin Brown: 220V 1-ph crane power (*101A.pdf*) + 1600 lb rotary into Haas EC1600 / remove plate; Martin offered walk (T108)",
+    "**ASAP** \u2014 DPP *MM Repair Jib Crane* estimate IN (Thu ~8:36am) \u2192 build Indcom quote to Martin Brown: 220V 1-ph crane power (*101A.pdf*) + 1600 lb rotary into Haas EC1600 / remove plate (T108)",
+    "**Review** \u2014 DPP updated NFPS.02 Plumbing + Electrical proposals (10.08) vs Estimate 2022 sent to Jim Stanley; revise GE quote if numbers changed (T70/T90)",
     "**ASAP (best-possible dates)** \u2014 Nozzle Fab Relocation RFQ REV_0 quote for Jim Stanley; Jeff sending sub RFQs; can't meet concrete/epoxy start dates (T122)",
     "**ASAP** \u2014 Jeff verify LastPass blocked master-password login (Duncan SC, ~12:13pm) + Google new Mac sign-in (~12:11pm) (T109)",
     "**SENT Mon ~1:25pm** \u2014 Katheryn sent MSS vendor packet to Frank (cc Jeff); waiting MSS return package to accounting@ (T95/T67)",
