@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T17:13:23-04:00",
+  "updated": "2026-10-08T08:08:58-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -154,7 +154,7 @@
       "due": "TODAY ASAP (before Thu Pulse 11am)",
       "item": "Repair highest-priority pallet rack items (red uprights/beams); inventory + answer Julia",
       "source": "Email / Julia + Brian Hill 2026-09-17/28\u201330",
-      "notes": "**Wed ~6:22am ET Julia:** update on ordering material / scheduling top-priority repairs \u2014 she briefs Rebecca + Jason at **Thu Pulse 11:00am ET**. **Wed ~6:48am ET Jeff draft** (Gmail DRAFT label \u2014 confirm sent): \u201cdefinite answer to you today\u201d; sourcing repair kits + lead times for quote/timeline. Still need **definite answer TODAY** + knock out **red** uprights/beams (Mike\u2019s racks first) before Pulse. Brian Rouby staging near shipping/wood shed. **Tue Oct 6 ~11:41\u201311:42am ET Bryan Bullington (bullina2@outlook.com) fwd to Jeff:** (1) his Thu Oct 1 ~4:23pm *Red repairs* note to Jeff+Katheryn \u2014 red repairs started Fri Oct 2 in pole barn area using surplus uprights; J-pins elsewhere on campus; labor **$35,000**; Rack Armour repair kits (Amentum + train areas, **8\u201310 wk lead**) **$32,264.22** + freight; replacement horiz/diag braces for welded uprights **$4.602** (as written \u2014 likely $4,602) + freight; J-pins + install/checking Broach/Die rack nuts & bolts **$4,500**; forklift + scissor lift rental **$3,900/mo**. (2) Interlake Mecalux (Sara Wells, Fri Oct 2) pricing for **30\u00d7 I75 42\"\u00d7264\" (22') + 20\u00d7 42\"\u00d7144\"** replacement uprights \u2014 *GE VERNOVA 10-2-26.pdf*, FOB IL, ~**$3,000** freight est. Use to build GE quote/timeline for Julia. **Wed Oct 7 ~9:41am ET Brian Hill (GE EHS)\u2192Jeff + Mike Rice (cc Chuck Kirkley):** move off Pole Barn \u2014 prioritize **MDC Nozzle Supply** storage racks (line 54 of report) with Mike Rice (see **T124**). **~9:56am ET Jeff\u2192Brian:** original **pole barn repairs + newfound damage COMPLETED**; crew planned to move to that area today. **Wed ~11:03am ET Julia Filiatreau\u2192Jeff:** asks Jeff to help **update the rack-repair metrics** (numbers in embedded table image) \u2014 see **T125**."
+      "notes": "**Wed ~6:22am ET Julia:** update on ordering material / scheduling top-priority repairs \u2014 she briefs Rebecca + Jason at **Thu Pulse 11:00am ET**. **Wed ~6:48am ET Jeff draft** (Gmail DRAFT label \u2014 confirm sent): \u201cdefinite answer to you today\u201d; sourcing repair kits + lead times for quote/timeline. Still need **definite answer TODAY** + knock out **red** uprights/beams (Mike\u2019s racks first) before Pulse. Brian Rouby staging near shipping/wood shed. **Tue Oct 6 ~11:41\u201311:42am ET Bryan Bullington (bullina2@outlook.com) fwd to Jeff:** (1) his Thu Oct 1 ~4:23pm *Red repairs* note to Jeff+Katheryn \u2014 red repairs started Fri Oct 2 in pole barn area using surplus uprights; J-pins elsewhere on campus; labor **$35,000**; Rack Armour repair kits (Amentum + train areas, **8\u201310 wk lead**) **$32,264.22** + freight; replacement horiz/diag braces for welded uprights **$4.602** (as written \u2014 likely $4,602) + freight; J-pins + install/checking Broach/Die rack nuts & bolts **$4,500**; forklift + scissor lift rental **$3,900/mo**. (2) Interlake Mecalux (Sara Wells, Fri Oct 2) pricing for **30\u00d7 I75 42\"\u00d7264\" (22') + 20\u00d7 42\"\u00d7144\"** replacement uprights \u2014 *GE VERNOVA 10-2-26.pdf*, FOB IL, ~**$3,000** freight est. Use to build GE quote/timeline for Julia. **Wed Oct 7 ~9:41am ET Brian Hill (GE EHS)\u2192Jeff + Mike Rice (cc Chuck Kirkley):** move off Pole Barn \u2014 prioritize **MDC Nozzle Supply** storage racks (line 54 of report) with Mike Rice (see **T124**). **~9:56am ET Jeff\u2192Brian:** original **pole barn repairs + newfound damage COMPLETED**; crew planned to move to that area today. **Wed ~11:03am ET Julia Filiatreau\u2192Jeff:** asks Jeff to help **update the rack-repair metrics** (numbers in embedded table image) \u2014 see **T125**. **Wed ~11:24pm ET Jeff\u2192Julia (cc Kat):** sent *GE REPAIR PROGRESS REPORT.pdf* \u2014 reviewed item now **Green** (see **T125**)."
     },
     {
       "id": "T22",
@@ -163,7 +163,7 @@
       "due": "2026-10-05 TODAY",
       "item": "M-Bay overhead stormwater drains \u2014 phase-1 scaffold (Kyle Herman / AM King)",
       "source": "Email / Kyle Herman + Jeff\u2192Katheryn 2026-09-17/18",
-      "notes": "Phase-1 scaffold by Oct 5; drawings attached. Second higher level after beams. Jeff Fri: forwarded to Katheryn (cc Bill) for review/assessment of material needed + CAD. **Mon Oct 5 ~9:16am ET:** due today \u2014 no Kyle Herman / AM King / Jeff mail on phase-1 scaffold status since Fri; confirm erected or new date."
+      "notes": "Phase-1 scaffold by Oct 5; drawings attached. Second higher level after beams. Jeff Fri: forwarded to Katheryn (cc Bill) for review/assessment of material needed + CAD. **Mon Oct 5 ~9:16am ET:** due today \u2014 no Kyle Herman / AM King / Jeff mail on phase-1 scaffold status since Fri; confirm erected or new date. **Wed ~5:22pm ET Buellesbach:** 2nd half of M-bay closing Thu night Oct 8 (outside NL1) for concrete cutting Fri\u2013Sat + excavation into next week \u2014 see **T135**; check impact on phase-1 scaffold."
     },
     {
       "id": "T23",
@@ -676,7 +676,7 @@
       "due": "SENT Wed ~2:15am ET \u2014 waiting GE (Jim Stanley) approval/PO",
       "item": "Review/edit Katheryn draft quotation NFPS-02 Electrical & Mechanical-Plumbing (shared with Jeff)",
       "source": "Email / Google Docs share 2026-10-02 ~8:49am ET",
-      "notes": "**Fri ~8:49am ET** Katheryn shared Google Doc inviting Jeff to **edit**: **Quotation NFPS-02 - Electrical & Mechanical-Plumbing - GE Vernova** \u2014 https://docs.google.com/document/d/1iyWmwhviL1hkrEC96hPbVdKaGtoPOEmAsRKveg7WlaM/edit . Ties T70 (DPP NFPS.02 Electrical + Plumbing proposals) + T68 (SCI NFPS.02 Data). Jeff review/edit/approve path before customer send. **Tue ~5:06pm ET Katheryn\u2192Bill+Jeff:** \u201cPlease look this over so we can get it sent out.\u201d **Bill ~6:39pm:** likely ~9pm before he can review; **Kat ~7:32pm:** formatting issue fixed; **Bill ~10:04pm:** \u201ccall me.\u201d **~11:21pm ET** Kat shared Google Doc *Complete Scope - Quotation NFPS-02* with Jeff (edit). **Wed ~12:15am ET** Kat\u2192Jeff *UPDATED NFPS.02*. **Wed ~2:15am ET QuickBooks Estimate 2022 *NFPS.02* \u2014 $1,732,812.09 \u2014 sent to Jim Stanley (GE)** (Review and approve). Now waiting GE approval/PO."
+      "notes": "**Fri ~8:49am ET** Katheryn shared Google Doc inviting Jeff to **edit**: **Quotation NFPS-02 - Electrical & Mechanical-Plumbing - GE Vernova** \u2014 https://docs.google.com/document/d/1iyWmwhviL1hkrEC96hPbVdKaGtoPOEmAsRKveg7WlaM/edit . Ties T70 (DPP NFPS.02 Electrical + Plumbing proposals) + T68 (SCI NFPS.02 Data). Jeff review/edit/approve path before customer send. **Tue ~5:06pm ET Katheryn\u2192Bill+Jeff:** \u201cPlease look this over so we can get it sent out.\u201d **Bill ~6:39pm:** likely ~9pm before he can review; **Kat ~7:32pm:** formatting issue fixed; **Bill ~10:04pm:** \u201ccall me.\u201d **~11:21pm ET** Kat shared Google Doc *Complete Scope - Quotation NFPS-02* with Jeff (edit). **Wed ~12:15am ET** Kat\u2192Jeff *UPDATED NFPS.02*. **Wed ~2:15am ET QuickBooks Estimate 2022 *NFPS.02* \u2014 $1,732,812.09 \u2014 sent to Jim Stanley (GE)** (Review and approve). Now waiting GE approval/PO. **Wed ~8:39pm ET** Katheryn shared Google Sheet **NFPS-02 Cost Breakdown** with Jeff (edit) \u2014 supporting cost detail for Est 2022; still waiting Jim Stanley approval/PO."
     },
     {
       "id": "T91",
@@ -950,12 +950,12 @@
     },
     {
       "id": "T125",
-      "status": "open",
+      "status": "waiting",
       "priority": "high",
-      "due": "TODAY ASAP",
+      "due": "SENT Wed ~11:24pm ET \u2014 waiting Julia ack",
       "item": "Update GE EHS rack-repair metrics for Julia Filiatreau",
       "source": "Email / Julia Filiatreau (GE EHS) 2026-10-07 ~11:03am ET",
-      "notes": "*updating metrics for rack repairs* \u2014 Julia asks Jeff to help update the numbers in her metrics table (embedded image). Ties to T20 (pole barn done) + T124 (MDC racks in progress)."
+      "notes": "*updating metrics for rack repairs* \u2014 Julia asks Jeff to help update the numbers in her metrics table (embedded image). Ties to T20 (pole barn done) + T124 (MDC racks in progress). **Wed ~11:24pm ET Jeff\u2192Julia (cc Katheryn):** \u201creceived an update for the item that was reviewed and has been changed from their current condition to **Green**\u201d \u2014 attached *GE REPAIR PROGRESS REPORT.pdf*. Waiting Julia to confirm metrics updated."
     },
     {
       "id": "T126",
@@ -973,7 +973,7 @@
       "due": "next few days (waiting Buellesbach)",
       "item": "MAA column-line scaffold \u2014 lower-crane shutdown window or beam-trolley option",
       "source": "Email / Jeff\u2192Joseph Buellesbach (cc Jim Stanley) 2026-10-07 ~10:26am ET",
-      "notes": "Jeff (after review w/ Tres): scaffold install in column line needs **lower cranes shut down**; area workers don't need them but **machine at MCA uses it regularly**. Option: **beam trolley** like H-Bay Basarans. Asked Joe for trolley OK **or** a crane-shutdown window over the next few days. Waiting reply."
+      "notes": "Jeff (after review w/ Tres): scaffold install in column line needs **lower cranes shut down**; area workers don't need them but **machine at MCA uses it regularly**. Option: **beam trolley** like H-Bay Basarans. Asked Joe for trolley OK **or** a crane-shutdown window over the next few days. Waiting reply. **Wed ~5:22pm ET** no reply yet on crane window; Buellesbach separately announced M-bay 2nd-half aisle closure Thu night \u2192 Fri/Sat concrete cutting + excavation next week (**T135**) \u2014 factor into MAA scaffold timing."
     },
     {
       "id": "T128",
@@ -1037,9 +1037,48 @@
       "item": "Review/route SPC invoice \u2014 BL4 coolant piping",
       "source": "Email / Evan Groce (SPC) 2026-10-07 ~4:20pm ET",
       "notes": "*BL4 coolant piping invoice* \u2014 \u201cPlease see attached invoice\u201d \u2014 PDF **BL4 coolant piping invoice.pdf** to Jeff + ap.mail (invoice # not in email body). Route/confirm payment; bill GE per BL4 change order (cf. T7)."
+    },
+    {
+      "id": "T135",
+      "status": "open",
+      "priority": "high",
+      "due": "TONIGHT Thu Oct 8 (closure) \u2192 Fri Oct 9\u2013Sat Oct 10 cutting + excavation next week",
+      "item": "M-Bay 2nd-half aisle closure (outside NL1) \u2014 concrete cutting Fri/Sat + excavation into next week; plan Indcom M-Bay work/access around it",
+      "source": "Email / Joseph Buellesbach (GE) 2026-10-07 ~5:22pm ET",
+      "notes": "**Wed ~5:22pm ET Joe Buellesbach\u2192Steve Gordon (AMK), Jeff, Matthew Orders (GE):** \u201cWe\u2019d like to close off the **second half of M-bay on Thursday night**, outside of **NL1**, for **concrete cutting Friday and Saturday** and **additional excavation into next week**.\u201d Outlook invite (*invite.ics*) attached \u2014 exact times only in the .ics (not on Katheryn's calendar). Check impact on M-Bay scaffold work (T22 stormwater phase-1, T127 MAA column-line scaffold, T93 AMK Oil Bay piping) + crew access/material staging; no reply from Jeff seen. Prior closure MFA\u2013~MCA Oct 3\u20134 = e40."
+    },
+    {
+      "id": "T136",
+      "status": "open",
+      "priority": "high",
+      "due": "Set walk time TODAY Thu Oct 8 or Fri Oct 9",
+      "item": "Walk ELB rollup-door area with Russ Zubkov (AM King) \u2014 new \u201cHangar\u201d scaffold area + walking platform for door construction / mezzanine demo",
+      "source": "Email / Russ Zubkov (AM King) 2026-10-07 ~5:38pm ET",
+      "notes": "**Wed ~5:38pm ET Russ\u2192Jeff:** asks to set a time **tomorrow (Thu) or Friday** to walk; needs an **additional \u201cHangar\u201d area** where the new **ELB rollup door** construction will happen \u2014 more nuisance since the **mezzanine** in that area must be **demo'd**; an **additional walking platform** would be very helpful. \u201cLet me know what days/times work best.\u201d Fwd of his ~5:32pm note to Zac Ciesielczyk (GE; cc Mitchell Grant, Adam Watkins, Catherine Knight): AMK **received the PO today**; updated schedule incorporates **M-Bay closures** + postponed area block-off so ELB stays operational; **pickle tank farm must be shut down** for a period (utilities under mezzanine tie to far side of pickle tank; AMK will pre-run conduit/pipe); tanks should be shut down + covered during mezzanine cutting/demo (discuss with Ryan); AMK contractor walk next week to set shutdown duration. Attachments *26.0631 10-7-26 Schedule.pdf* + *26.0631 Scope Revised 10-7-26.pdf* (not downloaded). Jeff to reply with walk time \u2192 then quote/plan scaffold (cf. T93 Russ Oil Bay)."
+    },
+    {
+      "id": "T137",
+      "status": "open",
+      "priority": "med",
+      "due": "ASAP (Kat acked Wed ~8:42pm \u2014 \u201creview and get back soon\u201d)",
+      "item": "Quote GE RFQ \u2014 install Qty 1 Superior SD23 Down Draft Table, BCL5 Cell 5-6 at ABA (power + air)",
+      "source": "Email / Matthew Fitts (GE) 2026-10-07 ~8:39pm ET",
+      "notes": "**Wed ~8:39pm ET Fitts\u2192Jeff, Bill, Katheryn, Jason Marchbanks (DPP); cc Mitch Reese, Erick Baker, Pete Lambley:** install 1 SD23 DDT in front of **Cell 5-6** (BCL5, ABA), flush with south face of the cell, east of cell flush with aisle/other DDTs. New DDTs are in **MDC** (3 left-door/air-right + 1 right-door) \u2014 Cell 5-6 needs **left-side access door (air on right)**; GE can meet at MDC to locate asset; other 3 go to storage. Same install standard as prior Qty 5 SD23 installs incl. **Green Tag punch-list** fixes; casters per OEM. Utilities via cell south face to a **utility T-post** (12.5 ft span; rigid support; don't block blower-motor access panel). Need min **2\u00d7 20A quad outlets** (spare 120V ckts in receptacle panel on west wall behind Cell 5-5) + **air manifold w/ 3 outlets off 1\" header** (vent-style hand valve + downstream gauge for LOTO; one outlet \u2265\u00be\" line to DDT main air; other 2 Staubli QDs; header on west wall behind Lincotek cells). Attachments: *RFQ for Qty 1 - Superior SD23 Down Draft Table for BCL5 Cell 5-6.xlsx* + model screenshot. **~8:42pm ET Katheryn replied:** will review and get back soon. Next: DPP (Jason) electrical/air price \u2192 Indcom quote."
+    },
+    {
+      "id": "T138",
+      "status": "open",
+      "priority": "high",
+      "due": "Need-by Fri Oct 9 (ack now; Service Sheet required)",
+      "item": "Process/ack GE PO 4900663074 ($22,184.00) \u2014 FW41 & 42 UA Build stand Inspections, 1st/2nd/3rd shifts (Andrew Heatherly)",
+      "source": "Email / Ariba GE Vernova 2026-10-08 ~3:24am ET",
+      "notes": "**Thu ~3:24am ET** Ariba new PO **4900663074** to Indcom (ariba.mail@); requester **William Andrew Heatherly** (William.Heatherly@gevernova.com; +1 864-252-5624); **PR840026**; NET 150; FCA; line 1 Service 1 LE **$22,184.00**, need-by **9 Oct 2026**; service period **Mon Oct 5\u2013Sun Oct 18**; **Service Sheet Required**. Follows FW38\u201340 PO 4900661420 (T98). Ack/confirm in Ariba; invoice with service sheet after FW41\u201342."
     }
   ],
   "calendar": [
+    "**Thu Oct 8 night \u2192 Fri Oct 9\u2013Sat Oct 10 (+ excavation into next week)** \u2014 M-Bay **2nd-half aisle closure** outside NL1 for concrete cutting (Buellesbach ~5:22pm Wed; times in .ics only) (T135)",
+    "**Thu Oct 8 or Fri Oct 9 (time TBD \u2014 Jeff to propose)** \u2014 Walk **ELB rollup door** \u201cHangar\u201d scaffold area + walking platform with Russ Zubkov (AMK); pickle tank farm shutdown TBD (T136)",
+    "**Need-by Fri Oct 9** \u2014 Ack GE Ariba PO **4900663074** ($22,184; Heatherly; FW41\u201342 UA Build stand Inspections, service Oct 5\u201318; service sheet required) (T138)",
     "**Fri Oct 16\u2013Sun Oct 18 (GE Pete Lambley + AMK agreed Wed ~2:30pm; Indcom to confirm crew)** \u2014 Work **scaffold for AMK VPS lighting over Coater #3 + #4** (GE physical inventory, coaters down; scaffold up by 7am, down 5:30pm) (T130)",
     "**Fri Oct 9 (offered \u2014 needs Jeff yes)** \u2014 Work **JMT Flooring VCT removal** 30x35 area ($825 / $1,245 w/ adhesive; on-site dumpster by others; confirm first floor + ride-on machine) (T129)",
     "**Sat Oct 10 6:00am\u20137:00pm ET @ ANA/ANB\u2013AYA/AYB + Admin bldg** \u2014 Exclusion zone **BCL7 crane lift** (AMK piping to high roof; Roper FYI could affect weekend plans) (T120)",
@@ -1633,6 +1672,30 @@
       "end": "2026-10-19",
       "allDay": true,
       "todoId": "T130"
+    },
+    {
+      "id": "e58",
+      "type": "outage",
+      "title": "Closure: M-Bay 2nd half aisle (outside NL1) \u2014 concrete cutting + excavation",
+      "summary": "M-Bay 2nd-half aisle closed Thu night \u2192 cutting Fri/Sat; excavation into next week",
+      "location": "M-Bay (2nd half, outside NL1)",
+      "description": "Joe Buellesbach (GE) Wed ~5:22pm ET to AMK (Steve Gordon), Jeff, Matt Orders: close off second half of M-bay Thursday night, outside NL1, for concrete cutting Fri Oct 9 + Sat Oct 10 and additional excavation into next week. Exact times in Outlook .ics only. Plan M-Bay scaffold work/access around it (T22/T127/T93). (T135)",
+      "start": "2026-10-08",
+      "end": "2026-10-11",
+      "allDay": true,
+      "todoId": "T135"
+    },
+    {
+      "id": "e59",
+      "type": "deadline",
+      "title": "Deadline: Ack GE PO 4900663074 \u2014 FW41\u201342 UA Build stand Inspections ($22,184)",
+      "summary": "Deadline: GE PO 4900663074 need-by (Andrew Heatherly)",
+      "location": "Ariba / SAP Business Network",
+      "description": "Ariba PO 4900663074 (Andrew Heatherly; PR840026) need-by Fri Oct 9; service Oct 5\u201318; 1st/2nd/3rd shifts; Service Sheet required. (T138)",
+      "start": "2026-10-09",
+      "end": "2026-10-10",
+      "allDay": true,
+      "todoId": "T138"
     }
   ]
 }
