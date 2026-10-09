@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T10:39:59-04:00",
+  "updated": "2026-10-09T11:36:44-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -905,12 +905,12 @@
     },
     {
       "id": "T120",
-      "status": "open",
-      "priority": "high",
-      "due": "Sat Oct 10 6:00am\u20137:00pm ET",
+      "status": "waiting",
+      "priority": "med",
+      "due": "MOVED \u2192 Sat Oct 17 (tentative; Sat Oct 10 lift CANCELED for weather) \u2014 updated lift plan to come",
       "item": "BCL7 crane-lift exclusion zone ANA/ANB\u2013AYA/AYB + Admin bldg \u2014 plan weekend work around it",
       "source": "Email / Jon Roper fwd of Hinkson/AMK (Nate Barney) advisory, 2026-10-06 ~3:49pm ET",
-      "notes": "**Tue ~3:49pm ET Roper\u2192Jeff + Adam Watkins + Rita Burch (AMK):** \u201cFYI, this could affect your weekend plans.\u201d Original Hinkson appt (Oct 1): **BLOCKED ACCESS/EXCLUSION ZONE \u2014 BCL7 Infrastructure Crane Lift Plan**, **Sat Oct 10 6:00am\u20137:00pm ET**, complete access restriction **ANA/ANB thru AYA/AYB** plus areas west inside **Standera/Administration Building (1st + 2nd floors)**; AMK crane lifts of process piping onto high roof; includes GE HVAC replacement. Attachments *Crane Lift Outage_ 10.10.26.pdf* + *Logistics Plan 10.10.26.pdf* (not downloaded). Check impact on Sat crew/scaffold plans (T117 BAA removal, A Bay crane work)."
+      "notes": "**Tue ~3:49pm ET Roper\u2192Jeff + Adam Watkins + Rita Burch (AMK):** \u201cFYI, this could affect your weekend plans.\u201d Original Hinkson appt (Oct 1): **BLOCKED ACCESS/EXCLUSION ZONE \u2014 BCL7 Infrastructure Crane Lift Plan**, **Sat Oct 10 6:00am\u20137:00pm ET**, complete access restriction **ANA/ANB thru AYA/AYB** plus areas west inside **Standera/Administration Building (1st + 2nd floors)**; AMK crane lifts of process piping onto high roof; includes GE HVAC replacement. Attachments *Crane Lift Outage_ 10.10.26.pdf* + *Logistics Plan 10.10.26.pdf* (not downloaded). Check impact on Sat crew/scaffold plans (T117 BAA removal, A Bay crane work). **Fri Oct 9 ~11:12am ET Hinkson UPDATE (Nate Barney/AMK; Jeff cc):** Sat **Oct 10 crane lift CANCELED** due to impending weather; planning to **reschedule for Sat Oct 17**; updated lift plan + coordination details to follow. Sat Oct 10 ANA/ANB\u2013AYA/AYB + Admin bldg exclusion zone no longer applies \u2014 re-check Oct 17 weekend vs T130 (VPS lighting scaffold over Coaters #3/#4 Fri Oct 16\u2013Sun Oct 18)."
     },
     {
       "id": "T121",
@@ -1085,12 +1085,12 @@
     },
     {
       "id": "T143",
-      "status": "open",
+      "status": "waiting",
       "priority": "low",
-      "due": "when ready (no deadline)",
-      "item": "Tell Priority1 (Riley Clarke) whether/when to send Bill a credit application \u2014 freight broker account setup",
+      "due": "waiting Bill \u2014 credit app",
+      "item": "Priority1 (Riley Clarke) freight-broker account \u2014 Bill to complete credit application",
       "source": "Email / Riley Clarke (Priority1) 2026-10-09 ~9:50am ET",
-      "notes": "**Fri ~9:50am ET Riley Clarke** (Inside Sales, Priority1, 864-203-0167; cc Joshua Cady) to Jeff + Bill after a phone call: texted Jeff his info; wants to send **Bill a credit application** so the account is ready when a load needs moving; happy to set a meeting with Bill first. Flyers attached (Flatbed, LTL, Branded, Value Adds). Useful backup broker given Layher truck trouble (T4). Jeff/Bill to reply with go-ahead or meeting time."
+      "notes": "**Fri ~9:50am ET Riley Clarke** (Inside Sales, Priority1, 864-203-0167; cc Joshua Cady) to Jeff + Bill after a phone call: texted Jeff his info; wants to send **Bill a credit application** so the account is ready when a load needs moving; happy to set a meeting with Bill first. Flyers attached (Flatbed, LTL, Branded, Value Adds). Useful backup broker given Layher truck trouble (T4). Jeff/Bill to reply with go-ahead or meeting time. **Fri ~11:03am ET Jeff\u2192Riley (cc Bill, Joshua Cady, Katheryn):** yes, get set up for future loads **to/from Ocala, FL**; told **Bill** to set it up. **~11:06am ET** Jeff sent Riley the **Layher contacts** (Jimmy Holmes, Jeremy Bayate). **~11:15am ET Riley:** credit application **sent to Bill** (he can fill it or forward). **~11:27am ET Riley:** emailed the Layher contacts. Now waiting on Bill to return the credit app."
     }
   ],
   "calendar": [
@@ -1102,7 +1102,7 @@
     "**Need-by Fri Oct 9** \u2014 Ack GE Ariba PO **4900663074** ($22,184; Heatherly; FW41\u201342 UA Build stand Inspections, service Oct 5\u201318; service sheet required) (T138)",
     "**Fri Oct 16\u2013Sun Oct 18 (GE Pete Lambley + AMK agreed Wed ~2:30pm; Indcom to confirm crew)** \u2014 Work **scaffold for AMK VPS lighting over Coater #3 + #4** (GE physical inventory, coaters down; scaffold up by 7am, down 5:30pm) (T130)",
     "**TODAY Fri Oct 9 (CONFIRMED by Jeff Thu ~10:03am) \u2014 first floor; crew names still not received** \u2014 Work **JMT Flooring VCT removal** of small leftover sections, removal only **$825** (JMT bringing machine; crew names pending for badge check) \u2014 Jeff filed 1-day GE vehicle pass for Shelton Sentell (machine delivery) Fri ~8:38am (T129)",
-    "**Sat Oct 10 6:00am\u20137:00pm ET @ ANA/ANB\u2013AYA/AYB + Admin bldg** \u2014 Exclusion zone **BCL7 crane lift** (AMK piping to high roof; Roper FYI could affect weekend plans) (T120)",
+    "**MOVED \u2192 Sat Oct 17 (tentative; times TBD, was 6:00am\u20137:00pm) @ ANA/ANB\u2013AYA/AYB + Admin bldg** \u2014 Exclusion zone **BCL7 crane lift** (AMK piping to high roof) \u2014 **Sat Oct 10 lift CANCELED for weather** (Hinkson/Nate Barney Fri ~11:12am); updated lift plan to come; overlaps T130 weekend (T120)",
     "**TBD (per Sassa invite.ics, sent Tue ~4:02pm)** \u2014 Meeting **VPS lighting over coater 3 & 4** (Michael Sassa/AMK, Adam Watkins, Matt Fitts) (T121)",
     "**TODAY Fri Oct 9 from NOON @ BAA (crane stop 1:30\u20133:30pm confirmed)** \u2014 Work **BAA scaffold install** for Gas Manifold Demo \u2014 build to LCU mezzanine \u2192 Cell 6 crane stop (ESI crane stops @ BEA, ~2 hrs) \u2192 continue after make-safe (T117)",
     "**Sat Oct 10 @ A/B Bays (BAA)** \u2014 Outage **Gas Manifold Demo** \u2014 H2 isolate/vent/purge B-Bay; O2 A+B Bays; N2/Argon LOTO; AMK submitting outage request; maintenance support incl. crane + scaffold groups; **BAA scaffold removal after pipe demo** (T117)",
@@ -1651,12 +1651,12 @@
     {
       "id": "e53",
       "type": "outage",
-      "title": "Exclusion zone: BCL7 crane lift \u2014 ANA/ANB thru AYA/AYB + Admin",
-      "summary": "Blocked access 6am\u20137pm (AMK crane lifts; could affect weekend plans)",
+      "title": "Exclusion zone: BCL7 crane lift (MOVED to Sat Oct 17, tentative) \u2014 ANA/ANB thru AYA/AYB + Admin",
+      "summary": "Sat Oct 10 lift CANCELED for weather; rescheduling to Sat Oct 17 (times TBD; was 6am\u20137pm)",
       "location": "ANA/ANB thru AYA/AYB; Standera/Admin bldg 1st+2nd floors",
-      "description": "Hinkson/AMK (Nate Barney) advisory fwd by Jon Roper Tue ~3:49pm ET: complete access restriction Sat Oct 10 6:00am\u20137:00pm ET for crane lifting of mechanical process piping onto high roof; includes GE HVAC replacement. Check impact on weekend crew/scaffold work (T117). (T120)",
-      "start": "2026-10-10T06:00:00-04:00",
-      "end": "2026-10-10T19:00:00-04:00",
+      "description": "Hinkson/AMK (Nate Barney) UPDATE Fri Oct 9 ~11:12am ET: Sat Oct 10 crane lift canceled due to impending weather; planning to reschedule for Sat Oct 17, updated lift plan to come. Original: complete access restriction 6:00am\u20137:00pm for crane lifting of process piping onto high roof; includes GE HVAC replacement. Check against T130 coater scaffold weekend Oct 16\u201318. (T120)",
+      "start": "2026-10-17T06:00:00-04:00",
+      "end": "2026-10-17T19:00:00-04:00",
       "allDay": false,
       "todoId": "T120"
     },
