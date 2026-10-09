@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T15:17:15-04:00",
+  "updated": "2026-10-09T16:11:46-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -1100,6 +1100,15 @@
       "item": "Review SCI Electronics quote \u2014 GE BSA CP/IE4K moves",
       "source": "Email / Mike Mullaney (SCI) 2026-10-09 ~12:17pm ET",
       "notes": "**Fri ~12:17pm ET Mike Mullaney (SCI, Account Manager, 864-234-7313 x125)\u2192Jeff (cc Katheryn):** attached *13246566139- Indcom GE BSA CP IE4K Moves 10-9-26.pdf* \u2014 quote for the **CP and IE4K moves in BSA** at GE Vernova. Amount not in email body (PDF not opened). Review, mark up, and fold into the GE BSA office/renovation proposal (ties T13 BSA office RFQ, T15 earlier SCI quotes). **Fri ~2:26pm ET Katheryn\u2192Mike Mullaney:** acknowledged receipt. Still to review/route."
+    },
+    {
+      "id": "T145",
+      "status": "open",
+      "priority": "low",
+      "due": "reply to vendor",
+      "item": "Approve/decline substitute for Industrial Safety Products order #531294 (15\u00d7 Ergodyne 3420 glove clip holders)",
+      "source": "Email / Mario Escalante (Industrial Safety Products) 2026-10-09 ~3:29pm ET",
+      "notes": "**Fri ~3:29pm ET Mario Escalante (CSR, 786-706-7969 x188)\u2192Jeff:** Ergodyne 3420 Lime Swiveling Glove Clip Holder (dual clips) **out of stock, no manufacturer ETA**. Offers **Pyramex GLC100 Black Glove Clip** (ships immediately) **with price match**. Jeff to reply approving the substitute or cancel/wait. Crew PPE supply \u2014 low priority."
     }
   ],
   "calendar": [
