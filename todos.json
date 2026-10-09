@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T12:30:49-04:00",
+  "updated": "2026-10-09T15:17:15-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -820,7 +820,7 @@
       "due": "SENT Thu ~9:51am ET \u2014 waiting Martin Brown approval/PO",
       "item": "Quote MM Repair Area work for Martin Brown \u2014 (1) 220V 1-ph crane power; (2) 1600 lb rotary into Haas EC1600 + remove current plate",
       "source": "Email / Martin Brown (GE Repair Process Eng) 2026-10-05 ~12:19pm ET",
-      "notes": "**Mon ~12:19pm ET Martin Brown (Industrialization / Greenville Service Center)\u2192Jeff:** two quotes for **MM Repair Area**: (1) **Crane Power** \u2014 install electrical power to a crane, **220V single phase** (attachment *101A.pdf*); (2) get a **1600 lb rotary** into the **Haas EC1600** + **remove the current plate** in the machine (discussed previously). Martin free to walk the area; tel 864-361-0344. Schedule walk \u2192 quote. **Tue Oct 6 ~3:27pm ET Jeff fwd Martin's request to Jason Marchbanks (DPP):** \u201cMM repair quote needed.\u201d Now waiting DPP pricing \u2192 Indcom quote to Martin. **Thu Oct 8 ~8:36am ET Jason Marchbanks (DPP)\u2192Jeff (cc Katheryn, Bill, Amie):** *MM Repair Jib Crane* estimate via Joist \u2014 https://client.joistapp.com/estimates/2996b33fcfd18c2a39b7a355 (amount not in email; open link). Next: build Indcom quote to Martin Brown (check whether it covers only crane power or also the Haas EC1600 rotary/plate). **Thu Oct 8 ~9:51am ET QuickBooks Estimate 2026 *MM Repair JIB Crane Power* \u2014 $11,193.02 \u2014 sent to Martin Brown (GE)** (Review and approve). Now waiting Martin approval/PO. Haas EC1600 1600 lb rotary + plate removal (item 2) not seen in this estimate \u2014 confirm whether it needs a separate quote."
+      "notes": "**Mon ~12:19pm ET Martin Brown (Industrialization / Greenville Service Center)\u2192Jeff:** two quotes for **MM Repair Area**: (1) **Crane Power** \u2014 install electrical power to a crane, **220V single phase** (attachment *101A.pdf*); (2) get a **1600 lb rotary** into the **Haas EC1600** + **remove the current plate** in the machine (discussed previously). Martin free to walk the area; tel 864-361-0344. Schedule walk \u2192 quote. **Tue Oct 6 ~3:27pm ET Jeff fwd Martin's request to Jason Marchbanks (DPP):** \u201cMM repair quote needed.\u201d Now waiting DPP pricing \u2192 Indcom quote to Martin. **Thu Oct 8 ~8:36am ET Jason Marchbanks (DPP)\u2192Jeff (cc Katheryn, Bill, Amie):** *MM Repair Jib Crane* estimate via Joist \u2014 https://client.joistapp.com/estimates/2996b33fcfd18c2a39b7a355 (amount not in email; open link). Next: build Indcom quote to Martin Brown (check whether it covers only crane power or also the Haas EC1600 rotary/plate). **Thu Oct 8 ~9:51am ET QuickBooks Estimate 2026 *MM Repair JIB Crane Power* \u2014 $11,193.02 \u2014 sent to Martin Brown (GE)** (Review and approve). Now waiting Martin approval/PO. Haas EC1600 1600 lb rotary + plate removal (item 2) not seen in this estimate \u2014 confirm whether it needs a separate quote. **Fri ~2:27pm ET Katheryn\u2192Jason Marchbanks:** acknowledged *MM Repair Jib Crane* estimate receipt."
     },
     {
       "id": "T109",
@@ -982,7 +982,7 @@
       "due": "ASAP (AP)",
       "item": "Review/route DPP Invoices 4709 (Mitsubishi EDM 605842 Utility Demolition, MGB) + 4710 (Downdraft Table #701624 Utility Demolition, MGB)",
       "source": "Email / Jason Marchbanks (DPP) 2026-10-07 ~1:24pm + ~1:26pm ET",
-      "notes": "**Wed ~1:24pm ET** *Mitsubishi EDM 605842 \u2013 Utility Demolition (MGB)* \u2014 PDF *Invoice_4709.pdf.pdf* + Joist https://client.joistapp.com/invoices/cdddc94e617a9564e2d4c019. **~1:26pm ET** *Downdraft Table #701624 \u2013 Utility Demolition (MGB)* \u2014 PDF *Invoice_4710.pdf.pdf* + Joist https://client.joistapp.com/invoices/f5280f2d38ff0fe67cffca14. Both cc Bill, accounting, Amie Naylor, Katheryn. Work followed today's PP-7B-1 ckt #11 / PP-7B-2 ckt #6 shutdowns (T115/T113 closed) and the earlier EDM estimate (T41 closed). Route/confirm payment; bill GE per change order (cf. T7)."
+      "notes": "**Wed ~1:24pm ET** *Mitsubishi EDM 605842 \u2013 Utility Demolition (MGB)* \u2014 PDF *Invoice_4709.pdf.pdf* + Joist https://client.joistapp.com/invoices/cdddc94e617a9564e2d4c019. **~1:26pm ET** *Downdraft Table #701624 \u2013 Utility Demolition (MGB)* \u2014 PDF *Invoice_4710.pdf.pdf* + Joist https://client.joistapp.com/invoices/f5280f2d38ff0fe67cffca14. Both cc Bill, accounting, Amie Naylor, Katheryn. Work followed today's PP-7B-1 ckt #11 / PP-7B-2 ckt #6 shutdowns (T115/T113 closed) and the earlier EDM estimate (T41 closed). Route/confirm payment; bill GE per change order (cf. T7). **Fri ~2:28pm ET Katheryn** reacted \ud83d\udc4d/\u2764\ufe0f to DPP Invoice 4710 email (no routing reply seen)."
     },
     {
       "id": "T132",
@@ -1099,7 +1099,7 @@
       "due": "review + route",
       "item": "Review SCI Electronics quote \u2014 GE BSA CP/IE4K moves",
       "source": "Email / Mike Mullaney (SCI) 2026-10-09 ~12:17pm ET",
-      "notes": "**Fri ~12:17pm ET Mike Mullaney (SCI, Account Manager, 864-234-7313 x125)\u2192Jeff (cc Katheryn):** attached *13246566139- Indcom GE BSA CP IE4K Moves 10-9-26.pdf* \u2014 quote for the **CP and IE4K moves in BSA** at GE Vernova. Amount not in email body (PDF not opened). Review, mark up, and fold into the GE BSA office/renovation proposal (ties T13 BSA office RFQ, T15 earlier SCI quotes)."
+      "notes": "**Fri ~12:17pm ET Mike Mullaney (SCI, Account Manager, 864-234-7313 x125)\u2192Jeff (cc Katheryn):** attached *13246566139- Indcom GE BSA CP IE4K Moves 10-9-26.pdf* \u2014 quote for the **CP and IE4K moves in BSA** at GE Vernova. Amount not in email body (PDF not opened). Review, mark up, and fold into the GE BSA office/renovation proposal (ties T13 BSA office RFQ, T15 earlier SCI quotes). **Fri ~2:26pm ET Katheryn\u2192Mike Mullaney:** acknowledged receipt. Still to review/route."
     }
   ],
   "calendar": [
