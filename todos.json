@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T09:34:05-04:00",
+  "updated": "2026-10-09T10:39:59-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -1082,6 +1082,15 @@
       "item": "Track shutdowns PP-7B-6 ckt #2 + RP-120-JDB ckts #5 & #7 \u2014 Danobat #712190 removal @ JCB",
       "source": "Email / Jason Marchbanks (DPP) 2026-10-08 ~12:21/12:25pm ET",
       "notes": "**Thu ~12:21pm ET Jason\u2192Hinkson + McCurry (cc Jon Roper, Jeff):** shutdown **PP-7B-6 Circuit #2** \u2014 remove power from **Danobat #712190 @ JCB** for machine removal. **~12:25pm ET:** shutdown **RP-120-JDB Circuits #5 & #7** \u2014 remove 120V receptacles from the same Danobat. Date: **ASAP** (no time); GE Lead **Grant Bartlett**; sub DPP; photos attached; no scaffold mentioned. Watch for Hinkson window. Event **e62**. **Fri Oct 9 ~6:11am ET Hinkson** formal *SHUTDOWN NOTIFICATION \u2013 PP-7B-6 ckt-2* + *RP-120-JDB ckt-5, 7* (to Roper, McCurry, Jason, Jeff, Shanna Henson; invite.ics). Kat cal (4 Jeff-automation holds created ~6:13am = one) shows both at **Fri Oct 9 7:45\u20138:15am ET @ JCB**; GE Lead Grant Bartlett; DPP; no scaffold. Confirm complete \u2192 DPP invoice \u2192 bill GE. e62 timed. **Fri ~9:31am ET:** no completion/\u201coutage complete\u201d mail yet from Hinkson/McCurry/DPP for the 7:45\u20138:15am window \u2014 still confirm done."
+    },
+    {
+      "id": "T143",
+      "status": "open",
+      "priority": "low",
+      "due": "when ready (no deadline)",
+      "item": "Tell Priority1 (Riley Clarke) whether/when to send Bill a credit application \u2014 freight broker account setup",
+      "source": "Email / Riley Clarke (Priority1) 2026-10-09 ~9:50am ET",
+      "notes": "**Fri ~9:50am ET Riley Clarke** (Inside Sales, Priority1, 864-203-0167; cc Joshua Cady) to Jeff + Bill after a phone call: texted Jeff his info; wants to send **Bill a credit application** so the account is ready when a load needs moving; happy to set a meeting with Bill first. Flyers attached (Flatbed, LTL, Branded, Value Adds). Useful backup broker given Layher truck trouble (T4). Jeff/Bill to reply with go-ahead or meeting time."
     }
   ],
   "calendar": [
