@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T11:36:44-04:00",
+  "updated": "2026-10-09T12:30:49-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -860,12 +860,12 @@
     },
     {
       "id": "T114",
-      "status": "waiting",
+      "status": "open",
       "priority": "med",
-      "due": "next week (FW41 payroll)",
+      "due": "ASAP \u2014 OpSource asked Fri 12:29pm; FW41 payroll next week",
       "item": "Caleb Carson final pay \u2014 FW40 40 hrs / $400 per diem held until returned items confirmed",
       "source": "Email / Katheryn TIME FW40 ~8:26am + Jeff\u2192OpSource ~9:12am 2026-10-06",
-      "notes": "Katheryn's FW40 list had **Caleb Carson 40 hrs, per diem $400**; Jeff's OpSource submit says **assignment ended \u2014 final payment next week** once everything is confirmed returned. Confirm returns, then add Caleb's FW40 hours/per diem to next week's submit. All other 21 lines matched Katheryn's list."
+      "notes": "Katheryn's FW40 list had **Caleb Carson 40 hrs, per diem $400**; Jeff's OpSource submit says **assignment ended \u2014 final payment next week** once everything is confirmed returned. Confirm returns, then add Caleb's FW40 hours/per diem to next week's submit. All other 21 lines matched Katheryn's list. **Fri Oct 9 ~12:29pm ET Yesenia Portes (OpSource)\u2192Jeff:** they reached Caleb about items to return \u2014 **he says he has nothing to return**; asks Jeff to **advise** (confirm returns OK / release FW40 final pay, or list what is still owed)."
     },
     {
       "id": "T116",
@@ -1091,6 +1091,15 @@
       "item": "Priority1 (Riley Clarke) freight-broker account \u2014 Bill to complete credit application",
       "source": "Email / Riley Clarke (Priority1) 2026-10-09 ~9:50am ET",
       "notes": "**Fri ~9:50am ET Riley Clarke** (Inside Sales, Priority1, 864-203-0167; cc Joshua Cady) to Jeff + Bill after a phone call: texted Jeff his info; wants to send **Bill a credit application** so the account is ready when a load needs moving; happy to set a meeting with Bill first. Flyers attached (Flatbed, LTL, Branded, Value Adds). Useful backup broker given Layher truck trouble (T4). Jeff/Bill to reply with go-ahead or meeting time. **Fri ~11:03am ET Jeff\u2192Riley (cc Bill, Joshua Cady, Katheryn):** yes, get set up for future loads **to/from Ocala, FL**; told **Bill** to set it up. **~11:06am ET** Jeff sent Riley the **Layher contacts** (Jimmy Holmes, Jeremy Bayate). **~11:15am ET Riley:** credit application **sent to Bill** (he can fill it or forward). **~11:27am ET Riley:** emailed the Layher contacts. Now waiting on Bill to return the credit app."
+    },
+    {
+      "id": "T144",
+      "status": "open",
+      "priority": "med",
+      "due": "review + route",
+      "item": "Review SCI Electronics quote \u2014 GE BSA CP/IE4K moves",
+      "source": "Email / Mike Mullaney (SCI) 2026-10-09 ~12:17pm ET",
+      "notes": "**Fri ~12:17pm ET Mike Mullaney (SCI, Account Manager, 864-234-7313 x125)\u2192Jeff (cc Katheryn):** attached *13246566139- Indcom GE BSA CP IE4K Moves 10-9-26.pdf* \u2014 quote for the **CP and IE4K moves in BSA** at GE Vernova. Amount not in email body (PDF not opened). Review, mark up, and fold into the GE BSA office/renovation proposal (ties T13 BSA office RFQ, T15 earlier SCI quotes)."
     }
   ],
   "calendar": [
