@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T15:01:18-04:00",
+  "updated": "2026-10-09T08:18:47-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -547,10 +547,10 @@
       "id": "T75",
       "status": "open",
       "priority": "high",
-      "due": "Need-by Fri Oct 9 (new PO 4900662844 \u2014 ack now)",
+      "due": "Need-by TODAY Fri Oct 9 \u2014 STILL UNCONFIRMED in Ariba (5am reminder)",
       "item": "Process/ack GE PO 4900662844 ($5,453.00; need-by Oct 9) \u2014 UB Tubing Support (Mateo Castro) \u2014 supersedes/duplicates PO 4900660277?",
       "source": "Email / Ariba GE Vernova 2026-09-30 ~1:03pm ET",
-      "notes": "**Wed ~1:03pm ET** Ariba new PO **4900660277** to Indcom (ariba.mail@); requester **Castro, Mateo** (Mateo.Castro1@gevernova.com; +1 864-553-1400); Greenville Gas Turbines; NET 150; need-by **2 Oct 2026**. Line: **UB Tubing Support** 1 EA @ **$5,453.00 USD**. Ship-to 300 Garlington Rd; Deliver To Castro/5250. Confirm-orders / acknowledge path. Distinct from T74 PO 4900660255 (Joey Lum / PP-11B-5). **Wed Oct 7 ~2:13pm ET** Ariba **new PO 4900662844** (Version 1) to Indcom (ariba.mail@): same requester **Mateo Castro**, same line **UB Tubing Support** 1 EA @ **$5,453.00**, **PR844332**, NET 150 (150 DD NET), FCA, need-by **9 Oct 2026**. Looks like a re-issue of PO 4900660277 (same scope + amount) \u2014 confirm with Mateo whether it replaces 4900660277 or is a second order before acking/invoicing so it is not billed twice."
+      "notes": "**Wed ~1:03pm ET** Ariba new PO **4900660277** to Indcom (ariba.mail@); requester **Castro, Mateo** (Mateo.Castro1@gevernova.com; +1 864-553-1400); Greenville Gas Turbines; NET 150; need-by **2 Oct 2026**. Line: **UB Tubing Support** 1 EA @ **$5,453.00 USD**. Ship-to 300 Garlington Rd; Deliver To Castro/5250. Confirm-orders / acknowledge path. Distinct from T74 PO 4900660255 (Joey Lum / PP-11B-5). **Wed Oct 7 ~2:13pm ET** Ariba **new PO 4900662844** (Version 1) to Indcom (ariba.mail@): same requester **Mateo Castro**, same line **UB Tubing Support** 1 EA @ **$5,453.00**, **PR844332**, NET 150 (150 DD NET), FCA, need-by **9 Oct 2026**. Looks like a re-issue of PO 4900660277 (same scope + amount) \u2014 confirm with Mateo whether it replaces 4900660277 or is a second order before acking/invoicing so it is not billed twice. **Fri Oct 9 ~5:00am ET Ariba \u201cConfirm orders from your buyers\u201d** (to ariba.mail@): **4900662844** (GE Vernova, order date 7 Oct) still status **New / unconfirmed** \u2014 confirm today (need-by Oct 9). Event e63."
     },
     {
       "id": "T77",
@@ -880,19 +880,19 @@
       "id": "T117",
       "status": "open",
       "priority": "high",
-      "due": "Fri Oct 9 install (GE formal crane-interruption request sent) / Sat Oct 10 removal",
+      "due": "TODAY Fri Oct 9 \u2014 scaffold starts NOON; Cell 6 crane stop 1:30\u20133:30pm ET (CONFIRMED) / Sat Oct 10 removal",
       "item": "BAA scaffold for Gas Manifold Demo \u2014 install Fri Oct 9 after crane stop + rail bagged; remove Sat Oct 10 after pipe demo",
       "source": "Email / Scott Tulloch (GE) BAA Scaffold Walk recap 2026-10-06 ~12:18pm + outage-support ask ~12:22pm ET",
-      "notes": "**Tue ~12:18pm ET Tulloch** recap (to Jeff, Michael Sassa/AM King, Cliff Little, Paul Madak; cc Lambley, B. White, Lor, C. Lewis, Whitmire, Corley, Berend, Du Vall, Watkins): **crane stop required at BAA and rail \"bagged\" before scaffolding install**; **tentative 10/9 scaffold install, 10/10 removal** after pipe demos complete; powders in BAA shifted/accessible for production. Manifold demo planned weekend of **Sat Oct 10** \u2014 all four gases demo'd back to headers. **AMK to submit outage request.** Gas safety: H2 isolate/vent/purge B-Bay; O2 isolate/vent/purge A+B Bays (maintenance); N2 LOTO accessible at BAA; Argon LOTO at BAB above quad cell. A-Bay keeps TBC coating access, **no HVOF**. **~12:22pm ET Tulloch\u2192Thomas Wharton + James Ray (cc Sassa, Watkins, Jeff, Du Vall):** schedule **outage maintenance support Oct 10** (H2 purge B-Bay, O2 A/B Bays) **including crane and scaffolding groups**. Next: plan crew/material for Fri BAA install + Sat removal; confirm crane stop/rail bagging timing; quote/PO path. **Tue ~3:49pm ET Jon Roper fwd (FYI \u201ccould affect your weekend plans\u201d):** AMK BCL7 crane-lift **exclusion zone Sat Oct 10 6:00am\u20137:00pm ET** ANA/ANB thru AYA/AYB + Admin bldg 1st/2nd floors \u2014 check whether BAA removal / weekend access overlaps (see **T120**). **Thu Oct 8 ~1:25\u20131:26pm ET Tulloch** formal *Furnace Manifold Demo Crane Outage Alert* (to B. White, Lambley, Cliff Little, Du Vall; cc Jeff, Adam Watkins, Michael Sassa): **Fri Oct 9** crane interruption at **BEA affecting Cell 6** for BAA work \u2014 Indcom builds BAA scaffold **up to LCU mezzanine**, then Cell 6 crane shut down so **ESI installs crane stops at BEA**, scaffold continues after make-safe verified, crane re-energized after line stop. **~1:57pm Adam DuVall:** rail stop/hard-bar separation \u2248 **2 hrs** once outage confirmed. **~1:57pm Lambley** added Dylan Hanscom (Cell 6 leader). **~2:12pm Tulloch** asked Cell 6 schedule for window: **lunch 11:30am\u20131:30pm** or **shift change 2\u20134pm** (TBD). Event **e61**; e51 updated."
+      "notes": "**Tue ~12:18pm ET Tulloch** recap (to Jeff, Michael Sassa/AM King, Cliff Little, Paul Madak; cc Lambley, B. White, Lor, C. Lewis, Whitmire, Corley, Berend, Du Vall, Watkins): **crane stop required at BAA and rail \"bagged\" before scaffolding install**; **tentative 10/9 scaffold install, 10/10 removal** after pipe demos complete; powders in BAA shifted/accessible for production. Manifold demo planned weekend of **Sat Oct 10** \u2014 all four gases demo'd back to headers. **AMK to submit outage request.** Gas safety: H2 isolate/vent/purge B-Bay; O2 isolate/vent/purge A+B Bays (maintenance); N2 LOTO accessible at BAA; Argon LOTO at BAB above quad cell. A-Bay keeps TBC coating access, **no HVOF**. **~12:22pm ET Tulloch\u2192Thomas Wharton + James Ray (cc Sassa, Watkins, Jeff, Du Vall):** schedule **outage maintenance support Oct 10** (H2 purge B-Bay, O2 A/B Bays) **including crane and scaffolding groups**. Next: plan crew/material for Fri BAA install + Sat removal; confirm crane stop/rail bagging timing; quote/PO path. **Tue ~3:49pm ET Jon Roper fwd (FYI \u201ccould affect your weekend plans\u201d):** AMK BCL7 crane-lift **exclusion zone Sat Oct 10 6:00am\u20137:00pm ET** ANA/ANB thru AYA/AYB + Admin bldg 1st/2nd floors \u2014 check whether BAA removal / weekend access overlaps (see **T120**). **Thu Oct 8 ~1:25\u20131:26pm ET Tulloch** formal *Furnace Manifold Demo Crane Outage Alert* (to B. White, Lambley, Cliff Little, Du Vall; cc Jeff, Adam Watkins, Michael Sassa): **Fri Oct 9** crane interruption at **BEA affecting Cell 6** for BAA work \u2014 Indcom builds BAA scaffold **up to LCU mezzanine**, then Cell 6 crane shut down so **ESI installs crane stops at BEA**, scaffold continues after make-safe verified, crane re-energized after line stop. **~1:57pm Adam DuVall:** rail stop/hard-bar separation \u2248 **2 hrs** once outage confirmed. **~1:57pm Lambley** added Dylan Hanscom (Cell 6 leader). **~2:12pm Tulloch** asked Cell 6 schedule for window: **lunch 11:30am\u20131:30pm** or **shift change 2\u20134pm** (TBD). Event **e61**; e51 updated. **Thu ~3:14pm ET Dylan Hanscom (Cell 6)** preferred shift change (spraying done ~1 hr before end of shift \u2192 minimal impact). **~3:18pm ET Tulloch: \"Good: 1:30 \u2013 3:30\"** \u2014 **scaffolding starts noon Fri** and wraps after crane stops installed. **~3:41pm Hanscom** FYI'd Brandon Jennings + Roxanne Wooldridge (short B-bay crane outage at shift change). **~4:26pm ET Paul Madak (cc Jeff, Adam Watkins, Sassa):** once **rail stops are installed the crane cannot access Cell 6 until the stops are removed**. **Fri ~12:06am ET Brandon Jennings (3rd shift ops):** 2nd shift won't be in B bay except T800 taper \u2014 OK to work around. **Fri ~7:06am ET Hanscom\u2192Tulloch:** please verify Madak's point (he assumed crane would just be limited to north end of the stops) \u2014 **open question; may affect Cell 6 production after stops go in**. e61 now timed 1:30\u20133:30pm; e51 noon start."
     },
     {
       "id": "T118",
-      "status": "waiting",
+      "status": "open",
       "priority": "med",
-      "due": "when OpSource onboarding completes",
+      "due": "ASAP \u2014 before payroll (onboarding DONE Thu ~3:28pm)",
       "item": "OpSource new hire \u2014 Daniel Ramirez: wait for onboarding, then give start date + pay rate",
       "source": "Email / Jeff\u2192Julie Solesbee + Yesenia Portes reply 2026-10-06 ~2:04\u20132:07pm ET",
-      "notes": "**Tue ~2:04pm ET Jeff\u2192Julie (OpSource):** send new-hire link for **Daniel Ramirez** (Alex7daniel@gmail.com, 504-385-7044). **~2:07pm ET Yesenia:** will do; will notify Jeff once he completes OpSource onboarding. Next: Jeff owes **start date + pay rate** once onboarded (same pattern as Chaz Kieff T78)."
+      "notes": "**Tue ~2:04pm ET Jeff\u2192Julie (OpSource):** send new-hire link for **Daniel Ramirez** (Alex7daniel@gmail.com, 504-385-7044). **~2:07pm ET Yesenia:** will do; will notify Jeff once he completes OpSource onboarding. Next: Jeff owes **start date + pay rate** once onboarded (same pattern as Chaz Kieff T78). **Thu Oct 8 ~3:28pm ET Yesenia Portes (OpSource):** **Daniel Ramirez completed OpSource onboarding** \u2014 all set to start; **send his pay rate before payroll**. Jeff owes pay rate (+ start date)."
     },
     {
       "id": "T119",
@@ -931,15 +931,6 @@
       "notes": "**Tue ~4:44pm ET Jim Stanley\u2192Jeff:** \"Please review and quote at your earliest convenience.\" Attachment *Nozzle Fab Relocation Project RFQ REV_0.docx* (~52 KB; not downloaded \u2014 Gmail attachment download not available here). Scope not in body \u2014 open the RFQ, then price (likely Jason/DPP electrical + Indcom scaffold/support, same pattern as T7/T8 NFPS.03). New project; no due date stated. **Tue ~5:24pm ET Jeff\u2192Jim:** will review the area and **send out RFQs**; **Indcom will not be able to meet the concrete and epoxy start dates**. **Tue ~9:09pm ET Jim:** \u201cUnderstood, put your best dates that are possible.\u201d Next: sub RFQs out \u2192 price + proposed schedule dates back to Jim."
     },
     {
-      "id": "T125",
-      "status": "waiting",
-      "priority": "high",
-      "due": "SENT Wed ~11:24pm ET \u2014 waiting Julia ack",
-      "item": "Update GE EHS rack-repair metrics for Julia Filiatreau",
-      "source": "Email / Julia Filiatreau (GE EHS) 2026-10-07 ~11:03am ET",
-      "notes": "*updating metrics for rack repairs* \u2014 Julia asks Jeff to help update the numbers in her metrics table (embedded image). Ties to T20 (pole barn done) + T124 (MDC racks in progress). **Wed ~11:24pm ET Jeff\u2192Julia (cc Katheryn):** \u201creceived an update for the item that was reviewed and has been changed from their current condition to **Green**\u201d \u2014 attached *GE REPAIR PROGRESS REPORT.pdf*. Waiting Julia to confirm metrics updated. **Thu Oct 8 ~8:53am ET Jeff\u2192Julia (cc Katheryn):** sent *GE Vernova Rack Inspection Map - 10_8.pdf* (PDF export of the Google Slides with original findings + latest updates); \"will continue to update these files as work progresses.\" Still waiting Julia."
-    },
-    {
       "id": "T126",
       "status": "open",
       "priority": "med",
@@ -952,10 +943,10 @@
       "id": "T127",
       "status": "open",
       "priority": "high",
-      "due": "TONIGHT Thu Oct 8 5:00pm \u2192 Fri 7:00am (crane 19916 down) \u2014 small hardbar platform @ MCA/MDA + scaffold above crane",
+      "due": "Window ENDED Fri 7:00am \u2014 confirm hardbar platform built + next crane-19916 window",
       "item": "MAA column-line scaffold \u2014 lower-crane shutdown window or beam-trolley option",
       "source": "Email / Jeff\u2192Joseph Buellesbach (cc Jim Stanley) 2026-10-07 ~10:26am ET",
-      "notes": "Jeff (after review w/ Tres): scaffold install in column line needs **lower cranes shut down**; area workers don't need them but **machine at MCA uses it regularly**. Option: **beam trolley** like H-Bay Basarans. Asked Joe for trolley OK **or** a crane-shutdown window over the next few days. Waiting reply. **Wed ~5:22pm ET** no reply yet on crane window; Buellesbach separately announced M-bay 2nd-half aisle closure Thu night \u2192 Fri/Sat concrete cutting + excavation next week (**T135**) \u2014 factor into MAA scaffold timing. **Thu Oct 8 ~2:00pm ET Buellesbach\u2192Tres Orr + Matt Orders (cc Jeff, Steve Gordon/AMK):** Nozzles OK\u2019d shutting down **floor-mounted bridge crane 19916 at 5:00pm tonight**; ESI to lock breaker out. **Jeff \u2014 crane de-energized until 7:00am Fri.** Joe walked it with Vera this morning; wants a **small platform at the MCA/MDA column line** to reach the **hardbar for disconnection** so the crane can stay de-energized longer for the rest of the scaffold install. **Capitol** got measurements from the knuckle boom in LAB \u2014 no column priority; just need scaffolding **above the crane** in whatever order/configuration **AMKing/Capitol** need. **~2:25pm ET Tres Orr:** will lock out crane today at 5pm. Event **e60**. No Jeff reply seen yet."
+      "notes": "Jeff (after review w/ Tres): scaffold install in column line needs **lower cranes shut down**; area workers don't need them but **machine at MCA uses it regularly**. Option: **beam trolley** like H-Bay Basarans. Asked Joe for trolley OK **or** a crane-shutdown window over the next few days. Waiting reply. **Wed ~5:22pm ET** no reply yet on crane window; Buellesbach separately announced M-bay 2nd-half aisle closure Thu night \u2192 Fri/Sat concrete cutting + excavation next week (**T135**) \u2014 factor into MAA scaffold timing. **Thu Oct 8 ~2:00pm ET Buellesbach\u2192Tres Orr + Matt Orders (cc Jeff, Steve Gordon/AMK):** Nozzles OK\u2019d shutting down **floor-mounted bridge crane 19916 at 5:00pm tonight**; ESI to lock breaker out. **Jeff \u2014 crane de-energized until 7:00am Fri.** Joe walked it with Vera this morning; wants a **small platform at the MCA/MDA column line** to reach the **hardbar for disconnection** so the crane can stay de-energized longer for the rest of the scaffold install. **Capitol** got measurements from the knuckle boom in LAB \u2014 no column priority; just need scaffolding **above the crane** in whatever order/configuration **AMKing/Capitol** need. **~2:25pm ET Tres Orr:** will lock out crane today at 5pm. Event **e60**. No Jeff reply seen yet. **Fri Oct 9 ~8:14am ET:** no new mail since Tres Orr ~2:25pm Thu (no Buellesbach/Jeff follow-up; no outcome of the Thu 5pm\u2013Fri 7am lockout window). Confirm the MCA/MDA hardbar platform got built and when the longer crane-19916 outage / scaffold-above-crane install happens."
     },
     {
       "id": "T128",
@@ -970,10 +961,10 @@
       "id": "T129",
       "status": "waiting",
       "priority": "high",
-      "due": "CONFIRMED Fri Oct 9 \u2014 waiting JMT crew names for badge check",
+      "due": "TODAY Fri Oct 9 \u2014 still waiting JMT crew names for badge check",
       "item": "Answer JMT Flooring on GE VCT removal (30x35 area) \u2014 confirm Fri Oct 9, first floor?, ride-on machine OK?",
       "source": "Email / Matthew Larmore (JMT Commercial Flooring) 2026-10-07 ~11:37am ET",
-      "notes": "JMT can come **Fri Oct 9** to remove VCT: **$825** removal; **$1,245** if adhesive must be removed; floor patch for adhesive residue **$75 per 10 lb bag** (a few bags likely). Prices assume an **on-site dumpster provided by others**. Matthew asks: is it on the **first floor**, any issue using their **ride-on machine** (smaller machine possible, slower; may use smaller given size). **30x35 area.** Jeff to confirm Friday + answers; arrange dumpster; fold cost into the related GE quote. **Thu Oct 8 ~10:03am ET Jeff\u2192Matt:** sent photos of small areas a floor scraper couldn't remove; **do the work tomorrow (Fri Oct 9), first floor**, sections small. **~10:05am Matt:** will need to bring their machine; asked if pricing OK. **~10:15am Jeff:** yes \u2014 **removal only ($825)**, no glue/infill needed; will confirm with the guys; asked for **crew names to confirm badges**. **~10:16am Matt:** will work on it. Waiting names \u2192 verify badges before Fri."
+      "notes": "JMT can come **Fri Oct 9** to remove VCT: **$825** removal; **$1,245** if adhesive must be removed; floor patch for adhesive residue **$75 per 10 lb bag** (a few bags likely). Prices assume an **on-site dumpster provided by others**. Matthew asks: is it on the **first floor**, any issue using their **ride-on machine** (smaller machine possible, slower; may use smaller given size). **30x35 area.** Jeff to confirm Friday + answers; arrange dumpster; fold cost into the related GE quote. **Thu Oct 8 ~10:03am ET Jeff\u2192Matt:** sent photos of small areas a floor scraper couldn't remove; **do the work tomorrow (Fri Oct 9), first floor**, sections small. **~10:05am Matt:** will need to bring their machine; asked if pricing OK. **~10:15am Jeff:** yes \u2014 **removal only ($825)**, no glue/infill needed; will confirm with the guys; asked for **crew names to confirm badges**. **~10:16am Matt:** will work on it. Waiting names \u2192 verify badges before Fri. **Fri ~8:14am ET:** still **no crew names from Matt Larmore** since ~10:16am Thu (\u201cwill work on it\u201d) \u2014 badges can't be pre-verified; chase JMT this morning."
     },
     {
       "id": "T130",
@@ -1027,7 +1018,7 @@
       "due": "Invite CANCELED Thu ~12:38pm \u2014 confirm closure off / rescheduled",
       "item": "M-Bay 2nd-half aisle closure (outside NL1) \u2014 concrete cutting Fri/Sat + excavation into next week; plan Indcom M-Bay work/access around it",
       "source": "Email / Joseph Buellesbach (GE) 2026-10-07 ~5:22pm ET",
-      "notes": "**Wed ~5:22pm ET Joe Buellesbach\u2192Steve Gordon (AMK), Jeff, Matthew Orders (GE):** \u201cWe\u2019d like to close off the **second half of M-bay on Thursday night**, outside of **NL1**, for **concrete cutting Friday and Saturday** and **additional excavation into next week**.\u201d Outlook invite (*invite.ics*) attached \u2014 exact times only in the .ics (not on Katheryn's calendar). Check impact on M-Bay scaffold work (T22 stormwater phase-1, T127 MAA column-line scaffold, T93 AMK Oil Bay piping) + crew access/material staging; no reply from Jeff seen. Prior closure MFA\u2013~MCA Oct 3\u20134 = e40. **Thu Oct 8 ~12:38pm ET Buellesbach** sent **\u201cCanceled: M-Bay Additional Aisle Closure\u201d** (Outlook cancel, same body + invite.ics) to Steve Gordon (AMK), Jeff, Matt Orders \u2014 tonight\u2019s 2nd-half M-Bay closure invite was **canceled**; no reason/new date given. Confirm whether Fri\u2013Sat concrete cutting is off or moved. e58 marked canceled. (MAA crane 19916 lockout tonight is separate \u2014 **T127**/e60.)"
+      "notes": "**Wed ~5:22pm ET Joe Buellesbach\u2192Steve Gordon (AMK), Jeff, Matthew Orders (GE):** \u201cWe\u2019d like to close off the **second half of M-bay on Thursday night**, outside of **NL1**, for **concrete cutting Friday and Saturday** and **additional excavation into next week**.\u201d Outlook invite (*invite.ics*) attached \u2014 exact times only in the .ics (not on Katheryn's calendar). Check impact on M-Bay scaffold work (T22 stormwater phase-1, T127 MAA column-line scaffold, T93 AMK Oil Bay piping) + crew access/material staging; no reply from Jeff seen. Prior closure MFA\u2013~MCA Oct 3\u20134 = e40. **Thu Oct 8 ~12:38pm ET Buellesbach** sent **\u201cCanceled: M-Bay Additional Aisle Closure\u201d** (Outlook cancel, same body + invite.ics) to Steve Gordon (AMK), Jeff, Matt Orders \u2014 tonight\u2019s 2nd-half M-Bay closure invite was **canceled**; no reason/new date given. Confirm whether Fri\u2013Sat concrete cutting is off or moved. e58 marked canceled. (MAA crane 19916 lockout tonight is separate \u2014 **T127**/e60.) **Fri ~8:14am ET:** no new Buellesbach mail since the ~12:38pm Thu cancel \u2014 no rescheduled closure seen; treat as off unless a new invite arrives."
     },
     {
       "id": "T136",
@@ -1042,19 +1033,19 @@
       "id": "T137",
       "status": "waiting",
       "priority": "med",
-      "due": "WAITING Jason (DPP) to confirm prior price still valid \u2192 reply Mitch Reese (GE ready to start PO)",
+      "due": "GE PROCEEDING WITH PO (Fitts Fri ~6:16am) on Quote 1959 as-is \u2014 watch for Ariba PO",
       "item": "Quote GE RFQ \u2014 install Qty 1 Superior SD23 Down Draft Table, BCL5 Cell 5-6 at ABA (power + air)",
       "source": "Email / Matthew Fitts (GE) 2026-10-07 ~8:39pm ET",
-      "notes": "**Wed ~8:39pm ET Fitts\u2192Jeff, Bill, Katheryn, Jason Marchbanks (DPP); cc Mitch Reese, Erick Baker, Pete Lambley:** install 1 SD23 DDT in front of **Cell 5-6** (BCL5, ABA), flush with south face of the cell, east of cell flush with aisle/other DDTs. New DDTs are in **MDC** (3 left-door/air-right + 1 right-door) \u2014 Cell 5-6 needs **left-side access door (air on right)**; GE can meet at MDC to locate asset; other 3 go to storage. Same install standard as prior Qty 5 SD23 installs incl. **Green Tag punch-list** fixes; casters per OEM. Utilities via cell south face to a **utility T-post** (12.5 ft span; rigid support; don't block blower-motor access panel). Need min **2\u00d7 20A quad outlets** (spare 120V ckts in receptacle panel on west wall behind Cell 5-5) + **air manifold w/ 3 outlets off 1\" header** (vent-style hand valve + downstream gauge for LOTO; one outlet \u2265\u00be\" line to DDT main air; other 2 Staubli QDs; header on west wall behind Lincotek cells). Attachments: *RFQ for Qty 1 - Superior SD23 Down Draft Table for BCL5 Cell 5-6.xlsx* + model screenshot. **~8:42pm ET Katheryn replied:** will review and get back soon. Next: DPP (Jason) electrical/air price \u2192 Indcom quote. **Thu Oct 8 ~12:48pm ET Mitch Reese (GE)\u2192Katheryn + Fitts (cc Jeff, Bill, Jason, Erick Baker, Lambley):** attached previous quote **Indcom Corp Quote 1959 [Lincotek Downdraft Table Cell 5-6].pdf** \u2014 \u201clet me know if it\u2019s still valid and I\u2019ll get started on the PO.\u201d **~1:40pm ET Jeff\u2192Jason Marchbanks (cc Amie, Katheryn, Bill):** re-sent full RFQ scope; asked Jason to **confirm previous quoted amount is valid**. Next: Jason confirm \u2192 answer Mitch so GE issues PO."
+      "notes": "**Wed ~8:39pm ET Fitts\u2192Jeff, Bill, Katheryn, Jason Marchbanks (DPP); cc Mitch Reese, Erick Baker, Pete Lambley:** install 1 SD23 DDT in front of **Cell 5-6** (BCL5, ABA), flush with south face of the cell, east of cell flush with aisle/other DDTs. New DDTs are in **MDC** (3 left-door/air-right + 1 right-door) \u2014 Cell 5-6 needs **left-side access door (air on right)**; GE can meet at MDC to locate asset; other 3 go to storage. Same install standard as prior Qty 5 SD23 installs incl. **Green Tag punch-list** fixes; casters per OEM. Utilities via cell south face to a **utility T-post** (12.5 ft span; rigid support; don't block blower-motor access panel). Need min **2\u00d7 20A quad outlets** (spare 120V ckts in receptacle panel on west wall behind Cell 5-5) + **air manifold w/ 3 outlets off 1\" header** (vent-style hand valve + downstream gauge for LOTO; one outlet \u2265\u00be\" line to DDT main air; other 2 Staubli QDs; header on west wall behind Lincotek cells). Attachments: *RFQ for Qty 1 - Superior SD23 Down Draft Table for BCL5 Cell 5-6.xlsx* + model screenshot. **~8:42pm ET Katheryn replied:** will review and get back soon. Next: DPP (Jason) electrical/air price \u2192 Indcom quote. **Thu Oct 8 ~12:48pm ET Mitch Reese (GE)\u2192Katheryn + Fitts (cc Jeff, Bill, Jason, Erick Baker, Lambley):** attached previous quote **Indcom Corp Quote 1959 [Lincotek Downdraft Table Cell 5-6].pdf** \u2014 \u201clet me know if it\u2019s still valid and I\u2019ll get started on the PO.\u201d **~1:40pm ET Jeff\u2192Jason Marchbanks (cc Amie, Katheryn, Bill):** re-sent full RFQ scope; asked Jason to **confirm previous quoted amount is valid**. Next: Jason confirm \u2192 answer Mitch so GE issues PO. **Thu ~9:03pm ET Fitts\u2192Mitch Reese + Katheryn (cc Jeff, Bill, Jason, Erick Baker, Lambley):** GE + Indcom already installed a **new local receptacle panel** (per latest RFQ) \u2014 review latest RFQ vs previous proposal (Quote 1959) and say if it needs updating. **~11:16pm ET Jeff\u2192Fitts:** \u201cgood to go as is\u201d (typed \u201cgood to find\u201d). **Fri ~6:16am ET Fitts:** \u201c10-4, **we will proceed with the PO**.\u201d **~7:24am Jeff:** phone autocorrect note. Jason's price-confirm reply not seen (moot unless DPP cost changed). Next: watch Ariba for the PO \u2192 schedule DDT install."
     },
     {
       "id": "T138",
       "status": "open",
       "priority": "high",
-      "due": "Need-by Fri Oct 9 (ack now; Service Sheet required)",
+      "due": "Need-by TODAY Fri Oct 9 (verify ack in Ariba; Service Sheet required)",
       "item": "Process/ack GE PO 4900663074 ($22,184.00) \u2014 FW41 & 42 UA Build stand Inspections, 1st/2nd/3rd shifts (Andrew Heatherly)",
       "source": "Email / Ariba GE Vernova 2026-10-08 ~3:24am ET",
-      "notes": "**Thu ~3:24am ET** Ariba new PO **4900663074** to Indcom (ariba.mail@); requester **William Andrew Heatherly** (William.Heatherly@gevernova.com; +1 864-252-5624); **PR840026**; NET 150; FCA; line 1 Service 1 LE **$22,184.00**, need-by **9 Oct 2026**; service period **Mon Oct 5\u2013Sun Oct 18**; **Service Sheet Required**. Follows FW38\u201340 PO 4900661420 (T98). Ack/confirm in Ariba; invoice with service sheet after FW41\u201342."
+      "notes": "**Thu ~3:24am ET** Ariba new PO **4900663074** to Indcom (ariba.mail@); requester **William Andrew Heatherly** (William.Heatherly@gevernova.com; +1 864-252-5624); **PR840026**; NET 150; FCA; line 1 Service 1 LE **$22,184.00**, need-by **9 Oct 2026**; service period **Mon Oct 5\u2013Sun Oct 18**; **Service Sheet Required**. Follows FW38\u201340 PO 4900661420 (T98). Ack/confirm in Ariba; invoice with service sheet after FW41\u201342. **Fri ~5:00am ET Ariba \u201cConfirm orders\u201d reminder** lists only **4900662844** (T75) as unconfirmed \u2014 **4900663074 not listed**, so it may already be confirmed; verify in Ariba before need-by today."
     },
     {
       "id": "T139",
@@ -1087,24 +1078,24 @@
       "id": "T142",
       "status": "open",
       "priority": "med",
-      "due": "ASAP (DPP request \u2014 pending Hinkson window)",
+      "due": "SCHEDULED Fri Oct 9 7:45\u20138:15am ET (window passed \u2014 confirm complete)",
       "item": "Track shutdowns PP-7B-6 ckt #2 + RP-120-JDB ckts #5 & #7 \u2014 Danobat #712190 removal @ JCB",
       "source": "Email / Jason Marchbanks (DPP) 2026-10-08 ~12:21/12:25pm ET",
-      "notes": "**Thu ~12:21pm ET Jason\u2192Hinkson + McCurry (cc Jon Roper, Jeff):** shutdown **PP-7B-6 Circuit #2** \u2014 remove power from **Danobat #712190 @ JCB** for machine removal. **~12:25pm ET:** shutdown **RP-120-JDB Circuits #5 & #7** \u2014 remove 120V receptacles from the same Danobat. Date: **ASAP** (no time); GE Lead **Grant Bartlett**; sub DPP; photos attached; no scaffold mentioned. Watch for Hinkson window. Event **e62**."
+      "notes": "**Thu ~12:21pm ET Jason\u2192Hinkson + McCurry (cc Jon Roper, Jeff):** shutdown **PP-7B-6 Circuit #2** \u2014 remove power from **Danobat #712190 @ JCB** for machine removal. **~12:25pm ET:** shutdown **RP-120-JDB Circuits #5 & #7** \u2014 remove 120V receptacles from the same Danobat. Date: **ASAP** (no time); GE Lead **Grant Bartlett**; sub DPP; photos attached; no scaffold mentioned. Watch for Hinkson window. Event **e62**. **Fri Oct 9 ~6:11am ET Hinkson** formal *SHUTDOWN NOTIFICATION \u2013 PP-7B-6 ckt-2* + *RP-120-JDB ckt-5, 7* (to Roper, McCurry, Jason, Jeff, Shanna Henson; invite.ics). Kat cal (4 Jeff-automation holds created ~6:13am = one) shows both at **Fri Oct 9 7:45\u20138:15am ET @ JCB**; GE Lead Grant Bartlett; DPP; no scaffold. Confirm complete \u2192 DPP invoice \u2192 bill GE. e62 timed."
     }
   ],
   "calendar": [
-    "**TONIGHT Thu Oct 8 5:00pm \u2192 Fri Oct 9 7:00am ET @ MAA** \u2014 Outage/LOTO **floor-mounted bridge crane 19916** (Nozzles OK per Matt Orders; Tres Orr/ESI lockout 5pm) \u2014 Indcom: small **hardbar-access platform @ MCA/MDA** + scaffold above crane per AMKing/Capitol (Kat cal 2 dupes = one outage) (T127)",
-    "**Fri Oct 9 (window TBD: 11:30am\u20131:30pm lunch or 2\u20134pm shift change; ~2 hrs) @ BEA / Cell 6** \u2014 Crane interruption for ESI crane stops so BAA scaffold can go above LCU mezzanine (Tulloch formal request ~1:26pm; DuVall ~2 hrs) (Kat cal 2 outage dupes + 2 day-before scaffold reminders = one) (T117)",
-    "**ASAP (pending Hinkson window) @ JCB** \u2014 Shutdowns **PP-7B-6 ckt #2** + **RP-120-JDB ckts #5 & #7** \u2014 Danobat #712190 power/receptacle removal (DPP; GE Lead Grant Bartlett) (Kat cal all-day hold Oct 8 for RP-120-JDB) (T142)",
+    "**PAST (ended Fri Oct 9 7:00am ET) \u2014 was Thu Oct 8 5:00pm \u2192 Fri 7:00am ET @ MAA** \u2014 Outage/LOTO **floor-mounted bridge crane 19916** (Nozzles OK per Matt Orders; Tres Orr/ESI lockout 5pm) \u2014 Indcom: small **hardbar-access platform @ MCA/MDA** + scaffold above crane per AMKing/Capitol (Kat cal 2 dupes = one outage) (T127)",
+    "**TODAY Fri Oct 9 1:30\u20133:30pm ET (CONFIRMED Tulloch Thu ~3:18pm; scaffold starts noon) @ BEA / Cell 6** \u2014 Crane interruption for ESI crane stops so BAA scaffold can go above LCU mezzanine (Madak: crane can't reach Cell 6 while rail stops are in \u2014 Hanscom asked Tulloch to verify Fri ~7:06am) (Kat cal 2 outage dupes + 2 day-before scaffold reminders = one) (T117)",
+    "**TODAY Fri Oct 9 7:45\u20138:15am ET @ JCB (passed \u2014 confirm complete)** \u2014 Shutdowns **PP-7B-6 ckt #2** + **RP-120-JDB ckts #5 & #7** \u2014 Danobat #712190 power/receptacle removal (Hinkson notifications Fri ~6:11am; DPP; GE Lead Grant Bartlett) (Kat cal 4 holds = one) (T142)",
     "**CANCELED (invite canceled Thu ~12:38pm) \u2014 was Thu Oct 8 night \u2192 Fri Oct 9\u2013Sat Oct 10** \u2014 M-Bay **2nd-half aisle closure** outside NL1 for concrete cutting (Buellesbach); confirm off vs rescheduled (T135)",
     "**Thu Oct 8 or Fri Oct 9 (time TBD \u2014 Jeff to propose)** \u2014 Walk **ELB rollup door** \u201cHangar\u201d scaffold area + walking platform with Russ Zubkov (AMK); pickle tank farm shutdown TBD (T136)",
     "**Need-by Fri Oct 9** \u2014 Ack GE Ariba PO **4900663074** ($22,184; Heatherly; FW41\u201342 UA Build stand Inspections, service Oct 5\u201318; service sheet required) (T138)",
     "**Fri Oct 16\u2013Sun Oct 18 (GE Pete Lambley + AMK agreed Wed ~2:30pm; Indcom to confirm crew)** \u2014 Work **scaffold for AMK VPS lighting over Coater #3 + #4** (GE physical inventory, coaters down; scaffold up by 7am, down 5:30pm) (T130)",
-    "**Fri Oct 9 (CONFIRMED by Jeff Thu ~10:03am) \u2014 first floor** \u2014 Work **JMT Flooring VCT removal** of small leftover sections, removal only **$825** (JMT bringing machine; crew names pending for badge check) (T129)",
+    "**TODAY Fri Oct 9 (CONFIRMED by Jeff Thu ~10:03am) \u2014 first floor; crew names still not received** \u2014 Work **JMT Flooring VCT removal** of small leftover sections, removal only **$825** (JMT bringing machine; crew names pending for badge check) (T129)",
     "**Sat Oct 10 6:00am\u20137:00pm ET @ ANA/ANB\u2013AYA/AYB + Admin bldg** \u2014 Exclusion zone **BCL7 crane lift** (AMK piping to high roof; Roper FYI could affect weekend plans) (T120)",
     "**TBD (per Sassa invite.ics, sent Tue ~4:02pm)** \u2014 Meeting **VPS lighting over coater 3 & 4** (Michael Sassa/AMK, Adam Watkins, Matt Fitts) (T121)",
-    "**Fri Oct 9 @ BAA (GE formal crane request sent Thu ~1:26pm)** \u2014 Work **BAA scaffold install** for Gas Manifold Demo \u2014 build to LCU mezzanine \u2192 Cell 6 crane stop (ESI crane stops @ BEA, ~2 hrs) \u2192 continue after make-safe (T117)",
+    "**TODAY Fri Oct 9 from NOON @ BAA (crane stop 1:30\u20133:30pm confirmed)** \u2014 Work **BAA scaffold install** for Gas Manifold Demo \u2014 build to LCU mezzanine \u2192 Cell 6 crane stop (ESI crane stops @ BEA, ~2 hrs) \u2192 continue after make-safe (T117)",
     "**Sat Oct 10 @ A/B Bays (BAA)** \u2014 Outage **Gas Manifold Demo** \u2014 H2 isolate/vent/purge B-Bay; O2 A+B Bays; N2/Argon LOTO; AMK submitting outage request; maintenance support incl. crane + scaffold groups; **BAA scaffold removal after pipe demo** (T117)",
     "**Wed Oct 7 9:30am ET @ MEB** \u2014 Shutdown **PP-7B-2 Circuit #6** \u2014 remove Downdraft Table CAT#701624 @ MGB (DPP; GE Lead Jim Stanley) \u2014 Hinkson notification ~10:00am Tue; invite + Jeff hold = one shutdown (T113)",
     "**Wed Oct 7 9:35am ET @ MDB** \u2014 Shutdown **PP-7B-1 Circuit #11** \u2014 remove Mitsubishi PMX605842 + Mist Collector PMX605844 @ MGB (DPP; GE Lead Jim Stanley) \u2014 Hinkson notification ~10:04am Tue; invite + 2 duplicate holds = one shutdown (T115)",
@@ -1131,7 +1122,7 @@
     "**ASAP** \u2014 Review/route DPP NFPS.02 Electrical + Process Piping proposals (both IN: Electrical Jason ~10:42am; Plumbing Amie ~12:09pm) (T70)",
     "**ASAP** \u2014 Review/edit Katheryn draft quotations **EST-381A** (NFPS.03 machine power) / **EST-381B** (Basaran chilled water) / **EST-381C** (relocate spare breaker 800A feed) / **EST-415** (BL4 Basaran loop bracing) shared ~3:29\u20133:34pm ET (T77)",
     "**Need-by Mon Oct 6** \u2014 Process/ack GE Ariba PO **4900660255** (~$14,193.13; Joey Lum; PP-11B-5 outage + P&S receptacles + air hose reels) (T74)",
-    "**Need-by Fri Oct 9** \u2014 Process/ack GE Ariba PO **4900662844** ($5,453.00; Mateo Castro; UB Tubing Support; re-issue of 4900660277? confirm before invoicing) (T75)",
+    "**Need-by TODAY Fri Oct 9 \u2014 still UNCONFIRMED (Ariba 5am reminder)** \u2014 Process/ack GE Ariba PO **4900662844** ($5,453.00; Mateo Castro; UB Tubing Support; re-issue of 4900660277? confirm before invoicing) (T75)",
     "**ASAP** \u2014 Review/approve Lawless Systems **Est 2038** (~$3,430; MFG-EZA Ops tower furniture remove/dispose; Jamie Schulz) (T86) \u2014 relates T23 EZA conversion",
     "**ASAP (ack; vendor PO issued Fri ~7:30am)** \u2014 Process/ack GE Ariba PO **4900660773** (~$9,901.75; Alexander Neal; KGA Mist Collector Install / Est 2013 / EST-382) (T85) \u2014 Jeff issued PO to DPP Jason Marchbanks",
     "**ASAP (SAP invoice NOW \u2014 GE received ~9:27am Fri)** \u2014 GE Ariba PO **4900660909** (~$29,233.71; Air Heater 3 scaffold; need-by Nov 2) \u2014 Rusty Daniel confirmed **Received in Ariba**; Jeff invoice through SAP (T87)",
@@ -1160,7 +1151,7 @@
     "**ASAP** \u2014 Demo security-camera scaffolds + barricades @ 17 International Court (Bill\u2192Jeff; T83)",
     "**ASAP (Jose chased again Wed ~9:31am)** \u2014 Tell Jose when **Tavan Hughes** should report (T84)",
     "**TODAY (GE EHS priority)** \u2014 MDC Nozzle Supply storage racks w/ **Mike Rice** 864-203-9384 (line 54; Brian Hill ~9:41am; pole barn done per Jeff ~9:56am; racks cleaned out, crew working it ~10:20am) (T124/T20)",
-    "**TODAY ASAP** \u2014 Help Julia update GE EHS rack-repair metrics (T125)",
+    "**DONE Thu Oct 8 ~3:08pm** \u2014 Julia ack'd rack-repair metrics update (T125 closed)",
     "**Next few days (waiting Buellesbach)** \u2014 MAA column-line scaffold: lower-crane shutdown window vs beam-trolley option; MCA machine uses crane (T127)",
     "**ASAP** \u2014 Quote BL5 floor mats removal/install (GE-supplied material; Duncan Holman; T126); review SPC Est 421 BL4 mezz handrails (T128); route SPC BL4 invoices (T133 change orders Inv 223, T134 coolant piping)",
     "**ASAP** \u2014 Process SPC **North Pole Invoice 220** (Evan ~11:23pm Wed; was Estimate 417 \u2014 T64)",
@@ -1628,9 +1619,9 @@
       "id": "e51",
       "type": "work",
       "title": "Work: BAA scaffold install \u2014 Gas Manifold Demo (GE crane interruption requested)",
-      "summary": "BAA scaffold to LCU mezzanine \u2192 Cell 6 crane stop (ESI crane stops @ BEA) \u2192 continue",
+      "summary": "TODAY from noon \u2014 build to LCU mezzanine \u2192 Cell 6 crane stop 1:30\u20133:30pm (ESI stops @ BEA) \u2192 continue",
       "location": "BAA",
-      "description": "Tulloch BAA Scaffold Walk recap Tue ~12:18pm ET: crane stop required at BAA and rail bagged before scaffold install; tentative Fri Oct 9 install; powders in BAA shifted/accessible for production. (T117) UPDATE Thu Oct 8 ~1:26pm ET: Tulloch formal crane-interruption request for Fri Oct 9 at BEA (Cell 6); build to LCU mezzanine, ESI installs crane stops (~2 hrs per DuVall), continue after make-safe; window lunch 11:30\u20131:30 or 2\u20134pm TBD (e61).",
+      "description": "Tulloch BAA Scaffold Walk recap Tue ~12:18pm ET: crane stop required at BAA and rail bagged before scaffold install; tentative Fri Oct 9 install; powders in BAA shifted/accessible for production. (T117) UPDATE Thu Oct 8 ~1:26pm ET: Tulloch formal crane-interruption request for Fri Oct 9 at BEA (Cell 6); build to LCU mezzanine, ESI installs crane stops (~2 hrs per DuVall), continue after make-safe; window lunch 11:30\u20131:30 or 2\u20134pm TBD (e61). UPDATE Thu ~3:18pm ET: window confirmed 1:30\u20133:30pm; scaffolding starts noon Fri (e61).",
       "start": "2026-10-09",
       "end": "2026-10-10",
       "allDay": true,
@@ -1676,7 +1667,7 @@
       "id": "e55",
       "summary": "Work: JMT Flooring VCT removal (first floor, small sections)",
       "location": "First floor (per Jeff)",
-      "description": "CONFIRMED by Jeff Thu Oct 8 ~10:03am for Fri Oct 9. Removal only $825 (no glue/infill); JMT bringing machine; crew names pending for badge check. (T129)",
+      "description": "CONFIRMED by Jeff Thu Oct 8 ~10:03am for Fri Oct 9. Removal only $825 (no glue/infill); JMT bringing machine; crew names pending for badge check. (T129) UPDATE Fri ~8:14am ET: still no JMT crew names for badges.",
       "start": "2026-10-09",
       "end": "2026-10-10",
       "allDay": true,
@@ -1701,7 +1692,7 @@
       "title": "CANCELED Closure: M-Bay 2nd half aisle (outside NL1) \u2014 concrete cutting + excavation",
       "summary": "Invite CANCELED Thu Oct 8 ~12:38pm ET \u2014 confirm closure off vs rescheduled",
       "location": "M-Bay (2nd half, outside NL1)",
-      "description": "Joe Buellesbach (GE) Wed ~5:22pm ET to AMK (Steve Gordon), Jeff, Matt Orders: close off second half of M-bay Thursday night, outside NL1, for concrete cutting Fri Oct 9 + Sat Oct 10 and additional excavation into next week. Exact times in Outlook .ics only. Plan M-Bay scaffold work/access around it (T22/T127/T93). (T135) UPDATE Thu Oct 8 ~12:38pm ET: Buellesbach sent \"Canceled: M-Bay Additional Aisle Closure\" (Outlook cancel; no new date). Confirm whether Fri\u2013Sat cutting is off or moved.",
+      "description": "Joe Buellesbach (GE) Wed ~5:22pm ET to AMK (Steve Gordon), Jeff, Matt Orders: close off second half of M-bay Thursday night, outside NL1, for concrete cutting Fri Oct 9 + Sat Oct 10 and additional excavation into next week. Exact times in Outlook .ics only. Plan M-Bay scaffold work/access around it (T22/T127/T93). (T135) UPDATE Thu Oct 8 ~12:38pm ET: Buellesbach sent \"Canceled: M-Bay Additional Aisle Closure\" (Outlook cancel; no new date). Confirm whether Fri\u2013Sat cutting is off or moved. UPDATE Fri ~8:14am ET: no reschedule mail seen.",
       "start": "2026-10-08",
       "end": "2026-10-11",
       "allDay": true,
@@ -1713,7 +1704,7 @@
       "title": "Deadline: Ack GE PO 4900663074 \u2014 FW41\u201342 UA Build stand Inspections ($22,184)",
       "summary": "Deadline: GE PO 4900663074 need-by (Andrew Heatherly)",
       "location": "Ariba / SAP Business Network",
-      "description": "Ariba PO 4900663074 (Andrew Heatherly; PR840026) need-by Fri Oct 9; service Oct 5\u201318; 1st/2nd/3rd shifts; Service Sheet required. (T138)",
+      "description": "Ariba PO 4900663074 (Andrew Heatherly; PR840026) need-by Fri Oct 9; service Oct 5\u201318; 1st/2nd/3rd shifts; Service Sheet required. (T138) UPDATE Fri ~5:00am ET: Ariba unconfirmed-orders reminder did not list 4900663074 (may already be confirmed \u2014 verify).",
       "start": "2026-10-09",
       "end": "2026-10-10",
       "allDay": true,
@@ -1722,10 +1713,10 @@
     {
       "id": "e60",
       "type": "outage",
-      "title": "Outage/LOTO: MAA floor-mounted bridge crane 19916 (tonight)",
+      "title": "Outage/LOTO: MAA floor-mounted bridge crane 19916 (ENDED Fri 7am)",
       "summary": "Crane 19916 de-energized Thu 5:00pm \u2192 Fri 7:00am ET \u2014 scaffold window",
       "location": "MAA \u2014 MCA/MDA column line (hardbar); ESI breaker LOTO",
-      "description": "Joe Buellesbach (GE) Thu Oct 8 ~2:00pm ET: Nozzles OK'd shutdown per Matt Orders; Tres Orr confirmed ~2:25pm he will lock out at 5pm. Crane de-energized until 7am Fri. Indcom: small platform at MCA/MDA column line to reach hardbar for disconnection (enables longer outage), then scaffold above crane in order/config AMKing/Capitol need; no column priority (Capitol measured from knuckle boom in LAB). Kat cal had 2 duplicate holds = one outage. (T127)",
+      "description": "Joe Buellesbach (GE) Thu Oct 8 ~2:00pm ET: Nozzles OK'd shutdown per Matt Orders; Tres Orr confirmed ~2:25pm he will lock out at 5pm. Crane de-energized until 7am Fri. Indcom: small platform at MCA/MDA column line to reach hardbar for disconnection (enables longer outage), then scaffold above crane in order/config AMKing/Capitol need; no column priority (Capitol measured from knuckle boom in LAB). Kat cal had 2 duplicate holds = one outage. (T127) UPDATE Fri ~8:14am ET: window ended 7:00am; no outcome mail \u2014 confirm hardbar platform + next outage window.",
       "start": "2026-10-08T17:00:00-04:00",
       "end": "2026-10-09T07:00:00-04:00",
       "allDay": false,
@@ -1735,25 +1726,37 @@
       "id": "e61",
       "type": "outage",
       "title": "Outage: BEA crane interruption \u2014 Cell 6 (Furnace Manifold Demo / BAA scaffold)",
-      "summary": "Fri Oct 9 \u2014 ~2 hr crane stop; window TBD (11:30am\u20131:30pm or 2\u20134pm)",
+      "summary": "TODAY Fri Oct 9 1:30\u20133:30pm ET (CONFIRMED) \u2014 scaffold starts noon",
       "location": "BEA crane / Cell 6; scaffold at BAA (LCU mezzanine)",
-      "description": "Scott Tulloch (GE) formal request Thu Oct 8 ~1:26pm ET: build BAA scaffold to LCU mezzanine, shut down Cell 6 crane so ESI installs crane stops at BEA, continue scaffold after make-safe, re-energize after line stop. Adam DuVall: ~2 hrs once outage confirmed. Tulloch ~2:12pm asked Cell 6 (Dylan Hanscom) for window: lunch 11:30\u20131:30 or shift change 2\u20134pm. Kat cal: 2 outage dupes + 2 day-before scaffold reminders = one event. (T117)",
-      "start": "2026-10-09",
-      "end": "2026-10-10",
-      "allDay": true,
+      "description": "Scott Tulloch (GE) formal request Thu Oct 8 ~1:26pm ET: build BAA scaffold to LCU mezzanine, shut down Cell 6 crane so ESI installs crane stops at BEA, continue scaffold after make-safe, re-energize after line stop. Adam DuVall: ~2 hrs once outage confirmed. Tulloch ~2:12pm asked Cell 6 (Dylan Hanscom) for window: lunch 11:30\u20131:30 or shift change 2\u20134pm. Kat cal: 2 outage dupes + 2 day-before scaffold reminders = one event. (T117) UPDATE Thu ~3:18pm ET: Tulloch confirmed 1:30\u20133:30pm (Hanscom preferred shift change); scaffolding starts noon and wraps after stops installed. Madak ~4:26pm: with rail stops in, crane can't access Cell 6 until stops removed; Jennings Fri ~12:06am: 2nd shift only T800 taper in B bay \u2014 OK. Hanscom Fri ~7:06am asked Tulloch to verify Madak's point. Kat cal: 2 outage + 2 day-before reminder holds = one.",
+      "start": "2026-10-09T13:30:00-04:00",
+      "end": "2026-10-09T15:30:00-04:00",
+      "allDay": false,
       "todoId": "T117"
     },
     {
       "id": "e62",
       "type": "outage",
       "title": "Shutdown: PP-7B-6 ckt #2 + RP-120-JDB ckts #5 & #7 \u2014 Danobat #712190 @ JCB",
-      "summary": "DPP shutdown requests \u2014 date ASAP (pending Hinkson window)",
+      "summary": "Fri Oct 9 7:45\u20138:15am ET (Hinkson notification) \u2014 confirm complete",
       "location": "JCB",
-      "description": "Jason Marchbanks (DPP) Thu Oct 8 ~12:21/12:25pm ET to Hinkson + McCurry (cc Jon Roper, Jeff): remove power (PP-7B-6 ckt 2) and 120V receptacles (RP-120-JDB ckts 5 & 7) from Danobat #712190 at JCB for machine removal. Date ASAP, no time; GE Lead Grant Bartlett. Kat cal all-day hold Oct 8 (RP-120-JDB). (T142)",
-      "start": "2026-10-08",
-      "end": "2026-10-09",
-      "allDay": true,
+      "description": "Jason Marchbanks (DPP) Thu Oct 8 ~12:21/12:25pm ET to Hinkson + McCurry (cc Jon Roper, Jeff): remove power (PP-7B-6 ckt 2) and 120V receptacles (RP-120-JDB ckts 5 & 7) from Danobat #712190 at JCB for machine removal. Date ASAP, no time; GE Lead Grant Bartlett. Kat cal all-day hold Oct 8 (RP-120-JDB). (T142) UPDATE Fri ~6:11am ET: Hinkson SHUTDOWN NOTIFICATIONs for both; invite window Fri Oct 9 7:45\u20138:15am ET @ JCB; no scaffold. Kat cal 4 holds (2 per panel) = one event.",
+      "start": "2026-10-09T07:45:00-04:00",
+      "end": "2026-10-09T08:15:00-04:00",
+      "allDay": false,
       "todoId": "T142"
+    },
+    {
+      "id": "e63",
+      "type": "deadline",
+      "title": "Deadline: Ack GE PO 4900662844 \u2014 UB Tubing Support ($5,453)",
+      "summary": "Need-by TODAY Fri Oct 9 \u2014 still unconfirmed in Ariba (5am reminder)",
+      "location": "Ariba / SAP Business Network",
+      "description": "Ariba 'Confirm orders from your buyers' Fri Oct 9 ~5:00am ET lists PO 4900662844 (GE Vernova, ordered Oct 7) as New/unconfirmed; need-by Oct 9; requester Mateo Castro; possible re-issue of 4900660277 \u2014 confirm before invoicing. (T75)",
+      "start": "2026-10-09",
+      "end": "2026-10-10",
+      "allDay": true,
+      "todoId": "T75"
     }
   ]
 }
