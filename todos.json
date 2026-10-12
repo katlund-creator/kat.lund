@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T14:20:19-04:00",
+  "updated": "2026-10-12T16:20:52-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -32,12 +32,12 @@
     },
     {
       "id": "T4",
-      "status": "open",
+      "status": "waiting",
       "priority": "high",
-      "due": "WAITING Layher staging \u2014 NOT begun staging as of Mon ~12:35pm (pickup today unlikely); Priority1 books truck once Layher is ready; 300\u00d7 2'5\" on PO GE-JF260930",
+      "due": "STAGED Mon ~4:07pm \u2014 Priority1 pickup requested Tue Oct 13; waiting driver assignment + BOL/ETA (freight paid, BOL 60116215273); 300\u00d7 2'5\" on PO GE-JF260930",
       "item": "Layher rental R-000159 \u2014 issue PO GE-JF260930 + confirm ship ETA",
       "source": "Email / Jeremy + Jeff + Jimmy + Prosponsive 2026-09-25/28/30/10-01/10-02",
-      "notes": "**Prior:** Order Preview R-000159 **final 10.1.26**; transferring; **1' ledgers** + **11\u00d7 28' lattice girders** from Washington **not on first truck**. **Fri ~2:18pm ET Jeremy:** hard to find truck for today; broker by 3:30pm or Monday. **Fri ~3:25pm ET Jeff\u2192Jeremy (cc Obed/Jimmy):** ask OT to load a truck **tomorrow (Sat)**; waiting broker callback; in a bind. **Fri ~4:01pm ET Jimmy Holmes:** not about OT \u2014 brokers can't secure a truck; nibble fell through; will wait a while; if Jeff's guy finds something let Layher know. **Fri ~4:09pm ET Jeff\u2192Jimmy:** broker searching for loading **today or tomorrow morning**; will update in ~15 min. **Fri ~4:48pm ET Alex Pittman (Prosponsive Logistics):** Customer Packet attached \u2014 **need account setup** to build load + dispatch driver (see **T97**). Still need Indcom PO **GE-JF260930** + ship day/ETA. Related: Obed Catalog + New Toy S-000236 (T61). **Sat Oct 3 ~12:53pm ET Jeff\u2192Bill:** Prosponsive load **cancelled** \u2014 Layher couldn't get a truck in time; Jeff will **wait for Layher to find/schedule a truck**; job starts when material arrives. (Fri ~5:31pm Jeff had sent Bill the Prosponsive freight form; Bill ~6:15pm asked turnaround; Bill Sat ~1:38pm: building standard credit-app template.) **T97 closed.** Still need Layher ship date/ETA + Indcom PO **GE-JF260930**. **Mon Oct 5 ~11:36am ET Jeff\u2192Jeremy:** asked status of the truck. **~11:44am ET Jeremy:** good news \u2014 **Layher brokers found a truck**; now waiting for it to arrive to load. Still need ship/delivery ETA + Indcom PO **GE-JF260930**. **Sun Oct 11 ~9:05pm ET Jeff\u2192Jeremy Bayate (cc Obed Bosch, Jimmy Holmes):** asked for status/delivery date of the **remaining material**, and to **add 300\u00d7 2'5\" LW ledgers** (written \u201c300-2'5 lwl\u201d) to that truck. **Mon Oct 12 ~9:00am ET Jeremy:** Washington material **received Friday**; staging; **aiming to ship today** but truck availability limited (holiday). Will **add 300\u00d7 2601073 ledgers** (2'5\" LW) to this second truck under **PO GE-JF260930**. Still need confirmed ship/delivery ETA. **Mon Oct 12 ~12:13pm ET Riley Clarke (Priority1)\u2192Jeff:** account set up on **Prepay**; rate **48' flatbed FL\u2192SC $2,250, 1-day transit** (Layher-Ocala, 1805 SW 37th Ave, Ocala FL \u2014 Jimmy Holmes 352-867-7223 \u2192 GE Vernova Greenville, 300 Garlington Rd); scaffolding ~**48,000 lbs**. Needs Jeff to **approve rate** + give **drop-off contact** (see **T156**). **~12:29pm ET Riley** started chain w/ Jeremy + Jimmy: Layher to confirm pickup **today if possible**, then Priority1 books truck. **Mon Oct 12 ~12:35pm ET Jeremy Bayate\u2192Riley (Priority1) + Jeff + Jimmy:** connected with team \u2014 Layher **has not begun staging this order**; Jeremy will reach out to Priority1 **when ready for pickup** (contradicts ~9:00am \u201caiming to ship today\u201d \u2192 same-day pickup now unlikely). **Mon ~1:30pm ET Riley Clarke (Priority1)\u2192Jeremy/Jimmy + Jeff:** thanks for update; looped in Priority1 flatbed team to find a driver **as soon as the load is ready for pickup**."
+      "notes": "**Prior:** Order Preview R-000159 **final 10.1.26**; transferring; **1' ledgers** + **11\u00d7 28' lattice girders** from Washington **not on first truck**. **Fri ~2:18pm ET Jeremy:** hard to find truck for today; broker by 3:30pm or Monday. **Fri ~3:25pm ET Jeff\u2192Jeremy (cc Obed/Jimmy):** ask OT to load a truck **tomorrow (Sat)**; waiting broker callback; in a bind. **Fri ~4:01pm ET Jimmy Holmes:** not about OT \u2014 brokers can't secure a truck; nibble fell through; will wait a while; if Jeff's guy finds something let Layher know. **Fri ~4:09pm ET Jeff\u2192Jimmy:** broker searching for loading **today or tomorrow morning**; will update in ~15 min. **Fri ~4:48pm ET Alex Pittman (Prosponsive Logistics):** Customer Packet attached \u2014 **need account setup** to build load + dispatch driver (see **T97**). Still need Indcom PO **GE-JF260930** + ship day/ETA. Related: Obed Catalog + New Toy S-000236 (T61). **Sat Oct 3 ~12:53pm ET Jeff\u2192Bill:** Prosponsive load **cancelled** \u2014 Layher couldn't get a truck in time; Jeff will **wait for Layher to find/schedule a truck**; job starts when material arrives. (Fri ~5:31pm Jeff had sent Bill the Prosponsive freight form; Bill ~6:15pm asked turnaround; Bill Sat ~1:38pm: building standard credit-app template.) **T97 closed.** Still need Layher ship date/ETA + Indcom PO **GE-JF260930**. **Mon Oct 5 ~11:36am ET Jeff\u2192Jeremy:** asked status of the truck. **~11:44am ET Jeremy:** good news \u2014 **Layher brokers found a truck**; now waiting for it to arrive to load. Still need ship/delivery ETA + Indcom PO **GE-JF260930**. **Sun Oct 11 ~9:05pm ET Jeff\u2192Jeremy Bayate (cc Obed Bosch, Jimmy Holmes):** asked for status/delivery date of the **remaining material**, and to **add 300\u00d7 2'5\" LW ledgers** (written \u201c300-2'5 lwl\u201d) to that truck. **Mon Oct 12 ~9:00am ET Jeremy:** Washington material **received Friday**; staging; **aiming to ship today** but truck availability limited (holiday). Will **add 300\u00d7 2601073 ledgers** (2'5\" LW) to this second truck under **PO GE-JF260930**. Still need confirmed ship/delivery ETA. **Mon Oct 12 ~12:13pm ET Riley Clarke (Priority1)\u2192Jeff:** account set up on **Prepay**; rate **48' flatbed FL\u2192SC $2,250, 1-day transit** (Layher-Ocala, 1805 SW 37th Ave, Ocala FL \u2014 Jimmy Holmes 352-867-7223 \u2192 GE Vernova Greenville, 300 Garlington Rd); scaffolding ~**48,000 lbs**. Needs Jeff to **approve rate** + give **drop-off contact** (see **T156**). **~12:29pm ET Riley** started chain w/ Jeremy + Jimmy: Layher to confirm pickup **today if possible**, then Priority1 books truck. **Mon Oct 12 ~12:35pm ET Jeremy Bayate\u2192Riley (Priority1) + Jeff + Jimmy:** connected with team \u2014 Layher **has not begun staging this order**; Jeremy will reach out to Priority1 **when ready for pickup** (contradicts ~9:00am \u201caiming to ship today\u201d \u2192 same-day pickup now unlikely). **Mon ~1:30pm ET Riley Clarke (Priority1)\u2192Jeremy/Jimmy + Jeff:** thanks for update; looped in Priority1 flatbed team to find a driver **as soon as the load is ready for pickup**. **Mon ~4:07pm ET Jeremy Bayate (Layher)\u2192Riley (cc Priority1 Flatbed, Joshua Cady, Jeff, Jimmy):** material **STAGED**; asks Priority1 to **pick up tomorrow (Tue Oct 13)**; weight **23,000 lbs**; Conestoga/step deck OK for this lighter load if side-loadable by forklift. **~4:11pm ET Aaron Rueber (Priority1):** received \u2014 will send **BOL + ETA once a driver is assigned**. **~4:18pm ET Priority1 payment receipt** for **BOL 60116215273** (P1-Receipt-60116215273.pdf) \u2192 freight prepaid (see T156). Now waiting driver/BOL/ETA; delivery likely Wed Oct 14 given 1-day transit (unconfirmed)."
     },
     {
       "id": "T6",
@@ -1157,12 +1157,12 @@
     },
     {
       "id": "T156",
-      "status": "open",
+      "status": "waiting",
       "priority": "high",
-      "due": "ASAP (before Layher calls pickup) \u2014 Layher not staged yet as of ~12:35pm",
-      "item": "Approve Priority1 flatbed rate **$2,250** (Layher-Ocala \u2192 GE Greenville) + send drop-off contact",
+      "due": "Tue Oct 13 pickup \u2014 waiting Priority1 driver/BOL/ETA; confirm drop-off contact given",
+      "item": "Priority1 flatbed Layher-Ocala \u2192 GE Greenville \u2014 rate **$2,250** (now paid, BOL 60116215273) + drop-off contact",
       "source": "Email / Riley Clarke (Priority1) 2026-10-12 ~12:13pm + ~12:29pm ET",
-      "notes": "**Mon ~12:13pm ET Riley\u2192Jeff (cc Joshua Cady):** set up on Prepay; **48' flatbed FL\u2192SC $2,250, 1-day transit**; pickup Layher-Ocala (Jimmy Holmes 352-867-7223) \u2192 GE Vernova Greenville 300 Garlington Rd; scaffolding ~48,000 lbs. **Please verify + approve rate**; **needs a drop-off contact**. **~12:29pm ET Riley\u2192Jeff + Jeremy Bayate + Jimmy Holmes:** waiting Layher confirmation to pick up **today if possible**, then truck gets booked. Ties to **T4** (PO GE-JF260930). **~12:35pm ET Jeremy Bayate (Layher) reply-all:** order **not staged yet**; will notify Priority1 when ready for pickup \u2014 so pickup today unlikely. No Jeff approval/drop-off-contact reply seen through ~1:18pm ET \u2014 **still owed** so Priority1 can book as soon as Layher is ready. **Mon ~1:30pm ET Riley Clarke (Priority1)\u2192Jeremy/Jimmy + Jeff:** thanks for update; looped in Priority1 flatbed team to find a driver **as soon as the load is ready for pickup**."
+      "notes": "**Mon ~12:13pm ET Riley\u2192Jeff (cc Joshua Cady):** set up on Prepay; **48' flatbed FL\u2192SC $2,250, 1-day transit**; pickup Layher-Ocala (Jimmy Holmes 352-867-7223) \u2192 GE Vernova Greenville 300 Garlington Rd; scaffolding ~48,000 lbs. **Please verify + approve rate**; **needs a drop-off contact**. **~12:29pm ET Riley\u2192Jeff + Jeremy Bayate + Jimmy Holmes:** waiting Layher confirmation to pick up **today if possible**, then truck gets booked. Ties to **T4** (PO GE-JF260930). **~12:35pm ET Jeremy Bayate (Layher) reply-all:** order **not staged yet**; will notify Priority1 when ready for pickup \u2014 so pickup today unlikely. No Jeff approval/drop-off-contact reply seen through ~1:18pm ET \u2014 **still owed** so Priority1 can book as soon as Layher is ready. **Mon ~1:30pm ET Riley Clarke (Priority1)\u2192Jeremy/Jimmy + Jeff:** thanks for update; looped in Priority1 flatbed team to find a driver **as soon as the load is ready for pickup**. **Mon ~4:07pm ET Jeremy (Layher):** material staged; pickup **tomorrow (Tue Oct 13)**; actual weight **23,000 lbs** (not ~48,000). **~4:11pm ET Aaron Rueber (Priority1):** will provide **BOL + ETA once driver assigned**. **~4:18pm ET Priority1 payment receipt for BOL 60116215273** \u2192 Jeff appears to have approved/paid the rate (prepay). Drop-off contact not seen in mail \u2014 confirm it was given (phone/portal)."
     },
     {
       "id": "T157",
@@ -1172,11 +1172,20 @@
       "item": "Track outage request **PP-7B-7 @ HBA** \u2014 DPP install of two (2) Ramco parts washers (NFPS.03)",
       "source": "Email / Jason Marchbanks (DPP) 2026-10-12 ~1:36pm ET",
       "notes": "**Mon ~1:36pm ET Jason\u2192Hinkson + Jeff McCurry (GE), cc Jon Roper, Jim Stanley, Jeff, Katheryn, Adam McClure:** outage request PP-7B-7, panel location HBA, project NFPS.03, **Wed Oct 14 7:45\u20138:30am**, sub Dynamic Pipe and Power, GE lead Jim Stanley; photos attached. Request only \u2014 watch for GE OUTAGE NOTIFICATION confirmation. Kat calendar already has it (two duplicate events created ~1:51pm, deduped as e70)."
+    },
+    {
+      "id": "T158",
+      "status": "waiting",
+      "priority": "low",
+      "due": "waiting James Henderson",
+      "item": "Family Day passes for a few Indcom employees \u2014 waiting GE reply",
+      "source": "Email / Jeff\u2192James Henderson (GE Vernova, consultant) 2026-10-12 ~4:09pm ET",
+      "notes": "**Mon ~4:09pm ET Jeff\u2192James Henderson** (reply on Sep 29 *FAMILY DAY REGISTRATION LINK*): asked if there's still a way to submit a few Indcom employees for **GEV Greenville Family Day** passes. Bill's Indcom SSO # S20558-000 (Sep 30). Watch for James's reply / registration path."
     }
   ],
   "calendar": [
     "**Tue Oct 13 9:15am\u201312:15pm ET** \u2014 Outage **PP-6B-7 @ ATA** (IDF-21; also PP-6B-7A, RP-13 circuits demo; AMK/Eldeco; MOC 23496) (T155) \u2014 e68",
-    "**PENDING Layher staging (not begun as of Mon ~12:35pm; pickup today unlikely)** \u2014 Priority1 48' flatbed Layher-Ocala \u2192 GE Greenville, $2,250, 1-day transit \u2014 Jeff still to approve rate + give drop contact; Jeremy will call pickup when staged (T156/T4) \u2014 e69",
+    "**Tue Oct 13 (pickup requested)** \u2014 Layher material **STAGED** (Mon ~4:07pm); Priority1 48' flatbed Layher-Ocala \u2192 GE Greenville, $2,250 paid (BOL 60116215273), 1-day transit, 23,000 lbs \u2014 waiting driver assignment + BOL/ETA; confirm drop-off contact (T156/T4) \u2014 e69",
     "**Wed Oct 14 7:45\u20138:30am ET** \u2014 Outage request **PP-7B-7 @ HBA** (DPP Ramco parts washers install, NFPS.03; GE lead Jim Stanley) (T157) \u2014 e70 (Kat calendar has 2 duplicate entries)",
     "**Mon Oct 12 2:30pm ET TODAY** \u2014 Meeting: ELB door hangar walkthrough w/ AM King (Russ Zubkov) + demo/framing sub \u2014 Jeff confirmed (T150; on Jeff's invite, not Kat cal) \u2014 e65",
     "**Week of Mon Oct 26** \u2014 Deadline: MDB foundation wall up before AMK starts cutting (T151) \u2014 e66",
@@ -1924,16 +1933,16 @@
     },
     {
       "id": "e69",
-      "type": "deadline",
-      "title": "Deadline: Approve Priority1 flatbed $2,250 + drop-off contact (Layher remaining material)",
-      "summary": "PENDING \u2014 Layher not staged yet (Mon ~12:35pm); pickup today unlikely. Jeff still to approve rate + drop-off contact",
+      "type": "work",
+      "title": "Layher remaining material pickup (Priority1 flatbed) \u2192 GE Greenville",
+      "summary": "Pickup requested Tue Oct 13 \u2014 Layher staged Mon ~4:07pm; waiting Priority1 driver + BOL/ETA; freight $2,250 paid (BOL 60116215273)",
       "location": "Layher-Ocala, FL \u2192 GE Vernova Greenville",
-      "description": "Priority1 (Riley Clarke) 48' flatbed FL\u2192SC $2,250, 1-day transit, ~48,000 lbs scaffolding. Jeff to approve rate and send a drop-off contact; Layher (Jeremy/Jimmy) to confirm pickup. (T156/T4) Mon ~12:35pm ET Jeremy Bayate: Layher has not begun staging the order; will notify Priority1 when ready for pickup. Mon ~1:30pm ET Riley Clarke: looped in Priority1 flatbed team to find a driver as soon as the load is ready.",
-      "start": "2026-10-12",
-      "end": "2026-10-13",
+      "description": "Priority1 48' flatbed Layher-Ocala FL \u2192 GE Vernova Greenville, $2,250 prepaid (receipt BOL 60116215273), 1-day transit, 23,000 lbs. Mon ~4:07pm ET Jeremy Bayate: material staged, please pick up tomorrow; Conestoga/step deck OK if side-loadable by forklift. ~4:11pm Aaron Rueber (Priority1): BOL + ETA once driver assigned. Confirm drop-off contact was given. (T156/T4)",
+      "start": "2026-10-13",
+      "end": "2026-10-14",
       "allDay": true,
       "todoId": "T156",
-      "status": "pending"
+      "status": "scheduled"
     },
     {
       "id": "e70",
