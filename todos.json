@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T10:40:44-04:00",
+  "updated": "2026-10-12T11:35:48-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -1060,10 +1060,10 @@
       "id": "T143",
       "status": "waiting",
       "priority": "low",
-      "due": "waiting Bill \u2014 credit app",
+      "due": "waiting Bill \u2014 credit app + add card (acct 1126772-P1)",
       "item": "Priority1 (Riley Clarke) freight-broker account \u2014 Bill to complete credit application",
       "source": "Email / Riley Clarke (Priority1) 2026-10-09 ~9:50am ET",
-      "notes": "**Fri ~9:50am ET Riley Clarke** (Inside Sales, Priority1, 864-203-0167; cc Joshua Cady) to Jeff + Bill after a phone call: texted Jeff his info; wants to send **Bill a credit application** so the account is ready when a load needs moving; happy to set a meeting with Bill first. Flyers attached (Flatbed, LTL, Branded, Value Adds). Useful backup broker given Layher truck trouble (T4). Jeff/Bill to reply with go-ahead or meeting time. **Fri ~11:03am ET Jeff\u2192Riley (cc Bill, Joshua Cady, Katheryn):** yes, get set up for future loads **to/from Ocala, FL**; told **Bill** to set it up. **~11:06am ET** Jeff sent Riley the **Layher contacts** (Jimmy Holmes, Jeremy Bayate). **~11:15am ET Riley:** credit application **sent to Bill** (he can fill it or forward). **~11:27am ET Riley:** emailed the Layher contacts. Now waiting on Bill to return the credit app."
+      "notes": "**Fri ~9:50am ET Riley Clarke** (Inside Sales, Priority1, 864-203-0167; cc Joshua Cady) to Jeff + Bill after a phone call: texted Jeff his info; wants to send **Bill a credit application** so the account is ready when a load needs moving; happy to set a meeting with Bill first. Flyers attached (Flatbed, LTL, Branded, Value Adds). Useful backup broker given Layher truck trouble (T4). Jeff/Bill to reply with go-ahead or meeting time. **Fri ~11:03am ET Jeff\u2192Riley (cc Bill, Joshua Cady, Katheryn):** yes, get set up for future loads **to/from Ocala, FL**; told **Bill** to set it up. **~11:06am ET** Jeff sent Riley the **Layher contacts** (Jimmy Holmes, Jeremy Bayate). **~11:15am ET Riley:** credit application **sent to Bill** (he can fill it or forward). **~11:27am ET Riley:** emailed the Layher contacts. Now waiting on Bill to return the credit app. **Mon Oct 12 ~10:50am ET Priority1 (noreply)\u2192jeff@indcomcorp.com:** *Update Your Card Information \u2014 Indcom Corporation \u2014 1126772-P1* \u2014 to **complete account setup**, add a card via secure link (Prepay support Prepay@priority1.com / 1-501-441-3159). Account # **1126772-P1** exists; Jeff/Bill need to add payment card (or confirm credit terms instead) before it can book loads."
     },
     {
       "id": "T144",
@@ -1136,6 +1136,24 @@
       "item": "Process SCI Electronics Invoice 24244 ($12,288.07)",
       "source": "Email / Megan Ross (SCI Electronics) 2026-10-12 ~10:14am ET",
       "notes": "**Mon ~10:14am ET Megan Ross (SCI)\u2192bill@indcomcorp.com:** Invoice **24244**, amount due **$12,288.07**, due **Wed 11/11/2026** (PDF attached). Route to AP / match to SCI quote/PO (see T15/T144)."
+    },
+    {
+      "id": "T153",
+      "status": "open",
+      "priority": "med",
+      "due": "due Wed Nov 11",
+      "item": "Process SCI Electronics Invoice 24247 ($967.78)",
+      "source": "Email / Megan Ross (SCI Electronics) 2026-10-12 ~10:42am ET",
+      "notes": "**Mon ~10:42am ET Megan Ross (SCI)\u2192bill@indcomcorp.com** (cc Jeff, accounting@, ap.mail@): Invoice **24247**, amount due **$967.78**, due **Wed 11/11/2026** (PDF *Inv_24247_from_SCI_Electronics_Inc_22812.pdf*). Route to AP / match to SCI quote/PO (see T15/T144/T152)."
+    },
+    {
+      "id": "T154",
+      "status": "open",
+      "priority": "med",
+      "due": "due Wed Nov 11",
+      "item": "Process SCI Electronics Invoice 24250 ($1,434.88)",
+      "source": "Email / Megan Ross (SCI Electronics) 2026-10-12 ~11:23am ET",
+      "notes": "**Mon ~11:23am ET Megan Ross (SCI)\u2192bill@indcomcorp.com** (cc Jeff, accounting@, ap.mail@): Invoice **24250**, amount due **$1,434.88**, due **Wed 11/11/2026** (PDF *Inv_24250_from_SCI_Electronics_Inc_22812.pdf*). Third SCI invoice today (with T152 $12,288.07 + T153 $967.78 = **$14,690.73** total) \u2014 route to AP / match to SCI quote/PO."
     }
   ],
   "calendar": [
