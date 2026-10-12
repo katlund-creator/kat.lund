@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T17:12:10-04:00",
+  "updated": "2026-10-12T08:20:26-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -37,7 +37,7 @@
       "due": "WAITING Layher truck to arrive + load (brokers FOUND a truck Mon ~11:44am); still need PO + ETA",
       "item": "Layher rental R-000159 \u2014 issue PO GE-JF260930 + confirm ship ETA",
       "source": "Email / Jeremy + Jeff + Jimmy + Prosponsive 2026-09-25/28/30/10-01/10-02",
-      "notes": "**Prior:** Order Preview R-000159 **final 10.1.26**; transferring; **1' ledgers** + **11\u00d7 28' lattice girders** from Washington **not on first truck**. **Fri ~2:18pm ET Jeremy:** hard to find truck for today; broker by 3:30pm or Monday. **Fri ~3:25pm ET Jeff\u2192Jeremy (cc Obed/Jimmy):** ask OT to load a truck **tomorrow (Sat)**; waiting broker callback; in a bind. **Fri ~4:01pm ET Jimmy Holmes:** not about OT \u2014 brokers can't secure a truck; nibble fell through; will wait a while; if Jeff's guy finds something let Layher know. **Fri ~4:09pm ET Jeff\u2192Jimmy:** broker searching for loading **today or tomorrow morning**; will update in ~15 min. **Fri ~4:48pm ET Alex Pittman (Prosponsive Logistics):** Customer Packet attached \u2014 **need account setup** to build load + dispatch driver (see **T97**). Still need Indcom PO **GE-JF260930** + ship day/ETA. Related: Obed Catalog + New Toy S-000236 (T61). **Sat Oct 3 ~12:53pm ET Jeff\u2192Bill:** Prosponsive load **cancelled** \u2014 Layher couldn't get a truck in time; Jeff will **wait for Layher to find/schedule a truck**; job starts when material arrives. (Fri ~5:31pm Jeff had sent Bill the Prosponsive freight form; Bill ~6:15pm asked turnaround; Bill Sat ~1:38pm: building standard credit-app template.) **T97 closed.** Still need Layher ship date/ETA + Indcom PO **GE-JF260930**. **Mon Oct 5 ~11:36am ET Jeff\u2192Jeremy:** asked status of the truck. **~11:44am ET Jeremy:** good news \u2014 **Layher brokers found a truck**; now waiting for it to arrive to load. Still need ship/delivery ETA + Indcom PO **GE-JF260930**."
+      "notes": "**Prior:** Order Preview R-000159 **final 10.1.26**; transferring; **1' ledgers** + **11\u00d7 28' lattice girders** from Washington **not on first truck**. **Fri ~2:18pm ET Jeremy:** hard to find truck for today; broker by 3:30pm or Monday. **Fri ~3:25pm ET Jeff\u2192Jeremy (cc Obed/Jimmy):** ask OT to load a truck **tomorrow (Sat)**; waiting broker callback; in a bind. **Fri ~4:01pm ET Jimmy Holmes:** not about OT \u2014 brokers can't secure a truck; nibble fell through; will wait a while; if Jeff's guy finds something let Layher know. **Fri ~4:09pm ET Jeff\u2192Jimmy:** broker searching for loading **today or tomorrow morning**; will update in ~15 min. **Fri ~4:48pm ET Alex Pittman (Prosponsive Logistics):** Customer Packet attached \u2014 **need account setup** to build load + dispatch driver (see **T97**). Still need Indcom PO **GE-JF260930** + ship day/ETA. Related: Obed Catalog + New Toy S-000236 (T61). **Sat Oct 3 ~12:53pm ET Jeff\u2192Bill:** Prosponsive load **cancelled** \u2014 Layher couldn't get a truck in time; Jeff will **wait for Layher to find/schedule a truck**; job starts when material arrives. (Fri ~5:31pm Jeff had sent Bill the Prosponsive freight form; Bill ~6:15pm asked turnaround; Bill Sat ~1:38pm: building standard credit-app template.) **T97 closed.** Still need Layher ship date/ETA + Indcom PO **GE-JF260930**. **Mon Oct 5 ~11:36am ET Jeff\u2192Jeremy:** asked status of the truck. **~11:44am ET Jeremy:** good news \u2014 **Layher brokers found a truck**; now waiting for it to arrive to load. Still need ship/delivery ETA + Indcom PO **GE-JF260930**. **Sun Oct 11 ~9:05pm ET Jeff\u2192Jeremy Bayate (cc Obed Bosch, Jimmy Holmes):** asked for status/delivery date of the **remaining material**, and to **add 300\u00d7 2'5\" LW ledgers** (written \u201c300-2'5 lwl\u201d) to that truck. Waiting Layher reply/ETA."
     },
     {
       "id": "T6",
@@ -529,10 +529,10 @@
       "id": "T73",
       "status": "open",
       "priority": "high",
-      "due": "Thu Oct 1 (confirm time \u2014 was 1:00\u20131:30pm ET)",
+      "due": "SCHEDULED Tue Oct 13 8:30\u20139:00am ET (re-requested Mon)",
       "item": "Track outage RP-ABB-1 @ AAB \u2014 2\u00d7 Quad Receptacles for ACB Computers (alt panel OK; confirm tomorrow)",
       "source": "Email / Jason + Adam + Hinkson 2026-09-30",
-      "notes": "**Wed ~11:47am ET Jason:** originally RP-ABB-1 @ **ACB** Thu Oct 1 1:00\u20131:30pm; DPP; James Ray. **Wed ~11:52am ET Hinkson:** find panel that won\u2019t affect **Hydrogen**. **Wed ~12:49pm ET Adam McClure:** proposes panel in **AAB** (photos). **Wed ~12:58pm ET Hinkson:** \u201c**Yes.**\u201d (AAB approved). **Wed ~1:03pm ET Hinkson:** \u201cDo you still want an Outage tomorrow? What time?\u201d \u2014 **waiting DPP confirm** still-on + time. Katheryn cal updated one invite to **RP-ABB-1 (AAB panel)** still 1:00\u20131:30pm; older ACB invite remains (dedupe e38)."
+      "notes": "**Wed ~11:47am ET Jason:** originally RP-ABB-1 @ **ACB** Thu Oct 1 1:00\u20131:30pm; DPP; James Ray. **Wed ~11:52am ET Hinkson:** find panel that won\u2019t affect **Hydrogen**. **Wed ~12:49pm ET Adam McClure:** proposes panel in **AAB** (photos). **Wed ~12:58pm ET Hinkson:** \u201c**Yes.**\u201d (AAB approved). **Wed ~1:03pm ET Hinkson:** \u201cDo you still want an Outage tomorrow? What time?\u201d \u2014 **waiting DPP confirm** still-on + time. Katheryn cal updated one invite to **RP-ABB-1 (AAB panel)** still 1:00\u20131:30pm; older ACB invite remains (dedupe e38). **Mon Oct 12 ~8:12am ET Jason Marchbanks\u2192Hinkson + Adam McClure + McCurry (cc Roper, Jeff, Katheryn, Amie):** re-requested outage **RP-ABB-1 @ AAB** for **Tue Oct 13 8:30\u20139:00am ET** (2\u00d7 quad receptacles for ACB computers; DPP; GE Lead James Ray). Waiting Hinkson confirm. (Invoice 4703 already in as T82.)"
     },
     {
       "id": "T74",
@@ -542,15 +542,6 @@
       "item": "Process/ack GE PO 4900660255 (~$14,193.13) \u2014 PP-11B-5 outage work + P&S receptacles + compressed-air hose reels (Joey Lum)",
       "source": "Email / Ariba GE Vernova 2026-09-30 ~12:20pm ET",
       "notes": "**Wed ~12:20pm ET** Ariba new PO **4900660255** to Indcom (ariba.mail@); requester **Lamont Joey Lum**; Greenville Gas Turbines; NET 150; need-by **6 Oct 2026**. Scope from line: install P&S **PS430MIR7-W** receptacles / RMC / #10 XHHW-2; **outage on Panel PP-11B-5** (wire/fuses/terminations; circuit #6 noted); JJA enclosure + arc-flash plate; compressed-air copper resize + **2\u00d7 Staubli** 3/8\" 25' 300 psi hose reels. Amount line **$14,193.13 USD**. Confirm-orders / acknowledge path + fold any PP-11B-5 outage into calendar when scheduled. Distinct from T71 PP-11B-8 rotation."
-    },
-    {
-      "id": "T75",
-      "status": "open",
-      "priority": "high",
-      "due": "Need-by TODAY Fri Oct 9 \u2014 STILL UNCONFIRMED in Ariba (5am reminder)",
-      "item": "Process/ack GE PO 4900662844 ($5,453.00; need-by Oct 9) \u2014 UB Tubing Support (Mateo Castro) \u2014 supersedes/duplicates PO 4900660277?",
-      "source": "Email / Ariba GE Vernova 2026-09-30 ~1:03pm ET",
-      "notes": "**Wed ~1:03pm ET** Ariba new PO **4900660277** to Indcom (ariba.mail@); requester **Castro, Mateo** (Mateo.Castro1@gevernova.com; +1 864-553-1400); Greenville Gas Turbines; NET 150; need-by **2 Oct 2026**. Line: **UB Tubing Support** 1 EA @ **$5,453.00 USD**. Ship-to 300 Garlington Rd; Deliver To Castro/5250. Confirm-orders / acknowledge path. Distinct from T74 PO 4900660255 (Joey Lum / PP-11B-5). **Wed Oct 7 ~2:13pm ET** Ariba **new PO 4900662844** (Version 1) to Indcom (ariba.mail@): same requester **Mateo Castro**, same line **UB Tubing Support** 1 EA @ **$5,453.00**, **PR844332**, NET 150 (150 DD NET), FCA, need-by **9 Oct 2026**. Looks like a re-issue of PO 4900660277 (same scope + amount) \u2014 confirm with Mateo whether it replaces 4900660277 or is a second order before acking/invoicing so it is not billed twice. **Fri Oct 9 ~5:00am ET Ariba \u201cConfirm orders from your buyers\u201d** (to ariba.mail@): **4900662844** (GE Vernova, order date 7 Oct) still status **New / unconfirmed** \u2014 confirm today (need-by Oct 9). Event e63."
     },
     {
       "id": "T77",
@@ -805,15 +796,6 @@
       "notes": "**Mon ~10:15am ET Jeremy:** received the material Jeff requested from Obed; attached *Quote R-000214 - Indcom Corp.pdf*; issue PO and Layher will begin staging for shipping. Separate from R-000159 (T4) and sales quote S-000236 (T61) \u2014 confirm overlap. FYI same morning (~10:08am ET) Jeremy: tube end caps arrived from Germany, FedEx to 17 International Ct (office). **Tue Oct 6 ~11:29am ET Jeff\u2192Jeremy:** PO **GE-JF261006** issued. Now waiting Layher staging + ship/delivery ETA."
     },
     {
-      "id": "T106",
-      "status": "open",
-      "priority": "high",
-      "due": "ASAP \u2014 GE receiving PO 4200338644 (Martin Kevone \u201cGot it\u201d ~11:34am); then flip invoice 3919",
-      "item": "Invoice 3919 Husky Fan Install ($26,479.95) \u2014 process against GE PO 4200338644",
-      "source": "Email / James Ray + Kristen Jackson (GE) 2026-10-05/06",
-      "notes": "**Mon ~10:45am ET James Ray:** team approved to issue PO, but a Dispatch attached to Husky Warehouse wasn't reflected on the invoice. **Mon ~4:12pm ET Veronica Kyle:** asked James for the L2L dispatch. **Tue Oct 6 ~11:44am ET Kristen Jackson (GE on-site CSR):** use **PO # 4200338644** to process the invoice; original **Dispatch # 81807**; asked Zachary Kleiner to release. **~11:45am ET Ariba:** new PO **4200338644** received ($26,479.95; \u201cinvoice 3919 Husky Fan Install/L2L 81807\u201d). **~12:29pm ET Zachary Kleiner (GE):** **PO released.** Next: submit/flip invoice 3919 against PO 4200338644 in Ariba now. **Thu Oct 8 ~10:33am ET James Ray (GE)** on the thread: dispatch number is **81807** (already on invoice path). Still: flip invoice 3919 against PO 4200338644. **Thu ~10:58am ET Jeff\u2192James Ray:** please receive POs for formal invoicing. **~11:27am ET Veronica Kyle\u2192Pasha Nicholson + Martin Kevone (GE):** please receive **PO 4200338644** for invoicing \u2014 work complete. **~11:34am ET Martin Kevone:** \u201cGot it.\u201d Next: once received, flip invoice 3919 ($26,479.95) against PO 4200338644."
-    },
-    {
       "id": "T108",
       "status": "waiting",
       "priority": "high",
@@ -865,7 +847,7 @@
       "due": "ASAP \u2014 OpSource asked Fri 12:29pm; FW41 payroll next week",
       "item": "Caleb Carson final pay \u2014 FW40 40 hrs / $400 per diem held until returned items confirmed",
       "source": "Email / Katheryn TIME FW40 ~8:26am + Jeff\u2192OpSource ~9:12am 2026-10-06",
-      "notes": "Katheryn's FW40 list had **Caleb Carson 40 hrs, per diem $400**; Jeff's OpSource submit says **assignment ended \u2014 final payment next week** once everything is confirmed returned. Confirm returns, then add Caleb's FW40 hours/per diem to next week's submit. All other 21 lines matched Katheryn's list. **Fri Oct 9 ~12:29pm ET Yesenia Portes (OpSource)\u2192Jeff:** they reached Caleb about items to return \u2014 **he says he has nothing to return**; asks Jeff to **advise** (confirm returns OK / release FW40 final pay, or list what is still owed)."
+      "notes": "Katheryn's FW40 list had **Caleb Carson 40 hrs, per diem $400**; Jeff's OpSource submit says **assignment ended \u2014 final payment next week** once everything is confirmed returned. Confirm returns, then add Caleb's FW40 hours/per diem to next week's submit. All other 21 lines matched Katheryn's list. **Fri Oct 9 ~12:29pm ET Yesenia Portes (OpSource)\u2192Jeff:** they reached Caleb about items to return \u2014 **he says he has nothing to return**; asks Jeff to **advise** (confirm returns OK / release FW40 final pay, or list what is still owed). **Fri Oct 9 ~9:47pm ET Jeff reply to Yesenia (cc Jose Cruz) is sitting in Gmail DRAFTS \u2014 NOT sent:** asks OpSource not to contact employees on his behalf; company policy when someone quits without notice; he'll give pay rates before payroll and say when to release a final check. Jeff to send or revise."
     },
     {
       "id": "T116",
@@ -892,7 +874,7 @@
       "due": "ASAP \u2014 before payroll (onboarding DONE Thu ~3:28pm)",
       "item": "OpSource new hire \u2014 Daniel Ramirez: wait for onboarding, then give start date + pay rate",
       "source": "Email / Jeff\u2192Julie Solesbee + Yesenia Portes reply 2026-10-06 ~2:04\u20132:07pm ET",
-      "notes": "**Tue ~2:04pm ET Jeff\u2192Julie (OpSource):** send new-hire link for **Daniel Ramirez** (Alex7daniel@gmail.com, 504-385-7044). **~2:07pm ET Yesenia:** will do; will notify Jeff once he completes OpSource onboarding. Next: Jeff owes **start date + pay rate** once onboarded (same pattern as Chaz Kieff T78). **Thu Oct 8 ~3:28pm ET Yesenia Portes (OpSource):** **Daniel Ramirez completed OpSource onboarding** \u2014 all set to start; **send his pay rate before payroll**. Jeff owes pay rate (+ start date)."
+      "notes": "**Tue ~2:04pm ET Jeff\u2192Julie (OpSource):** send new-hire link for **Daniel Ramirez** (Alex7daniel@gmail.com, 504-385-7044). **~2:07pm ET Yesenia:** will do; will notify Jeff once he completes OpSource onboarding. Next: Jeff owes **start date + pay rate** once onboarded (same pattern as Chaz Kieff T78). **Thu Oct 8 ~3:28pm ET Yesenia Portes (OpSource):** **Daniel Ramirez completed OpSource onboarding** \u2014 all set to start; **send his pay rate before payroll**. Jeff owes pay rate (+ start date). **Fri Oct 9 ~8:27pm ET Jeff\u2192Yesenia (cc Julie, Lisa, Jose, Katheryn, Bill, Drew):** \u201cThank you. I will let you know.\u201d \u2014 pay rate still owed before payroll."
     },
     {
       "id": "T119",
@@ -910,7 +892,7 @@
       "due": "Sat Oct 17 6:00am\u20137:00pm ET (re-sent advisory) \u2014 DATE IN QUESTION: Stephanie Gray (GE) says PI weekend, offices occupied 10/6\u201310/18",
       "item": "BCL7 crane-lift exclusion zone ANA/ANB\u2013AYA/AYB + Admin bldg \u2014 plan weekend work around it",
       "source": "Email / Jon Roper fwd of Hinkson/AMK (Nate Barney) advisory, 2026-10-06 ~3:49pm ET",
-      "notes": "**Tue ~3:49pm ET Roper\u2192Jeff + Adam Watkins + Rita Burch (AMK):** \u201cFYI, this could affect your weekend plans.\u201d Original Hinkson appt (Oct 1): **BLOCKED ACCESS/EXCLUSION ZONE \u2014 BCL7 Infrastructure Crane Lift Plan**, **Sat Oct 10 6:00am\u20137:00pm ET**, complete access restriction **ANA/ANB thru AYA/AYB** plus areas west inside **Standera/Administration Building (1st + 2nd floors)**; AMK crane lifts of process piping onto high roof; includes GE HVAC replacement. Attachments *Crane Lift Outage_ 10.10.26.pdf* + *Logistics Plan 10.10.26.pdf* (not downloaded). Check impact on Sat crew/scaffold plans (T117 BAA removal, A Bay crane work). **Fri Oct 9 ~11:12am ET Hinkson UPDATE (Nate Barney/AMK; Jeff cc):** Sat **Oct 10 crane lift CANCELED** due to impending weather; planning to **reschedule for Sat Oct 17**; updated lift plan + coordination details to follow. Sat Oct 10 ANA/ANB\u2013AYA/AYB + Admin bldg exclusion zone no longer applies \u2014 re-check Oct 17 weekend vs T130 (VPS lighting scaffold over Coaters #3/#4 Fri Oct 16\u2013Sun Oct 18). **Fri Oct 9 ~4:41pm ET Stephanie Gray (GE Vernova) reply-all** on the re-sent advisory (*Scheduled: Oct 17, 2026 6:00am\u20137:00pm EDT*, ANA/ANB thru AYA/AYB; Admin; Jeff invited): \u201cThis is **PI weekend** and per my instructions we will need to be **in offices all day 10/6\u201310/18**. Who is in charge of this and what is the goal.\u201d \u2192 Oct 17 lift date may move again; watch Hinkson/AMK reply. No Jeff action asked."
+      "notes": "**Tue ~3:49pm ET Roper\u2192Jeff + Adam Watkins + Rita Burch (AMK):** \u201cFYI, this could affect your weekend plans.\u201d Original Hinkson appt (Oct 1): **BLOCKED ACCESS/EXCLUSION ZONE \u2014 BCL7 Infrastructure Crane Lift Plan**, **Sat Oct 10 6:00am\u20137:00pm ET**, complete access restriction **ANA/ANB thru AYA/AYB** plus areas west inside **Standera/Administration Building (1st + 2nd floors)**; AMK crane lifts of process piping onto high roof; includes GE HVAC replacement. Attachments *Crane Lift Outage_ 10.10.26.pdf* + *Logistics Plan 10.10.26.pdf* (not downloaded). Check impact on Sat crew/scaffold plans (T117 BAA removal, A Bay crane work). **Fri Oct 9 ~11:12am ET Hinkson UPDATE (Nate Barney/AMK; Jeff cc):** Sat **Oct 10 crane lift CANCELED** due to impending weather; planning to **reschedule for Sat Oct 17**; updated lift plan + coordination details to follow. Sat Oct 10 ANA/ANB\u2013AYA/AYB + Admin bldg exclusion zone no longer applies \u2014 re-check Oct 17 weekend vs T130 (VPS lighting scaffold over Coaters #3/#4 Fri Oct 16\u2013Sun Oct 18). **Fri Oct 9 ~4:41pm ET Stephanie Gray (GE Vernova) reply-all** on the re-sent advisory (*Scheduled: Oct 17, 2026 6:00am\u20137:00pm EDT*, ANA/ANB thru AYA/AYB; Admin; Jeff invited): \u201cThis is **PI weekend** and per my instructions we will need to be **in offices all day 10/6\u201310/18**. Who is in charge of this and what is the goal.\u201d \u2192 Oct 17 lift date may move again; watch Hinkson/AMK reply. No Jeff action asked. **Fri Oct 9 ~7:48pm ET Stephanie Gray follow-up (to Joseph Betten + Hinkson, all cc'd):** \u201cWhat can we do to modify this?\u201d \u2014 repeats PI weekend / offices occupied 10/6\u201310/18. No GE answer yet; Oct 17 lift still in question."
     },
     {
       "id": "T121",
@@ -1042,10 +1024,10 @@
       "id": "T138",
       "status": "open",
       "priority": "high",
-      "due": "Need-by TODAY Fri Oct 9 (verify ack in Ariba; Service Sheet required)",
+      "due": "Need-by Fri Oct 9 \u2014 OVERDUE; still UNCONFIRMED in Ariba (Mon 5am reminder)",
       "item": "Process/ack GE PO 4900663074 ($22,184.00) \u2014 FW41 & 42 UA Build stand Inspections, 1st/2nd/3rd shifts (Andrew Heatherly)",
       "source": "Email / Ariba GE Vernova 2026-10-08 ~3:24am ET",
-      "notes": "**Thu ~3:24am ET** Ariba new PO **4900663074** to Indcom (ariba.mail@); requester **William Andrew Heatherly** (William.Heatherly@gevernova.com; +1 864-252-5624); **PR840026**; NET 150; FCA; line 1 Service 1 LE **$22,184.00**, need-by **9 Oct 2026**; service period **Mon Oct 5\u2013Sun Oct 18**; **Service Sheet Required**. Follows FW38\u201340 PO 4900661420 (T98). Ack/confirm in Ariba; invoice with service sheet after FW41\u201342. **Fri ~5:00am ET Ariba \u201cConfirm orders\u201d reminder** lists only **4900662844** (T75) as unconfirmed \u2014 **4900663074 not listed**, so it may already be confirmed; verify in Ariba before need-by today."
+      "notes": "**Thu ~3:24am ET** Ariba new PO **4900663074** to Indcom (ariba.mail@); requester **William Andrew Heatherly** (William.Heatherly@gevernova.com; +1 864-252-5624); **PR840026**; NET 150; FCA; line 1 Service 1 LE **$22,184.00**, need-by **9 Oct 2026**; service period **Mon Oct 5\u2013Sun Oct 18**; **Service Sheet Required**. Follows FW38\u201340 PO 4900661420 (T98). Ack/confirm in Ariba; invoice with service sheet after FW41\u201342. **Fri ~5:00am ET Ariba \u201cConfirm orders\u201d reminder** lists only **4900662844** (T75) as unconfirmed \u2014 **4900663074 not listed**, so it may already be confirmed; verify in Ariba before need-by today. **Sat/Sun/Mon 5am ET Ariba reminders:** 4900663074 still listed as **New/unconfirmed** (only PO on the list)."
     },
     {
       "id": "T139",
@@ -1075,15 +1057,6 @@
       "notes": "*Pole fingers quote* \u2014 \u201cPlease see attached quote\u201d \u2014 PDF **Estimate_422_2026-10-08.pdf** to Jeff only. Likely more North Pole finger work (cf. T64 Invoice 220 / T132 Invoice 222) \u2014 review, approve/route to GE quote if needed."
     },
     {
-      "id": "T142",
-      "status": "open",
-      "priority": "med",
-      "due": "SCHEDULED Fri Oct 9 7:45\u20138:15am ET (window passed \u2014 confirm complete)",
-      "item": "Track shutdowns PP-7B-6 ckt #2 + RP-120-JDB ckts #5 & #7 \u2014 Danobat #712190 removal @ JCB",
-      "source": "Email / Jason Marchbanks (DPP) 2026-10-08 ~12:21/12:25pm ET",
-      "notes": "**Thu ~12:21pm ET Jason\u2192Hinkson + McCurry (cc Jon Roper, Jeff):** shutdown **PP-7B-6 Circuit #2** \u2014 remove power from **Danobat #712190 @ JCB** for machine removal. **~12:25pm ET:** shutdown **RP-120-JDB Circuits #5 & #7** \u2014 remove 120V receptacles from the same Danobat. Date: **ASAP** (no time); GE Lead **Grant Bartlett**; sub DPP; photos attached; no scaffold mentioned. Watch for Hinkson window. Event **e62**. **Fri Oct 9 ~6:11am ET Hinkson** formal *SHUTDOWN NOTIFICATION \u2013 PP-7B-6 ckt-2* + *RP-120-JDB ckt-5, 7* (to Roper, McCurry, Jason, Jeff, Shanna Henson; invite.ics). Kat cal (4 Jeff-automation holds created ~6:13am = one) shows both at **Fri Oct 9 7:45\u20138:15am ET @ JCB**; GE Lead Grant Bartlett; DPP; no scaffold. Confirm complete \u2192 DPP invoice \u2192 bill GE. e62 timed. **Fri ~9:31am ET:** no completion/\u201coutage complete\u201d mail yet from Hinkson/McCurry/DPP for the 7:45\u20138:15am window \u2014 still confirm done."
-    },
-    {
       "id": "T143",
       "status": "waiting",
       "priority": "low",
@@ -1102,25 +1075,53 @@
       "notes": "**Fri ~12:17pm ET Mike Mullaney (SCI, Account Manager, 864-234-7313 x125)\u2192Jeff (cc Katheryn):** attached *13246566139- Indcom GE BSA CP IE4K Moves 10-9-26.pdf* \u2014 quote for the **CP and IE4K moves in BSA** at GE Vernova. Amount not in email body (PDF not opened). Review, mark up, and fold into the GE BSA office/renovation proposal (ties T13 BSA office RFQ, T15 earlier SCI quotes). **Fri ~2:26pm ET Katheryn\u2192Mike Mullaney:** acknowledged receipt. Still to review/route."
     },
     {
-      "id": "T145",
+      "id": "T146",
       "status": "open",
-      "priority": "low",
-      "due": "reply to vendor",
-      "item": "Approve/decline substitute for Industrial Safety Products order #531294 (15\u00d7 Ergodyne 3420 glove clip holders)",
-      "source": "Email / Mario Escalante (Industrial Safety Products) 2026-10-09 ~3:29pm ET",
-      "notes": "**Fri ~3:29pm ET Mario Escalante (CSR, 786-706-7969 x188)\u2192Jeff:** Ergodyne 3420 Lime Swiveling Glove Clip Holder (dual clips) **out of stock, no manufacturer ETA**. Offers **Pyramex GLC100 Black Glove Clip** (ships immediately) **with price match**. Jeff to reply approving the substitute or cancel/wait. Crew PPE supply \u2014 low priority."
+      "priority": "med",
+      "due": "ASAP",
+      "item": "Process DPP **JCB Danobat Disconnection** invoice",
+      "source": "Email / Jason Marchbanks (DPP) 2026-10-09 ~5:08pm ET",
+      "notes": "**Fri ~5:08pm ET Jason\u2192Jeff:** Joist https://client.joistapp.com/invoices/65a48042de20dcbb4ad0010a (\u201cPlease see attached\u201d). Work = Danobat #712190 power/receptacle removal @ JCB (shutdowns Fri 7:45\u20138:15am; T142 closed). Route/confirm payment."
+    },
+    {
+      "id": "T147",
+      "status": "open",
+      "priority": "med",
+      "due": "ASAP",
+      "item": "Process DPP **MPA \u2013 Mezzanine Electrical/Plumbing** invoice",
+      "source": "Email / Jason Marchbanks (DPP) 2026-10-09 ~5:18pm ET",
+      "notes": "**Fri ~5:18pm ET Jason\u2192Jeff:** Joist https://client.joistapp.com/invoices/6a791aeec4044646aa90f784 (\u201cPlease see attached\u201d). Route/confirm payment."
+    },
+    {
+      "id": "T148",
+      "status": "open",
+      "priority": "med",
+      "due": "pending Hinkson window",
+      "item": "Track energization NFPS.03 **Basaran Grinders + Transfer Tanks** @ HCA/HDA",
+      "source": "Email / Jason Marchbanks (DPP) 2026-10-12 ~7:45am ET",
+      "notes": "**Mon ~7:45am ET Jason\u2192Hinkson + McCurry (cc Roper, Jeff, Jim Stanley, Adam McClure, Katheryn):** energize **Grinder #2301262 @ HCA (PP-11A-8 ckt #2)**, **Grinder #2301261 @ HDA (PP-11A-8 ckt #1)**, **Transfer Tank #2301262 @ HCA (PP-7B-7 ckt #6)**, **Transfer Tank #2301261 @ HDA (PP-7B-7 ckt #2)**. PP-11A-8 @ HFA; PP-7B-7 @ HCA. One-lines attached (5 PDFs/images). DPP; GE Lead Jim Stanley. No date/time yet \u2014 wait for Hinkson window. Ties T7/T8 NFPS.03 Basaran work (Est 2017/2019)."
+    },
+    {
+      "id": "T149",
+      "status": "waiting",
+      "priority": "med",
+      "due": "waiting Joey Lum",
+      "item": "GE receive current POs in Ariba so Indcom can formally invoice",
+      "source": "Email / Jeff\u2192Joey Lum (GE) 2026-10-12 ~5:45am ET",
+      "notes": "**Mon ~5:45am ET Jeff\u2192Joey:** \u201cPlease receive current POs for formal invoicing.\u201d Joey's auto-reply is a stale OOO (7/30\u20137/31). Covers Joey's POs (e.g., T96 4900661220, T110 4900661816, T119 4900662406). FYI same morning: Ariba invoices **3919** (Husky Fan, T106) + **3920** sent ~5:38am and **approved ~6:16am**; invoice **3821** sent ~7:01am."
     }
   ],
   "calendar": [
+    "**Pending Hinkson window** \u2014 Energize NFPS.03 **Basaran Grinders #2301262 @ HCA / #2301261 @ HDA** (PP-11A-8 ckts #2/#1 @ HFA) + **Transfer Tanks** (PP-7B-7 ckts #6/#2 @ HCA) (Jason Mon ~7:45am; DPP; Jim Stanley) (T148)",
     "**PAST (ended Fri Oct 9 7:00am ET) \u2014 was Thu Oct 8 5:00pm \u2192 Fri 7:00am ET @ MAA** \u2014 Outage/LOTO **floor-mounted bridge crane 19916** (Nozzles OK per Matt Orders; Tres Orr/ESI lockout 5pm) \u2014 Indcom: small **hardbar-access platform @ MCA/MDA** + scaffold above crane per AMKing/Capitol (Kat cal 2 dupes = one outage) (T127)",
     "**TODAY Fri Oct 9 1:30\u20133:30pm ET (CONFIRMED Tulloch Thu ~3:18pm; scaffold starts noon) @ BEA / Cell 6** \u2014 Crane interruption for ESI crane stops so BAA scaffold can go above LCU mezzanine (Madak rail-stop concern answered by Tulloch Fri ~8:59am: splice at BEA during shift change, Cell 6/T-800 at BFA \u2014 **no Cell 6 downtime**) (Kat cal 2 outage dupes + 2 day-before scaffold reminders = one) (T117)",
-    "**TODAY Fri Oct 9 7:45\u20138:15am ET @ JCB (passed \u2014 confirm complete)** \u2014 Shutdowns **PP-7B-6 ckt #2** + **RP-120-JDB ckts #5 & #7** \u2014 Danobat #712190 power/receptacle removal (Hinkson notifications Fri ~6:11am; DPP; GE Lead Grant Bartlett) (Kat cal 4 holds = one) (T142)",
+    "**DONE Fri Oct 9 7:45\u20138:15am ET @ JCB** \u2014 Shutdowns **PP-7B-6 ckt #2** + **RP-120-JDB ckts #5 & #7** \u2014 Danobat #712190 power/receptacle removal; DPP invoiced *JCB Danobat Disconnection* Fri ~5:08pm (T142 closed \u2192 payment T146)",
     "**CANCELED (invite canceled Thu ~12:38pm) \u2014 was Thu Oct 8 night \u2192 Fri Oct 9\u2013Sat Oct 10** \u2014 M-Bay **2nd-half aisle closure** outside NL1 for concrete cutting (Buellesbach); confirm off vs rescheduled (T135)",
     "**Thu Oct 8 or Fri Oct 9 (time TBD \u2014 Jeff to propose)** \u2014 Walk **ELB rollup door** \u201cHangar\u201d scaffold area + walking platform with Russ Zubkov (AMK); pickle tank farm shutdown TBD (T136)",
-    "**Need-by Fri Oct 9** \u2014 Ack GE Ariba PO **4900663074** ($22,184; Heatherly; FW41\u201342 UA Build stand Inspections, service Oct 5\u201318; service sheet required) (T138)",
+    "**OVERDUE (need-by Fri Oct 9; still unconfirmed Mon 5am)** \u2014 Ack GE Ariba PO **4900663074** ($22,184; Heatherly; FW41\u201342 UA Build stand Inspections, service Oct 5\u201318; service sheet required) (T138)",
     "**Fri Oct 16\u2013Sun Oct 18 (GE Pete Lambley + AMK agreed Wed ~2:30pm; Indcom to confirm crew)** \u2014 Work **scaffold for AMK VPS lighting over Coater #3 + #4** (GE physical inventory, coaters down; scaffold up by 7am, down 5:30pm) (T130)",
     "**TODAY Fri Oct 9 (CONFIRMED by Jeff Thu ~10:03am) \u2014 first floor; crew names still not received** \u2014 Work **JMT Flooring VCT removal** of small leftover sections, removal only **$825** (JMT bringing machine; crew names pending for badge check) \u2014 Jeff filed 1-day GE vehicle pass for Shelton Sentell (machine delivery) Fri ~8:38am (T129)",
-    "**Sat Oct 17 6:00am\u20137:00pm ET (re-sent; DATE IN QUESTION) @ ANA/ANB\u2013AYA/AYB + Admin bldg** \u2014 Exclusion zone **BCL7 crane lift** (AMK piping to high roof) \u2014 Sat Oct 10 lift CANCELED for weather; Stephanie Gray (GE) Fri ~4:41pm: PI weekend, offices must be occupied 10/6\u201310/18 \u2014 asks who is in charge; overlaps T130 weekend (T120)",
+    "**Sat Oct 17 6:00am\u20137:00pm ET (re-sent; DATE IN QUESTION) @ ANA/ANB\u2013AYA/AYB + Admin bldg** \u2014 Exclusion zone **BCL7 crane lift** (AMK piping to high roof) \u2014 Sat Oct 10 lift CANCELED for weather; Stephanie Gray (GE) Fri ~4:41pm: PI weekend, offices must be occupied 10/6\u201310/18 \u2014 asks who is in charge; ~7:48pm follow-up \u201cWhat can we do to modify this?\u201d (no GE answer yet); overlaps T130 weekend (T120)",
     "**TBD (per Sassa invite.ics, sent Tue ~4:02pm)** \u2014 Meeting **VPS lighting over coater 3 & 4** (Michael Sassa/AMK, Adam Watkins, Matt Fitts) (T121)",
     "**TODAY Fri Oct 9 from NOON @ BAA (crane stop 1:30\u20133:30pm confirmed)** \u2014 Work **BAA scaffold install** for Gas Manifold Demo \u2014 build to LCU mezzanine \u2192 Cell 6 crane stop (ESI crane stops @ BEA, ~2 hrs) \u2192 continue after make-safe (T117)",
     "**Sat Oct 10 @ A/B Bays (BAA)** \u2014 Outage **Gas Manifold Demo** \u2014 H2 isolate/vent/purge B-Bay; O2 A+B Bays; N2/Argon LOTO; AMK submitting outage request; maintenance support incl. crane + scaffold groups; **BAA scaffold removal after pipe demo** (T117)",
@@ -1145,11 +1146,11 @@
     "**DONE (6 of 7) per Frank Wed ~8:22am ET** \u2014 MSS H-Bay fire-alarm monitoring/shutdown: 6 FMM-1 + 6 FRM-1 installed + programmed; **7th machine pending placement** (wire in place) \u2014 Jeff tell Frank when ready (T67)",
     "**Tue Sep 29 1:00\u20134:00pm ET (offered; window passed)** \u2014 UniFirst call (Herrod/Trey) on screen-print shirts path; Bill driving, Jeff on thread; **no path yet** (T62)",
     "**ASAP** \u2014 NFPS.02 MSS fire-alarm budget **$7,500** IN (Jason Gunter ~11:23am Mon; formal proposal pending) \u2014 fold into NFPS.02 quote (T90); SCI NFPS.02 Data quote still to review/route (T68)",
-    "**Mon Oct 5 7:00am \u2013 Mon Oct 12 (TBD) ET** \u2014 Outage **A&H Bay Bridge Cranes 16876 & 11495** for AMK (AMA\u2013ANA pipe supports) + LMM (ATA\u2013AUA dust-collector duct/wire); aerial lifts; scaffold not indicated (Fitts + Madak ~12:51pm confirm; T69) \u2014 dedupe cal dupes = e35",
+    "**Mon Oct 5 7:00am \u2013 ENDS TODAY Mon Oct 12 5:00pm ET** \u2014 Outage **A&H Bay Bridge Cranes 16876 & 11495** for AMK (AMA\u2013ANA pipe supports) + LMM (ATA\u2013AUA dust-collector duct/wire); aerial lifts; scaffold not indicated (Fitts + Madak ~12:51pm confirm; T69) \u2014 dedupe cal dupes = e35",
     "**ASAP** \u2014 Review/route DPP NFPS.02 Electrical + Process Piping proposals (both IN: Electrical Jason ~10:42am; Plumbing Amie ~12:09pm) (T70)",
     "**ASAP** \u2014 Review/edit Katheryn draft quotations **EST-381A** (NFPS.03 machine power) / **EST-381B** (Basaran chilled water) / **EST-381C** (relocate spare breaker 800A feed) / **EST-415** (BL4 Basaran loop bracing) shared ~3:29\u20133:34pm ET (T77)",
     "**Need-by Mon Oct 6** \u2014 Process/ack GE Ariba PO **4900660255** (~$14,193.13; Joey Lum; PP-11B-5 outage + P&S receptacles + air hose reels) (T74)",
-    "**Need-by TODAY Fri Oct 9 \u2014 still UNCONFIRMED (Ariba 5am reminder)** \u2014 Process/ack GE Ariba PO **4900662844** ($5,453.00; Mateo Castro; UB Tubing Support; re-issue of 4900660277? confirm before invoicing) (T75)",
+    "**DONE (off Ariba unconfirmed list Mon 5am)** \u2014 GE Ariba PO **4900662844** ($5,453.00; Mateo Castro; UB Tubing Support) (T75 closed)",
     "**ASAP** \u2014 Review/approve Lawless Systems **Est 2038** (~$3,430; MFG-EZA Ops tower furniture remove/dispose; Jamie Schulz) (T86) \u2014 relates T23 EZA conversion",
     "**ASAP (ack; vendor PO issued Fri ~7:30am)** \u2014 Process/ack GE Ariba PO **4900660773** (~$9,901.75; Alexander Neal; KGA Mist Collector Install / Est 2013 / EST-382) (T85) \u2014 Jeff issued PO to DPP Jason Marchbanks",
     "**ASAP (SAP invoice NOW \u2014 GE received ~9:27am Fri)** \u2014 GE Ariba PO **4900660909** (~$29,233.71; Air Heater 3 scaffold; need-by Nov 2) \u2014 Rusty Daniel confirmed **Received in Ariba**; Jeff invoice through SAP (T87)",
@@ -1167,7 +1168,7 @@
     "**Thu Oct 1 9:30am\u201310:00am ET** \u2014 Meeting AGV Installation Line Walk @ Meet by VTL 1.2 (Adam Edwards / Eclipse / Roper conduit; **Shanna ~2:35pm ET fwd \u2014 scaffold impact**; Jeff ~3:27pm replied (green tags NFPS.03 maybe tomorrow; N-bay tonight); Shanna ~3:34pm available Thu/Fri \u22654 + weekend shutdown; Katheryn invited/accepted; overlaps T72 Sinker) \u2014 e39 / **T76**",
     "**Thu Oct 1 7:45am\u20139:15am ET** \u2014 Outage PP-11B-8 (11S E3) / TP-11B-8.1 feeder rotation correction @ HFA (Hinkson; DPP; Jim Stanley ME; T71) \u2014 related panel to T47 Fanuc energize but distinct work",
     "**Thu Oct 1 9:15am\u20139:45am ET** \u2014 Energize NFPS.03 Mitsubishi Sinker EDMs #2301352/#2301353/#2301348 via TP-11B-8.1 @ HDA after T71 rotation (Hinkson/Jason; DPP; Jim Stanley; T72) \u2014 distinct from T47 Fanuc set",
-    "**Thu Oct 1 (confirm time \u2014 was 1:00\u20131:30pm ET)** \u2014 Outage RP-ABB-1 @ **AAB** (alt panel approved) for 2\u00d7 Quad Receptacles for ACB Computers (Jason/Adam/Hinkson; DPP; James Ray); Hinkson ~1:03pm asked if still want outage tomorrow + what time (T73) \u2014 cal = e38",
+    "**Tue Oct 13 8:30\u20139:00am ET (re-requested by Jason Mon ~8:12am; awaiting Hinkson)** \u2014 Outage **RP-ABB-1 @ AAB** for 2\u00d7 Quad Receptacles for ACB Computers (DPP; GE Lead James Ray) (T73) \u2014 cal = e38",
     "**Mon Oct 5 TODAY** \u2014 M-Bay stormwater drains phase-1 scaffold due (T22) \u2014 no status mail since Fri",
     "**Thu Oct 1** \u2014 ENSER 7HA1 flatbed ship items 13\u201317 \u2192 Advanced Rigging (T56)",
     "**Tue Oct 6 \u2013 Wed Oct 7** \u2014 ENSER 7HA1 platform trucks \u2192 Advanced Rigging (T56)",
@@ -1448,16 +1449,16 @@
     {
       "id": "e38",
       "type": "outage",
-      "summary": "Outage/Shutdown/LOTO: RP-ABB-1 @ AAB (confirm tomorrow time)",
-      "title": "Outage/Shutdown/LOTO: RP-ABB-1 @ AAB (confirm tomorrow time)",
-      "location": "AAB \u2014 Circuit RP-ABB-1 (was ACB; Hydrogen alt)",
-      "description": "Originally Thu Oct 1 1:00pm\u20131:30pm ET @ ACB \u2014 install 2 Quad Receptacles for ACB Computers. DPP; James Ray GE Lead. Adam McClure ~12:49pm ET proposed nearby panel in AAB; Hinkson ~12:58pm \u201cYes.\u201d Hinkson ~1:03pm ET: still want outage tomorrow? What time? \u2014 waiting DPP confirm. Katheryn cal updated one invite to AAB (older ACB invite remains) \u2014 deduped. (T73)",
-      "start": "2026-10-01T13:00:00-04:00",
-      "end": "2026-10-01T13:30:00-04:00",
+      "summary": "Outage/Shutdown/LOTO: RP-ABB-1 @ AAB \u2014 Tue Oct 13 8:30\u20139:00am ET (awaiting Hinkson)",
+      "title": "Outage/Shutdown/LOTO: RP-ABB-1 @ AAB \u2014 ACB computers quad receptacles",
+      "location": "AAB \u2014 Circuit RP-ABB-1",
+      "description": "Originally Thu Oct 1 1:00pm\u20131:30pm ET @ ACB \u2014 install 2 Quad Receptacles for ACB Computers. DPP; James Ray GE Lead. Adam McClure ~12:49pm ET proposed nearby panel in AAB; Hinkson ~12:58pm \u201cYes.\u201d Hinkson ~1:03pm ET: still want outage tomorrow? What time? \u2014 waiting DPP confirm. Katheryn cal updated one invite to AAB (older ACB invite remains) \u2014 deduped. (T73) UPDATE Mon Oct 12 ~8:12am ET: Jason Marchbanks re-requested RP-ABB-1 @ AAB outage for Tue Oct 13 8:30\u20139:00am ET (2 quad receptacles for ACB computers; DPP; GE Lead James Ray) \u2014 awaiting Hinkson confirm.",
+      "start": "2026-10-13T08:30:00-04:00",
+      "end": "2026-10-13T09:00:00-04:00",
       "allDay": false,
       "todoId": "T73",
       "relatedTodo": "T73",
-      "status": "pending_confirm",
+      "status": "requested",
       "notes": " Thu ~11:50am ET DPP ACB Receptacles Invoice 4703 arrived (T82); still no DPP time-confirm mail on outage."
     },
     {
@@ -1498,7 +1499,7 @@
     {
       "id": "e35",
       "type": "outage",
-      "summary": "Outage/Shutdown/LOTO: A&H Bay Bridge Cranes 16876 & 11495 (AMK / LMM)",
+      "summary": "Outage/Shutdown/LOTO: A&H Bay Bridge Cranes 16876 & 11495 (AMK / LMM) \u2014 ends TODAY Mon Oct 12 5pm",
       "title": "Outage/Shutdown/LOTO: A&H Bay Bridge Cranes 16876 & 11495 (AMK / LMM)",
       "location": "A&H Bay Bridge Cranes 16876 & 11495 (AMA-ANA / ATA-AUA)",
       "description": "Mon Oct 5 7:00am \u2013 Mon Oct 12 (TBD end) ET \u2014 Fitts requesting / Madak ~12:51pm ET confirming A&H-Bay Bridge Crane (16876 & 11495) outage for AMK (AMA\u2013ANA pipe supports above crane rail) + LMM (ATA\u2013AUA dust-collector ductwork + control wire conduit). Aerial lifts; scaffold not indicated. Katheryn cal had 2 duplicate A Bay Crane invites \u2014 deduped to one. (T69)",
@@ -1672,7 +1673,7 @@
       "title": "Exclusion zone: BCL7 crane lift Sat Oct 17 (date in question) \u2014 ANA/ANB thru AYA/AYB + Admin",
       "summary": "Re-sent for Sat Oct 17 6am\u20137pm; GE (Stephanie Gray) objects \u2014 PI weekend, offices occupied 10/6\u201310/18",
       "location": "ANA/ANB thru AYA/AYB; Standera/Admin bldg 1st+2nd floors",
-      "description": "Hinkson/AMK (Nate Barney) UPDATE Fri Oct 9 ~11:12am ET: Sat Oct 10 crane lift canceled due to impending weather; planning to reschedule for Sat Oct 17, updated lift plan to come. Original: complete access restriction 6:00am\u20137:00pm for crane lifting of process piping onto high roof; includes GE HVAC replacement. Fri Oct 9 ~4:41pm ET Stephanie Gray (GE) reply-all to re-sent Oct 17 6:00am\u20137:00pm advisory: PI weekend, offices must be occupied all day 10/6\u201310/18; asks who is in charge and the goal \u2014 date may move again. Check against T130 coater scaffold weekend Oct 16\u201318. (T120)",
+      "description": "Hinkson/AMK (Nate Barney) UPDATE Fri Oct 9 ~11:12am ET: Sat Oct 10 crane lift canceled due to impending weather; planning to reschedule for Sat Oct 17, updated lift plan to come. Original: complete access restriction 6:00am\u20137:00pm for crane lifting of process piping onto high roof; includes GE HVAC replacement. Fri Oct 9 ~4:41pm ET Stephanie Gray (GE) reply-all to re-sent Oct 17 6:00am\u20137:00pm advisory: PI weekend, offices must be occupied all day 10/6\u201310/18; asks who is in charge and the goal \u2014 date may move again. Check against T130 coater scaffold weekend Oct 16\u201318. (T120) UPDATE Fri ~7:48pm ET Stephanie Gray follow-up: 'What can we do to modify this?' \u2014 no GE answer yet.",
       "start": "2026-10-17T06:00:00-04:00",
       "end": "2026-10-17T19:00:00-04:00",
       "allDay": false,
@@ -1728,10 +1729,10 @@
     {
       "id": "e59",
       "type": "deadline",
-      "title": "Deadline: Ack GE PO 4900663074 \u2014 FW41\u201342 UA Build stand Inspections ($22,184)",
-      "summary": "Deadline: GE PO 4900663074 need-by (Andrew Heatherly)",
+      "title": "OVERDUE Deadline: Ack GE PO 4900663074 \u2014 FW41\u201342 UA Build stand Inspections ($22,184)",
+      "summary": "Need-by Fri Oct 9 passed \u2014 still unconfirmed in Ariba Mon Oct 12 5am",
       "location": "Ariba / SAP Business Network",
-      "description": "Ariba PO 4900663074 (Andrew Heatherly; PR840026) need-by Fri Oct 9; service Oct 5\u201318; 1st/2nd/3rd shifts; Service Sheet required. (T138) UPDATE Fri ~5:00am ET: Ariba unconfirmed-orders reminder did not list 4900663074 (may already be confirmed \u2014 verify).",
+      "description": "Ariba PO 4900663074 (Andrew Heatherly; PR840026) need-by Fri Oct 9; service Oct 5\u201318; 1st/2nd/3rd shifts; Service Sheet required. (T138) UPDATE Fri ~5:00am ET: Ariba unconfirmed-orders reminder did not list 4900663074 (may already be confirmed \u2014 verify). UPDATE Sat/Sun/Mon 5am ET: Ariba reminders list 4900663074 as New/unconfirmed.",
       "start": "2026-10-09",
       "end": "2026-10-10",
       "allDay": true,
@@ -1764,26 +1765,41 @@
     {
       "id": "e62",
       "type": "outage",
-      "title": "Shutdown: PP-7B-6 ckt #2 + RP-120-JDB ckts #5 & #7 \u2014 Danobat #712190 @ JCB",
-      "summary": "Fri Oct 9 7:45\u20138:15am ET (Hinkson notification) \u2014 confirm complete",
+      "title": "DONE Shutdown: PP-7B-6 ckt #2 + RP-120-JDB ckts #5 & #7 \u2014 Danobat #712190 @ JCB",
+      "summary": "Done Fri Oct 9 \u2014 DPP invoiced JCB Danobat Disconnection ~5:08pm (T146)",
       "location": "JCB",
       "description": "Jason Marchbanks (DPP) Thu Oct 8 ~12:21/12:25pm ET to Hinkson + McCurry (cc Jon Roper, Jeff): remove power (PP-7B-6 ckt 2) and 120V receptacles (RP-120-JDB ckts 5 & 7) from Danobat #712190 at JCB for machine removal. Date ASAP, no time; GE Lead Grant Bartlett. Kat cal all-day hold Oct 8 (RP-120-JDB). (T142) UPDATE Fri ~6:11am ET: Hinkson SHUTDOWN NOTIFICATIONs for both; invite window Fri Oct 9 7:45\u20138:15am ET @ JCB; no scaffold. Kat cal 4 holds (2 per panel) = one event. UPDATE Fri ~9:31am ET: no completion mail yet.",
       "start": "2026-10-09T07:45:00-04:00",
       "end": "2026-10-09T08:15:00-04:00",
       "allDay": false,
-      "todoId": "T142"
+      "todoId": "T142",
+      "status": "done"
     },
     {
       "id": "e63",
       "type": "deadline",
-      "title": "Deadline: Ack GE PO 4900662844 \u2014 UB Tubing Support ($5,453)",
-      "summary": "Need-by TODAY Fri Oct 9 \u2014 still unconfirmed in Ariba (5am reminder)",
+      "title": "DONE Deadline: Ack GE PO 4900662844 \u2014 UB Tubing Support ($5,453)",
+      "summary": "No longer on Ariba unconfirmed list Mon Oct 12 5am",
       "location": "Ariba / SAP Business Network",
       "description": "Ariba 'Confirm orders from your buyers' Fri Oct 9 ~5:00am ET lists PO 4900662844 (GE Vernova, ordered Oct 7) as New/unconfirmed; need-by Oct 9; requester Mateo Castro; possible re-issue of 4900660277 \u2014 confirm before invoicing. (T75)",
       "start": "2026-10-09",
       "end": "2026-10-10",
       "allDay": true,
-      "todoId": "T75"
+      "todoId": "T75",
+      "status": "done"
+    },
+    {
+      "id": "e64",
+      "type": "outage",
+      "title": "Energization: NFPS.03 Basaran Grinders + Transfer Tanks @ HCA/HDA (pending Hinkson window)",
+      "summary": "Requested Mon Oct 12 ~7:45am ET by DPP \u2014 no date yet",
+      "location": "HCA / HDA (PP-11A-8 @ HFA; PP-7B-7 @ HCA)",
+      "description": "Jason Marchbanks (DPP) to Hinkson + McCurry (cc Roper, Jeff, Jim Stanley, Adam McClure, Katheryn): energize Grinder #2301262 @ HCA (PP-11A-8 ckt #2), Grinder #2301261 @ HDA (PP-11A-8 ckt #1), Transfer Tank #2301262 @ HCA (PP-7B-7 ckt #6), Transfer Tank #2301261 @ HDA (PP-7B-7 ckt #2). One-lines attached. GE Lead Jim Stanley. (T148)",
+      "start": "2026-10-12",
+      "end": "2026-10-13",
+      "allDay": true,
+      "todoId": "T148",
+      "status": "pending_schedule"
     }
   ]
 }
