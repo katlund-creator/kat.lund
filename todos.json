@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T10:21:04-04:00",
+  "updated": "2026-10-13T12:29:44-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -613,7 +613,7 @@
       "due": "ASAP",
       "item": "Review/approve Lawless Systems Est 2038 (~$3,430) \u2014 MFG-EZA Ops tower furniture remove/dispose",
       "source": "Email / Lawless Systems QB 2026-10-01 ~4:18pm ET",
-      "notes": "**Thu ~4:18pm ET** Lawless Systems Installation (QuickBooks) \u2192 Jeff + jschulz24@aol.com (cc LSIINC@bellsouth.net): **Estimate 2038** **$3,430.00** \u2014 remove and dispose furniture in **MFG-EZA Ops tower** during normal business hours; **NTE $3,430**; forklift/driver provided by Indcom. Ship-to **GE VERNOVA 300 Garlington Rd**. PO number NA. Contact Jamie Schulz (Design/Installation Mgr; 864-304-3700). PDF *Estimate_2038_from_Lawless_Systems_Installation_Inc.pdf*. Review/approve path. Relates T23 (EZA OPS Office / Training Room Conversion) but distinct vendor estimate."
+      "notes": "**Thu ~4:18pm ET** Lawless Systems Installation (QuickBooks) \u2192 Jeff + jschulz24@aol.com (cc LSIINC@bellsouth.net): **Estimate 2038** **$3,430.00** \u2014 remove and dispose furniture in **MFG-EZA Ops tower** during normal business hours; **NTE $3,430**; forklift/driver provided by Indcom. Ship-to **GE VERNOVA 300 Garlington Rd**. PO number NA. Contact Jamie Schulz (Design/Installation Mgr; 864-304-3700). PDF *Estimate_2038_from_Lawless_Systems_Installation_Inc.pdf*. Review/approve path. Relates T23 (EZA OPS Office / Training Room Conversion) but distinct vendor estimate. **Tue Oct 13 ~12:12pm ET Jeff\u2192Kat:** Indcom Est **2030** (MFG-EZA Ops tower furniture remove/dispose) \u2014 Jeff notes **option for us** (vs Lawless Est 2038 path)."
     },
     {
       "id": "T87",
@@ -988,10 +988,10 @@
       "id": "T137",
       "status": "waiting",
       "priority": "med",
-      "due": "GE PROCEEDING WITH PO (Fitts Fri ~6:16am) on Quote 1959 as-is \u2014 watch for Ariba PO",
+      "due": "GE PO **in process** (Fitts Tue ~11:28am) \u2014 watch Ariba for PO #",
       "item": "Quote GE RFQ \u2014 install Qty 1 Superior SD23 Down Draft Table, BCL5 Cell 5-6 at ABA (power + air)",
       "source": "Email / Matthew Fitts (GE) 2026-10-07 ~8:39pm ET",
-      "notes": "**Wed ~8:39pm ET Fitts\u2192Jeff, Bill, Katheryn, Jason Marchbanks (DPP); cc Mitch Reese, Erick Baker, Pete Lambley:** install 1 SD23 DDT in front of **Cell 5-6** (BCL5, ABA), flush with south face of the cell, east of cell flush with aisle/other DDTs. New DDTs are in **MDC** (3 left-door/air-right + 1 right-door) \u2014 Cell 5-6 needs **left-side access door (air on right)**; GE can meet at MDC to locate asset; other 3 go to storage. Same install standard as prior Qty 5 SD23 installs incl. **Green Tag punch-list** fixes; casters per OEM. Utilities via cell south face to a **utility T-post** (12.5 ft span; rigid support; don't block blower-motor access panel). Need min **2\u00d7 20A quad outlets** (spare 120V ckts in receptacle panel on west wall behind Cell 5-5) + **air manifold w/ 3 outlets off 1\" header** (vent-style hand valve + downstream gauge for LOTO; one outlet \u2265\u00be\" line to DDT main air; other 2 Staubli QDs; header on west wall behind Lincotek cells). Attachments: *RFQ for Qty 1 - Superior SD23 Down Draft Table for BCL5 Cell 5-6.xlsx* + model screenshot. **~8:42pm ET Katheryn replied:** will review and get back soon. Next: DPP (Jason) electrical/air price \u2192 Indcom quote. **Thu Oct 8 ~12:48pm ET Mitch Reese (GE)\u2192Katheryn + Fitts (cc Jeff, Bill, Jason, Erick Baker, Lambley):** attached previous quote **Indcom Corp Quote 1959 [Lincotek Downdraft Table Cell 5-6].pdf** \u2014 \u201clet me know if it\u2019s still valid and I\u2019ll get started on the PO.\u201d **~1:40pm ET Jeff\u2192Jason Marchbanks (cc Amie, Katheryn, Bill):** re-sent full RFQ scope; asked Jason to **confirm previous quoted amount is valid**. Next: Jason confirm \u2192 answer Mitch so GE issues PO. **Thu ~9:03pm ET Fitts\u2192Mitch Reese + Katheryn (cc Jeff, Bill, Jason, Erick Baker, Lambley):** GE + Indcom already installed a **new local receptacle panel** (per latest RFQ) \u2014 review latest RFQ vs previous proposal (Quote 1959) and say if it needs updating. **~11:16pm ET Jeff\u2192Fitts:** \u201cgood to go as is\u201d (typed \u201cgood to find\u201d). **Fri ~6:16am ET Fitts:** \u201c10-4, **we will proceed with the PO**.\u201d **~7:24am Jeff:** phone autocorrect note. Jason's price-confirm reply not seen (moot unless DPP cost changed). Next: watch Ariba for the PO \u2192 schedule DDT install."
+      "notes": "**Wed ~8:39pm ET Fitts\u2192Jeff, Bill, Katheryn, Jason Marchbanks (DPP); cc Mitch Reese, Erick Baker, Pete Lambley:** install 1 SD23 DDT in front of **Cell 5-6** (BCL5, ABA), flush with south face of the cell, east of cell flush with aisle/other DDTs. New DDTs are in **MDC** (3 left-door/air-right + 1 right-door) \u2014 Cell 5-6 needs **left-side access door (air on right)**; GE can meet at MDC to locate asset; other 3 go to storage. Same install standard as prior Qty 5 SD23 installs incl. **Green Tag punch-list** fixes; casters per OEM. Utilities via cell south face to a **utility T-post** (12.5 ft span; rigid support; don't block blower-motor access panel). Need min **2\u00d7 20A quad outlets** (spare 120V ckts in receptacle panel on west wall behind Cell 5-5) + **air manifold w/ 3 outlets off 1\" header** (vent-style hand valve + downstream gauge for LOTO; one outlet \u2265\u00be\" line to DDT main air; other 2 Staubli QDs; header on west wall behind Lincotek cells). Attachments: *RFQ for Qty 1 - Superior SD23 Down Draft Table for BCL5 Cell 5-6.xlsx* + model screenshot. **~8:42pm ET Katheryn replied:** will review and get back soon. Next: DPP (Jason) electrical/air price \u2192 Indcom quote. **Thu Oct 8 ~12:48pm ET Mitch Reese (GE)\u2192Katheryn + Fitts (cc Jeff, Bill, Jason, Erick Baker, Lambley):** attached previous quote **Indcom Corp Quote 1959 [Lincotek Downdraft Table Cell 5-6].pdf** \u2014 \u201clet me know if it\u2019s still valid and I\u2019ll get started on the PO.\u201d **~1:40pm ET Jeff\u2192Jason Marchbanks (cc Amie, Katheryn, Bill):** re-sent full RFQ scope; asked Jason to **confirm previous quoted amount is valid**. Next: Jason confirm \u2192 answer Mitch so GE issues PO. **Thu ~9:03pm ET Fitts\u2192Mitch Reese + Katheryn (cc Jeff, Bill, Jason, Erick Baker, Lambley):** GE + Indcom already installed a **new local receptacle panel** (per latest RFQ) \u2014 review latest RFQ vs previous proposal (Quote 1959) and say if it needs updating. **~11:16pm ET Jeff\u2192Fitts:** \u201cgood to go as is\u201d (typed \u201cgood to find\u201d). **Fri ~6:16am ET Fitts:** \u201c10-4, **we will proceed with the PO**.\u201d **~7:24am Jeff:** phone autocorrect note. Jason's price-confirm reply not seen (moot unless DPP cost changed). Next: watch Ariba for the PO \u2192 schedule DDT install. **Tue Oct 13 ~11:28am ET Fitts\u2192Jeff (cc Mitch Reese, Katheryn, Bill, Jason, Erick Baker, Lambley):** \u201c**PO is in process.**\u201d Still waiting Ariba PO number \u2192 then schedule DDT install."
     },
     {
       "id": "T138",
@@ -1022,12 +1022,12 @@
     },
     {
       "id": "T141",
-      "status": "open",
+      "status": "waiting",
       "priority": "med",
-      "due": "ASAP",
-      "item": "Review/approve SPC Estimate 422 \u2014 Pole fingers quote",
-      "source": "Email / Evan Groce (SPC) 2026-10-08 ~2:20pm ET",
-      "notes": "*Pole fingers quote* \u2014 \u201cPlease see attached quote\u201d \u2014 PDF **Estimate_422_2026-10-08.pdf** to Jeff only. Likely more North Pole finger work (cf. T64 Invoice 220 / T132 Invoice 222) \u2014 review, approve/route to GE quote if needed."
+      "due": "waiting Heatherly approve Est **2034** ($18,895.69)",
+      "item": "GE quotation Est **2034** \u2014 D Bay Pole Fingers (from SPC Est 422 / QB Est 2029)",
+      "source": "Email / Evan Groce (SPC) 2026-10-08 + QB Est 2034 \u2192 Heatherly 2026-10-13 ~12:24pm ET",
+      "notes": "*Pole fingers quote* \u2014 \u201cPlease see attached quote\u201d \u2014 PDF **Estimate_422_2026-10-08.pdf** to Jeff only. Likely more North Pole finger work (cf. T64 Invoice 220 / T132 Invoice 222) \u2014 review, approve/route to GE quote if needed. **Tue Oct 13 ~12:12pm ET Jeff\u2192Katheryn** on Estimates thread: Est **2029** Pole Fingers customer = **William Andrew Heatherly** (needs Customer Info filled). **~12:24pm ET** QuickBooks sent **Estimate/Quotation 2034** *D Bay Pole Fingers* **$18,895.69** to **William.Heatherly@gevernova.com** (cc mail@ / kat / jeff@) \u2014 customer-facing send of the pole-fingers quote (ties SPC Est 422). Status \u2192 waiting GE review/approve."
     },
     {
       "id": "T144",
@@ -1036,7 +1036,7 @@
       "due": "review + route",
       "item": "Review SCI Electronics quote \u2014 GE BSA CP/IE4K moves",
       "source": "Email / Mike Mullaney (SCI) 2026-10-09 ~12:17pm ET",
-      "notes": "**Fri ~12:17pm ET Mike Mullaney (SCI, Account Manager, 864-234-7313 x125)\u2192Jeff (cc Katheryn):** attached *13246566139- Indcom GE BSA CP IE4K Moves 10-9-26.pdf* \u2014 quote for the **CP and IE4K moves in BSA** at GE Vernova. Amount not in email body (PDF not opened). Review, mark up, and fold into the GE BSA office/renovation proposal (ties T13 BSA office RFQ, T15 earlier SCI quotes). **Fri ~2:26pm ET Katheryn\u2192Mike Mullaney:** acknowledged receipt. Still to review/route."
+      "notes": "**Fri ~12:17pm ET Mike Mullaney (SCI, Account Manager, 864-234-7313 x125)\u2192Jeff (cc Katheryn):** attached *13246566139- Indcom GE BSA CP IE4K Moves 10-9-26.pdf* \u2014 quote for the **CP and IE4K moves in BSA** at GE Vernova. Amount not in email body (PDF not opened). Review, mark up, and fold into the GE BSA office/renovation proposal (ties T13 BSA office RFQ, T15 earlier SCI quotes). **Fri ~2:26pm ET Katheryn\u2192Mike Mullaney:** acknowledged receipt. Still to review/route. **Tue Oct 13 ~12:12pm ET Jeff\u2192Kat:** Indcom Est **2028** (relocate cabling 20-S2-IE4K/CP in BSA) \u2014 customer **Alex Leppard**; still needs Customer Info filled in QB."
     },
     {
       "id": "T146",
@@ -1145,6 +1145,15 @@
       "item": "Process DPP **BSA Bump Out Electrical Demo** Invoice **4713**",
       "source": "Email / Jason Marchbanks (DPP) 2026-10-12 ~7:01pm ET",
       "notes": "**Mon ~7:01pm ET Jason\u2192Jeff** (cc Bill, accounting, Katheryn, Amie): Joist https://client.joistapp.com/invoices/2acfb3030d2ccd20ddfd1cd4 + PDF *Invoice_4713.pdf.pdf* \u2014 **BSA Bump Out Electrical Demo**. Ties T48/T140 (SPC bump-out demo) / T42 BSA demo. Route/confirm payment."
+    },
+    {
+      "id": "T160",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP (ops process)",
+      "item": "Adopt Bill\u2019s GEV QuickBooks quotation workflow \u2014 Lump Sum vs Allocated",
+      "source": "Email / Bill Marchbanks 2026-10-13 ~12:13pm ET",
+      "notes": "**Tue ~12:13pm ET Bill\u2192Jeff + Katheryn:** standing SOP for every GEV quotation in QB. Customer-facing word = **quotation** (not estimate). **Lump Sum:** Line1 QUOTE-TERMS-GEV [Lump Sum]=full price; Line2 QUOTE-SCOPE=$0; no allocation lines. **Allocated** (NFPS-style split): Line1 QUOTE-TERMS-GEV [Allocated]=$0; Line2 QUOTE-SCOPE=$0; Lines3+ QUOTE-ALLOCATION per discipline totaling the quote. Never mix builds. One-time setup of the four Products/services if missing. Attach only customer SOW \u2014 never vendor/cost/markup. Email GEV saying quotation/quote; reply on existing thread. If unsure Lump vs Allocated, ask Bill before building."
     }
   ],
   "calendar": [
