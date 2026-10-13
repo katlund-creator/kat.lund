@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T14:17:48-04:00",
+  "updated": "2026-10-13T15:24:10-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -1154,9 +1154,37 @@
       "item": "Adopt Bill\u2019s GEV QuickBooks quotation workflow \u2014 Lump Sum vs Allocated",
       "source": "Email / Bill Marchbanks 2026-10-13 ~12:13pm ET",
       "notes": "**Tue ~12:13pm ET Bill\u2192Jeff + Katheryn:** standing SOP for every GEV quotation in QB. Customer-facing word = **quotation** (not estimate). **Lump Sum:** Line1 QUOTE-TERMS-GEV [Lump Sum]=full price; Line2 QUOTE-SCOPE=$0; no allocation lines. **Allocated** (NFPS-style split): Line1 QUOTE-TERMS-GEV [Allocated]=$0; Line2 QUOTE-SCOPE=$0; Lines3+ QUOTE-ALLOCATION per discipline totaling the quote. Never mix builds. One-time setup of the four Products/services if missing. Attach only customer SOW \u2014 never vendor/cost/markup. Email GEV saying quotation/quote; reply on existing thread. If unsure Lump vs Allocated, ask Bill before building."
+    },
+    {
+      "id": "T161",
+      "status": "open",
+      "priority": "med",
+      "due": "ASAP (AP)",
+      "item": "Review/route SPC Invoice **227** \u2014 Horseshoe",
+      "source": "Email / Evan Groce (SPC) 2026-10-13 ~2:21pm ET",
+      "notes": "*Horseshoe invoice* \u2014 \u201cPlease see attached invoice\u201d \u2014 PDF **Invoice_227_2026-11-12.pdf** to Jeff + ap.mail@. Amount not in email body. Route/confirm payment (same SPC path as T139/T140)."
+    },
+    {
+      "id": "T162",
+      "status": "open",
+      "priority": "med",
+      "due": "ASAP (AP)",
+      "item": "Review/route SPC Invoice **228** \u2014 Dust collector lid",
+      "source": "Email / Evan Groce (SPC) 2026-10-13 ~2:23pm ET",
+      "notes": "*Dust collector lid invoice* \u2014 \u201cPlease see attached invoice\u201d \u2014 PDF **Invoice_228_2026-11-12.pdf** to Jeff + ap.mail@. Amount not in email body. Distinct from T1 Hahn dust-collector electrical quote \u2014 fabrication lid invoice. Route/confirm payment."
+    },
+    {
+      "id": "T163",
+      "status": "open",
+      "priority": "med",
+      "due": "Wed Oct 14 **10:00\u201311:00am ET** (flexible after 10am)",
+      "item": "Meet **Robert Gross** at GE Vernova",
+      "source": "Calendar / Bill Marchbanks 2026-10-13 ~3:04pm ET",
+      "notes": "**Tue ~3:04pm ET** Bill (bmrchbnks@gmail.com) created Kat-cal invite **Meet Robert Gross at GE Vernova** Wed Oct 14 10:00\u201311:00am ET; description: any time after 10 AM (exact time flexible). Overlaps PP-6B-7 outage window (T155/e68 9:15am\u201312:15pm). \u2014 e71"
     }
   ],
   "calendar": [
+    "**Wed Oct 14 10:00\u201311:00am ET (NEW \u2014 Bill ~3:04pm; flexible after 10am)** \u2014 Meeting **Robert Gross** @ GE Vernova (Kat invited; overlaps PP-6B-7 outage) (T163) \u2014 e71",
     "**Wed Oct 14 9:15am\u201312:15pm ET (MOVED from Tue Oct 13 \u2014 Hinkson updated invite ~9:03am)** \u2014 Outage **PP-6B-7 @ ATA** (IDF-21; also PP-6B-7A, RP-13 circuits demo; AMK/Eldeco; MOC 23496); Kat cal still has stale Tue copy (T155) \u2014 e68",
     "**Tue Oct 13 pickup Ocala \u2192 Wed Oct 14 delivery Greenville (per Jeff ~8:27am)** \u2014 Priority1 load from Layher-Ocala; **BOL 60116215273**; $2,250 prepaid; 23,000 lbs; drop-off contact still unconfirmed in mail (T4/T156) \u2014 e69",
     "**Wed Oct 14 9:00\u20139:45am ET (CONFIRMED \u2014 Hinkson official; moved from 7:45\u20138:30am request)** \u2014 Outage **PP-7B-7 @ HBA** (DPP Ramco parts washers install, NFPS.03; GE lead Jim Stanley; WO# 26-301492) (T157) \u2014 e70 (Kat calendar Jeff hold + GE invite = one)",
@@ -1928,6 +1956,20 @@
       "end": "2026-10-14T09:45:00-04:00",
       "allDay": false,
       "todoId": "T157",
+      "status": "scheduled"
+    },
+    {
+      "id": "e71",
+      "type": "meeting",
+      "title": "Meet Robert Gross at GE Vernova",
+      "summary": "Wed Oct 14 10:00\u201311:00am ET (flexible after 10am) \u2014 Bill invited Katheryn",
+      "location": "GE Vernova",
+      "description": "Tue Oct 13 ~3:04pm ET Bill Marchbanks (bmrchbnks@gmail.com) created Kat-cal invite. Meeting with Robert Gross, any time after 10 AM (exact time flexible). Overlaps PP-6B-7 @ ATA outage window 9:15am\u201312:15pm (T155/e68). (T163)",
+      "start": "2026-10-14T10:00:00-04:00",
+      "end": "2026-10-14T11:00:00-04:00",
+      "allDay": false,
+      "todoId": "T163",
+      "relatedTodo": "T163",
       "status": "scheduled"
     }
   ]
