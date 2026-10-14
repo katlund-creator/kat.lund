@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T14:14:11-04:00",
+  "updated": "2026-10-14T17:12:05-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -649,7 +649,7 @@
       "due": "SENT Tue ~2:06pm ET Est **2027** $1,398,156.69 \u2014 waiting GE (Jim Stanley) approval/PO",
       "item": "Review/edit Katheryn draft quotation NFPS-02 Electrical & Mechanical-Plumbing (shared with Jeff)",
       "source": "Email / Google Docs share 2026-10-02 ~8:49am ET",
-      "notes": "**Fri ~8:49am ET** Katheryn shared Google Doc inviting Jeff to **edit**: **Quotation NFPS-02 - Electrical & Mechanical-Plumbing - GE Vernova** \u2014 https://docs.google.com/document/d/1iyWmwhviL1hkrEC96hPbVdKaGtoPOEmAsRKveg7WlaM/edit . Ties T70 (DPP NFPS.02 Electrical + Plumbing proposals) + T68 (SCI NFPS.02 Data). Jeff review/edit/approve path before customer send. **Tue ~5:06pm ET Katheryn\u2192Bill+Jeff:** \u201cPlease look this over so we can get it sent out.\u201d **Bill ~6:39pm:** likely ~9pm before he can review; **Kat ~7:32pm:** formatting issue fixed; **Bill ~10:04pm:** \u201ccall me.\u201d **~11:21pm ET** Kat shared Google Doc *Complete Scope - Quotation NFPS-02* with Jeff (edit). **Wed ~12:15am ET** Kat\u2192Jeff *UPDATED NFPS.02*. **Wed ~2:15am ET QuickBooks Estimate 2022 *NFPS.02* \u2014 $1,732,812.09 \u2014 sent to Jim Stanley (GE)** (Review and approve). Now waiting GE approval/PO. **Wed ~8:39pm ET** Katheryn shared Google Sheet **NFPS-02 Cost Breakdown** with Jeff (edit) \u2014 supporting cost detail for Est 2022; still waiting Jim Stanley approval/PO. **Thu Oct 8 ~8:44/8:52am ET:** DPP sent updated (10.08) Plumbing + Electrical proposals \u2014 see T70; may require revising Estimate 2022. **Mon Oct 12 ~8:56am ET Jim Stanley\u2192Jeff:** forwarded Estimate 2022 / *NFPS_02 - Full Scope.pdf* back with **no added comment** (soft nudge / still reviewing). Still waiting GE approval/PO. **Tue Oct 13 ~2:06pm ET QuickBooks Quotation/Estimate 2027 *NFPS.02* \u2014 $1,398,156.69 \u2014 sent to Jim Stanley (GE)** (cc mail@ / Kat / Jeff) with *NFPS_02 - Full Scope.pdf* + Estimate_2027 PDF (supersedes prior Est 2022 $1,732,812.09 amount for customer review). Still waiting GE approval/PO."
+      "notes": "**Fri ~8:49am ET** Katheryn shared Google Doc inviting Jeff to **edit**: **Quotation NFPS-02 - Electrical & Mechanical-Plumbing - GE Vernova** \u2014 https://docs.google.com/document/d/1iyWmwhviL1hkrEC96hPbVdKaGtoPOEmAsRKveg7WlaM/edit . Ties T70 (DPP NFPS.02 Electrical + Plumbing proposals) + T68 (SCI NFPS.02 Data). Jeff review/edit/approve path before customer send. **Tue ~5:06pm ET Katheryn\u2192Bill+Jeff:** \u201cPlease look this over so we can get it sent out.\u201d **Bill ~6:39pm:** likely ~9pm before he can review; **Kat ~7:32pm:** formatting issue fixed; **Bill ~10:04pm:** \u201ccall me.\u201d **~11:21pm ET** Kat shared Google Doc *Complete Scope - Quotation NFPS-02* with Jeff (edit). **Wed ~12:15am ET** Kat\u2192Jeff *UPDATED NFPS.02*. **Wed ~2:15am ET QuickBooks Estimate 2022 *NFPS.02* \u2014 $1,732,812.09 \u2014 sent to Jim Stanley (GE)** (Review and approve). Now waiting GE approval/PO. **Wed ~8:39pm ET** Katheryn shared Google Sheet **NFPS-02 Cost Breakdown** with Jeff (edit) \u2014 supporting cost detail for Est 2022; still waiting Jim Stanley approval/PO. **Thu Oct 8 ~8:44/8:52am ET:** DPP sent updated (10.08) Plumbing + Electrical proposals \u2014 see T70; may require revising Estimate 2022. **Mon Oct 12 ~8:56am ET Jim Stanley\u2192Jeff:** forwarded Estimate 2022 / *NFPS_02 - Full Scope.pdf* back with **no added comment** (soft nudge / still reviewing). Still waiting GE approval/PO. **Tue Oct 13 ~2:06pm ET QuickBooks Quotation/Estimate 2027 *NFPS.02* \u2014 $1,398,156.69 \u2014 sent to Jim Stanley (GE)** (cc mail@ / Kat / Jeff) with *NFPS_02 - Full Scope.pdf* + Estimate_2027 PDF (supersedes prior Est 2022 $1,732,812.09 amount for customer review). Still waiting GE approval/PO. **Wed Oct 14 ~4:33pm ET QuickBooks re-sent Quotation/Estimate 2027 *NFPS.02* \u2014 $1,398,156.69 \u2014 to Jim Stanley** (cc mail@ / Kat / Jeff; Estimate_2027 PDF + *NFPS_02 - Full Scope.pdf*). Still waiting GE approval/PO."
     },
     {
       "id": "T91",
@@ -1235,6 +1235,15 @@
       "item": "Attend **EZA Project Kick-off** (Minhaj Syed) \u2014 PO **4900667131** Transform EZA Shop Floor Office",
       "source": "Email / Minhaj Syed + cal invite 2026-10-14 ~9:39am ET",
       "notes": "**Wed ~9:39am ET Minhaj\u2192Jeff/Colby/Kat/Zach (Christine optional):** PO just approved **4900667131**; meet to talk about how to get project started. Location **Meet at EZA Office Area**. **~9:52am Jeff** + **~9:53am Katheryn** accepted/thanked. Ties **T23/T169**. \u2014 e75"
+    },
+    {
+      "id": "T171",
+      "status": "open",
+      "priority": "med",
+      "due": "ASAP \u2014 reply to Alex Neal (any history w/ Alex Acosta?) + offer walk time for quoting",
+      "item": "GE water heater move **J-Bay \u2192 K-Bay** \u2014 pick up project from Alex Acosta (Alex Neal, GE)",
+      "source": "Email / Alexander Neal (GE Vernova, Lead Mfg Eng Rotor Assembly & Repair) 2026-10-14 ~4:14pm ET",
+      "notes": "**Wed ~4:14pm ET Alex Neal\u2192Jeff:** taking over project from **Alex Acosta** to move a **water heater from J-Bay to K-Bay**; asks if Jeff had prior communication with Acosta; if not, send a time to meet briefly to look at area + equipment needing moved **for quoting**. Mobile (864) 901-3597. Possibly ties **T165** (DPP Joist KMB Projects \u2013 Alex Acosta) \u2014 confirm. Alex Neal also requester on T85 (KGA Mist Collector PO)."
     }
   ],
   "calendar": [
