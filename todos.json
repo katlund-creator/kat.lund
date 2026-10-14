@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T15:24:10-04:00",
+  "updated": "2026-10-14T09:17:18-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -34,10 +34,10 @@
       "id": "T4",
       "status": "waiting",
       "priority": "high",
-      "due": "Pickup ETA **~1400 Tue Oct 13** (was ~12:00 / 0800\u20130900); **delivery Wed Oct 14** Greenville; confirm drop-off contact",
+      "due": "**DELIVERY TODAY Wed Oct 14** Greenville (in transit since ~4:28pm Tue; no arrival/ETA mail yet); confirm drop-off contact",
       "item": "Layher rental R-000159 \u2014 issue PO GE-JF260930 + confirm ship ETA",
       "source": "Email / Jeremy + Jeff + Jimmy + Prosponsive 2026-09-25/28/30/10-01/10-02",
-      "notes": "**Prior:** Order Preview R-000159 **final 10.1.26**; transferring; **1' ledgers** + **11\u00d7 28' lattice girders** from Washington **not on first truck**. **Fri ~2:18pm ET Jeremy:** hard to find truck for today; broker by 3:30pm or Monday. **Fri ~3:25pm ET Jeff\u2192Jeremy (cc Obed/Jimmy):** ask OT to load a truck **tomorrow (Sat)**; waiting broker callback; in a bind. **Fri ~4:01pm ET Jimmy Holmes:** not about OT \u2014 brokers can't secure a truck; nibble fell through; will wait a while; if Jeff's guy finds something let Layher know. **Fri ~4:09pm ET Jeff\u2192Jimmy:** broker searching for loading **today or tomorrow morning**; will update in ~15 min. **Fri ~4:48pm ET Alex Pittman (Prosponsive Logistics):** Customer Packet attached \u2014 **need account setup** to build load + dispatch driver (see **T97**). Still need Indcom PO **GE-JF260930** + ship day/ETA. Related: Obed Catalog + New Toy S-000236 (T61). **Sat Oct 3 ~12:53pm ET Jeff\u2192Bill:** Prosponsive load **cancelled** \u2014 Layher couldn't get a truck in time; Jeff will **wait for Layher to find/schedule a truck**; job starts when material arrives. (Fri ~5:31pm Jeff had sent Bill the Prosponsive freight form; Bill ~6:15pm asked turnaround; Bill Sat ~1:38pm: building standard credit-app template.) **T97 closed.** Still need Layher ship date/ETA + Indcom PO **GE-JF260930**. **Mon Oct 5 ~11:36am ET Jeff\u2192Jeremy:** asked status of the truck. **~11:44am ET Jeremy:** good news \u2014 **Layher brokers found a truck**; now waiting for it to arrive to load. Still need ship/delivery ETA + Indcom PO **GE-JF260930**. **Sun Oct 11 ~9:05pm ET Jeff\u2192Jeremy Bayate (cc Obed Bosch, Jimmy Holmes):** asked for status/delivery date of the **remaining material**, and to **add 300\u00d7 2'5\" LW ledgers** (written \u201c300-2'5 lwl\u201d) to that truck. **Mon Oct 12 ~9:00am ET Jeremy:** Washington material **received Friday**; staging; **aiming to ship today** but truck availability limited (holiday). Will **add 300\u00d7 2601073 ledgers** (2'5\" LW) to this second truck under **PO GE-JF260930**. Still need confirmed ship/delivery ETA. **Mon Oct 12 ~12:13pm ET Riley Clarke (Priority1)\u2192Jeff:** account set up on **Prepay**; rate **48' flatbed FL\u2192SC $2,250, 1-day transit** (Layher-Ocala, 1805 SW 37th Ave, Ocala FL \u2014 Jimmy Holmes 352-867-7223 \u2192 GE Vernova Greenville, 300 Garlington Rd); scaffolding ~**48,000 lbs**. Needs Jeff to **approve rate** + give **drop-off contact** (see **T156**). **~12:29pm ET Riley** started chain w/ Jeremy + Jimmy: Layher to confirm pickup **today if possible**, then Priority1 books truck. **Mon Oct 12 ~12:35pm ET Jeremy Bayate\u2192Riley (Priority1) + Jeff + Jimmy:** connected with team \u2014 Layher **has not begun staging this order**; Jeremy will reach out to Priority1 **when ready for pickup** (contradicts ~9:00am \u201caiming to ship today\u201d \u2192 same-day pickup now unlikely). **Mon ~1:30pm ET Riley Clarke (Priority1)\u2192Jeremy/Jimmy + Jeff:** thanks for update; looped in Priority1 flatbed team to find a driver **as soon as the load is ready for pickup**. **Mon ~4:07pm ET Jeremy Bayate (Layher)\u2192Riley (cc Priority1 Flatbed, Joshua Cady, Jeff, Jimmy):** material **STAGED**; asks Priority1 to **pick up tomorrow (Tue Oct 13)**; weight **23,000 lbs**; Conestoga/step deck OK for this lighter load if side-loadable by forklift. **~4:11pm ET Aaron Rueber (Priority1):** received \u2014 will send **BOL + ETA once a driver is assigned**. **~4:18pm ET Priority1 payment receipt** for **BOL 60116215273** (P1-Receipt-60116215273.pdf) \u2192 freight prepaid (see T156). Now waiting driver/BOL/ETA; delivery likely Wed Oct 14 given 1-day transit (unconfirmed). **Mon ~4:28pm ET Aaron Rueber (Priority1):** **All set for tomorrow** \u2014 driver getting empty at Layher Ocala at **0800**; ready to load **0800\u20130900 Tue Oct 13 AM**; **BOL attached** (PDF `60116215273-billoflading-34474-29615-639274330863505701.pdf`). Still need delivery ETA (1-day transit \u2192 likely **Wed Oct 14**) + confirm **drop-off contact** was given. **Tue Oct 13 ~8:00am ET Bill Marchbanks\u2192Riley (Priority1):** submitted the Priority1 **credit app online**; Jeff should contact Riley soon for support (account follow-through). No overnight/morning mail confirming load-complete or delivery ETA yet \u2014 pickup window **0800\u20130900 underway**; drop-off contact still unconfirmed in mail. **Tue ~8:27am ET Jeff\u2192Bill (cc Kat):** prepaid load pickup from Ocala today, **delivery tomorrow (Wed Oct 14) in Greenville**. **Tue ~9:56am ET Riley Clarke (Priority1)\u2192Aaron/Jeremy/Jeff/Jimmy:** pickup **ETA around 12:00 today**; **delivery still slated for tomorrow (Wed Oct 14)**. Drop-off contact still unconfirmed in mail. **Tue ~1:21pm ET Jeremy Bayate\u2192Riley (cc Aaron/Jeff/Jimmy):** asked for **updated delivery ETA**. **Tue ~1:25pm ET Joshua Cady (Priority1)\u2192Jeremy/Riley/Aaron/Jeff/Jimmy + Flatbed:** flatbed driver **ETA now 1400** (delayed from this morning\u2019s local delivery); Flatbed to provide further updates. Pickup still underway (slipped from ~12:00); **delivery still expected Wed Oct 14** (1-day transit, unconfirmed). Drop-off contact still unconfirmed in mail."
+      "notes": "**Prior:** Order Preview R-000159 **final 10.1.26**; transferring; **1' ledgers** + **11\u00d7 28' lattice girders** from Washington **not on first truck**. **Fri ~2:18pm ET Jeremy:** hard to find truck for today; broker by 3:30pm or Monday. **Fri ~3:25pm ET Jeff\u2192Jeremy (cc Obed/Jimmy):** ask OT to load a truck **tomorrow (Sat)**; waiting broker callback; in a bind. **Fri ~4:01pm ET Jimmy Holmes:** not about OT \u2014 brokers can't secure a truck; nibble fell through; will wait a while; if Jeff's guy finds something let Layher know. **Fri ~4:09pm ET Jeff\u2192Jimmy:** broker searching for loading **today or tomorrow morning**; will update in ~15 min. **Fri ~4:48pm ET Alex Pittman (Prosponsive Logistics):** Customer Packet attached \u2014 **need account setup** to build load + dispatch driver (see **T97**). Still need Indcom PO **GE-JF260930** + ship day/ETA. Related: Obed Catalog + New Toy S-000236 (T61). **Sat Oct 3 ~12:53pm ET Jeff\u2192Bill:** Prosponsive load **cancelled** \u2014 Layher couldn't get a truck in time; Jeff will **wait for Layher to find/schedule a truck**; job starts when material arrives. (Fri ~5:31pm Jeff had sent Bill the Prosponsive freight form; Bill ~6:15pm asked turnaround; Bill Sat ~1:38pm: building standard credit-app template.) **T97 closed.** Still need Layher ship date/ETA + Indcom PO **GE-JF260930**. **Mon Oct 5 ~11:36am ET Jeff\u2192Jeremy:** asked status of the truck. **~11:44am ET Jeremy:** good news \u2014 **Layher brokers found a truck**; now waiting for it to arrive to load. Still need ship/delivery ETA + Indcom PO **GE-JF260930**. **Sun Oct 11 ~9:05pm ET Jeff\u2192Jeremy Bayate (cc Obed Bosch, Jimmy Holmes):** asked for status/delivery date of the **remaining material**, and to **add 300\u00d7 2'5\" LW ledgers** (written \u201c300-2'5 lwl\u201d) to that truck. **Mon Oct 12 ~9:00am ET Jeremy:** Washington material **received Friday**; staging; **aiming to ship today** but truck availability limited (holiday). Will **add 300\u00d7 2601073 ledgers** (2'5\" LW) to this second truck under **PO GE-JF260930**. Still need confirmed ship/delivery ETA. **Mon Oct 12 ~12:13pm ET Riley Clarke (Priority1)\u2192Jeff:** account set up on **Prepay**; rate **48' flatbed FL\u2192SC $2,250, 1-day transit** (Layher-Ocala, 1805 SW 37th Ave, Ocala FL \u2014 Jimmy Holmes 352-867-7223 \u2192 GE Vernova Greenville, 300 Garlington Rd); scaffolding ~**48,000 lbs**. Needs Jeff to **approve rate** + give **drop-off contact** (see **T156**). **~12:29pm ET Riley** started chain w/ Jeremy + Jimmy: Layher to confirm pickup **today if possible**, then Priority1 books truck. **Mon Oct 12 ~12:35pm ET Jeremy Bayate\u2192Riley (Priority1) + Jeff + Jimmy:** connected with team \u2014 Layher **has not begun staging this order**; Jeremy will reach out to Priority1 **when ready for pickup** (contradicts ~9:00am \u201caiming to ship today\u201d \u2192 same-day pickup now unlikely). **Mon ~1:30pm ET Riley Clarke (Priority1)\u2192Jeremy/Jimmy + Jeff:** thanks for update; looped in Priority1 flatbed team to find a driver **as soon as the load is ready for pickup**. **Mon ~4:07pm ET Jeremy Bayate (Layher)\u2192Riley (cc Priority1 Flatbed, Joshua Cady, Jeff, Jimmy):** material **STAGED**; asks Priority1 to **pick up tomorrow (Tue Oct 13)**; weight **23,000 lbs**; Conestoga/step deck OK for this lighter load if side-loadable by forklift. **~4:11pm ET Aaron Rueber (Priority1):** received \u2014 will send **BOL + ETA once a driver is assigned**. **~4:18pm ET Priority1 payment receipt** for **BOL 60116215273** (P1-Receipt-60116215273.pdf) \u2192 freight prepaid (see T156). Now waiting driver/BOL/ETA; delivery likely Wed Oct 14 given 1-day transit (unconfirmed). **Mon ~4:28pm ET Aaron Rueber (Priority1):** **All set for tomorrow** \u2014 driver getting empty at Layher Ocala at **0800**; ready to load **0800\u20130900 Tue Oct 13 AM**; **BOL attached** (PDF `60116215273-billoflading-34474-29615-639274330863505701.pdf`). Still need delivery ETA (1-day transit \u2192 likely **Wed Oct 14**) + confirm **drop-off contact** was given. **Tue Oct 13 ~8:00am ET Bill Marchbanks\u2192Riley (Priority1):** submitted the Priority1 **credit app online**; Jeff should contact Riley soon for support (account follow-through). No overnight/morning mail confirming load-complete or delivery ETA yet \u2014 pickup window **0800\u20130900 underway**; drop-off contact still unconfirmed in mail. **Tue ~8:27am ET Jeff\u2192Bill (cc Kat):** prepaid load pickup from Ocala today, **delivery tomorrow (Wed Oct 14) in Greenville**. **Tue ~9:56am ET Riley Clarke (Priority1)\u2192Aaron/Jeremy/Jeff/Jimmy:** pickup **ETA around 12:00 today**; **delivery still slated for tomorrow (Wed Oct 14)**. Drop-off contact still unconfirmed in mail. **Tue ~1:21pm ET Jeremy Bayate\u2192Riley (cc Aaron/Jeff/Jimmy):** asked for **updated delivery ETA**. **Tue ~1:25pm ET Joshua Cady (Priority1)\u2192Jeremy/Riley/Aaron/Jeff/Jimmy + Flatbed:** flatbed driver **ETA now 1400** (delayed from this morning\u2019s local delivery); Flatbed to provide further updates. Pickup still underway (slipped from ~12:00); **delivery still expected Wed Oct 14** (1-day transit, unconfirmed). Drop-off contact still unconfirmed in mail. **Tue ~4:28pm ET Riley Clarke (Priority1)\u2192thread:** Alright, looks like this has been **loaded and is now in transit**. Thanks everyone; let him know if anyone needs anything. Pickup **COMPLETE** \u2014 loaded & in transit as of ~4:28pm ET Tue Oct 13. **Delivery still slated Wed Oct 14** Greenville. Drop-off contact still unconfirmed in mail. **Wed Oct 14 ~9:13am ET:** no new Layher/Priority1 mail overnight or this morning (last = Riley ~4:28pm Tue \u201cloaded & in transit\u201d). **Delivery due TODAY Wed Oct 14** Greenville \u2014 no arrival/ETA confirmation yet; drop-off contact still unconfirmed in mail."
     },
     {
       "id": "T6",
@@ -167,12 +167,12 @@
     },
     {
       "id": "T23",
-      "status": "waiting",
-      "priority": "med",
-      "due": "this week",
-      "item": "EZA OPS Office / Training Room Conversion \u2014 waiting Minhaj",
+      "status": "open",
+      "priority": "high",
+      "due": "PO IN Wed Oct 14 \u2014 kick off vendors / schedule",
+      "item": "EZA OPS Office / Training Room Conversion \u2014 **PO IN 4900667131** (was waiting Minhaj)",
       "source": "Email / Jeff\u2192Minhaj Syed 2026-09-18 ~8:17am",
-      "notes": "Jeff re-sent Estimate 1974.pdf (cc Colby Murphy, Katheryn). Minhaj Fri ~9:10am ET: \u201cThank you Jeff and Katheryn.\u201d Still waiting PO / next ask."
+      "notes": "Jeff re-sent Estimate 1974.pdf (cc Colby Murphy, Katheryn). Minhaj Fri ~9:10am ET: \u201cThank you Jeff and Katheryn.\u201d Still waiting PO / next ask. **Wed Oct 14 ~5:31am ET Ariba:** GE PO **4900667131** **$169,428.00** (requester **Colby Murphy**, PR836974) \u2014 *Transform EZA Shop Floor Office* (training space \u2192 offices; office \u2192 training/meeting) \u2014 see **T169**. **~8:53am ET Katheryn\u2192Brian Hoeft (CDI Cabinets, cc Jeff):** PO received \u2014 asked kickoff needs, lead time, any changes (cabinets/quartz). **~8:54am ET Katheryn\u2192Jen Hunt (PMC, cc Jeff):** same ask for chairs/tables/whiteboards. Waiting vendor replies; also decide furniture removal path (T86 Lawless Est 2038 vs Indcom Est 2030)."
     },
     {
       "id": "T24",
@@ -473,12 +473,12 @@
     },
     {
       "id": "T67",
-      "status": "waiting",
+      "status": "open",
       "priority": "high",
-      "due": "6 of 7 machines DONE (Frank Wed ~8:22am ET); 7th \u2014 Jeff tells MSS when placed",
+      "due": "REOPENED \u2014 Jeff Wed ~8:32am: Mitsubishi motor starters not tied in; MSS to clarify",
       "item": "Schedule BL4 / NFPS.03 mist-collector + fire-alarm work with MSS (Jason Gunter / Frank Manganella); lock Mon crew",
       "source": "Email / Jeff\u2194Jason Gunter + Frank Manganella (MSS) 2026-09-29/30/10-02",
-      "notes": "**Prior:** PO **4900652190**/card; Bill vendor setup; GE fire-alarm POC ask; MSS Sinker quote chase (T68). **Fri ~7:43am/8:07am/9:03am:** Frank offered Mon if ready; Jeff confirmed **6 machines 100% ready** (1 unplaced = separate). **Fri ~3:08pm ET Frank\u2192Kat+Jeff:** Indcom **not set up as MSS customer** \u2014 return customer form to start service (see **T95**). **Fri ~3:10pm ET Kat\u2192Bill+Jeff:** asked Bill to fill *New Customer Application v9_3.12.26.pdf*. **Action:** complete T95 form \u2192 then Frank/MSS Mon crew lock + update customer; still need GE onsite fire-alarm POC. Distinct from T57. Relates T68/T95. **Mon ~9:16am ET:** no Frank/MSS crew-arrival mail today; form (T95) not yet returned per mail. **Mon ~1:07pm ET:** MSS vendor-packet reply to Frank drafted in Jeff Gmail (not yet sent) \u2014 see T95. **Wed Oct 7 ~8:22am ET Frank Manganella (MSS)\u2192Jeff (cc Jason Gunter):** MSS **pulled wire for, installed, and programmed 6 FMM-1s + 6 FRM-1s** for monitoring/shutdown of associated equipment in **H-Bay** \u2014 6 machines done. **7th machine not yet installed; wire in place.** Frank: \"let me know when this is ready, we can come back and finish.\" **Action:** Jeff notify Frank when 7th machine is placed; expect MSS invoice for completed 6. (Work proceeded, so T95 customer setup evidently cleared.) **Wed ~9:48am ET Jeff\u2192Frank:** will let him know when the 7th machine is scheduled to be installed; thanked MSS. **Mon Oct 12 ~9:26am ET Shanna\u2192Jason (cc Jeff):** Filter Mist asset #s issued for NFPS.03 \u2014 **607291 HEA / 607292 HDA / 607296 HDA / 607293 HDA / 607294 HCA / 607295 HBA / 607297 HBA**; will sync one-lines with Jason after meetings. FYI (supports mist-collector GT path)."
+      "notes": "**Prior:** PO **4900652190**/card; Bill vendor setup; GE fire-alarm POC ask; MSS Sinker quote chase (T68). **Fri ~7:43am/8:07am/9:03am:** Frank offered Mon if ready; Jeff confirmed **6 machines 100% ready** (1 unplaced = separate). **Fri ~3:08pm ET Frank\u2192Kat+Jeff:** Indcom **not set up as MSS customer** \u2014 return customer form to start service (see **T95**). **Fri ~3:10pm ET Kat\u2192Bill+Jeff:** asked Bill to fill *New Customer Application v9_3.12.26.pdf*. **Action:** complete T95 form \u2192 then Frank/MSS Mon crew lock + update customer; still need GE onsite fire-alarm POC. Distinct from T57. Relates T68/T95. **Mon ~9:16am ET:** no Frank/MSS crew-arrival mail today; form (T95) not yet returned per mail. **Mon ~1:07pm ET:** MSS vendor-packet reply to Frank drafted in Jeff Gmail (not yet sent) \u2014 see T95. **Wed Oct 7 ~8:22am ET Frank Manganella (MSS)\u2192Jeff (cc Jason Gunter):** MSS **pulled wire for, installed, and programmed 6 FMM-1s + 6 FRM-1s** for monitoring/shutdown of associated equipment in **H-Bay** \u2014 6 machines done. **7th machine not yet installed; wire in place.** Frank: \"let me know when this is ready, we can come back and finish.\" **Action:** Jeff notify Frank when 7th machine is placed; expect MSS invoice for completed 6. (Work proceeded, so T95 customer setup evidently cleared.) **Wed ~9:48am ET Jeff\u2192Frank:** will let him know when the 7th machine is scheduled to be installed; thanked MSS. **Mon Oct 12 ~9:26am ET Shanna\u2192Jason (cc Jeff):** Filter Mist asset #s issued for NFPS.03 \u2014 **607291 HEA / 607292 HDA / 607296 HDA / 607293 HDA / 607294 HCA / 607295 HBA / 607297 HBA**; will sync one-lines with Jason after meetings. FYI (supports mist-collector GT path). **Wed Oct 14 ~8:32am ET Jeff\u2192Frank Manganella (cc Jason Gunter, Katheryn):** electrician says the **Mitsubishi motor starters are not tied into the machines** \u2014 thought this was completed; asks MSS to clarify what was/wasn\u2019t done; \u201cif the machines aren\u2019t tied into the system on both ends this is not complete.\u201d Waiting MSS reply (hold any MSS invoice until resolved)."
     },
     {
       "id": "T68",
@@ -1114,10 +1114,10 @@
       "id": "T156",
       "status": "waiting",
       "priority": "high",
-      "due": "Pickup ETA **~1400 Tue Oct 13** (was ~12:00 / 0800\u20130900); **delivery Wed Oct 14**; confirm drop-off contact",
+      "due": "**DELIVERY TODAY Wed Oct 14** (in transit since ~4:28pm Tue); confirm drop-off contact",
       "item": "Priority1 flatbed Layher-Ocala \u2192 GE Greenville \u2014 rate **$2,250** (now paid, BOL 60116215273) + drop-off contact",
       "source": "Email / Riley Clarke (Priority1) 2026-10-12 ~12:13pm + ~12:29pm ET",
-      "notes": "**Mon ~12:13pm ET Riley\u2192Jeff (cc Joshua Cady):** set up on Prepay; **48' flatbed FL\u2192SC $2,250, 1-day transit**; pickup Layher-Ocala (Jimmy Holmes 352-867-7223) \u2192 GE Vernova Greenville 300 Garlington Rd; scaffolding ~48,000 lbs. **Please verify + approve rate**; **needs a drop-off contact**. **~12:29pm ET Riley\u2192Jeff + Jeremy Bayate + Jimmy Holmes:** waiting Layher confirmation to pick up **today if possible**, then truck gets booked. Ties to **T4** (PO GE-JF260930). **~12:35pm ET Jeremy Bayate (Layher) reply-all:** order **not staged yet**; will notify Priority1 when ready for pickup \u2014 so pickup today unlikely. No Jeff approval/drop-off-contact reply seen through ~1:18pm ET \u2014 **still owed** so Priority1 can book as soon as Layher is ready. **Mon ~1:30pm ET Riley Clarke (Priority1)\u2192Jeremy/Jimmy + Jeff:** thanks for update; looped in Priority1 flatbed team to find a driver **as soon as the load is ready for pickup**. **Mon ~4:07pm ET Jeremy (Layher):** material staged; pickup **tomorrow (Tue Oct 13)**; actual weight **23,000 lbs** (not ~48,000). **~4:11pm ET Aaron Rueber (Priority1):** will provide **BOL + ETA once driver assigned**. **~4:18pm ET Priority1 payment receipt for BOL 60116215273** \u2192 Jeff appears to have approved/paid the rate (prepay). Drop-off contact not seen in mail \u2014 confirm it was given (phone/portal). **Mon ~4:28pm ET Aaron Rueber (Priority1)\u2192Jeremy/Riley/Jeff/Jimmy (cc Joshua Cady):** driver assigned \u2014 empty at Ocala **0800 Tue Oct 13**, load window **0800\u20130900**; **BOL 60116215273** attached. Rate paid. Still confirm **drop-off contact**; watch for in-transit ETA / delivery Wed Oct 14. **Tue Oct 13 ~8:00am ET Bill Marchbanks\u2192Riley (Priority1):** submitted the Priority1 **credit app online**; Jeff should contact Riley soon for support (account follow-through). No overnight/morning mail confirming load-complete or delivery ETA yet \u2014 pickup window **0800\u20130900 underway**; drop-off contact still unconfirmed in mail. **Tue ~8:27am ET Jeff\u2192Bill (cc Katheryn)** fwd P1 receipt: \u201cPre paid load for pickup from Ocala today **delivery tomorrow in Greenville**.\u201d Bill ~8:28am: \u201cGreat.\u201d Drop-off contact still not seen in mail. **Tue ~9:56am ET Riley Clarke (Priority1):** pickup **ETA around 12:00 today** with **delivery still slated for tomorrow**. Drop-off contact still unconfirmed. **Tue ~1:21pm ET Jeremy Bayate\u2192Riley (cc Aaron/Jeff/Jimmy):** asked for **updated delivery ETA**. **Tue ~1:25pm ET Joshua Cady (Priority1)\u2192Jeremy/Riley/Aaron/Jeff/Jimmy + Flatbed:** flatbed driver **ETA now 1400** (delayed from this morning\u2019s local delivery); Flatbed to provide further updates. Pickup still underway (slipped from ~12:00); **delivery still expected Wed Oct 14** (1-day transit, unconfirmed). Drop-off contact still unconfirmed in mail."
+      "notes": "**Mon ~12:13pm ET Riley\u2192Jeff (cc Joshua Cady):** set up on Prepay; **48' flatbed FL\u2192SC $2,250, 1-day transit**; pickup Layher-Ocala (Jimmy Holmes 352-867-7223) \u2192 GE Vernova Greenville 300 Garlington Rd; scaffolding ~48,000 lbs. **Please verify + approve rate**; **needs a drop-off contact**. **~12:29pm ET Riley\u2192Jeff + Jeremy Bayate + Jimmy Holmes:** waiting Layher confirmation to pick up **today if possible**, then truck gets booked. Ties to **T4** (PO GE-JF260930). **~12:35pm ET Jeremy Bayate (Layher) reply-all:** order **not staged yet**; will notify Priority1 when ready for pickup \u2014 so pickup today unlikely. No Jeff approval/drop-off-contact reply seen through ~1:18pm ET \u2014 **still owed** so Priority1 can book as soon as Layher is ready. **Mon ~1:30pm ET Riley Clarke (Priority1)\u2192Jeremy/Jimmy + Jeff:** thanks for update; looped in Priority1 flatbed team to find a driver **as soon as the load is ready for pickup**. **Mon ~4:07pm ET Jeremy (Layher):** material staged; pickup **tomorrow (Tue Oct 13)**; actual weight **23,000 lbs** (not ~48,000). **~4:11pm ET Aaron Rueber (Priority1):** will provide **BOL + ETA once driver assigned**. **~4:18pm ET Priority1 payment receipt for BOL 60116215273** \u2192 Jeff appears to have approved/paid the rate (prepay). Drop-off contact not seen in mail \u2014 confirm it was given (phone/portal). **Mon ~4:28pm ET Aaron Rueber (Priority1)\u2192Jeremy/Riley/Jeff/Jimmy (cc Joshua Cady):** driver assigned \u2014 empty at Ocala **0800 Tue Oct 13**, load window **0800\u20130900**; **BOL 60116215273** attached. Rate paid. Still confirm **drop-off contact**; watch for in-transit ETA / delivery Wed Oct 14. **Tue Oct 13 ~8:00am ET Bill Marchbanks\u2192Riley (Priority1):** submitted the Priority1 **credit app online**; Jeff should contact Riley soon for support (account follow-through). No overnight/morning mail confirming load-complete or delivery ETA yet \u2014 pickup window **0800\u20130900 underway**; drop-off contact still unconfirmed in mail. **Tue ~8:27am ET Jeff\u2192Bill (cc Katheryn)** fwd P1 receipt: \u201cPre paid load for pickup from Ocala today **delivery tomorrow in Greenville**.\u201d Bill ~8:28am: \u201cGreat.\u201d Drop-off contact still not seen in mail. **Tue ~9:56am ET Riley Clarke (Priority1):** pickup **ETA around 12:00 today** with **delivery still slated for tomorrow**. Drop-off contact still unconfirmed. **Tue ~1:21pm ET Jeremy Bayate\u2192Riley (cc Aaron/Jeff/Jimmy):** asked for **updated delivery ETA**. **Tue ~1:25pm ET Joshua Cady (Priority1)\u2192Jeremy/Riley/Aaron/Jeff/Jimmy + Flatbed:** flatbed driver **ETA now 1400** (delayed from this morning\u2019s local delivery); Flatbed to provide further updates. Pickup still underway (slipped from ~12:00); **delivery still expected Wed Oct 14** (1-day transit, unconfirmed). Drop-off contact still unconfirmed in mail. **Tue ~4:28pm ET Riley Clarke (Priority1)\u2192thread:** Alright, looks like this has been **loaded and is now in transit**. Thanks everyone; let him know if anyone needs anything. Pickup **COMPLETE** \u2014 loaded & in transit as of ~4:28pm ET Tue Oct 13. **Delivery still slated Wed Oct 14** Greenville. Drop-off contact still unconfirmed in mail. **Wed Oct 14 ~9:13am ET:** no new Layher/Priority1 mail overnight or this morning (last = Riley ~4:28pm Tue \u201cloaded & in transit\u201d). **Delivery due TODAY Wed Oct 14** Greenville \u2014 no arrival/ETA confirmation yet; drop-off contact still unconfirmed in mail."
     },
     {
       "id": "T157",
@@ -1135,7 +1135,7 @@
       "due": "waiting James Henderson",
       "item": "Family Day passes for a few Indcom employees \u2014 waiting GE reply",
       "source": "Email / Jeff\u2192James Henderson (GE Vernova, consultant) 2026-10-12 ~4:09pm ET",
-      "notes": "**Mon ~4:09pm ET Jeff\u2192James Henderson** (reply on Sep 29 *FAMILY DAY REGISTRATION LINK*): asked if there's still a way to submit a few Indcom employees for **GEV Greenville Family Day** passes. Bill's Indcom SSO # S20558-000 (Sep 30). Watch for James's reply / registration path."
+      "notes": "**Mon ~4:09pm ET Jeff\u2192James Henderson** (reply on Sep 29 *FAMILY DAY REGISTRATION LINK*): asked if there's still a way to submit a few Indcom employees for **GEV Greenville Family Day** passes. Bill's Indcom SSO # S20558-000 (Sep 30). Watch for James's reply / registration path. **Related Wed Oct 14:** Fitts asks Indcom to clear parking lot for Family Day by **10/28** \u2014 see **T167**."
     },
     {
       "id": "T159",
@@ -1181,12 +1181,69 @@
       "item": "Meet **Robert Gross** at GE Vernova",
       "source": "Calendar / Bill Marchbanks 2026-10-13 ~3:04pm ET",
       "notes": "**Tue ~3:04pm ET** Bill (bmrchbnks@gmail.com) created Kat-cal invite **Meet Robert Gross at GE Vernova** Wed Oct 14 10:00\u201311:00am ET; description: any time after 10 AM (exact time flexible). Overlaps PP-6B-7 outage window (T155/e68 9:15am\u201312:15pm). \u2014 e71"
+    },
+    {
+      "id": "T164",
+      "status": "open",
+      "priority": "med",
+      "due": "Jason free **after 7am Wed Oct 14** to meet Ed; machines arrive **March 2027**",
+      "item": "Utilities for **Kardex Vertical Lift Machines** \u2014 MDC kitting area (Ed Daughtry, GE) \u2014 costs + timing",
+      "source": "Email / Jason Marchbanks (DPP) fwd 2026-10-13 ~3:48pm ET",
+      "notes": "**Tue ~3:19pm ET Ed Daughtry (GE Lead Industrial Engineer, Gas Power, +1 864-263-8082)\u2192Jason:** working Vertical Lift Machines (Kardex) for the **MDC area**; needs utilities run to them; machines **not here until March** \u2014 just looking for **costs and timing**; wants to meet in the **MDC kitting area** to show install locations (layout image attached). **~3:48pm ET Jason\u2192Ed:** happy to put something together; available **anytime after 7am tomorrow (Wed Oct 14)**. Jason fwd to Jeff (no note). Jeff/Kat: coordinate MDC walk with Ed + Jason, then build utilities quotation."
+    },
+    {
+      "id": "T165",
+      "status": "open",
+      "priority": "med",
+      "due": "ASAP / this week \u2014 review & route to customer (Alex Acosta / KMB)",
+      "item": "Review/route DPP Joist estimate \u2014 KMB Projects (Alex Acosta)",
+      "source": "Email / Jason Marchbanks (DPP) 2026-10-13 ~4:28pm ET",
+      "notes": "Jason sent Joist estimate for **KMB Projects - Alex Acosta** (cc Bill + Kat): https://client.joistapp.com/estimates/8a7cabed3c1bb9cfc56cf927. Jeff/Kat: open Joist, confirm scope/amount, fold into customer proposal / next step with Alex Acosta."
+    },
+    {
+      "id": "T166",
+      "status": "open",
+      "priority": "high",
+      "due": "**Before Mon Oct 19** (AMKing welding starts) \u2014 \u22653 bays decking",
+      "item": "M-Bay Scaffolding \u2014 get **\u22653 bays of decking** up before AMKing starts welding steel Mon 10/19",
+      "source": "Email / Joseph Buellesbach (GE) 2026-10-13 ~5:22pm ET",
+      "notes": "**Tue ~5:22pm ET Joe Buellesbach\u2192Jeff, Steve Gordon + Kyle Herman (AMKing):** AMKing plans to **start welding steel in M-bay Mon 10/19**; GE wants **at least three bays of decking** up before then. Asks AMK: **north-to-south or south-to-north?**; can **Matt Hinty** (Advanced Rigging) provide a **crane operator on off shift**?; can **Capitol** clear space in **MFA** to **stage scaffolding**? **Crane currently de-energized MAA\u2013MCA**; **MDA\u2013MFA crane scheduled night-by-night** \u2014 Joe needs to know **the day before** if crane must be de-energized that night (he works it with production). Jeff: confirm crew/material (Layher delivery today T4), direction once AMK answers, and give Joe night-before crane notice. Ties T22 (M-Bay stormwater scaffold), T127 (MAA column-line), T93 (AMK Oil Bay). \u2014 e73"
+    },
+    {
+      "id": "T167",
+      "status": "open",
+      "priority": "med",
+      "due": "**By Wed Oct 28** (Family Day prep)",
+      "item": "Clear remaining Indcom materials/equipment out of the GE parking lot for Family Day",
+      "source": "Email / Matt Fitts (GE; cc Mitch Reese) 2026-10-13 ~7:56pm ET",
+      "notes": "**Tue ~7:56pm ET Fitts\u2192Jeff:** in preparation for Family Day, help clear out any remaining materials and/or equipment in the parking lot **by 10/28**. Trevor suggested placing items at **Feaster** or in the **grass by the rail lines**; open to other suggestions. Jeff: reply with plan/location + schedule crew/forklift. Related **T158** (Family Day passes). \u2014 e74"
+    },
+    {
+      "id": "T168",
+      "status": "open",
+      "priority": "med",
+      "due": "**Thu Oct 15 7:30am ET** (duration not stated)",
+      "item": "Track shutdown **PP-6A-7 Circuit #8** \u2014 remove Fanuc Robocut **#706750** @ EYA (replacement machine, same location)",
+      "source": "Email / Jason Marchbanks (DPP) 2026-10-14 ~7:29am ET",
+      "notes": "**Wed ~7:29am ET Jason\u2192Hinkson + McCurry (cc Roper, Jeff, Katheryn, Adam McClure, Jim Stanley):** shutdown request **Panel PP-6A-7 Circuit #8**, panel @ **EXA**, machine @ **EYA**; **Thu Oct 15 7:30am**; GE Lead **Jim Stanley**; sub **DPP**; 3 photos attached. Kat cal has **2 Jeff holds** (7:30\u20138:30 and 7:30\u20139:00) = one shutdown (deduped). Watch for Hinkson official notification/confirmed window. Ties T7 item 3 (EYA wire EDM decommission/new install). \u2014 e72"
+    },
+    {
+      "id": "T169",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP \u2014 ack in Ariba (need-by not stated in email)",
+      "item": "Process/ack GE PO **4900667131** (**$169,428.00**) \u2014 Transform EZA Shop Floor Office (Colby Murphy)",
+      "source": "Email / Ariba GE Vernova 2026-10-14 ~5:31am ET",
+      "notes": "**Wed ~5:31am ET** Ariba new PO **4900667131** to Indcom (ariba.mail@); requester **Colby Murphy**; **PR836974**; NET 150 (150 DD NET); FCA; purchase group VF5 US_GVL_Indirect; ship-to 5250 (300 Garlington Rd). Line 1 Material **$169,428.00**: *Transform EZA Shop Floor Office to meet expanded salaried support team \u2014 convert training space into office space and office space into training/meeting space.* This is the **T23** EZA OPS Office / Training Room Conversion PO. Ack/confirm in Ariba; Katheryn already kicked off CDI Cabinets + PMC furniture (~8:53\u20138:54am)."
     }
   ],
   "calendar": [
+    "**Thu Oct 15 7:30am ET (duration not stated; Kat cal 2 Jeff holds 7:30\u20138:30 / 7:30\u20139:00 = one)** \u2014 Shutdown **PP-6A-7 Circuit #8** @ EXA panel / EYA machine \u2014 remove Fanuc Robocut #706750 for replacement (DPP; GE Lead Jim Stanley) (T168) \u2014 e72",
+    "**Before Mon Oct 19 (AMKing welding starts Mon 10/19)** \u2014 Deadline: **\u22653 bays M-Bay decking** up; crane MAA\u2013MCA de-energized; MDA\u2013MFA night-by-night (tell Buellesbach day before) (T166) \u2014 e73",
+    "**By Wed Oct 28** \u2014 Deadline: clear Indcom materials/equipment from GE parking lot for **Family Day** (Feaster or grass by rail lines) (T167) \u2014 e74",
+    "**TODAY Wed Oct 14 \u2014 DELIVERY DUE** \u2014 Layher remaining material via Priority1 (in transit since ~4:28pm Tue; BOL 60116215273; 23,000 lbs) \u2014 no arrival/ETA mail yet; drop-off contact unconfirmed (T4/T156) \u2014 e69",
     "**Wed Oct 14 10:00\u201311:00am ET (NEW \u2014 Bill ~3:04pm; flexible after 10am)** \u2014 Meeting **Robert Gross** @ GE Vernova (Kat invited; overlaps PP-6B-7 outage) (T163) \u2014 e71",
     "**Wed Oct 14 9:15am\u201312:15pm ET (MOVED from Tue Oct 13 \u2014 Hinkson updated invite ~9:03am)** \u2014 Outage **PP-6B-7 @ ATA** (IDF-21; also PP-6B-7A, RP-13 circuits demo; AMK/Eldeco; MOC 23496); Kat cal still has stale Tue copy (T155) \u2014 e68",
-    "**Tue Oct 13 pickup Ocala \u2192 Wed Oct 14 delivery Greenville (per Jeff ~8:27am)** \u2014 Priority1 load from Layher-Ocala; **BOL 60116215273**; $2,250 prepaid; 23,000 lbs; drop-off contact still unconfirmed in mail (T4/T156) \u2014 e69",
     "**Wed Oct 14 9:00\u20139:45am ET (CONFIRMED \u2014 Hinkson official; moved from 7:45\u20138:30am request)** \u2014 Outage **PP-7B-7 @ HBA** (DPP Ramco parts washers install, NFPS.03; GE lead Jim Stanley; WO# 26-301492) (T157) \u2014 e70 (Kat calendar Jeff hold + GE invite = one)",
     "**Mon Oct 12 2:30pm ET TODAY** \u2014 Meeting: ELB door hangar walkthrough w/ AM King (Russ Zubkov) + demo/framing sub \u2014 Jeff confirmed (T150; on Jeff's invite, not Kat cal) \u2014 e65",
     "**Week of Mon Oct 26** \u2014 Deadline: MDB foundation wall up before AMK starts cutting (T151) \u2014 e66",
@@ -1934,8 +1991,8 @@
     {
       "id": "e69",
       "type": "work",
-      "title": "Layher remaining material pickup (Priority1 flatbed) \u2192 GE Greenville \u2014 pickup ETA ~1400 Tue Oct 13; delivery Wed Oct 14",
-      "summary": "Pickup ETA ~12:00 Tue Oct 13 (delayed); delivery Wed Oct 14 Greenville \u2014 BOL 60116215273",
+      "title": "Layher remaining material (Priority1 flatbed) \u2192 GE Greenville \u2014 IN TRANSIT; DELIVERY TODAY Wed Oct 14",
+      "summary": "Loaded & in transit ~4:28pm Tue; delivery due Wed Oct 14 Greenville \u2014 BOL 60116215273; no arrival/ETA mail yet",
       "location": "Layher-Ocala, FL \u2192 GE Vernova Greenville",
       "description": "Priority1 48' flatbed Layher-Ocala FL \u2192 GE Vernova Greenville, $2,250 prepaid (BOL 60116215273), 1-day transit, 23,000 lbs. Pickup window 0800\u20130900 Tue Oct 13 underway. Bill ~8:00am submitted Priority1 credit app online. Drop-off contact still unconfirmed in mail; no load-complete/delivery ETA mail yet. (T156/T4) UPDATE Tue ~8:27am ET Jeff\u2192Bill (cc Kat): prepaid load pickup from Ocala today, delivery tomorrow (Wed Oct 14) in Greenville. Drop-off contact still unconfirmed in mail. UPDATE Tue ~9:56am ET Riley Clarke (Priority1): pickup ETA around 12:00 today; delivery still slated for tomorrow (Wed Oct 14). Drop-off contact still unconfirmed.",
       "start": "2026-10-13",
@@ -1943,7 +2000,7 @@
       "allDay": true,
       "todoId": "T156",
       "status": "in_progress",
-      "notes": " Tue ~1:25pm ET Joshua Cady: driver ETA 1400 (delayed). Jeremy asked updated delivery ETA. Drop-off contact still unconfirmed."
+      "notes": " Tue ~1:25pm ET Joshua Cady: driver ETA 1400 (delayed). Jeremy asked updated delivery ETA. Drop-off contact still unconfirmed. Tue ~4:28pm ET Riley: loaded & in transit. Wed ~9:13am ET: no new mail; delivery due today; drop-off contact still unconfirmed."
     },
     {
       "id": "e70",
@@ -1970,6 +2027,45 @@
       "allDay": false,
       "todoId": "T163",
       "relatedTodo": "T163",
+      "status": "scheduled"
+    },
+    {
+      "id": "e72",
+      "type": "outage",
+      "title": "Shutdown: PP-6A-7 Circuit #8 \u2014 Fanuc Robocut #706750 removal @ EYA",
+      "summary": "Thu Oct 15 7:30am ET (duration not stated) \u2014 DPP; GE Lead Jim Stanley",
+      "location": "EXA (panel) / EYA (machine)",
+      "description": "Jason Marchbanks (DPP) Wed Oct 14 ~7:29am ET shutdown request to Hinkson/McCurry (cc Roper, Jeff, Katheryn, Adam McClure, Jim Stanley): PP-6A-7 Circuit #8 to remove Fanuc Robocut #706750 for replacement with a new machine in its existing location @ EYA. Panel @ EXA. Duration not stated. Kat cal has 2 Jeff holds (7:30\u20138:30, 7:30\u20139:00) deduped to one. Watch for Hinkson official notice. (T168)",
+      "start": "2026-10-15T07:30:00-04:00",
+      "end": "2026-10-15T09:00:00-04:00",
+      "allDay": false,
+      "todoId": "T168",
+      "status": "requested"
+    },
+    {
+      "id": "e73",
+      "type": "deadline",
+      "title": "Deadline: \u22653 bays M-Bay decking before AMKing welding (Mon 10/19)",
+      "summary": "Decking up before Mon Oct 19 \u2014 crane MAA\u2013MCA de-energized; MDA\u2013MFA night-by-night (day-before notice to Buellesbach)",
+      "location": "M-Bay (stage in MFA)",
+      "description": "Joe Buellesbach (GE) Tue Oct 13 ~5:22pm ET: AMKing starts welding steel in M-bay Mon 10/19; wants \u22653 bays of decking first. AMK (Steve Gordon/Kyle Herman) to pick N\u2192S or S\u2192N, ask Matt Hinty for off-shift crane operator, have Capitol clear MFA staging. Crane de-energized MAA\u2013MCA; MDA\u2013MFA scheduled night-by-night \u2014 Joe needs day-before notice. (T166)",
+      "start": "2026-10-19",
+      "end": "2026-10-20",
+      "allDay": true,
+      "todoId": "T166",
+      "status": "scheduled"
+    },
+    {
+      "id": "e74",
+      "type": "deadline",
+      "title": "Deadline: Clear GE parking lot for Family Day (by 10/28)",
+      "summary": "Move remaining Indcom materials/equipment \u2014 Feaster or grass by rail lines (Fitts)",
+      "location": "GE Vernova parking lot",
+      "description": "Matt Fitts (GE, cc Mitch Reese) Tue Oct 13 ~7:56pm ET: clear remaining materials/equipment from the parking lot by 10/28 for Family Day; Trevor suggested Feaster or the grass by the rail lines; open to suggestions. (T167; related T158)",
+      "start": "2026-10-28",
+      "end": "2026-10-29",
+      "allDay": true,
+      "todoId": "T167",
       "status": "scheduled"
     }
   ]
