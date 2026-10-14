@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T13:08:15-04:00",
+  "updated": "2026-10-14T14:14:11-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -925,10 +925,10 @@
       "id": "T130",
       "status": "open",
       "priority": "high",
-      "due": "Confirm crew/material for Fri Oct 16\u2013Sun Oct 18 (GE + AMK agreed)",
-      "item": "Scaffold for AMK VPS lighting install over Coater #3 + #4 \u2014 Fri Oct 16\u2013Sun Oct 18 (GE + AMK agreed)",
+      "due": "Coater #3 scaffold build **Thu Oct 15 afternoon**; Coater #4 **Fri Oct 16 morning**; lights/conduit Fri\u2013Sun; scaffold **DOWN Sun Oct 18 before GE 3rd shift** (Watkins plan w/ Lambley) \u2014 confirm crew/material",
+      "item": "Scaffold for AMK VPS lighting install over Coater #3 + #4 \u2014 build Thu Oct 15 PM (C3) / Fri Oct 16 AM (C4), strike Sun Oct 18 before 3rd shift",
       "source": "Email / Michael Sassa (AM King) 2026-10-07 ~1:19pm ET + Peter Lambley (GE) reply ~1:26pm ET",
-      "notes": "**Wed ~1:19pm ET Sassa\u2192Matt Fitts, Mitch Reese, Erick Baker, Pete Lambley, Jeff (cc Adam Watkins, Nate Barney):** AMK needs access to install new fixtures over **Coater #3 and #4**. Proposed: **Coater #4 shut down Sat Oct 17 (1 day)**; **Coater #3 shut down Sat Oct 24 + Sun Oct 25 (2 days)**. Needs **scaffold erected by 7:00am** on 10/17 and 10/24; scaffold ready to come down **5:30pm** on 10/17 and 10/25. Existing lighting demo not included (later). Open to shifting to Fridays. **~1:26pm ET Pete Lambley (GE):** can they take **both coaters Fri Oct 16 + Sat Oct 17** (physical inventory, coaters not running); **not committing to the following weekend** \u2014 production must run. Jeff to plan scaffold crew/material for the Oct 16\u201317 window and confirm with AMK/GE. Related meeting: T121. **~2:29pm ET Sassa:** asked to also use **Sun Oct 18** so both areas get completed, if scaffolding can support it. **~2:30pm ET Pete Lambley:** \u201cYes. Let\u2019s aim for **Friday 16th \u2013 Sunday 18th**.\u201d Oct 24\u201325 plan dropped. Jeff/Indcom now need to confirm scaffold crew + material can support a **3-day window Fri Oct 16\u2013Sun Oct 18** (up by 7am, down 5:30pm per AMK) and reply to AMK/GE."
+      "notes": "**Wed ~1:19pm ET Sassa\u2192Matt Fitts, Mitch Reese, Erick Baker, Pete Lambley, Jeff (cc Adam Watkins, Nate Barney):** AMK needs access to install new fixtures over **Coater #3 and #4**. Proposed: **Coater #4 shut down Sat Oct 17 (1 day)**; **Coater #3 shut down Sat Oct 24 + Sun Oct 25 (2 days)**. Needs **scaffold erected by 7:00am** on 10/17 and 10/24; scaffold ready to come down **5:30pm** on 10/17 and 10/25. Existing lighting demo not included (later). Open to shifting to Fridays. **~1:26pm ET Pete Lambley (GE):** can they take **both coaters Fri Oct 16 + Sat Oct 17** (physical inventory, coaters not running); **not committing to the following weekend** \u2014 production must run. Jeff to plan scaffold crew/material for the Oct 16\u201317 window and confirm with AMK/GE. Related meeting: T121. **~2:29pm ET Sassa:** asked to also use **Sun Oct 18** so both areas get completed, if scaffolding can support it. **~2:30pm ET Pete Lambley:** \u201cYes. Let\u2019s aim for **Friday 16th \u2013 Sunday 18th**.\u201d Oct 24\u201325 plan dropped. Jeff/Indcom now need to confirm scaffold crew + material can support a **3-day window Fri Oct 16\u2013Sun Oct 18** (up by 7am, down 5:30pm per AMK) and reply to AMK/GE. **Wed Oct 14 ~8:32am ET Adam Watkins (AMK)\u2192Pete Lambley (cc Reese, Fitts, Sassa)** asked when scaffold could be built (may not impede production); **~10:56am Lambley:** call 864-238-0394, will meet at coaters. **~1:24pm ET Watkins reply (Jeff now cc\u2019d):** after walking the coaters with Pete \u2014 **build scaffold over Coater #3 Thu Oct 15 afternoon** and **Coater #4 Fri Oct 16 morning**; AMK installs lights + conduit **Fri/Sat/Sun**; work done + **scaffolding down Sun Oct 18 before GE 3rd shift starts Sun night**. \u2192 Build now starts **a day earlier (Thu PM)** than the Oct 16 plan; Indcom crew/material needed Thu PM + Fri AM build, then strike Sun (Sat/Sun crew time = **OT**). Jeff hasn\u2019t confirmed crew in mail yet; also overlaps Sat Oct 17 BCL7 crane-lift date in question (T120)."
     },
     {
       "id": "T131",
@@ -1255,7 +1255,7 @@
     "**CANCELED (invite canceled Thu ~12:38pm) \u2014 was Thu Oct 8 night \u2192 Fri Oct 9\u2013Sat Oct 10** \u2014 M-Bay **2nd-half aisle closure** outside NL1 for concrete cutting (Buellesbach); confirm off vs rescheduled (T135)",
     "**Thu Oct 8 or Fri Oct 9 (time TBD \u2014 Jeff to propose)** \u2014 Walk **ELB rollup door** \u201cHangar\u201d scaffold area + walking platform with Russ Zubkov (AMK); pickle tank farm shutdown TBD (T136)",
     "**OVERDUE (need-by Fri Oct 9; still unconfirmed Mon 5am)** \u2014 Ack GE Ariba PO **4900663074** ($22,184; Heatherly; FW41\u201342 UA Build stand Inspections, service Oct 5\u201318; service sheet required) (T138)",
-    "**Fri Oct 16\u2013Sun Oct 18 (GE Pete Lambley + AMK agreed Wed ~2:30pm; Indcom to confirm crew)** \u2014 Work **scaffold for AMK VPS lighting over Coater #3 + #4** (GE physical inventory, coaters down; scaffold up by 7am, down 5:30pm) (T130)",
+    "**Thu Oct 15 PM (Coater #3 build) \u2192 Fri Oct 16 AM (Coater #4 build) \u2192 strike Sun Oct 18 before GE 3rd shift (Adam Watkins/AMK plan w/ Pete Lambley, Wed ~1:24pm ET)** \u2014 Work **scaffold for AMK VPS lighting over Coater #3 + #4**; AMK lights/conduit Fri\u2013Sun; Indcom to confirm crew/material (weekend = OT) (T130 / e56)",
     "**TODAY Fri Oct 9 (CONFIRMED by Jeff Thu ~10:03am) \u2014 first floor; crew names still not received** \u2014 Work **JMT Flooring VCT removal** of small leftover sections, removal only **$825** (JMT bringing machine; crew names pending for badge check) \u2014 Jeff filed 1-day GE vehicle pass for Shelton Sentell (machine delivery) Fri ~8:38am (T129)",
     "**Sat Oct 17 6:00am\u20137:00pm ET (re-sent; DATE IN QUESTION) @ ANA/ANB\u2013AYA/AYB + Admin bldg** \u2014 Exclusion zone **BCL7 crane lift** (AMK piping to high roof) \u2014 Sat Oct 10 lift CANCELED for weather; Stephanie Gray (GE) Fri ~4:41pm: PI weekend, offices must be occupied 10/6\u201310/18 \u2014 asks who is in charge; ~7:48pm follow-up \u201cWhat can we do to modify this?\u201d (no GE answer yet); overlaps T130 weekend (T120)",
     "**TBD (per Sassa invite.ics, sent Tue ~4:02pm)** \u2014 Meeting **VPS lighting over coater 3 & 4** (Michael Sassa/AMK, Adam Watkins, Matt Fitts) (T121)",
@@ -1583,21 +1583,6 @@
       "todoId": "T20"
     },
     {
-      "id": "e38",
-      "type": "outage",
-      "summary": "DONE Tue Oct 13 ~9:26am ET \u2014 RP-AB-2 @ AAB outage complete (Hinkson)",
-      "title": "Outage/Shutdown/LOTO: RP-AB-2 @ AAB \u2014 ACB computers quad receptacles",
-      "location": "AAB \u2014 Circuit RP-AB-2",
-      "description": "Originally Thu Oct 1 1:00pm\u20131:30pm ET @ ACB \u2014 install 2 Quad Receptacles for ACB Computers. DPP; James Ray GE Lead. Adam McClure proposed AAB panel; Hinkson approved AAB. UPDATE Mon Oct 12 ~8:12am ET: Jason re-requested as RP-ABB-1 @ AAB for Tue Oct 13 8:30\u20139:00am. ~9:01am Hinkson: RP-ABB-1 takes down the entire hydrogen system \u2014 need another RP. ~9:08am Jason: wording incorrect; actual panel is RP-AB-2. Katheryn cal updated ~9:20am ET to Outage/Shutdown/LOTO: RP-AB-2 AAB Panel Tue Oct 13 8:30\u20139:00am. (T73) UPDATE Mon ~9:47am ET Hinkson official OUTAGE NOTIFICATION \u2013 RP-AB-2 (9A-5-6): Tue Oct 13 9:00\u20139:30am ET; affects vending machines, robot recpt., EC2855 de-ionizer, water monitoring, DDTs 1\u20136, EC2637, EC2638 + misc 120V. Kat cal has two near-duplicate invites at 9:00\u20139:30 (deduped). UPDATE Tue Oct 13 ~9:26am ET Hinkson: \u201cOutage complete.\u201d (T73 done).",
-      "start": "2026-10-13T09:00:00-04:00",
-      "end": "2026-10-13T09:30:00-04:00",
-      "allDay": false,
-      "todoId": "T73",
-      "relatedTodo": "T73",
-      "status": "done",
-      "notes": "DPP ACB Receptacles Invoice 4703 (T82). Panel corrected RP-ABB-1 \u2192 RP-AB-2; window moved 8:30 \u2192 9:00\u20139:30am."
-    },
-    {
       "id": "e40",
       "type": "work",
       "title": "Work: M-Bay aisle concrete cutting MFA\u2013~MCA (road plates; review w/ affected)",
@@ -1684,42 +1669,6 @@
       "todoId": "T96"
     },
     {
-      "id": "e26",
-      "summary": "Work: ENSER 7HA1 Build Platform install (ENSER crew)",
-      "location": "GE facility (from Advanced Rigging)",
-      "description": "Twigg Mon ~3:14pm ET: ENSER own hired rigging crew \u2014 platforms, placement, anchoring, electrical; fully functional. Needs GE tech rep for exact placement before anchoring. Mon Nov 2 \u2013 on/before Tue Nov 3. (T56) Fri Oct 2 ~6:24pm ET Twigg formal responsibilities: tentatively Nov 1 move from Advanced Rigging into plant (GE rigging/positioning; ENSER rep directs); ENSER anchors/electrical/ground straps/test; GE provides 4\u00d7 air \u226590psi + 4\u00d7480V P&S + 4\u00d7 Size-2 + 2\u00d7 Size-1 Meltric (Indcom/DPP quote = T99).",
-      "start": "2026-11-01",
-      "end": "2026-11-04",
-      "allDay": true,
-      "type": "work",
-      "todoId": "T56",
-      "title": "Work: ENSER 7HA1 build stand move-in (~Nov 1) + install Nov 2\u20133 (ENSER crew)"
-    },
-    {
-      "id": "e44",
-      "type": "outage",
-      "title": "Outage/Shutdown/LOTO: FMS-7 Circuit #3 \u2014 BSA Office demo",
-      "summary": "Outage/Shutdown/LOTO: FMS-7 Circuit #3 \u2014 BSA Office demo",
-      "location": "CWA Mezz (FMS-7 ckt #3; panel location listed unknown)",
-      "description": "Tue Oct 6 9:30\u201310:00am ET \u2014 Hinkson shutdown notification (Jason/DPP request). Demo BSA Office electrical: remove 4 remaining exterior receptacles. GE Lead Adam (Alex) Leppard. Deduped Hinkson invite + 2 hold copies. (T103)",
-      "start": "2026-10-06T09:30:00-04:00",
-      "end": "2026-10-06T10:00:00-04:00",
-      "allDay": false,
-      "todoId": "T103"
-    },
-    {
-      "id": "e45",
-      "type": "deadline",
-      "title": "Deadline: GE PO 4900661672 need-by \u2014 Material Rental Cycles ($22,125)",
-      "summary": "Deadline: GE PO 4900661672 need-by (Joey Lum)",
-      "location": "Ariba / SAP Business Network",
-      "description": "PO 4900661672 Material Rental Cycles Sep 1\u2013Jan 18; PR841755; need-by Dec 21. Ack now; invoice per cycle. (T104)",
-      "start": "2026-12-21",
-      "end": "2026-12-22",
-      "allDay": true,
-      "todoId": "T104"
-    },
-    {
       "id": "e46",
       "type": "meeting",
       "title": "Done: BAA Scaffold Walk (Gas Manifold Demo)",
@@ -1732,28 +1681,16 @@
       "todoId": "T117"
     },
     {
-      "id": "e47",
-      "type": "deadline",
-      "title": "Deadline: GE PO 4900661869 need-by \u2014 BSA Renovation ($97,759.38)",
-      "summary": "Deadline: GE PO 4900661869 need-by (Alex Leppard)",
-      "location": "Ariba / SAP Business Network",
-      "description": "PO 4900661869 BSA Renovation; PR841864; need-by Fri Oct 16. Ack/confirm order. (T111)",
-      "start": "2026-10-16",
-      "end": "2026-10-17",
-      "allDay": true,
-      "todoId": "T111"
-    },
-    {
-      "id": "e48",
-      "type": "deadline",
-      "title": "Deadline: GE PO 4900661816 need-by \u2014 C-Bay machine cleaning FW41\u201344 ($49,470)",
-      "summary": "Deadline: GE PO 4900661816 need-by (Joey Lum)",
-      "location": "Ariba / SAP Business Network",
-      "description": "PO 4900661816 weekly C-Bay machine cleaning, 2 Industrial Techs \u00d7 40 hr/wk, FW41\u201344; PR840798; need-by Mon Nov 9. (T110)",
-      "start": "2026-11-09",
-      "end": "2026-11-10",
-      "allDay": true,
-      "todoId": "T110"
+      "id": "e44",
+      "type": "outage",
+      "title": "Outage/Shutdown/LOTO: FMS-7 Circuit #3 \u2014 BSA Office demo",
+      "summary": "Outage/Shutdown/LOTO: FMS-7 Circuit #3 \u2014 BSA Office demo",
+      "location": "CWA Mezz (FMS-7 ckt #3; panel location listed unknown)",
+      "description": "Tue Oct 6 9:30\u201310:00am ET \u2014 Hinkson shutdown notification (Jason/DPP request). Demo BSA Office electrical: remove 4 remaining exterior receptacles. GE Lead Adam (Alex) Leppard. Deduped Hinkson invite + 2 hold copies. (T103)",
+      "start": "2026-10-06T09:30:00-04:00",
+      "end": "2026-10-06T10:00:00-04:00",
+      "allDay": false,
+      "todoId": "T103"
     },
     {
       "id": "e49",
@@ -1780,77 +1717,6 @@
       "todoId": "T115"
     },
     {
-      "id": "e51",
-      "type": "work",
-      "title": "Work: BAA scaffold install \u2014 Gas Manifold Demo (GE crane interruption requested)",
-      "summary": "TODAY from noon \u2014 build to LCU mezzanine \u2192 Cell 6 crane stop 1:30\u20133:30pm (ESI stops @ BEA) \u2192 continue",
-      "location": "BAA",
-      "description": "Tulloch BAA Scaffold Walk recap Tue ~12:18pm ET: crane stop required at BAA and rail bagged before scaffold install; tentative Fri Oct 9 install; powders in BAA shifted/accessible for production. (T117) UPDATE Thu Oct 8 ~1:26pm ET: Tulloch formal crane-interruption request for Fri Oct 9 at BEA (Cell 6); build to LCU mezzanine, ESI installs crane stops (~2 hrs per DuVall), continue after make-safe; window lunch 11:30\u20131:30 or 2\u20134pm TBD (e61). UPDATE Thu ~3:18pm ET: window confirmed 1:30\u20133:30pm; scaffolding starts noon Fri (e61).",
-      "start": "2026-10-09",
-      "end": "2026-10-10",
-      "allDay": true,
-      "todoId": "T117"
-    },
-    {
-      "id": "e52",
-      "type": "outage",
-      "title": "Outage: Gas Manifold Demo \u2014 H2/O2 purge A/B Bays + BAA scaffold removal",
-      "summary": "Gas manifold pipe demo outage (AMK request pending)",
-      "location": "A/B Bays (BAA)",
-      "description": "Pipe demo weekend of Sat Oct 10: all four gases demo'd back to headers. H2 isolate/vent/purge B-Bay; O2 A+B Bays (maintenance); N2 LOTO at BAA; Argon LOTO at BAB above quad cell. A-Bay keeps TBC coating, no HVOF. AMK to submit outage request; Tulloch asked Wharton/Ray for maintenance support incl. crane + scaffold groups. BAA scaffold removal after pipe demo. (T117)",
-      "start": "2026-10-10",
-      "end": "2026-10-11",
-      "allDay": true,
-      "todoId": "T117"
-    },
-    {
-      "id": "e53",
-      "type": "outage",
-      "title": "Exclusion zone: BCL7 crane lift Sat Oct 17 (date in question) \u2014 ANA/ANB thru AYA/AYB + Admin",
-      "summary": "Re-sent for Sat Oct 17 6am\u20137pm; GE (Stephanie Gray) objects \u2014 PI weekend, offices occupied 10/6\u201310/18",
-      "location": "ANA/ANB thru AYA/AYB; Standera/Admin bldg 1st+2nd floors",
-      "description": "Hinkson/AMK (Nate Barney) UPDATE Fri Oct 9 ~11:12am ET: Sat Oct 10 crane lift canceled due to impending weather; planning to reschedule for Sat Oct 17, updated lift plan to come. Original: complete access restriction 6:00am\u20137:00pm for crane lifting of process piping onto high roof; includes GE HVAC replacement. Fri Oct 9 ~4:41pm ET Stephanie Gray (GE) reply-all to re-sent Oct 17 6:00am\u20137:00pm advisory: PI weekend, offices must be occupied all day 10/6\u201310/18; asks who is in charge and the goal \u2014 date may move again. Check against T130 coater scaffold weekend Oct 16\u201318. (T120) UPDATE Fri ~7:48pm ET Stephanie Gray follow-up: 'What can we do to modify this?' \u2014 no GE answer yet.",
-      "start": "2026-10-17T06:00:00-04:00",
-      "end": "2026-10-17T19:00:00-04:00",
-      "allDay": false,
-      "todoId": "T120"
-    },
-    {
-      "id": "e54",
-      "type": "deadline",
-      "title": "Deadline: ack GE PO 4900662406 (material rental Oct 2\u201329)",
-      "summary": "Need-by Nov 3 \u2014 $46,278.34 (Joey Lum)",
-      "location": "Ariba",
-      "description": "Ariba PO 4900662406, requester Lamont Joey Lum, PR840787, $46,278.34, rental period Oct 2\u2013Oct 29 2026 (28-day minimum rental cycle). (T119)",
-      "start": "2026-11-03",
-      "end": "2026-11-04",
-      "allDay": true,
-      "todoId": "T119"
-    },
-    {
-      "id": "e55",
-      "summary": "Work: JMT Flooring VCT removal (first floor, small sections)",
-      "location": "First floor (per Jeff)",
-      "description": "CONFIRMED by Jeff Thu Oct 8 ~10:03am for Fri Oct 9. Removal only $825 (no glue/infill); JMT bringing machine; crew names pending for badge check. (T129) UPDATE Fri ~8:14am ET: still no JMT crew names for badges. UPDATE Fri ~8:38am ET: Jeff filed one-day GE Vehicle Entrance Permit for Shelton Sentell (deliver machine and work) \u2014 likely JMT.",
-      "start": "2026-10-09",
-      "end": "2026-10-10",
-      "allDay": true,
-      "type": "work",
-      "todoId": "T129"
-    },
-    {
-      "id": "e56",
-      "type": "work",
-      "title": "Work: scaffold for AMK VPS lighting over Coater #3 + #4",
-      "summary": "Fri Oct 16\u2013Sun Oct 18 \u2014 GE (Pete Lambley) + AMK agreed; Indcom to confirm crew/material",
-      "location": "VPS \u2014 Coater #3 and #4",
-      "description": "Michael Sassa (AM King): scaffold up by 7am, ready to come down 5:30pm, to install new fixtures over Coaters #3/#4. Pete Lambley (GE) Wed ~2:30pm ET: aim for Fri Oct 16\u2013Sun Oct 18 (physical inventory, coaters down). (T130)",
-      "start": "2026-10-16",
-      "end": "2026-10-19",
-      "allDay": true,
-      "todoId": "T130"
-    },
-    {
       "id": "e58",
       "type": "outage",
       "title": "CANCELED Closure: M-Bay 2nd half aisle (outside NL1) \u2014 concrete cutting + excavation",
@@ -1861,18 +1727,6 @@
       "end": "2026-10-11",
       "allDay": true,
       "todoId": "T135"
-    },
-    {
-      "id": "e59",
-      "type": "deadline",
-      "title": "OVERDUE Deadline: Ack GE PO 4900663074 \u2014 FW41\u201342 UA Build stand Inspections ($22,184)",
-      "summary": "Need-by Fri Oct 9 passed \u2014 still unconfirmed in Ariba Mon Oct 12 5am",
-      "location": "Ariba / SAP Business Network",
-      "description": "Ariba PO 4900663074 (Andrew Heatherly; PR840026) need-by Fri Oct 9; service Oct 5\u201318; 1st/2nd/3rd shifts; Service Sheet required. (T138) UPDATE Fri ~5:00am ET: Ariba unconfirmed-orders reminder did not list 4900663074 (may already be confirmed \u2014 verify). UPDATE Sat/Sun/Mon 5am ET: Ariba reminders list 4900663074 as New/unconfirmed.",
-      "start": "2026-10-09",
-      "end": "2026-10-10",
-      "allDay": true,
-      "todoId": "T138"
     },
     {
       "id": "e60",
@@ -1887,29 +1741,39 @@
       "todoId": "T127"
     },
     {
-      "id": "e61",
-      "type": "outage",
-      "title": "Outage: BEA crane interruption \u2014 Cell 6 (Furnace Manifold Demo / BAA scaffold)",
-      "summary": "TODAY Fri Oct 9 1:30\u20133:30pm ET (CONFIRMED) \u2014 scaffold starts noon; no Cell 6 downtime per Tulloch",
-      "location": "BEA crane / Cell 6; scaffold at BAA (LCU mezzanine)",
-      "description": "Scott Tulloch (GE) formal request Thu Oct 8 ~1:26pm ET: build BAA scaffold to LCU mezzanine, shut down Cell 6 crane so ESI installs crane stops at BEA, continue scaffold after make-safe, re-energize after line stop. Adam DuVall: ~2 hrs once outage confirmed. Tulloch ~2:12pm asked Cell 6 (Dylan Hanscom) for window: lunch 11:30\u20131:30 or shift change 2\u20134pm. Kat cal: 2 outage dupes + 2 day-before scaffold reminders = one event. (T117) UPDATE Thu ~3:18pm ET: Tulloch confirmed 1:30\u20133:30pm (Hanscom preferred shift change); scaffolding starts noon and wraps after stops installed. Madak ~4:26pm: with rail stops in, crane can't access Cell 6 until stops removed; Jennings Fri ~12:06am: 2nd shift only T800 taper in B bay \u2014 OK. Hanscom Fri ~7:06am asked Tulloch to verify Madak's point. Kat cal: 2 outage + 2 day-before reminder holds = one. UPDATE Fri ~8:59am ET: Tulloch \u2014 Cell 6/T-800 process is at BFA; crane-stop splice at BEA during shift change; Cell 6 will not experience downtime (answers Madak's concern). Kat cal hold updated ~8:59am = same event.",
-      "start": "2026-10-09T13:30:00-04:00",
-      "end": "2026-10-09T15:30:00-04:00",
-      "allDay": false,
+      "id": "e51",
+      "type": "work",
+      "title": "Work: BAA scaffold install \u2014 Gas Manifold Demo (GE crane interruption requested)",
+      "summary": "TODAY from noon \u2014 build to LCU mezzanine \u2192 Cell 6 crane stop 1:30\u20133:30pm (ESI stops @ BEA) \u2192 continue",
+      "location": "BAA",
+      "description": "Tulloch BAA Scaffold Walk recap Tue ~12:18pm ET: crane stop required at BAA and rail bagged before scaffold install; tentative Fri Oct 9 install; powders in BAA shifted/accessible for production. (T117) UPDATE Thu Oct 8 ~1:26pm ET: Tulloch formal crane-interruption request for Fri Oct 9 at BEA (Cell 6); build to LCU mezzanine, ESI installs crane stops (~2 hrs per DuVall), continue after make-safe; window lunch 11:30\u20131:30 or 2\u20134pm TBD (e61). UPDATE Thu ~3:18pm ET: window confirmed 1:30\u20133:30pm; scaffolding starts noon Fri (e61).",
+      "start": "2026-10-09",
+      "end": "2026-10-10",
+      "allDay": true,
       "todoId": "T117"
     },
     {
-      "id": "e62",
-      "type": "outage",
-      "title": "DONE Shutdown: PP-7B-6 ckt #2 + RP-120-JDB ckts #5 & #7 \u2014 Danobat #712190 @ JCB",
-      "summary": "Done Fri Oct 9 \u2014 DPP invoiced JCB Danobat Disconnection ~5:08pm (T146)",
-      "location": "JCB",
-      "description": "Jason Marchbanks (DPP) Thu Oct 8 ~12:21/12:25pm ET to Hinkson + McCurry (cc Jon Roper, Jeff): remove power (PP-7B-6 ckt 2) and 120V receptacles (RP-120-JDB ckts 5 & 7) from Danobat #712190 at JCB for machine removal. Date ASAP, no time; GE Lead Grant Bartlett. Kat cal all-day hold Oct 8 (RP-120-JDB). (T142) UPDATE Fri ~6:11am ET: Hinkson SHUTDOWN NOTIFICATIONs for both; invite window Fri Oct 9 7:45\u20138:15am ET @ JCB; no scaffold. Kat cal 4 holds (2 per panel) = one event. UPDATE Fri ~9:31am ET: no completion mail yet.",
-      "start": "2026-10-09T07:45:00-04:00",
-      "end": "2026-10-09T08:15:00-04:00",
-      "allDay": false,
-      "todoId": "T142",
-      "status": "done"
+      "id": "e55",
+      "summary": "Work: JMT Flooring VCT removal (first floor, small sections)",
+      "location": "First floor (per Jeff)",
+      "description": "CONFIRMED by Jeff Thu Oct 8 ~10:03am for Fri Oct 9. Removal only $825 (no glue/infill); JMT bringing machine; crew names pending for badge check. (T129) UPDATE Fri ~8:14am ET: still no JMT crew names for badges. UPDATE Fri ~8:38am ET: Jeff filed one-day GE Vehicle Entrance Permit for Shelton Sentell (deliver machine and work) \u2014 likely JMT.",
+      "start": "2026-10-09",
+      "end": "2026-10-10",
+      "allDay": true,
+      "type": "work",
+      "todoId": "T129"
+    },
+    {
+      "id": "e59",
+      "type": "deadline",
+      "title": "OVERDUE Deadline: Ack GE PO 4900663074 \u2014 FW41\u201342 UA Build stand Inspections ($22,184)",
+      "summary": "Need-by Fri Oct 9 passed \u2014 still unconfirmed in Ariba Mon Oct 12 5am",
+      "location": "Ariba / SAP Business Network",
+      "description": "Ariba PO 4900663074 (Andrew Heatherly; PR840026) need-by Fri Oct 9; service Oct 5\u201318; 1st/2nd/3rd shifts; Service Sheet required. (T138) UPDATE Fri ~5:00am ET: Ariba unconfirmed-orders reminder did not list 4900663074 (may already be confirmed \u2014 verify). UPDATE Sat/Sun/Mon 5am ET: Ariba reminders list 4900663074 as New/unconfirmed.",
+      "start": "2026-10-09",
+      "end": "2026-10-10",
+      "allDay": true,
+      "todoId": "T138"
     },
     {
       "id": "e63",
@@ -1925,17 +1789,41 @@
       "status": "done"
     },
     {
-      "id": "e64",
+      "id": "e62",
       "type": "outage",
-      "title": "Energization: NFPS.03 Basaran Grinders + Transfer Tanks @ HCA/HDA",
-      "summary": "DONE Tue Oct 13 ~9:17am ET \u2014 Hinkson: \u201cEnergized\u201d (WO# 26-301493)",
-      "location": "HCA / HDA (PP-11A-8 @ HFA; PP-7B-7 @ HCA)",
-      "description": "Hinkson Tue Oct 13 ~7:37am ET ENERGIZATION REQUEST: Basaran Grinder #PMX606262 @ HCA (PP-11A-8 Ckt #2), Grinder #PMX606261 @ HDA (PP-11A-8 Ckt #1), Transfer Tank #PMX606262 @ HCA (PP-7B-7 Ckt #6), Transfer Tank #PMX606261 @ HDA (PP-7B-7 Ckt #2). PP-11A-8 @ HFA; PP-7B-7 @ HCA. DPP; GE Lead Jim Stanley. Sump-pump EC#/asset ask from Mon still watch. (T148) UPDATE Tue ~9:17am ET Hinkson reply-all: \u201cEnergized.\u201d (T148 closed)",
-      "start": "2026-10-13T09:30:00-04:00",
-      "end": "2026-10-13T10:00:00-04:00",
+      "title": "DONE Shutdown: PP-7B-6 ckt #2 + RP-120-JDB ckts #5 & #7 \u2014 Danobat #712190 @ JCB",
+      "summary": "Done Fri Oct 9 \u2014 DPP invoiced JCB Danobat Disconnection ~5:08pm (T146)",
+      "location": "JCB",
+      "description": "Jason Marchbanks (DPP) Thu Oct 8 ~12:21/12:25pm ET to Hinkson + McCurry (cc Jon Roper, Jeff): remove power (PP-7B-6 ckt 2) and 120V receptacles (RP-120-JDB ckts 5 & 7) from Danobat #712190 at JCB for machine removal. Date ASAP, no time; GE Lead Grant Bartlett. Kat cal all-day hold Oct 8 (RP-120-JDB). (T142) UPDATE Fri ~6:11am ET: Hinkson SHUTDOWN NOTIFICATIONs for both; invite window Fri Oct 9 7:45\u20138:15am ET @ JCB; no scaffold. Kat cal 4 holds (2 per panel) = one event. UPDATE Fri ~9:31am ET: no completion mail yet.",
+      "start": "2026-10-09T07:45:00-04:00",
+      "end": "2026-10-09T08:15:00-04:00",
       "allDay": false,
-      "todoId": "T148",
+      "todoId": "T142",
       "status": "done"
+    },
+    {
+      "id": "e61",
+      "type": "outage",
+      "title": "Outage: BEA crane interruption \u2014 Cell 6 (Furnace Manifold Demo / BAA scaffold)",
+      "summary": "TODAY Fri Oct 9 1:30\u20133:30pm ET (CONFIRMED) \u2014 scaffold starts noon; no Cell 6 downtime per Tulloch",
+      "location": "BEA crane / Cell 6; scaffold at BAA (LCU mezzanine)",
+      "description": "Scott Tulloch (GE) formal request Thu Oct 8 ~1:26pm ET: build BAA scaffold to LCU mezzanine, shut down Cell 6 crane so ESI installs crane stops at BEA, continue scaffold after make-safe, re-energize after line stop. Adam DuVall: ~2 hrs once outage confirmed. Tulloch ~2:12pm asked Cell 6 (Dylan Hanscom) for window: lunch 11:30\u20131:30 or shift change 2\u20134pm. Kat cal: 2 outage dupes + 2 day-before scaffold reminders = one event. (T117) UPDATE Thu ~3:18pm ET: Tulloch confirmed 1:30\u20133:30pm (Hanscom preferred shift change); scaffolding starts noon and wraps after stops installed. Madak ~4:26pm: with rail stops in, crane can't access Cell 6 until stops removed; Jennings Fri ~12:06am: 2nd shift only T800 taper in B bay \u2014 OK. Hanscom Fri ~7:06am asked Tulloch to verify Madak's point. Kat cal: 2 outage + 2 day-before reminder holds = one. UPDATE Fri ~8:59am ET: Tulloch \u2014 Cell 6/T-800 process is at BFA; crane-stop splice at BEA during shift change; Cell 6 will not experience downtime (answers Madak's concern). Kat cal hold updated ~8:59am = same event.",
+      "start": "2026-10-09T13:30:00-04:00",
+      "end": "2026-10-09T15:30:00-04:00",
+      "allDay": false,
+      "todoId": "T117"
+    },
+    {
+      "id": "e52",
+      "type": "outage",
+      "title": "Outage: Gas Manifold Demo \u2014 H2/O2 purge A/B Bays + BAA scaffold removal",
+      "summary": "Gas manifold pipe demo outage (AMK request pending)",
+      "location": "A/B Bays (BAA)",
+      "description": "Pipe demo weekend of Sat Oct 10: all four gases demo'd back to headers. H2 isolate/vent/purge B-Bay; O2 A+B Bays (maintenance); N2 LOTO at BAA; Argon LOTO at BAB above quad cell. A-Bay keeps TBC coating, no HVOF. AMK to submit outage request; Tulloch asked Wharton/Ray for maintenance support incl. crane + scaffold groups. BAA scaffold removal after pipe demo. (T117)",
+      "start": "2026-10-10",
+      "end": "2026-10-11",
+      "allDay": true,
+      "todoId": "T117"
     },
     {
       "id": "e65",
@@ -1951,44 +1839,32 @@
       "status": "scheduled"
     },
     {
-      "id": "e66",
-      "type": "deadline",
-      "title": "Deadline: MDB foundation wall up (AM King cutting starts wk of 10/26)",
-      "summary": "Wall around Okuma MU6300V foundation area in MDB \u2014 Jeff committed",
-      "location": "MDB",
-      "description": "Russ Zubkov (AM King, cc Adam Watkins): wall per markup 'Okuma MU6300V Foundation, mark up.pptx'; GE contact Timothy Sullivan. AMK starts cutting week of 10/26; Jeff: Absolutely. Owe scope/price + availability. (T151)",
-      "start": "2026-10-26",
-      "end": "2026-10-27",
-      "allDay": true,
-      "todoId": "T151",
-      "status": "pending"
-    },
-    {
-      "id": "e67",
-      "type": "work",
-      "title": "Work: ELB hangar install (AM King)",
-      "summary": "Week of Mon Nov 2 \u2014 pending walkthrough scope",
-      "location": "ELB",
-      "description": "AM King target to put up ELB hangar (similar to HHA) week of Nov 2; scope from Mon Oct 12 2:30pm walk. (T150)",
-      "start": "2026-11-02",
-      "end": "2026-11-07",
-      "allDay": true,
-      "todoId": "T150",
-      "status": "tentative"
-    },
-    {
-      "id": "e68",
+      "id": "e38",
       "type": "outage",
-      "title": "Outage/Shutdown/LOTO: PP-6B-7 @ ATA (IDF-21)",
-      "summary": "DONE Wed Oct 14 ~12:41pm ET \u2014 Hinkson: \u201cOutage complete, power is restored\u201d (was 9:15am\u201312:15pm)",
-      "location": "ATA",
-      "description": "Hinkson outage notification: demolishing circuits from PP-6B-7, PP-6B-7A, RP-13. Matt Fitts ME; Mike Sassa AMK APM; Eldeco electrician. Affects IDF-21, Hydroflow 701051 ATA, chiller EC3168 ATA, Blohm 706976 AUA, RP-1122-A, RP-13, Fanuc PMX605899 AUA + area networking. (T155) UPDATE Tue Oct 13 ~9:03am ET: Hinkson re-sent the notification; updated invite (SEQUENCE 3) moves the outage to Wed Oct 14 9:15am\u201312:15pm ET (email body still says Oct 13 \u2014 stale). Kat cal has stale Tue copy + new Wed copy (deduped).",
-      "start": "2026-10-14T09:15:00-04:00",
-      "end": "2026-10-14T12:15:00-04:00",
+      "summary": "DONE Tue Oct 13 ~9:26am ET \u2014 RP-AB-2 @ AAB outage complete (Hinkson)",
+      "title": "Outage/Shutdown/LOTO: RP-AB-2 @ AAB \u2014 ACB computers quad receptacles",
+      "location": "AAB \u2014 Circuit RP-AB-2",
+      "description": "Originally Thu Oct 1 1:00pm\u20131:30pm ET @ ACB \u2014 install 2 Quad Receptacles for ACB Computers. DPP; James Ray GE Lead. Adam McClure proposed AAB panel; Hinkson approved AAB. UPDATE Mon Oct 12 ~8:12am ET: Jason re-requested as RP-ABB-1 @ AAB for Tue Oct 13 8:30\u20139:00am. ~9:01am Hinkson: RP-ABB-1 takes down the entire hydrogen system \u2014 need another RP. ~9:08am Jason: wording incorrect; actual panel is RP-AB-2. Katheryn cal updated ~9:20am ET to Outage/Shutdown/LOTO: RP-AB-2 AAB Panel Tue Oct 13 8:30\u20139:00am. (T73) UPDATE Mon ~9:47am ET Hinkson official OUTAGE NOTIFICATION \u2013 RP-AB-2 (9A-5-6): Tue Oct 13 9:00\u20139:30am ET; affects vending machines, robot recpt., EC2855 de-ionizer, water monitoring, DDTs 1\u20136, EC2637, EC2638 + misc 120V. Kat cal has two near-duplicate invites at 9:00\u20139:30 (deduped). UPDATE Tue Oct 13 ~9:26am ET Hinkson: \u201cOutage complete.\u201d (T73 done).",
+      "start": "2026-10-13T09:00:00-04:00",
+      "end": "2026-10-13T09:30:00-04:00",
       "allDay": false,
-      "todoId": "T155",
+      "todoId": "T73",
+      "relatedTodo": "T73",
       "status": "done",
-      "notes": " Hinkson ~12:41pm ET: Outage complete, power is restored. Closes T155."
+      "notes": "DPP ACB Receptacles Invoice 4703 (T82). Panel corrected RP-ABB-1 \u2192 RP-AB-2; window moved 8:30 \u2192 9:00\u20139:30am."
+    },
+    {
+      "id": "e64",
+      "type": "outage",
+      "title": "Energization: NFPS.03 Basaran Grinders + Transfer Tanks @ HCA/HDA",
+      "summary": "DONE Tue Oct 13 ~9:17am ET \u2014 Hinkson: \u201cEnergized\u201d (WO# 26-301493)",
+      "location": "HCA / HDA (PP-11A-8 @ HFA; PP-7B-7 @ HCA)",
+      "description": "Hinkson Tue Oct 13 ~7:37am ET ENERGIZATION REQUEST: Basaran Grinder #PMX606262 @ HCA (PP-11A-8 Ckt #2), Grinder #PMX606261 @ HDA (PP-11A-8 Ckt #1), Transfer Tank #PMX606262 @ HCA (PP-7B-7 Ckt #6), Transfer Tank #PMX606261 @ HDA (PP-7B-7 Ckt #2). PP-11A-8 @ HFA; PP-7B-7 @ HCA. DPP; GE Lead Jim Stanley. Sump-pump EC#/asset ask from Mon still watch. (T148) UPDATE Tue ~9:17am ET Hinkson reply-all: \u201cEnergized.\u201d (T148 closed)",
+      "start": "2026-10-13T09:30:00-04:00",
+      "end": "2026-10-13T10:00:00-04:00",
+      "allDay": false,
+      "todoId": "T148",
+      "status": "done"
     },
     {
       "id": "e69",
@@ -2023,6 +1899,20 @@
       "status": "scheduled"
     },
     {
+      "id": "e68",
+      "type": "outage",
+      "title": "Outage/Shutdown/LOTO: PP-6B-7 @ ATA (IDF-21)",
+      "summary": "DONE Wed Oct 14 ~12:41pm ET \u2014 Hinkson: \u201cOutage complete, power is restored\u201d (was 9:15am\u201312:15pm)",
+      "location": "ATA",
+      "description": "Hinkson outage notification: demolishing circuits from PP-6B-7, PP-6B-7A, RP-13. Matt Fitts ME; Mike Sassa AMK APM; Eldeco electrician. Affects IDF-21, Hydroflow 701051 ATA, chiller EC3168 ATA, Blohm 706976 AUA, RP-1122-A, RP-13, Fanuc PMX605899 AUA + area networking. (T155) UPDATE Tue Oct 13 ~9:03am ET: Hinkson re-sent the notification; updated invite (SEQUENCE 3) moves the outage to Wed Oct 14 9:15am\u201312:15pm ET (email body still says Oct 13 \u2014 stale). Kat cal has stale Tue copy + new Wed copy (deduped).",
+      "start": "2026-10-14T09:15:00-04:00",
+      "end": "2026-10-14T12:15:00-04:00",
+      "allDay": false,
+      "todoId": "T155",
+      "status": "done",
+      "notes": " Hinkson ~12:41pm ET: Outage complete, power is restored. Closes T155."
+    },
+    {
       "id": "e71",
       "type": "meeting",
       "title": "Meet Robert Gross at GE Vernova",
@@ -2051,6 +1941,56 @@
       "notes": "Hinkson formal SHUTDOWN NOTIFICATION ~9:17am Wed; GE invite 7:30\u20138:00; Jeff holds 7:30\u20138:30/7:30\u20139:00 deduped. DPP; Jim Stanley."
     },
     {
+      "id": "e75",
+      "type": "meeting",
+      "title": "EZA Project Kick-off (PO 4900667131) @ EZA Office Area",
+      "start": "2026-10-15T08:30:00-04:00",
+      "end": "2026-10-15T09:00:00-04:00",
+      "location": "EZA Office Area",
+      "relatedTodos": [
+        "T170",
+        "T23",
+        "T169"
+      ],
+      "notes": "Minhaj Syed ~9:39am Wed Oct 14; Jeff+Kat accepted ~9:52\u20139:53am. Attendees: Jeff, Kat, Colby Murphy, Zach Ciesielczyk; Christine Price optional."
+    },
+    {
+      "id": "e56",
+      "type": "work",
+      "title": "Work: scaffold for AMK VPS lighting over Coater #3 + #4 (build Thu PM \u2192 strike Sun)",
+      "summary": "Coater #3 build Thu Oct 15 afternoon; Coater #4 Fri Oct 16 morning; AMK lights/conduit Fri\u2013Sun; scaffold down Sun Oct 18 before GE 3rd shift",
+      "location": "VPS \u2014 Coater #3 and #4",
+      "description": "Adam Watkins (AMK) Wed Oct 14 ~1:24pm ET after coater walk w/ Pete Lambley (GE): build scaffold over Coater #3 Thu afternoon + Coater #4 Fri morning; lights/conduit Fri/Sat/Sun; work done + scaffolding down Sun before GE 3rd shift Sun night. Indcom to confirm crew/material (Sat/Sun = OT). (T130)",
+      "start": "2026-10-15T12:00:00-04:00",
+      "end": "2026-10-18T22:00:00-04:00",
+      "allDay": false,
+      "todoId": "T130"
+    },
+    {
+      "id": "e47",
+      "type": "deadline",
+      "title": "Deadline: GE PO 4900661869 need-by \u2014 BSA Renovation ($97,759.38)",
+      "summary": "Deadline: GE PO 4900661869 need-by (Alex Leppard)",
+      "location": "Ariba / SAP Business Network",
+      "description": "PO 4900661869 BSA Renovation; PR841864; need-by Fri Oct 16. Ack/confirm order. (T111)",
+      "start": "2026-10-16",
+      "end": "2026-10-17",
+      "allDay": true,
+      "todoId": "T111"
+    },
+    {
+      "id": "e53",
+      "type": "outage",
+      "title": "Exclusion zone: BCL7 crane lift Sat Oct 17 (date in question) \u2014 ANA/ANB thru AYA/AYB + Admin",
+      "summary": "Re-sent for Sat Oct 17 6am\u20137pm; GE (Stephanie Gray) objects \u2014 PI weekend, offices occupied 10/6\u201310/18",
+      "location": "ANA/ANB thru AYA/AYB; Standera/Admin bldg 1st+2nd floors",
+      "description": "Hinkson/AMK (Nate Barney) UPDATE Fri Oct 9 ~11:12am ET: Sat Oct 10 crane lift canceled due to impending weather; planning to reschedule for Sat Oct 17, updated lift plan to come. Original: complete access restriction 6:00am\u20137:00pm for crane lifting of process piping onto high roof; includes GE HVAC replacement. Fri Oct 9 ~4:41pm ET Stephanie Gray (GE) reply-all to re-sent Oct 17 6:00am\u20137:00pm advisory: PI weekend, offices must be occupied all day 10/6\u201310/18; asks who is in charge and the goal \u2014 date may move again. Check against T130 coater scaffold weekend Oct 16\u201318. (T120) UPDATE Fri ~7:48pm ET Stephanie Gray follow-up: 'What can we do to modify this?' \u2014 no GE answer yet.",
+      "start": "2026-10-17T06:00:00-04:00",
+      "end": "2026-10-17T19:00:00-04:00",
+      "allDay": false,
+      "todoId": "T120"
+    },
+    {
       "id": "e73",
       "type": "deadline",
       "title": "Deadline: \u22653 bays M-Bay decking before AMKing welding (Mon 10/19)",
@@ -2062,6 +2002,19 @@
       "allDay": true,
       "todoId": "T166",
       "status": "scheduled"
+    },
+    {
+      "id": "e66",
+      "type": "deadline",
+      "title": "Deadline: MDB foundation wall up (AM King cutting starts wk of 10/26)",
+      "summary": "Wall around Okuma MU6300V foundation area in MDB \u2014 Jeff committed",
+      "location": "MDB",
+      "description": "Russ Zubkov (AM King, cc Adam Watkins): wall per markup 'Okuma MU6300V Foundation, mark up.pptx'; GE contact Timothy Sullivan. AMK starts cutting week of 10/26; Jeff: Absolutely. Owe scope/price + availability. (T151)",
+      "start": "2026-10-26",
+      "end": "2026-10-27",
+      "allDay": true,
+      "todoId": "T151",
+      "status": "pending"
     },
     {
       "id": "e74",
@@ -2077,18 +2030,65 @@
       "status": "scheduled"
     },
     {
-      "id": "e75",
-      "type": "meeting",
-      "title": "EZA Project Kick-off (PO 4900667131) @ EZA Office Area",
-      "start": "2026-10-15T08:30:00-04:00",
-      "end": "2026-10-15T09:00:00-04:00",
-      "location": "EZA Office Area",
-      "relatedTodos": [
-        "T170",
-        "T23",
-        "T169"
-      ],
-      "notes": "Minhaj Syed ~9:39am Wed Oct 14; Jeff+Kat accepted ~9:52\u20139:53am. Attendees: Jeff, Kat, Colby Murphy, Zach Ciesielczyk; Christine Price optional."
+      "id": "e26",
+      "summary": "Work: ENSER 7HA1 Build Platform install (ENSER crew)",
+      "location": "GE facility (from Advanced Rigging)",
+      "description": "Twigg Mon ~3:14pm ET: ENSER own hired rigging crew \u2014 platforms, placement, anchoring, electrical; fully functional. Needs GE tech rep for exact placement before anchoring. Mon Nov 2 \u2013 on/before Tue Nov 3. (T56) Fri Oct 2 ~6:24pm ET Twigg formal responsibilities: tentatively Nov 1 move from Advanced Rigging into plant (GE rigging/positioning; ENSER rep directs); ENSER anchors/electrical/ground straps/test; GE provides 4\u00d7 air \u226590psi + 4\u00d7480V P&S + 4\u00d7 Size-2 + 2\u00d7 Size-1 Meltric (Indcom/DPP quote = T99).",
+      "start": "2026-11-01",
+      "end": "2026-11-04",
+      "allDay": true,
+      "type": "work",
+      "todoId": "T56",
+      "title": "Work: ENSER 7HA1 build stand move-in (~Nov 1) + install Nov 2\u20133 (ENSER crew)"
+    },
+    {
+      "id": "e67",
+      "type": "work",
+      "title": "Work: ELB hangar install (AM King)",
+      "summary": "Week of Mon Nov 2 \u2014 pending walkthrough scope",
+      "location": "ELB",
+      "description": "AM King target to put up ELB hangar (similar to HHA) week of Nov 2; scope from Mon Oct 12 2:30pm walk. (T150)",
+      "start": "2026-11-02",
+      "end": "2026-11-07",
+      "allDay": true,
+      "todoId": "T150",
+      "status": "tentative"
+    },
+    {
+      "id": "e54",
+      "type": "deadline",
+      "title": "Deadline: ack GE PO 4900662406 (material rental Oct 2\u201329)",
+      "summary": "Need-by Nov 3 \u2014 $46,278.34 (Joey Lum)",
+      "location": "Ariba",
+      "description": "Ariba PO 4900662406, requester Lamont Joey Lum, PR840787, $46,278.34, rental period Oct 2\u2013Oct 29 2026 (28-day minimum rental cycle). (T119)",
+      "start": "2026-11-03",
+      "end": "2026-11-04",
+      "allDay": true,
+      "todoId": "T119"
+    },
+    {
+      "id": "e48",
+      "type": "deadline",
+      "title": "Deadline: GE PO 4900661816 need-by \u2014 C-Bay machine cleaning FW41\u201344 ($49,470)",
+      "summary": "Deadline: GE PO 4900661816 need-by (Joey Lum)",
+      "location": "Ariba / SAP Business Network",
+      "description": "PO 4900661816 weekly C-Bay machine cleaning, 2 Industrial Techs \u00d7 40 hr/wk, FW41\u201344; PR840798; need-by Mon Nov 9. (T110)",
+      "start": "2026-11-09",
+      "end": "2026-11-10",
+      "allDay": true,
+      "todoId": "T110"
+    },
+    {
+      "id": "e45",
+      "type": "deadline",
+      "title": "Deadline: GE PO 4900661672 need-by \u2014 Material Rental Cycles ($22,125)",
+      "summary": "Deadline: GE PO 4900661672 need-by (Joey Lum)",
+      "location": "Ariba / SAP Business Network",
+      "description": "PO 4900661672 Material Rental Cycles Sep 1\u2013Jan 18; PR841755; need-by Dec 21. Ack now; invoice per cycle. (T104)",
+      "start": "2026-12-21",
+      "end": "2026-12-22",
+      "allDay": true,
+      "todoId": "T104"
     }
   ]
 }
