@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T12:13:07-04:00",
+  "updated": "2026-10-15T13:11:49-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -1270,7 +1270,7 @@
       "due": "**Sat Oct 17 7:00am \u2013 Sun Oct 18 5:00pm ET** (Jason outage request; Kat cal Jeff hold)",
       "item": "Track outage **RP-10 Circuit #30** \u2014 DPP relocate Data Cabinets **20-S2-IE4K & 20-S2-CP** (BSA Data Cabinet Relocation)",
       "source": "Email / Jason Marchbanks (DPP) 2026-10-15 ~11:14am ET",
-      "notes": "**Thu ~11:14am ET Jason\u2192Hinkson + McCurry (cc Jon Roper, Jeff, Katheryn, Adam McClure):** outage request **RP-10 Circuit #30**; purpose relocate Data Cabinets **20-S2-IE4K & 20-S2-CP**; project **BSA Data Cabinet 20-S2-IE4K Relocation**; **Sat Oct 17 7:00am \u2013 Sun Oct 18 5:00pm**; sub **DPP**; photos attached. **~11:18am ET Jason follow-up:** **GE Lead : Alex Leppard**. Kat cal has Jeff hold *Outage/Shutdown/LOTO: RP-10 Circuit #30* same window (created ~11:22am) \u2014 e79. Weekend OT window; overlaps T130 Coater #3/#4 scaffold Fri\u2013Sun and T120 BCL7 crane-lift date (likely canceled). Watch for Hinkson OUTAGE NOTIFICATION confirmation. No scaffold mentioned."
+      "notes": "**Thu ~11:14am ET Jason\u2192Hinkson + McCurry (cc Jon Roper, Jeff, Katheryn, Adam McClure):** outage request **RP-10 Circuit #30**; purpose relocate Data Cabinets **20-S2-IE4K & 20-S2-CP**; project **BSA Data Cabinet 20-S2-IE4K Relocation**; **Sat Oct 17 7:00am \u2013 Sun Oct 18 5:00pm**; sub **DPP**; photos attached. **~11:18am ET Jason follow-up:** **GE Lead : Alex Leppard**. Kat cal has Jeff hold *Outage/Shutdown/LOTO: RP-10 Circuit #30* same window (created ~11:22am) \u2014 e79. Weekend OT window; overlaps T130 Coater #3/#4 scaffold Fri\u2013Sun and T120 BCL7 crane-lift date (likely canceled). **Thu ~1:01pm ET Hinkson OUTAGE NOTIFICATION \u2014 RP-10 ckt-30; DATA; 20-S2-IE4K & 20-S2-CP** (to Roper, McCurry, Jason, Jeff, Katheryn, Adam McClure, Coletti, McGrath, Connor, GVL Local Network, Fitzgerald, Quincy Hill, Hanscom, Coon, Flowers, Henderson, Command Center): **confirmed** same window Sat Oct 17 7:00am \u2013 Sun Oct 18 5:00pm; affected **20-S2-IE4K & 20-S2-CP** + **networking in the area**; location **ASB; BSA and surrounding areas**. Hinkson invite on Kat cal (deduped into e79). No scaffold mentioned."
     }
   ],
   "calendar": [
@@ -2174,9 +2174,9 @@
       "id": "e79",
       "type": "outage",
       "title": "Outage/Shutdown/LOTO: RP-10 Circuit #30 \u2014 BSA Data Cabinets 20-S2-IE4K & 20-S2-CP",
-      "summary": "Sat Oct 17 7:00am \u2013 Sun Oct 18 5:00pm ET \u2014 DPP relocate Data Cabinets 20-S2-IE4K & 20-S2-CP (BSA Data Cabinet Relocation); GE Lead Alex Leppard",
-      "location": "RP-10 Circuit #30 / BSA",
-      "description": "Jason Marchbanks (DPP) Thu Oct 15 ~11:14am ET outage request to Hinkson/McCurry (cc Roper, Jeff, Katheryn, Adam McClure): Panel RP-10 Circuit #30; project BSA Data Cabinet 20-S2-IE4K Relocation; purpose relocate Data Cabinets 20-S2-IE4K & 20-S2-CP; Sat Oct 17 7:00AM \u2013 Sun Oct 18 5:00PM; sub DPP. ~11:18am: GE Lead Alex Leppard. Kat cal Jeff hold Outage/Shutdown/LOTO: RP-10 Circuit #30 same window (created ~11:22am). (T176)",
+      "summary": "Sat Oct 17 7:00am \u2013 Sun Oct 18 5:00pm ET \u2014 DPP relocate Data Cabinets 20-S2-IE4K & 20-S2-CP (BSA); networking in area affected; GE Lead Alex Leppard; Hinkson notice confirmed",
+      "location": "RP-10 Circuit #30 / ASB; BSA and surrounding areas",
+      "description": "Jason Marchbanks (DPP) Thu Oct 15 ~11:14am ET outage request to Hinkson/McCurry (cc Roper, Jeff, Katheryn, Adam McClure): Panel RP-10 Circuit #30; project BSA Data Cabinet 20-S2-IE4K Relocation; purpose relocate Data Cabinets 20-S2-IE4K & 20-S2-CP; Sat Oct 17 7:00AM \u2013 Sun Oct 18 5:00PM; sub DPP. ~11:18am: GE Lead Alex Leppard. Kat cal Jeff hold Outage/Shutdown/LOTO: RP-10 Circuit #30 same window (created ~11:22am). (T176) Thu ~1:01pm ET Hinkson OUTAGE NOTIFICATION confirmed same window; affected 20-S2-IE4K & 20-S2-CP + networking in the area; location ASB; BSA and surrounding areas (Hinkson invite deduped).",
       "start": "2026-10-17T07:00:00-04:00",
       "end": "2026-10-18T17:00:00-04:00",
       "allDay": false,
