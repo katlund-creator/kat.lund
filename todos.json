@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T14:08:09-04:00",
+  "updated": "2026-10-15T15:07:39-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -1289,6 +1289,15 @@
       "item": "BSA office (was Allied BSB/KQB package) \u2014 set joint data+electrical review w/ **Jason (DPP)** + **Mike (SCI)**; provide Kat\u2019s BSA layout for floor boxes",
       "source": "Email / Jeff\u2192Katheryn 2026-10-15 ~1:30pm ET",
       "notes": "**Thu ~1:30pm ET Jeff\u2192Katheryn, *BSA Office (Allied Quote for BSB/KQB packages)*** (addressed \u201cJason/Mike\u201d; attached **QH-12515-1 1.pdf** + **QH-12515-2 1.pdf** install dwgs): scopes connected \u2192 meet together for review. Allied package originally BSB+KQB offices; location now **BSA** (where office demo took place). **BSB canceled** \u2192 new design in BSA; **KQB still happening, different design**. Confirm data + electrical needs w/: **Roper\u2019s requirements** (panels, transformers, etc.); **load centers externally mounted**; GE confirming **raised floor on 1st floor** \u2192 line item for **floor boxes** using **Kat\u2019s BSA layout**; **TVs** in those locations either way. **Mike** to specify conduit sizes + source if requirements exceed local boxes being **moved this weekend** (RP-10 Ckt#30 cabinet relocation T176/e79). FYI: Jeff also has an unsent Gmail **DRAFT** ~1:17pm \u201cJason- DPP EST-\u201d **BSB (QH-10049) $19,896.81** (Estimate #215: 40 ft primary + 115 ft secondary feeder, 2\u00d770A TD fuses PP-6B-4, 45 kVA 1-ph NEMA 12 xfmr + disconnect, powers one interior building Area KIB; DATA conduit TBD). Ties T13/T111/T176/T174."
+    },
+    {
+      "id": "T179",
+      "status": "open",
+      "priority": "high",
+      "due": "by end of Oct 2026 \u2014 tell Max; support ends after Oct 31",
+      "item": "Notify **Max** \u2014 GE **UB Tubing** additional support **ends after October**; Max OK through EOM only",
+      "source": "Email / Mateo Castro (GE Vernova) 2026-10-15 ~2:20pm ET",
+      "notes": "**Thu ~2:20pm ET Mateo Castro (Lead Mfg Eng, Turbine Assembly)** \u2192 Jeff *UB Tubing Support Needs*: 2027 tubing volume lower than expected (no ABs; no dual-fuel units); recent hires + apprentices graduating \u2192 **no longer need additional Indcom support**. Max can still help **through end of October**; **not needed after that**. **Jeff ~2:33pm ET** replied: \"I appreciate the heads up and will let him know.\" Action: tell Max the wind-down; confirm last day / handoff."
     }
   ],
   "calendar": [
