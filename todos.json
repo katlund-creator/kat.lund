@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T13:11:49-04:00",
+  "updated": "2026-10-15T14:08:09-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -1271,6 +1271,24 @@
       "item": "Track outage **RP-10 Circuit #30** \u2014 DPP relocate Data Cabinets **20-S2-IE4K & 20-S2-CP** (BSA Data Cabinet Relocation)",
       "source": "Email / Jason Marchbanks (DPP) 2026-10-15 ~11:14am ET",
       "notes": "**Thu ~11:14am ET Jason\u2192Hinkson + McCurry (cc Jon Roper, Jeff, Katheryn, Adam McClure):** outage request **RP-10 Circuit #30**; purpose relocate Data Cabinets **20-S2-IE4K & 20-S2-CP**; project **BSA Data Cabinet 20-S2-IE4K Relocation**; **Sat Oct 17 7:00am \u2013 Sun Oct 18 5:00pm**; sub **DPP**; photos attached. **~11:18am ET Jason follow-up:** **GE Lead : Alex Leppard**. Kat cal has Jeff hold *Outage/Shutdown/LOTO: RP-10 Circuit #30* same window (created ~11:22am) \u2014 e79. Weekend OT window; overlaps T130 Coater #3/#4 scaffold Fri\u2013Sun and T120 BCL7 crane-lift date (likely canceled). **Thu ~1:01pm ET Hinkson OUTAGE NOTIFICATION \u2014 RP-10 ckt-30; DATA; 20-S2-IE4K & 20-S2-CP** (to Roper, McCurry, Jason, Jeff, Katheryn, Adam McClure, Coletti, McGrath, Connor, GVL Local Network, Fitzgerald, Quincy Hill, Hanscom, Coon, Flowers, Henderson, Command Center): **confirmed** same window Sat Oct 17 7:00am \u2013 Sun Oct 18 5:00pm; affected **20-S2-IE4K & 20-S2-CP** + **networking in the area**; location **ASB; BSA and surrounding areas**. Hinkson invite on Kat cal (deduped into e79). No scaffold mentioned."
+    },
+    {
+      "id": "T177",
+      "status": "open",
+      "priority": "high",
+      "due": "review this week",
+      "item": "Review Golden Brush **NFPS M-Bay** quote \u2014 **GBI Estimate 13594** NFPS Equipment Installs \u2013 **Epoxy Floor and Painting** \u2014 fold into NFPS customer pricing",
+      "source": "Email / Tommy Trickett (Golden Brush Inc) 2026-10-15 ~1:10pm ET",
+      "notes": "**Thu ~1:10pm ET Tommy Trickett (Golden Brush Inc, 864-325-3873)\u2192Jeff, *NFPS Quote*:** \u201cAttached is the NFPS quote for M-Bay\u201d \u2014 attachment *GBI Estimate13594- NFPS Equipment Installs \u2013 Epoxy Floor and Painting - Jeff - Indcom.doc*. Review sub pricing + route into NFPS quotation/change order (ties T7/T90/T68)."
+    },
+    {
+      "id": "T178",
+      "status": "open",
+      "priority": "high",
+      "due": "before Sat Oct 17 cabinet move / Allied start Mon Oct 19",
+      "item": "BSA office (was Allied BSB/KQB package) \u2014 set joint data+electrical review w/ **Jason (DPP)** + **Mike (SCI)**; provide Kat\u2019s BSA layout for floor boxes",
+      "source": "Email / Jeff\u2192Katheryn 2026-10-15 ~1:30pm ET",
+      "notes": "**Thu ~1:30pm ET Jeff\u2192Katheryn, *BSA Office (Allied Quote for BSB/KQB packages)*** (addressed \u201cJason/Mike\u201d; attached **QH-12515-1 1.pdf** + **QH-12515-2 1.pdf** install dwgs): scopes connected \u2192 meet together for review. Allied package originally BSB+KQB offices; location now **BSA** (where office demo took place). **BSB canceled** \u2192 new design in BSA; **KQB still happening, different design**. Confirm data + electrical needs w/: **Roper\u2019s requirements** (panels, transformers, etc.); **load centers externally mounted**; GE confirming **raised floor on 1st floor** \u2192 line item for **floor boxes** using **Kat\u2019s BSA layout**; **TVs** in those locations either way. **Mike** to specify conduit sizes + source if requirements exceed local boxes being **moved this weekend** (RP-10 Ckt#30 cabinet relocation T176/e79). FYI: Jeff also has an unsent Gmail **DRAFT** ~1:17pm \u201cJason- DPP EST-\u201d **BSB (QH-10049) $19,896.81** (Estimate #215: 40 ft primary + 115 ft secondary feeder, 2\u00d770A TD fuses PP-6B-4, 45 kVA 1-ph NEMA 12 xfmr + disconnect, powers one interior building Area KIB; DATA conduit TBD). Ties T13/T111/T176/T174."
     }
   ],
   "calendar": [
