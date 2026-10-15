@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T09:18:10-04:00",
+  "updated": "2026-10-15T10:11:13-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -1210,15 +1210,6 @@
       "notes": "**Tue ~7:56pm ET Fitts\u2192Jeff:** in preparation for Family Day, help clear out any remaining materials and/or equipment in the parking lot **by 10/28**. Trevor suggested placing items at **Feaster** or in the **grass by the rail lines**; open to other suggestions. Jeff: reply with plan/location + schedule crew/forklift. Related **T158** (Family Day passes). \u2014 e74"
     },
     {
-      "id": "T168",
-      "status": "open",
-      "priority": "med",
-      "due": "**Thu Oct 15 7:30am ET** (Hinkson formal notice IN; GE invite 7:30\u20138:00)",
-      "item": "Track shutdown **PP-6A-7 Circuit #8** \u2014 remove Fanuc Robocut **#706750** @ EYA (replacement machine, same location)",
-      "source": "Email / Jason Marchbanks (DPP) 2026-10-14 ~7:29am ET",
-      "notes": "**Wed ~7:29am ET Jason\u2192Hinkson + McCurry (cc Roper, Jeff, Katheryn, Adam McClure, Jim Stanley):** shutdown request **Panel PP-6A-7 Circuit #8**, panel @ **EXA**, machine @ **EYA**; **Thu Oct 15 7:30am**; GE Lead **Jim Stanley**; sub **DPP**; 3 photos attached. Kat cal has **2 Jeff holds** (7:30\u20138:30 and 7:30\u20139:00) = one shutdown (deduped). Watch for Hinkson official notification/confirmed window. Ties T7 item 3 (EYA wire EDM decommission/new install). \u2014 e72 **Wed ~9:17am ET Hinkson formal *SHUTDOWN NOTIFICATION - PP-6A-7 ckt-8***: same scope/time; GE invite on Kat cal 7:30\u20138:00am ET @ EYA (dedupe w/ Jeff holds 7:30\u20138:30 / 7:30\u20139:00 = one e72)."
-    },
-    {
       "id": "T169",
       "status": "open",
       "priority": "high",
@@ -1271,13 +1262,22 @@
       "item": "Process/ack GE PO **4900667770** (**$49,448.00**) \u2014 **LPA and KQB Enclosure Rental** (Joseph Buellesbach)",
       "source": "Email / Ariba GE Vernova 2026-10-15 ~8:58am ET",
       "notes": "**Thu ~8:58am ET** Ariba new PO **4900667770** to Indcom (ariba.mail@); requester **Joseph Buellesbach** (joseph.buellesbach@gevernova.com); **PR835119-V5**; NET 150 (150 DD NET); FCA; purchase group VF5 US_GVL_Indirect; line 1 Material 1 EA **$49,448.00** *LPA and KQB Enclosure Rental*, need-by **16 Oct 2026**; ship to GE Greenville 300 Garlington Rd. Likely ties **T39** (LPA Power scaffold north-end K-bay). Ack/route + set up billing."
+    },
+    {
+      "id": "T175",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP (AP)",
+      "item": "Process DPP **Invoice 4715** \u2014 *Demo - Fanuc Robocut \u2013 Asset #706750 @ EYA*",
+      "source": "Email / Jason Marchbanks (DPP) 2026-10-15 ~9:18am ET",
+      "notes": "**Thu ~9:18am ET Jason\u2192Jeff** (cc Bill, accounting@, Katheryn, Amie Naylor): Joist https://client.joistapp.com/invoices/fd18d99d5f639552dcd5da32 + PDF *Invoice_4715.pdf.pdf* + photo. Work = PP-6A-7 ckt #8 shutdown / Fanuc Robocut #706750 removal @ EYA (T168 closed). Ties T7 item 3 (EYA EDM decommission/new install). Amount not read (PDF not opened). Route/confirm payment."
     }
   ],
   "calendar": [
     "**Fri Oct 16 9:00\u20139:30am ET @ ABA (Hinkson OUTAGE NOTIFICATION Thu ~9:07am \u2014 moved from 8:00\u20138:30 request; Kat cal Hinkson invite + 2 Jeff holds = one)** \u2014 Outage **RP-19B-3.4** \u2014 install (4) duplex receptacles for new downdraft table, Cell 5-6 (DPP; GE Lead Matt Fitts) (T173/T137) \u2014 e76",
     "**Mon Oct 19 (start) @ BSA** \u2014 Work: **Allied Modular starts BSA office install** (Gloria Pedroza; wants to work concurrently w/ Indcom fire suppression etc.) (T13) \u2014 e77 (email only; not on Kat cal)",
     "**Thu Oct 15 8:30\u20139:00am ET @ EZA Office Area (NEW \u2014 Minhaj ~9:39am; Jeff+Kat accepted)** \u2014 Meeting **EZA Project Kick-off** (PO 4900667131; Colby/Zach; Christine optional) (T170/T23/T169) \u2014 e75",
-    "**Thu Oct 15 7:30am ET (Hinkson formal notice IN ~9:17am; GE invite 7:30\u20138:00; Kat cal also Jeff holds 7:30\u20138:30 / 7:30\u20139:00 = one)** \u2014 Shutdown **PP-6A-7 Circuit #8** @ EXA panel / EYA machine \u2014 remove Fanuc Robocut #706750 for replacement (DPP; GE Lead Jim Stanley) (T168) \u2014 e72",
+    "**DONE Thu Oct 15 7:30am ET @ EYA** \u2014 Shutdown **PP-6A-7 Circuit #8** @ EXA panel / EYA machine \u2014 Fanuc Robocut #706750 removed; DPP invoiced *Demo - Fanuc Robocut* (Invoice 4715) Thu ~9:18am (T168 closed \u2192 payment T175) \u2014 e72",
     "**Before Mon Oct 19 (AMKing welding starts Mon 10/19)** \u2014 Deadline: **\u22653 bays M-Bay decking** up; crane MAA\u2013MCA de-energized; MDA\u2013MFA night-by-night (tell Buellesbach day before) (T166) \u2014 e73",
     "**By Wed Oct 28** \u2014 Deadline: clear Indcom materials/equipment from GE parking lot for **Family Day** (Feaster or grass by rail lines) (T167) \u2014 e74",
     "**TODAY Wed Oct 14 \u2014 DELIVERY DUE / EN ROUTE** \u2014 Layher **R-000159 + R-000214** via Priority1 (delivery ticket ~9:53\u20139:55am Jeremy; BOL 60116215273; 23,000 lbs) \u2014 drop-off contact still unconfirmed (T4/T105/T156) \u2014 e69",
@@ -1967,16 +1967,16 @@
     {
       "id": "e72",
       "type": "outage",
-      "title": "Shutdown: PP-6A-7 Circuit #8 \u2014 Fanuc Robocut #706750 removal @ EYA (Hinkson formal IN)",
+      "title": "DONE \u2014 Shutdown: PP-6A-7 Circuit #8 \u2014 Fanuc Robocut #706750 removal @ EYA",
       "summary": "Thu Oct 15 7:30am ET (duration not stated) \u2014 DPP; GE Lead Jim Stanley",
       "location": "EXA (panel) / EYA (machine)",
       "description": "Jason Marchbanks (DPP) Wed Oct 14 ~7:29am ET shutdown request to Hinkson/McCurry (cc Roper, Jeff, Katheryn, Adam McClure, Jim Stanley): PP-6A-7 Circuit #8 to remove Fanuc Robocut #706750 for replacement with a new machine in its existing location @ EYA. Panel @ EXA. Duration not stated. Kat cal has 2 Jeff holds (7:30\u20138:30, 7:30\u20139:00) deduped to one. Watch for Hinkson official notice. (T168)",
       "start": "2026-10-15T07:30:00-04:00",
       "end": "2026-10-15T08:00:00-04:00",
       "allDay": false,
-      "todoId": "T168",
-      "status": "requested",
-      "notes": "Hinkson formal SHUTDOWN NOTIFICATION ~9:17am Wed; GE invite 7:30\u20138:00; Jeff holds 7:30\u20138:30/7:30\u20139:00 deduped. DPP; Jim Stanley."
+      "todoId": "T175",
+      "status": "done",
+      "notes": "Work done \u2014 DPP invoiced Demo - Fanuc Robocut #706750 @ EYA (Invoice 4715) Thu Oct 15 ~9:18am ET; payment T175. T168 closed."
     },
     {
       "id": "e75",
