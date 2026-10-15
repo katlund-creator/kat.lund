@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T10:11:13-04:00",
+  "updated": "2026-10-15T11:16:03-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -169,10 +169,10 @@
       "id": "T23",
       "status": "open",
       "priority": "high",
-      "due": "PO IN \u2014 **kick-off Thu Oct 15 8:30\u20139:00am ET @ EZA Office**; vendors CDI/PMC still pending reply",
+      "due": "**Starts Mon Oct 19** (Minhaj); vendors CDI/PMC still pending; furniture path T86/Est 2030",
       "item": "EZA OPS Office / Training Room Conversion \u2014 **PO IN 4900667131** (was waiting Minhaj)",
       "source": "Email / Jeff\u2192Minhaj Syed 2026-09-18 ~8:17am",
-      "notes": "Jeff re-sent Estimate 1974.pdf (cc Colby Murphy, Katheryn). Minhaj Fri ~9:10am ET: \u201cThank you Jeff and Katheryn.\u201d Still waiting PO / next ask. **Wed Oct 14 ~5:31am ET Ariba:** GE PO **4900667131** **$169,428.00** (requester **Colby Murphy**, PR836974) \u2014 *Transform EZA Shop Floor Office* (training space \u2192 offices; office \u2192 training/meeting) \u2014 see **T169**. **~8:53am ET Katheryn\u2192Brian Hoeft (CDI Cabinets, cc Jeff):** PO received \u2014 asked kickoff needs, lead time, any changes (cabinets/quartz). **~8:54am ET Katheryn\u2192Jen Hunt (PMC, cc Jeff):** same ask for chairs/tables/whiteboards. Waiting vendor replies; also decide furniture removal path (T86 Lawless Est 2038 vs Indcom Est 2030). **Wed ~9:39am ET Minhaj Syed (GE):** calendar *EZA Project Kick-off* \u2014 PO **4900667131** approved; meet to start project **Thu Oct 15 8:30\u20139:00am ET @ EZA Office Area** (attendees Jeff, Kat, Colby, Zach, Christine optional). **~9:52am Jeff** + **~9:53am Katheryn** thanked/accepted. See **T170**/e75. Still waiting CDI (Brian) + PMC (Jen) kickoff replies."
+      "notes": "Jeff re-sent Estimate 1974.pdf (cc Colby Murphy, Katheryn). Minhaj Fri ~9:10am ET: \u201cThank you Jeff and Katheryn.\u201d Still waiting PO / next ask. **Wed Oct 14 ~5:31am ET Ariba:** GE PO **4900667131** **$169,428.00** (requester **Colby Murphy**, PR836974) \u2014 *Transform EZA Shop Floor Office* (training space \u2192 offices; office \u2192 training/meeting) \u2014 see **T169**. **~8:53am ET Katheryn\u2192Brian Hoeft (CDI Cabinets, cc Jeff):** PO received \u2014 asked kickoff needs, lead time, any changes (cabinets/quartz). **~8:54am ET Katheryn\u2192Jen Hunt (PMC, cc Jeff):** same ask for chairs/tables/whiteboards. Waiting vendor replies; also decide furniture removal path (T86 Lawless Est 2038 vs Indcom Est 2030). **Wed ~9:39am ET Minhaj Syed (GE):** calendar *EZA Project Kick-off* \u2014 PO **4900667131** approved; meet to start project **Thu Oct 15 8:30\u20139:00am ET @ EZA Office Area** (attendees Jeff, Kat, Colby, Zach, Christine optional). **~9:52am Jeff** + **~9:53am Katheryn** thanked/accepted. See **T170**/e75. Still waiting CDI (Brian) + PMC (Jen) kickoff replies. **Thu Oct 15 ~10:49am ET Minhaj Syed (GE)\u2192team (cc Jeff+Katheryn):** *EZA UA Ops Tower Renovation: Starts Monday* \u2014 renovation of EZA UA Ops Tower **training room + office** starts **Mon Oct 19**; mark keepers with **green tape** (or tell Colby Murphy / Minhaj); else disposed/repurposed; phase 1 training\u2192office then office\u2192meeting/training; training/meeting space unavailable during reno (office usable in phase 1); **6\u20138 weeks**; Qs \u2192 Colby or Minhaj. **~10:55am** Minhaj added Colby to thread. Kick-off (T170) window passed; this is the formal start notice. Still waiting CDI (Brian) + PMC (Jen) replies."
     },
     {
       "id": "T24",
@@ -475,19 +475,19 @@
       "id": "T67",
       "status": "waiting",
       "priority": "high",
-      "due": "WAITING Jeff\u2192MSS \u2014 Jason ~1:03pm: FA wiring into 6 motor-starter combos remains **UNCONNECTED**; ask MSS who terminates + verifies shutdown",
+      "due": "WAITING Frank/Jason clarify \u2014 Frank ~10:44: **loose wire/NC contact** must be tied in; MSS **cannot** connect inside or to monitor/suppression",
       "item": "Schedule BL4 / NFPS.03 mist-collector + fire-alarm work with MSS (Jason Gunter / Frank Manganella); lock Mon crew",
       "source": "Email / Jeff\u2194Jason Gunter + Frank Manganella (MSS) 2026-09-29/30/10-02",
-      "notes": "**Prior:** PO **4900652190**/card; Bill vendor setup; GE fire-alarm POC ask; MSS Sinker quote chase (T68). **Fri ~7:43am/8:07am/9:03am:** Frank offered Mon if ready; Jeff confirmed **6 machines 100% ready** (1 unplaced = separate). **Fri ~3:08pm ET Frank\u2192Kat+Jeff:** Indcom **not set up as MSS customer** \u2014 return customer form to start service (see **T95**). **Fri ~3:10pm ET Kat\u2192Bill+Jeff:** asked Bill to fill *New Customer Application v9_3.12.26.pdf*. **Action:** complete T95 form \u2192 then Frank/MSS Mon crew lock + update customer; still need GE onsite fire-alarm POC. Distinct from T57. Relates T68/T95. **Mon ~9:16am ET:** no Frank/MSS crew-arrival mail today; form (T95) not yet returned per mail. **Mon ~1:07pm ET:** MSS vendor-packet reply to Frank drafted in Jeff Gmail (not yet sent) \u2014 see T95. **Wed Oct 7 ~8:22am ET Frank Manganella (MSS)\u2192Jeff (cc Jason Gunter):** MSS **pulled wire for, installed, and programmed 6 FMM-1s + 6 FRM-1s** for monitoring/shutdown of associated equipment in **H-Bay** \u2014 6 machines done. **7th machine not yet installed; wire in place.** Frank: \"let me know when this is ready, we can come back and finish.\" **Action:** Jeff notify Frank when 7th machine is placed; expect MSS invoice for completed 6. (Work proceeded, so T95 customer setup evidently cleared.) **Wed ~9:48am ET Jeff\u2192Frank:** will let him know when the 7th machine is scheduled to be installed; thanked MSS. **Mon Oct 12 ~9:26am ET Shanna\u2192Jason (cc Jeff):** Filter Mist asset #s issued for NFPS.03 \u2014 **607291 HEA / 607292 HDA / 607296 HDA / 607293 HDA / 607294 HCA / 607295 HBA / 607297 HBA**; will sync one-lines with Jason after meetings. FYI (supports mist-collector GT path). **Wed Oct 14 ~8:32am ET Jeff\u2192Frank Manganella (cc Jason Gunter, Katheryn):** electrician says the **Mitsubishi motor starters are not tied into the machines** \u2014 thought this was completed; asks MSS to clarify what was/wasn\u2019t done; \u201cif the machines aren\u2019t tied into the system on both ends this is not complete.\u201d Waiting MSS reply (hold any MSS invoice until resolved). **Wed Oct 14 ~10:26am ET Frank Manganella (cc Jason Gunter, Katheryn):** replied with Oct 5 trip notes \u2014 **Donald Bowles ~2:26pm:** installed/programmed relay+monitor modules for **6 of 7** machines; 7th programmed into panel but not installed (return to add two modules when installed); new module #s **N29L03M079, M082\u2013M094**. **Drew Lempesis ~4:06pm:** pulled wire for, installed, programmed **6\u00d7 FMM-1 + 6\u00d7 FRM-1** H-Bay monitoring/shutdown; 7th not installed, wire in place. Reply documents **fire-alarm modules**, does **not clearly answer** Jeff\u2019s **Mitsubishi motor-starter tie-in** question \u2014 Jeff may need follow-up if starters are separate from FMM/FRM scope. Hold MSS invoice until motor-starter gap resolved. **Wed Oct 14 ~11:20am ET Jeff\u2192Jason Marchbanks (DPP), subject \u201cMSS Response\u201d:** forwarded Frank\u2019s Oct 5 trip notes verbatim (\u201cThis is the response I got from MSS\u201d) \u2014 no added ask in body. Ball now with **Jason/DPP (the electrician who flagged the gap)** to confirm whether the Mitsubishi motor-starter tie-in is inside MSS FMM-1/FRM-1 scope or a separate DPP/Mitsubishi item; then Jeff back to MSS if needed. Keep MSS invoice on hold. **Wed Oct 14 ~1:03pm ET Jason Marchbanks (DPP)\u2192Jeff, Re: MSS Response:** confirms gap \u2014 although MSS installed/programmed fire-alarm modules, **FA wiring from those modules has only been pulled into each of the six motor-starter combos and remains unconnected**. Asks MSS to confirm **who terminates** these connections and **verifies fire-alarm properly shuts down each machine**. Modules may be installed/programmed but **shutdown connections not completed**. Photo of inside motor-starter combo attached (Image.jpeg + IMG_7618.jpeg). **Action:** Jeff forward Jason\u2019s concern (w/ photos) to Frank/MSS; hold MSS invoice until terminations done + verified. Still waiting MSS."
+      "notes": "**Prior:** PO **4900652190**/card; Bill vendor setup; GE fire-alarm POC ask; MSS Sinker quote chase (T68). **Fri ~7:43am/8:07am/9:03am:** Frank offered Mon if ready; Jeff confirmed **6 machines 100% ready** (1 unplaced = separate). **Fri ~3:08pm ET Frank\u2192Kat+Jeff:** Indcom **not set up as MSS customer** \u2014 return customer form to start service (see **T95**). **Fri ~3:10pm ET Kat\u2192Bill+Jeff:** asked Bill to fill *New Customer Application v9_3.12.26.pdf*. **Action:** complete T95 form \u2192 then Frank/MSS Mon crew lock + update customer; still need GE onsite fire-alarm POC. Distinct from T57. Relates T68/T95. **Mon ~9:16am ET:** no Frank/MSS crew-arrival mail today; form (T95) not yet returned per mail. **Mon ~1:07pm ET:** MSS vendor-packet reply to Frank drafted in Jeff Gmail (not yet sent) \u2014 see T95. **Wed Oct 7 ~8:22am ET Frank Manganella (MSS)\u2192Jeff (cc Jason Gunter):** MSS **pulled wire for, installed, and programmed 6 FMM-1s + 6 FRM-1s** for monitoring/shutdown of associated equipment in **H-Bay** \u2014 6 machines done. **7th machine not yet installed; wire in place.** Frank: \"let me know when this is ready, we can come back and finish.\" **Action:** Jeff notify Frank when 7th machine is placed; expect MSS invoice for completed 6. (Work proceeded, so T95 customer setup evidently cleared.) **Wed ~9:48am ET Jeff\u2192Frank:** will let him know when the 7th machine is scheduled to be installed; thanked MSS. **Mon Oct 12 ~9:26am ET Shanna\u2192Jason (cc Jeff):** Filter Mist asset #s issued for NFPS.03 \u2014 **607291 HEA / 607292 HDA / 607296 HDA / 607293 HDA / 607294 HCA / 607295 HBA / 607297 HBA**; will sync one-lines with Jason after meetings. FYI (supports mist-collector GT path). **Wed Oct 14 ~8:32am ET Jeff\u2192Frank Manganella (cc Jason Gunter, Katheryn):** electrician says the **Mitsubishi motor starters are not tied into the machines** \u2014 thought this was completed; asks MSS to clarify what was/wasn\u2019t done; \u201cif the machines aren\u2019t tied into the system on both ends this is not complete.\u201d Waiting MSS reply (hold any MSS invoice until resolved). **Wed Oct 14 ~10:26am ET Frank Manganella (cc Jason Gunter, Katheryn):** replied with Oct 5 trip notes \u2014 **Donald Bowles ~2:26pm:** installed/programmed relay+monitor modules for **6 of 7** machines; 7th programmed into panel but not installed (return to add two modules when installed); new module #s **N29L03M079, M082\u2013M094**. **Drew Lempesis ~4:06pm:** pulled wire for, installed, programmed **6\u00d7 FMM-1 + 6\u00d7 FRM-1** H-Bay monitoring/shutdown; 7th not installed, wire in place. Reply documents **fire-alarm modules**, does **not clearly answer** Jeff\u2019s **Mitsubishi motor-starter tie-in** question \u2014 Jeff may need follow-up if starters are separate from FMM/FRM scope. Hold MSS invoice until motor-starter gap resolved. **Wed Oct 14 ~11:20am ET Jeff\u2192Jason Marchbanks (DPP), subject \u201cMSS Response\u201d:** forwarded Frank\u2019s Oct 5 trip notes verbatim (\u201cThis is the response I got from MSS\u201d) \u2014 no added ask in body. Ball now with **Jason/DPP (the electrician who flagged the gap)** to confirm whether the Mitsubishi motor-starter tie-in is inside MSS FMM-1/FRM-1 scope or a separate DPP/Mitsubishi item; then Jeff back to MSS if needed. Keep MSS invoice on hold. **Wed Oct 14 ~1:03pm ET Jason Marchbanks (DPP)\u2192Jeff, Re: MSS Response:** confirms gap \u2014 although MSS installed/programmed fire-alarm modules, **FA wiring from those modules has only been pulled into each of the six motor-starter combos and remains unconnected**. Asks MSS to confirm **who terminates** these connections and **verifies fire-alarm properly shuts down each machine**. Modules may be installed/programmed but **shutdown connections not completed**. Photo of inside motor-starter combo attached (Image.jpeg + IMG_7618.jpeg). **Action:** Jeff forward Jason\u2019s concern (w/ photos) to Frank/MSS; hold MSS invoice until terminations done + verified. Still waiting MSS. **Thu Oct 15 ~10:25am ET Jeff\u2192Frank:** \u201c6 out of 6\u2026.? Please advise.\u201d **~10:44am ET Frank Manganella:** \u201cThe **lose wire** needs to be **tied in** \u2014 its normally closed contact. We **can not** make the connection inside nor can we make the connection to the monitor to the suppression system.\u201d **~10:54am ET Jeff\u2192Jason Marchbanks (DPP), Fwd: GEV RFQ:** \u201cI am lost with this.\u201d **~10:55am ET Jeff\u2192Frank:** \u201cTied into what? I\u2019m confused.\u201d **Action:** clarify with Frank/Jason who ties the NC contact / terminates FA wiring into motor-starter combos + verifies shutdown; hold MSS invoice. Still open."
     },
     {
       "id": "T68",
       "status": "open",
       "priority": "high",
-      "due": "ASAP (MSS $7,500 budget # IN; formal proposal pending)",
+      "due": "WAITING Mike SCI next week \u2014 Fanuc conduit data + 1 CMM + 1 more machine + missing plate; MSS $7,500 proposal still pending",
       "item": "Review/route SCI NFPS.02 Data quote; chase MSS NFPS.02 Mitsubishi Sinker quote",
       "source": "Email / Jeff\u2194Mike Mullaney + Kat\u2192Mike + Kat\u2192Jason Gunter 2026-09-30/10-01/10-02",
-      "notes": "**Wed\u2013Thu prior:** SCI quote IN (13169464889\u2026); MSS Sinker chase open. **Fri ~1:57pm ET Katheryn\u2192Jason Gunter (MSS)** RFQ NFPS.02: 4\u00d7 EDM Mist Collector & Fire Alarm @ M Bay MQA\u2013MNA (SOW #7 fire suppression on sinker EDMs); Indcom provides conduit/boxes; cc path via Jeff. **Fri ~2:05pm ET Jason\u2192Katheryn (cc Frank):** will reach **first of the week** and **schedule a site visit**. **Fri ~2:07pm ET Katheryn\u2192Jeff:** fwd asking **what to reply**. **Action:** Jeff advise Kat reply (or ack wait for Mon site visit); still need MSS quote after visit; still review/route SCI Data quote. Distinct from T15 / T67 (BL4 Mon crew). **Mon ~8:47am ET Kat\u2192Jason Gunter:** need numbers ASAP \u2014 rough estimate off NFPS.03 install? **~11:23am ET Jason Gunter (MSS):** use **$7,500** as the number; he will work on the proposal (apologized for delay). **~11:32am ET Kat\u2192Jeff:** fwd the MSS number; proposal based off NFPS.03 for NFPS.02. Fold $7,500 into NFPS.02 quote (T90); waiting MSS formal proposal; SCI Data quote still to route. **Wed Oct 7 ~2:15am ET:** NFPS.02 **Estimate 2022 ($1,732,812.09)** sent to Jim Stanley (T90) \u2014 confirm SCI Data + MSS fire-alarm/Sinker scope are inside it; MSS formal proposal still pending."
+      "notes": "**Wed\u2013Thu prior:** SCI quote IN (13169464889\u2026); MSS Sinker chase open. **Fri ~1:57pm ET Katheryn\u2192Jason Gunter (MSS)** RFQ NFPS.02: 4\u00d7 EDM Mist Collector & Fire Alarm @ M Bay MQA\u2013MNA (SOW #7 fire suppression on sinker EDMs); Indcom provides conduit/boxes; cc path via Jeff. **Fri ~2:05pm ET Jason\u2192Katheryn (cc Frank):** will reach **first of the week** and **schedule a site visit**. **Fri ~2:07pm ET Katheryn\u2192Jeff:** fwd asking **what to reply**. **Action:** Jeff advise Kat reply (or ack wait for Mon site visit); still need MSS quote after visit; still review/route SCI Data quote. Distinct from T15 / T67 (BL4 Mon crew). **Mon ~8:47am ET Kat\u2192Jason Gunter:** need numbers ASAP \u2014 rough estimate off NFPS.03 install? **~11:23am ET Jason Gunter (MSS):** use **$7,500** as the number; he will work on the proposal (apologized for delay). **~11:32am ET Kat\u2192Jeff:** fwd the MSS number; proposal based off NFPS.03 for NFPS.02. Fold $7,500 into NFPS.02 quote (T90); waiting MSS formal proposal; SCI Data quote still to route. **Wed Oct 7 ~2:15am ET:** NFPS.02 **Estimate 2022 ($1,732,812.09)** sent to Jim Stanley (T90) \u2014 confirm SCI Data + MSS fire-alarm/Sinker scope are inside it; MSS formal proposal still pending. **Thu Oct 15 ~10:17am ET Mike Mullaney (SCI)\u2192Jeff:** \u201cAre we waiting on any more machines for NFPS or was that all of them?\u201d **~10:41am ET Jeff\u2192Mike:** Fanucs **don\u2019t have data on the conduit**; **one CMM** needs data; **one more to arrive**; **some plate missing** (photo attached). **~10:49am ET Mike:** \u201cI will [have] that taken care of next week.\u201d \u2192 waiting SCI next week for data/plate; MSS formal Sinker/fire proposal still pending."
     },
     {
       "id": "T69",
@@ -1213,19 +1213,10 @@
       "id": "T169",
       "status": "open",
       "priority": "high",
-      "due": "ASAP \u2014 ack in Ariba; **kick-off Thu Oct 15 8:30am** (Minhaj)",
+      "due": "ASAP \u2014 ack in Ariba; **renovation starts Mon Oct 19** (Minhaj)",
       "item": "Process/ack GE PO **4900667131** (**$169,428.00**) \u2014 Transform EZA Shop Floor Office (Colby Murphy)",
       "source": "Email / Ariba GE Vernova 2026-10-14 ~5:31am ET",
-      "notes": "**Wed ~5:31am ET** Ariba new PO **4900667131** to Indcom (ariba.mail@); requester **Colby Murphy**; **PR836974**; NET 150 (150 DD NET); FCA; purchase group VF5 US_GVL_Indirect; ship-to 5250 (300 Garlington Rd). Line 1 Material **$169,428.00**: *Transform EZA Shop Floor Office to meet expanded salaried support team \u2014 convert training space into office space and office space into training/meeting space.* This is the **T23** EZA OPS Office / Training Room Conversion PO. Ack/confirm in Ariba; Katheryn already kicked off CDI Cabinets + PMC furniture (~8:53\u20138:54am). **Wed ~9:39am ET Minhaj:** kick-off invited (T170/e75); Jeff+Kat accepted ~9:52\u20139:53am. Still ack PO in Ariba."
-    },
-    {
-      "id": "T170",
-      "status": "open",
-      "priority": "high",
-      "due": "**Thu Oct 15 8:30\u20139:00am ET @ EZA Office Area**",
-      "item": "Attend **EZA Project Kick-off** (Minhaj Syed) \u2014 PO **4900667131** Transform EZA Shop Floor Office",
-      "source": "Email / Minhaj Syed + cal invite 2026-10-14 ~9:39am ET",
-      "notes": "**Wed ~9:39am ET Minhaj\u2192Jeff/Colby/Kat/Zach (Christine optional):** PO just approved **4900667131**; meet to talk about how to get project started. Location **Meet at EZA Office Area**. **~9:52am Jeff** + **~9:53am Katheryn** accepted/thanked. Ties **T23/T169**. \u2014 e75 **Thu ~8:29am ET Minhaj Syed (reply-all):** construction work near EZA \u2014 **enter through TUA (E bay)** to reach the room; sorry for late notice. Meeting window 8:30\u20139:00 now past \u2014 no outcome/next-steps mail yet."
+      "notes": "**Wed ~5:31am ET** Ariba new PO **4900667131** to Indcom (ariba.mail@); requester **Colby Murphy**; **PR836974**; NET 150 (150 DD NET); FCA; purchase group VF5 US_GVL_Indirect; ship-to 5250 (300 Garlington Rd). Line 1 Material **$169,428.00**: *Transform EZA Shop Floor Office to meet expanded salaried support team \u2014 convert training space into office space and office space into training/meeting space.* This is the **T23** EZA OPS Office / Training Room Conversion PO. Ack/confirm in Ariba; Katheryn already kicked off CDI Cabinets + PMC furniture (~8:53\u20138:54am). **Wed ~9:39am ET Minhaj:** kick-off invited (T170/e75); Jeff+Kat accepted ~9:52\u20139:53am. Still ack PO in Ariba. **Thu ~10:49am Minhaj:** renovation starts Mon Oct 19 (see T23). Still ack PO in Ariba."
     },
     {
       "id": "T171",
@@ -1276,7 +1267,8 @@
   "calendar": [
     "**Fri Oct 16 9:00\u20139:30am ET @ ABA (Hinkson OUTAGE NOTIFICATION Thu ~9:07am \u2014 moved from 8:00\u20138:30 request; Kat cal Hinkson invite + 2 Jeff holds = one)** \u2014 Outage **RP-19B-3.4** \u2014 install (4) duplex receptacles for new downdraft table, Cell 5-6 (DPP; GE Lead Matt Fitts) (T173/T137) \u2014 e76",
     "**Mon Oct 19 (start) @ BSA** \u2014 Work: **Allied Modular starts BSA office install** (Gloria Pedroza; wants to work concurrently w/ Indcom fire suppression etc.) (T13) \u2014 e77 (email only; not on Kat cal)",
-    "**Thu Oct 15 8:30\u20139:00am ET @ EZA Office Area (NEW \u2014 Minhaj ~9:39am; Jeff+Kat accepted)** \u2014 Meeting **EZA Project Kick-off** (PO 4900667131; Colby/Zach; Christine optional) (T170/T23/T169) \u2014 e75",
+    "**Mon Oct 19 (start) @ EZA UA Ops Tower** \u2014 Work: **EZA renovation starts** (training\u2194office conversion; 6\u20138 wks; green-tape keepers; Colby/Minhaj) (T23/T169) \u2014 e78 (email only; not on Kat cal)",
+    "**DONE Thu Oct 15 8:30\u20139:00am ET @ EZA Office Area** \u2014 Meeting **EZA Project Kick-off** held; renovation starts Mon Oct 19 (Minhaj ~10:49am) (T170 closed \u2192 T23/T169) \u2014 e75",
     "**DONE Thu Oct 15 7:30am ET @ EYA** \u2014 Shutdown **PP-6A-7 Circuit #8** @ EXA panel / EYA machine \u2014 Fanuc Robocut #706750 removed; DPP invoiced *Demo - Fanuc Robocut* (Invoice 4715) Thu ~9:18am (T168 closed \u2192 payment T175) \u2014 e72",
     "**Before Mon Oct 19 (AMKing welding starts Mon 10/19)** \u2014 Deadline: **\u22653 bays M-Bay decking** up; crane MAA\u2013MCA de-energized; MDA\u2013MFA night-by-night (tell Buellesbach day before) (T166) \u2014 e73",
     "**By Wed Oct 28** \u2014 Deadline: clear Indcom materials/equipment from GE parking lot for **Family Day** (Feaster or grass by rail lines) (T167) \u2014 e74",
@@ -1374,6 +1366,21 @@
     "**Need-by Mon Nov 9 (FW41\u201344)** \u2014 Ack GE Ariba PO **4900661816** ($49,470; Joey Lum; C-Bay weekly machine cleaning, 2 techs \u00d7 40 hr/wk) (T110)"
   ],
   "events": [
+    {
+      "id": "e78",
+      "type": "work",
+      "title": "EZA UA Ops Tower renovation starts (training\u2194office conversion)",
+      "summary": "Mon Oct 19 start \u2014 6\u20138 weeks; green-tape keepers (Colby Murphy / Minhaj Syed); training/meeting space unavailable during reno; phase 1 training\u2192office then office\u2192meeting",
+      "start": "2026-10-19",
+      "end": null,
+      "allDay": true,
+      "location": "EZA UA Ops Tower",
+      "relatedTodos": [
+        "T23",
+        "T169"
+      ],
+      "notes": "Minhaj Syed ~10:49am Thu Oct 15 email (cc Jeff+Katheryn). Not on Kat Google Calendar \u2014 email only."
+    },
     {
       "id": "e4",
       "summary": "OVERDUE Deadline: Guard rail AAA\u2013AUA (Bob Peterson)",
@@ -1981,7 +1988,7 @@
     {
       "id": "e75",
       "type": "meeting",
-      "title": "EZA Project Kick-off (PO 4900667131) @ EZA Office Area",
+      "title": "DONE \u2014 EZA Project Kick-off (PO 4900667131) @ EZA Office Area",
       "start": "2026-10-15T08:30:00-04:00",
       "end": "2026-10-15T09:00:00-04:00",
       "location": "EZA Office Area",
@@ -1990,7 +1997,8 @@
         "T23",
         "T169"
       ],
-      "notes": "Minhaj Syed ~9:39am Wed Oct 14; Jeff+Kat accepted ~9:52\u20139:53am. Attendees: Jeff, Kat, Colby Murphy, Zach Ciesielczyk; Christine Price optional."
+      "notes": "Minhaj Syed ~9:39am Wed Oct 14; Jeff+Kat accepted ~9:52\u20139:53am. Attendees: Jeff, Kat, Colby Murphy, Zach Ciesielczyk; Christine Price optional. Kick-off window complete Thu Oct 15. Minhaj ~10:49am: renovation starts Mon Oct 19 (see e78). T170 closed.",
+      "status": "done"
     },
     {
       "id": "e56",
