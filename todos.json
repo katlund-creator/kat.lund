@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T11:16:03-04:00",
+  "updated": "2026-10-15T12:13:07-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -169,10 +169,10 @@
       "id": "T23",
       "status": "open",
       "priority": "high",
-      "due": "**Starts Mon Oct 19** (Minhaj); vendors CDI/PMC still pending; furniture path T86/Est 2030",
+      "due": "**Starts Mon Oct 19** (Minhaj); vendors CDI/PMC + **JMT Flooring times** pending; furniture path T86/Est 2030",
       "item": "EZA OPS Office / Training Room Conversion \u2014 **PO IN 4900667131** (was waiting Minhaj)",
       "source": "Email / Jeff\u2192Minhaj Syed 2026-09-18 ~8:17am",
-      "notes": "Jeff re-sent Estimate 1974.pdf (cc Colby Murphy, Katheryn). Minhaj Fri ~9:10am ET: \u201cThank you Jeff and Katheryn.\u201d Still waiting PO / next ask. **Wed Oct 14 ~5:31am ET Ariba:** GE PO **4900667131** **$169,428.00** (requester **Colby Murphy**, PR836974) \u2014 *Transform EZA Shop Floor Office* (training space \u2192 offices; office \u2192 training/meeting) \u2014 see **T169**. **~8:53am ET Katheryn\u2192Brian Hoeft (CDI Cabinets, cc Jeff):** PO received \u2014 asked kickoff needs, lead time, any changes (cabinets/quartz). **~8:54am ET Katheryn\u2192Jen Hunt (PMC, cc Jeff):** same ask for chairs/tables/whiteboards. Waiting vendor replies; also decide furniture removal path (T86 Lawless Est 2038 vs Indcom Est 2030). **Wed ~9:39am ET Minhaj Syed (GE):** calendar *EZA Project Kick-off* \u2014 PO **4900667131** approved; meet to start project **Thu Oct 15 8:30\u20139:00am ET @ EZA Office Area** (attendees Jeff, Kat, Colby, Zach, Christine optional). **~9:52am Jeff** + **~9:53am Katheryn** thanked/accepted. See **T170**/e75. Still waiting CDI (Brian) + PMC (Jen) kickoff replies. **Thu Oct 15 ~10:49am ET Minhaj Syed (GE)\u2192team (cc Jeff+Katheryn):** *EZA UA Ops Tower Renovation: Starts Monday* \u2014 renovation of EZA UA Ops Tower **training room + office** starts **Mon Oct 19**; mark keepers with **green tape** (or tell Colby Murphy / Minhaj); else disposed/repurposed; phase 1 training\u2192office then office\u2192meeting/training; training/meeting space unavailable during reno (office usable in phase 1); **6\u20138 weeks**; Qs \u2192 Colby or Minhaj. **~10:55am** Minhaj added Colby to thread. Kick-off (T170) window passed; this is the formal start notice. Still waiting CDI (Brian) + PMC (Jen) replies."
+      "notes": "Jeff re-sent Estimate 1974.pdf (cc Colby Murphy, Katheryn). Minhaj Fri ~9:10am ET: \u201cThank you Jeff and Katheryn.\u201d Still waiting PO / next ask. **Wed Oct 14 ~5:31am ET Ariba:** GE PO **4900667131** **$169,428.00** (requester **Colby Murphy**, PR836974) \u2014 *Transform EZA Shop Floor Office* (training space \u2192 offices; office \u2192 training/meeting) \u2014 see **T169**. **~8:53am ET Katheryn\u2192Brian Hoeft (CDI Cabinets, cc Jeff):** PO received \u2014 asked kickoff needs, lead time, any changes (cabinets/quartz). **~8:54am ET Katheryn\u2192Jen Hunt (PMC, cc Jeff):** same ask for chairs/tables/whiteboards. Waiting vendor replies; also decide furniture removal path (T86 Lawless Est 2038 vs Indcom Est 2030). **Wed ~9:39am ET Minhaj Syed (GE):** calendar *EZA Project Kick-off* \u2014 PO **4900667131** approved; meet to start project **Thu Oct 15 8:30\u20139:00am ET @ EZA Office Area** (attendees Jeff, Kat, Colby, Zach, Christine optional). **~9:52am Jeff** + **~9:53am Katheryn** thanked/accepted. See **T170**/e75. Still waiting CDI (Brian) + PMC (Jen) kickoff replies. **Thu Oct 15 ~10:49am ET Minhaj Syed (GE)\u2192team (cc Jeff+Katheryn):** *EZA UA Ops Tower Renovation: Starts Monday* \u2014 renovation of EZA UA Ops Tower **training room + office** starts **Mon Oct 19**; mark keepers with **green tape** (or tell Colby Murphy / Minhaj); else disposed/repurposed; phase 1 training\u2192office then office\u2192meeting/training; training/meeting space unavailable during reno (office usable in phase 1); **6\u20138 weeks**; Qs \u2192 Colby or Minhaj. **~10:55am** Minhaj added Colby to thread. Kick-off (T170) window passed; this is the formal start notice. Still waiting CDI (Brian) + PMC (Jen) replies. **Thu Oct 15 ~11:30am ET Jeff\u2192Matthew Larmore (JMT Flooring, cc Katheryn), subject \u201cEZA ops tower\u201d:** PO received; **existing floor demo and install** in both the **training and office** spaces (**two separate mobilizations**); **walk-off carpet mat** at top of stairs; asks Matt to remind time needed for each space; Jeff will advise when they can start to schedule. Waiting Matt reply. Still waiting CDI (Brian) + PMC (Jen) replies + Ariba ack (T169)."
     },
     {
       "id": "T24",
@@ -1216,7 +1216,7 @@
       "due": "ASAP \u2014 ack in Ariba; **renovation starts Mon Oct 19** (Minhaj)",
       "item": "Process/ack GE PO **4900667131** (**$169,428.00**) \u2014 Transform EZA Shop Floor Office (Colby Murphy)",
       "source": "Email / Ariba GE Vernova 2026-10-14 ~5:31am ET",
-      "notes": "**Wed ~5:31am ET** Ariba new PO **4900667131** to Indcom (ariba.mail@); requester **Colby Murphy**; **PR836974**; NET 150 (150 DD NET); FCA; purchase group VF5 US_GVL_Indirect; ship-to 5250 (300 Garlington Rd). Line 1 Material **$169,428.00**: *Transform EZA Shop Floor Office to meet expanded salaried support team \u2014 convert training space into office space and office space into training/meeting space.* This is the **T23** EZA OPS Office / Training Room Conversion PO. Ack/confirm in Ariba; Katheryn already kicked off CDI Cabinets + PMC furniture (~8:53\u20138:54am). **Wed ~9:39am ET Minhaj:** kick-off invited (T170/e75); Jeff+Kat accepted ~9:52\u20139:53am. Still ack PO in Ariba. **Thu ~10:49am Minhaj:** renovation starts Mon Oct 19 (see T23). Still ack PO in Ariba."
+      "notes": "**Wed ~5:31am ET** Ariba new PO **4900667131** to Indcom (ariba.mail@); requester **Colby Murphy**; **PR836974**; NET 150 (150 DD NET); FCA; purchase group VF5 US_GVL_Indirect; ship-to 5250 (300 Garlington Rd). Line 1 Material **$169,428.00**: *Transform EZA Shop Floor Office to meet expanded salaried support team \u2014 convert training space into office space and office space into training/meeting space.* This is the **T23** EZA OPS Office / Training Room Conversion PO. Ack/confirm in Ariba; Katheryn already kicked off CDI Cabinets + PMC furniture (~8:53\u20138:54am). **Wed ~9:39am ET Minhaj:** kick-off invited (T170/e75); Jeff+Kat accepted ~9:52\u20139:53am. Still ack PO in Ariba. **Thu ~10:49am Minhaj:** renovation starts Mon Oct 19 (see T23). Still ack PO in Ariba. **Thu ~11:30am ET Jeff\u2192Matthew Larmore (JMT Flooring):** floor demo/install timing ask for training + office (two mobilizations) + walk-off mat \u2014 see T23. Still ack PO in Ariba."
     },
     {
       "id": "T171",
@@ -1262,9 +1262,19 @@
       "item": "Process DPP **Invoice 4715** \u2014 *Demo - Fanuc Robocut \u2013 Asset #706750 @ EYA*",
       "source": "Email / Jason Marchbanks (DPP) 2026-10-15 ~9:18am ET",
       "notes": "**Thu ~9:18am ET Jason\u2192Jeff** (cc Bill, accounting@, Katheryn, Amie Naylor): Joist https://client.joistapp.com/invoices/fd18d99d5f639552dcd5da32 + PDF *Invoice_4715.pdf.pdf* + photo. Work = PP-6A-7 ckt #8 shutdown / Fanuc Robocut #706750 removal @ EYA (T168 closed). Ties T7 item 3 (EYA EDM decommission/new install). Amount not read (PDF not opened). Route/confirm payment."
+    },
+    {
+      "id": "T176",
+      "status": "open",
+      "priority": "high",
+      "due": "**Sat Oct 17 7:00am \u2013 Sun Oct 18 5:00pm ET** (Jason outage request; Kat cal Jeff hold)",
+      "item": "Track outage **RP-10 Circuit #30** \u2014 DPP relocate Data Cabinets **20-S2-IE4K & 20-S2-CP** (BSA Data Cabinet Relocation)",
+      "source": "Email / Jason Marchbanks (DPP) 2026-10-15 ~11:14am ET",
+      "notes": "**Thu ~11:14am ET Jason\u2192Hinkson + McCurry (cc Jon Roper, Jeff, Katheryn, Adam McClure):** outage request **RP-10 Circuit #30**; purpose relocate Data Cabinets **20-S2-IE4K & 20-S2-CP**; project **BSA Data Cabinet 20-S2-IE4K Relocation**; **Sat Oct 17 7:00am \u2013 Sun Oct 18 5:00pm**; sub **DPP**; photos attached. **~11:18am ET Jason follow-up:** **GE Lead : Alex Leppard**. Kat cal has Jeff hold *Outage/Shutdown/LOTO: RP-10 Circuit #30* same window (created ~11:22am) \u2014 e79. Weekend OT window; overlaps T130 Coater #3/#4 scaffold Fri\u2013Sun and T120 BCL7 crane-lift date (likely canceled). Watch for Hinkson OUTAGE NOTIFICATION confirmation. No scaffold mentioned."
     }
   ],
   "calendar": [
+    "**Sat Oct 17 7:00am \u2013 Sun Oct 18 5:00pm ET (Jason ~11:14am request; Kat cal Jeff hold ~11:22am)** \u2014 Outage **RP-10 Circuit #30** \u2014 relocate Data Cabinets 20-S2-IE4K & 20-S2-CP (BSA; DPP; GE Lead Alex Leppard) (T176) \u2014 e79",
     "**Fri Oct 16 9:00\u20139:30am ET @ ABA (Hinkson OUTAGE NOTIFICATION Thu ~9:07am \u2014 moved from 8:00\u20138:30 request; Kat cal Hinkson invite + 2 Jeff holds = one)** \u2014 Outage **RP-19B-3.4** \u2014 install (4) duplex receptacles for new downdraft table, Cell 5-6 (DPP; GE Lead Matt Fitts) (T173/T137) \u2014 e76",
     "**Mon Oct 19 (start) @ BSA** \u2014 Work: **Allied Modular starts BSA office install** (Gloria Pedroza; wants to work concurrently w/ Indcom fire suppression etc.) (T13) \u2014 e77 (email only; not on Kat cal)",
     "**Mon Oct 19 (start) @ EZA UA Ops Tower** \u2014 Work: **EZA renovation starts** (training\u2194office conversion; 6\u20138 wks; green-tape keepers; Colby/Minhaj) (T23/T169) \u2014 e78 (email only; not on Kat cal)",
@@ -2159,6 +2169,18 @@
       "end": "2026-10-20",
       "allDay": true,
       "todoId": "T13"
+    },
+    {
+      "id": "e79",
+      "type": "outage",
+      "title": "Outage/Shutdown/LOTO: RP-10 Circuit #30 \u2014 BSA Data Cabinets 20-S2-IE4K & 20-S2-CP",
+      "summary": "Sat Oct 17 7:00am \u2013 Sun Oct 18 5:00pm ET \u2014 DPP relocate Data Cabinets 20-S2-IE4K & 20-S2-CP (BSA Data Cabinet Relocation); GE Lead Alex Leppard",
+      "location": "RP-10 Circuit #30 / BSA",
+      "description": "Jason Marchbanks (DPP) Thu Oct 15 ~11:14am ET outage request to Hinkson/McCurry (cc Roper, Jeff, Katheryn, Adam McClure): Panel RP-10 Circuit #30; project BSA Data Cabinet 20-S2-IE4K Relocation; purpose relocate Data Cabinets 20-S2-IE4K & 20-S2-CP; Sat Oct 17 7:00AM \u2013 Sun Oct 18 5:00PM; sub DPP. ~11:18am: GE Lead Alex Leppard. Kat cal Jeff hold Outage/Shutdown/LOTO: RP-10 Circuit #30 same window (created ~11:22am). (T176)",
+      "start": "2026-10-17T07:00:00-04:00",
+      "end": "2026-10-18T17:00:00-04:00",
+      "allDay": false,
+      "todoId": "T176"
     }
   ]
 }
