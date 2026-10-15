@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T08:14:21-04:00",
+  "updated": "2026-10-15T09:18:10-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -97,10 +97,10 @@
       "id": "T13",
       "status": "open",
       "priority": "high",
-      "due": "ASAP",
+      "due": "**Allied starts BSA Mon Oct 19** \u2014 reply to Gloria re working concurrently w/ fire suppression",
       "item": "Review BSA office Allied Modular final drawings + update RFQ",
       "source": "Email / Gloria + Docs share 2026-09-18/21",
-      "notes": "Final dwgs QH-11013-1/2 to Alex Leppard (cc Jeff) \u2014 sign and return ASAP so Allied can ship extras. Jeff\u2192Katheryn: confirm eng changes + update RFQ. **Mon ~10:54am ET:** Katheryn shared Google Doc *BSA Office \u2014 Trade RFQ Package (Rev B)* (Electrical/Data/Fire Suppression) with Jeff for edit."
+      "notes": "Final dwgs QH-11013-1/2 to Alex Leppard (cc Jeff) \u2014 sign and return ASAP so Allied can ship extras. Jeff\u2192Katheryn: confirm eng changes + update RFQ. **Mon ~10:54am ET:** Katheryn shared Google Doc *BSA Office \u2014 Trade RFQ Package (Rev B)* (Electrical/Data/Fire Suppression) with Jeff for edit. **Thu Oct 15 ~8:13am ET Gloria Pedroza (Allied Modular Sr PM)\u2192Jeff, *Fw: BSA 18034*:** Allied is **starting BSA on Mon 10-19-26**; tight schedule \u2014 asks whether they can **work at the same time while Indcom does the Fire Suppression etc.** (\u201cmy only concern\u201d). Attached drawings **QH-12515-1 1.pdf** + **QH-12515-2 1.pdf**. Jeff needs to answer/coordinate trade sequencing (fire suppression/electrical/data \u2014 see Rev B RFQ; T42/T50/T111)."
     },
     {
       "id": "T14",
@@ -865,7 +865,7 @@
       "due": "Sat Oct 17 6:00am\u20137:00pm ET (re-sent advisory) \u2014 DATE IN QUESTION: Stephanie Gray (GE) says PI weekend, offices occupied 10/6\u201310/18",
       "item": "BCL7 crane-lift exclusion zone ANA/ANB\u2013AYA/AYB + Admin bldg \u2014 plan weekend work around it",
       "source": "Email / Jon Roper fwd of Hinkson/AMK (Nate Barney) advisory, 2026-10-06 ~3:49pm ET",
-      "notes": "**Tue ~3:49pm ET Roper\u2192Jeff + Adam Watkins + Rita Burch (AMK):** \u201cFYI, this could affect your weekend plans.\u201d Original Hinkson appt (Oct 1): **BLOCKED ACCESS/EXCLUSION ZONE \u2014 BCL7 Infrastructure Crane Lift Plan**, **Sat Oct 10 6:00am\u20137:00pm ET**, complete access restriction **ANA/ANB thru AYA/AYB** plus areas west inside **Standera/Administration Building (1st + 2nd floors)**; AMK crane lifts of process piping onto high roof; includes GE HVAC replacement. Attachments *Crane Lift Outage_ 10.10.26.pdf* + *Logistics Plan 10.10.26.pdf* (not downloaded). Check impact on Sat crew/scaffold plans (T117 BAA removal, A Bay crane work). **Fri Oct 9 ~11:12am ET Hinkson UPDATE (Nate Barney/AMK; Jeff cc):** Sat **Oct 10 crane lift CANCELED** due to impending weather; planning to **reschedule for Sat Oct 17**; updated lift plan + coordination details to follow. Sat Oct 10 ANA/ANB\u2013AYA/AYB + Admin bldg exclusion zone no longer applies \u2014 re-check Oct 17 weekend vs T130 (VPS lighting scaffold over Coaters #3/#4 Fri Oct 16\u2013Sun Oct 18). **Fri Oct 9 ~4:41pm ET Stephanie Gray (GE Vernova) reply-all** on the re-sent advisory (*Scheduled: Oct 17, 2026 6:00am\u20137:00pm EDT*, ANA/ANB thru AYA/AYB; Admin; Jeff invited): \u201cThis is **PI weekend** and per my instructions we will need to be **in offices all day 10/6\u201310/18**. Who is in charge of this and what is the goal.\u201d \u2192 Oct 17 lift date may move again; watch Hinkson/AMK reply. No Jeff action asked. **Fri Oct 9 ~7:48pm ET Stephanie Gray follow-up (to Joseph Betten + Hinkson, all cc'd):** \u201cWhat can we do to modify this?\u201d \u2014 repeats PI weekend / offices occupied 10/6\u201310/18. No GE answer yet; Oct 17 lift still in question."
+      "notes": "**Tue ~3:49pm ET Roper\u2192Jeff + Adam Watkins + Rita Burch (AMK):** \u201cFYI, this could affect your weekend plans.\u201d Original Hinkson appt (Oct 1): **BLOCKED ACCESS/EXCLUSION ZONE \u2014 BCL7 Infrastructure Crane Lift Plan**, **Sat Oct 10 6:00am\u20137:00pm ET**, complete access restriction **ANA/ANB thru AYA/AYB** plus areas west inside **Standera/Administration Building (1st + 2nd floors)**; AMK crane lifts of process piping onto high roof; includes GE HVAC replacement. Attachments *Crane Lift Outage_ 10.10.26.pdf* + *Logistics Plan 10.10.26.pdf* (not downloaded). Check impact on Sat crew/scaffold plans (T117 BAA removal, A Bay crane work). **Fri Oct 9 ~11:12am ET Hinkson UPDATE (Nate Barney/AMK; Jeff cc):** Sat **Oct 10 crane lift CANCELED** due to impending weather; planning to **reschedule for Sat Oct 17**; updated lift plan + coordination details to follow. Sat Oct 10 ANA/ANB\u2013AYA/AYB + Admin bldg exclusion zone no longer applies \u2014 re-check Oct 17 weekend vs T130 (VPS lighting scaffold over Coaters #3/#4 Fri Oct 16\u2013Sun Oct 18). **Fri Oct 9 ~4:41pm ET Stephanie Gray (GE Vernova) reply-all** on the re-sent advisory (*Scheduled: Oct 17, 2026 6:00am\u20137:00pm EDT*, ANA/ANB thru AYA/AYB; Admin; Jeff invited): \u201cThis is **PI weekend** and per my instructions we will need to be **in offices all day 10/6\u201310/18**. Who is in charge of this and what is the goal.\u201d \u2192 Oct 17 lift date may move again; watch Hinkson/AMK reply. No Jeff action asked. **Fri Oct 9 ~7:48pm ET Stephanie Gray follow-up (to Joseph Betten + Hinkson, all cc'd):** \u201cWhat can we do to modify this?\u201d \u2014 repeats PI weekend / offices occupied 10/6\u201310/18. No GE answer yet; Oct 17 lift still in question. **Thu Oct 15 ~9:12am ET Hinkson sent \u201cCanceled: BLOCKED ACCESS/EXCLUSION ZONE ADVISORY - BCL7 Infrastructure: Crane Lift Plan\u201d** (Jeff cc; same wide GE/AMK list). Body repeats the Oct 9 weather-cancel text (10/10 canceled \u2192 planned 10/17; updated plan to follow); invite.ics not readable with current tools. Most likely the **Sat Oct 17 lift invite is now canceled** (fits Stephanie Gray PI-weekend objection) \u2014 **confirm**; not on Kat cal. If canceled, no exclusion-zone conflict with T130 coater scaffold weekend."
     },
     {
       "id": "T121",
@@ -1234,7 +1234,7 @@
       "due": "**Thu Oct 15 8:30\u20139:00am ET @ EZA Office Area**",
       "item": "Attend **EZA Project Kick-off** (Minhaj Syed) \u2014 PO **4900667131** Transform EZA Shop Floor Office",
       "source": "Email / Minhaj Syed + cal invite 2026-10-14 ~9:39am ET",
-      "notes": "**Wed ~9:39am ET Minhaj\u2192Jeff/Colby/Kat/Zach (Christine optional):** PO just approved **4900667131**; meet to talk about how to get project started. Location **Meet at EZA Office Area**. **~9:52am Jeff** + **~9:53am Katheryn** accepted/thanked. Ties **T23/T169**. \u2014 e75"
+      "notes": "**Wed ~9:39am ET Minhaj\u2192Jeff/Colby/Kat/Zach (Christine optional):** PO just approved **4900667131**; meet to talk about how to get project started. Location **Meet at EZA Office Area**. **~9:52am Jeff** + **~9:53am Katheryn** accepted/thanked. Ties **T23/T169**. \u2014 e75 **Thu ~8:29am ET Minhaj Syed (reply-all):** construction work near EZA \u2014 **enter through TUA (E bay)** to reach the room; sorry for late notice. Meeting window 8:30\u20139:00 now past \u2014 no outcome/next-steps mail yet."
     },
     {
       "id": "T171",
@@ -1247,25 +1247,35 @@
     },
     {
       "id": "T172",
-      "status": "waiting",
+      "status": "open",
       "priority": "high",
-      "due": "**TODAY Thu Oct 15 before 10:00am ET** (Julia reports at Pulse) \u2014 Jeff sent 10.15 report ~7:49am; confirm it covers the 178-finding crack list",
+      "due": "**TODAY Thu Oct 15 before 10:00am ET** (Julia Pulse) \u2014 **update Status column in Brian Hill\u2019s 178-finding spreadsheet (RED/YELLOW/GREEN tabs)**",
       "item": "Send Chuck Kirkley an updated **crack completion list** vs the **178 findings** of the September rack report (for Julia\u2019s Pulse today)",
       "source": "Email / Chuck Kirkley (GE Safety Lead) 2026-10-15 ~7:43am ET",
-      "notes": "**Thu ~7:43am ET Chuck Kirkley\u2192Jeff (Re: MDC Nozzle supply storage racks):** asks for an **updated crack completion list based on the 178 findings of the September report**, **before 10:00am** so Julia can report it at **today\u2019s Pulse**. **~7:49am ET Jeff\u2192Chuck (cc Brian Hill), subject \u201cWeekly Update\u201d:** attached *GE REPAIR PROGRESS REPORT 10.15.pdf* (no body text). Likely the answer \u2014 confirm it shows completion status against all 178 findings; if not, send the list before 10am. Related: **Wed ~12:20am ET Jeff\u2192Julia (cc Kat)** sent the same 10.15 weekly progress PDF and said he is **still working on the updated packet** following last week\u2019s version; Michael Smith (mscottsc71@gmail.com) shared *GE REPAIR PROGRESS REPORT 2.pdf* with Jeff+Kat Wed ~8:44pm (Kat thanked ~10:31pm). Rack program = **T20**."
+      "notes": "**Thu ~7:43am ET Chuck Kirkley\u2192Jeff (Re: MDC Nozzle supply storage racks):** asks for an **updated crack completion list based on the 178 findings of the September report**, **before 10:00am** so Julia can report it at **today\u2019s Pulse**. **~7:49am ET Jeff\u2192Chuck (cc Brian Hill), subject \u201cWeekly Update\u201d:** attached *GE REPAIR PROGRESS REPORT 10.15.pdf* (no body text). Likely the answer \u2014 confirm it shows completion status against all 178 findings; if not, send the list before 10am. Related: **Wed ~12:20am ET Jeff\u2192Julia (cc Kat)** sent the same 10.15 weekly progress PDF and said he is **still working on the updated packet** following last week\u2019s version; Michael Smith (mscottsc71@gmail.com) shared *GE REPAIR PROGRESS REPORT 2.pdf* with Jeff+Kat Wed ~8:44pm (Kat thanked ~10:31pm). Rack program = **T20**. **Thu ~8:40am ET Brian Hill (GE EHS Leader)\u2192Jeff, cc Chuck Kirkley + Julia Filiatreau (RE: Weekly Update):** cut the **178 findings** from the original report into a spreadsheet *Rack Repair Progress Report.xlsx* with **three tabs (RED / YELLOW / GREEN)**; asks Jeff to **update the Status column in each tab**; Brian already entered \u201cComplete\u201d for **all pole barn items**. \u2192 back to **open** (Jeff action; 10.15 PDF alone not enough)."
     },
     {
       "id": "T173",
       "status": "open",
       "priority": "med",
-      "due": "**Fri Oct 16 8:00\u20138:30am ET** (DPP request \u2014 watch for Hinkson formal notice)",
+      "due": "**Fri Oct 16 9:00\u20139:30am ET** (Hinkson OUTAGE NOTIFICATION \u2014 moved from 8:00\u20138:30 request)",
       "item": "Track outage **RP-19B-3.4 @ ABA** \u2014 DPP install (4) duplex receptacles for new downdraft table (Downdraft Table Cell 5-6)",
       "source": "Email / Jason Marchbanks (DPP) 2026-10-15 ~7:47am ET",
-      "notes": "**Thu ~7:47am ET Jason\u2192Hinkson + McCurry (cc Jon Roper, Jeff, Katheryn, Adam McClure, Matt Fitts):** outage request **RP-19B-3.4**, panel @ **ABA**, project **Downdraft Table Cell 5-6**; purpose install **(4) duplex receptacles** for new downdraft table; **Fri Oct 16 8:00\u20138:30am**; sub **DPP**; GE Lead **Matthew Fitts**; 3 photos. Request only \u2014 watch for GE OUTAGE NOTIFICATION. Kat cal has **2 Jeff holds** 8:00\u20138:30 (deduped = e76). Ties **T137** (Superior SD23 DDT BCL5 Cell 5-6 install \u2014 GE PO was \u201cin process\u201d; this suggests the install is moving). No scaffold mentioned. \u2014 e76"
+      "notes": "**Thu ~7:47am ET Jason\u2192Hinkson + McCurry (cc Jon Roper, Jeff, Katheryn, Adam McClure, Matt Fitts):** outage request **RP-19B-3.4**, panel @ **ABA**, project **Downdraft Table Cell 5-6**; purpose install **(4) duplex receptacles** for new downdraft table; **Fri Oct 16 8:00\u20138:30am**; sub **DPP**; GE Lead **Matthew Fitts**; 3 photos. Request only \u2014 watch for GE OUTAGE NOTIFICATION. Kat cal has **2 Jeff holds** 8:00\u20138:30 (deduped = e76). Ties **T137** (Superior SD23 DDT BCL5 Cell 5-6 install \u2014 GE PO was \u201cin process\u201d; this suggests the install is moving). No scaffold mentioned. \u2014 e76 **Thu ~9:07am ET Hinkson OUTAGE NOTIFICATION - RP-19B-3.4** (to Roper, McCurry, Jason, Jeff, Katheryn, Adam McClure, Fitts, Lambley, Brian White, Caitlyn Foulker): **Fri Oct 16 9:00\u20139:30am** (not 8:00\u20138:30 as requested); affects MISC. AREA RECEPTACLES (panel schedule attached), undocumented 208V loads, misc 120V devices. Kat cal: Hinkson invite + 2 Jeff holds now all 9:00\u20139:30 (deduped = e76). No scaffold mentioned."
+    },
+    {
+      "id": "T174",
+      "status": "open",
+      "priority": "high",
+      "due": "**Need-by Fri Oct 16** \u2014 ack/process in Ariba",
+      "item": "Process/ack GE PO **4900667770** (**$49,448.00**) \u2014 **LPA and KQB Enclosure Rental** (Joseph Buellesbach)",
+      "source": "Email / Ariba GE Vernova 2026-10-15 ~8:58am ET",
+      "notes": "**Thu ~8:58am ET** Ariba new PO **4900667770** to Indcom (ariba.mail@); requester **Joseph Buellesbach** (joseph.buellesbach@gevernova.com); **PR835119-V5**; NET 150 (150 DD NET); FCA; purchase group VF5 US_GVL_Indirect; line 1 Material 1 EA **$49,448.00** *LPA and KQB Enclosure Rental*, need-by **16 Oct 2026**; ship to GE Greenville 300 Garlington Rd. Likely ties **T39** (LPA Power scaffold north-end K-bay). Ack/route + set up billing."
     }
   ],
   "calendar": [
-    "**Fri Oct 16 8:00\u20138:30am ET @ ABA (NEW \u2014 DPP request Thu ~7:47am; Kat cal 2 Jeff holds = one)** \u2014 Outage **RP-19B-3.4** \u2014 install (4) duplex receptacles for new downdraft table, Cell 5-6 (DPP; GE Lead Matt Fitts) (T173/T137) \u2014 e76",
+    "**Fri Oct 16 9:00\u20139:30am ET @ ABA (Hinkson OUTAGE NOTIFICATION Thu ~9:07am \u2014 moved from 8:00\u20138:30 request; Kat cal Hinkson invite + 2 Jeff holds = one)** \u2014 Outage **RP-19B-3.4** \u2014 install (4) duplex receptacles for new downdraft table, Cell 5-6 (DPP; GE Lead Matt Fitts) (T173/T137) \u2014 e76",
+    "**Mon Oct 19 (start) @ BSA** \u2014 Work: **Allied Modular starts BSA office install** (Gloria Pedroza; wants to work concurrently w/ Indcom fire suppression etc.) (T13) \u2014 e77 (email only; not on Kat cal)",
     "**Thu Oct 15 8:30\u20139:00am ET @ EZA Office Area (NEW \u2014 Minhaj ~9:39am; Jeff+Kat accepted)** \u2014 Meeting **EZA Project Kick-off** (PO 4900667131; Colby/Zach; Christine optional) (T170/T23/T169) \u2014 e75",
     "**Thu Oct 15 7:30am ET (Hinkson formal notice IN ~9:17am; GE invite 7:30\u20138:00; Kat cal also Jeff holds 7:30\u20138:30 / 7:30\u20139:00 = one)** \u2014 Shutdown **PP-6A-7 Circuit #8** @ EXA panel / EYA machine \u2014 remove Fanuc Robocut #706750 for replacement (DPP; GE Lead Jim Stanley) (T168) \u2014 e72",
     "**Before Mon Oct 19 (AMKing welding starts Mon 10/19)** \u2014 Deadline: **\u22653 bays M-Bay decking** up; crane MAA\u2013MCA de-energized; MDA\u2013MFA night-by-night (tell Buellesbach day before) (T166) \u2014 e73",
@@ -1285,7 +1295,7 @@
     "**OVERDUE (need-by Fri Oct 9; still unconfirmed Mon 5am)** \u2014 Ack GE Ariba PO **4900663074** ($22,184; Heatherly; FW41\u201342 UA Build stand Inspections, service Oct 5\u201318; service sheet required) (T138)",
     "**Thu Oct 15 PM (Coater #3 build) \u2192 Fri Oct 16 AM (Coater #4 build) \u2192 strike Sun Oct 18 before GE 3rd shift (Adam Watkins/AMK plan w/ Pete Lambley, Wed ~1:24pm ET)** \u2014 Work **scaffold for AMK VPS lighting over Coater #3 + #4**; AMK lights/conduit Fri\u2013Sun; Indcom to confirm crew/material (weekend = OT) (T130 / e56)",
     "**TODAY Fri Oct 9 (CONFIRMED by Jeff Thu ~10:03am) \u2014 first floor; crew names still not received** \u2014 Work **JMT Flooring VCT removal** of small leftover sections, removal only **$825** (JMT bringing machine; crew names pending for badge check) \u2014 Jeff filed 1-day GE vehicle pass for Shelton Sentell (machine delivery) Fri ~8:38am (T129)",
-    "**Sat Oct 17 6:00am\u20137:00pm ET (re-sent; DATE IN QUESTION) @ ANA/ANB\u2013AYA/AYB + Admin bldg** \u2014 Exclusion zone **BCL7 crane lift** (AMK piping to high roof) \u2014 Sat Oct 10 lift CANCELED for weather; Stephanie Gray (GE) Fri ~4:41pm: PI weekend, offices must be occupied 10/6\u201310/18 \u2014 asks who is in charge; ~7:48pm follow-up \u201cWhat can we do to modify this?\u201d (no GE answer yet); overlaps T130 weekend (T120)",
+    "**Sat Oct 17 6:00am\u20137:00pm ET (LIKELY CANCELED \u2014 Hinkson \u201cCanceled:\u201d invite Thu ~9:12am; confirm) @ ANA/ANB\u2013AYA/AYB + Admin bldg** \u2014 Exclusion zone **BCL7 crane lift** (AMK piping to high roof) \u2014 Sat Oct 10 lift CANCELED for weather; Stephanie Gray (GE) Fri ~4:41pm: PI weekend, offices must be occupied 10/6\u201310/18 \u2014 asks who is in charge; ~7:48pm follow-up \u201cWhat can we do to modify this?\u201d (no GE answer yet); overlaps T130 weekend (T120)",
     "**TBD (per Sassa invite.ics, sent Tue ~4:02pm)** \u2014 Meeting **VPS lighting over coater 3 & 4** (Michael Sassa/AMK, Adam Watkins, Matt Fitts) (T121)",
     "**TODAY Fri Oct 9 from NOON @ BAA (crane stop 1:30\u20133:30pm confirmed)** \u2014 Work **BAA scaffold install** for Gas Manifold Demo \u2014 build to LCU mezzanine \u2192 Cell 6 crane stop (ESI crane stops @ BEA, ~2 hrs) \u2192 continue after make-safe (T117)",
     "**Sat Oct 10 @ A/B Bays (BAA)** \u2014 Outage **Gas Manifold Demo** \u2014 H2 isolate/vent/purge B-Bay; O2 A+B Bays; N2/Argon LOTO; AMK submitting outage request; maintenance support incl. crane + scaffold groups; **BAA scaffold removal after pipe demo** (T117)",
@@ -2009,10 +2019,10 @@
     {
       "id": "e53",
       "type": "outage",
-      "title": "Exclusion zone: BCL7 crane lift Sat Oct 17 (date in question) \u2014 ANA/ANB thru AYA/AYB + Admin",
-      "summary": "Re-sent for Sat Oct 17 6am\u20137pm; GE (Stephanie Gray) objects \u2014 PI weekend, offices occupied 10/6\u201310/18",
+      "title": "LIKELY CANCELED \u2014 Exclusion zone: BCL7 crane lift Sat Oct 17 \u2014 ANA/ANB thru AYA/AYB + Admin",
+      "summary": "Hinkson sent \u201cCanceled:\u201d crane-lift invite Thu Oct 15 ~9:12am ET \u2014 Oct 17 lift likely canceled; confirm",
       "location": "ANA/ANB thru AYA/AYB; Standera/Admin bldg 1st+2nd floors",
-      "description": "Hinkson/AMK (Nate Barney) UPDATE Fri Oct 9 ~11:12am ET: Sat Oct 10 crane lift canceled due to impending weather; planning to reschedule for Sat Oct 17, updated lift plan to come. Original: complete access restriction 6:00am\u20137:00pm for crane lifting of process piping onto high roof; includes GE HVAC replacement. Fri Oct 9 ~4:41pm ET Stephanie Gray (GE) reply-all to re-sent Oct 17 6:00am\u20137:00pm advisory: PI weekend, offices must be occupied all day 10/6\u201310/18; asks who is in charge and the goal \u2014 date may move again. Check against T130 coater scaffold weekend Oct 16\u201318. (T120) UPDATE Fri ~7:48pm ET Stephanie Gray follow-up: 'What can we do to modify this?' \u2014 no GE answer yet.",
+      "description": "Hinkson/AMK (Nate Barney) UPDATE Fri Oct 9 ~11:12am ET: Sat Oct 10 crane lift canceled due to impending weather; planning to reschedule for Sat Oct 17, updated lift plan to come. Original: complete access restriction 6:00am\u20137:00pm for crane lifting of process piping onto high roof; includes GE HVAC replacement. Fri Oct 9 ~4:41pm ET Stephanie Gray (GE) reply-all to re-sent Oct 17 6:00am\u20137:00pm advisory: PI weekend, offices must be occupied all day 10/6\u201310/18; asks who is in charge and the goal \u2014 date may move again. Check against T130 coater scaffold weekend Oct 16\u201318. (T120) UPDATE Fri ~7:48pm ET Stephanie Gray follow-up: 'What can we do to modify this?' \u2014 no GE answer yet. UPDATE Thu Oct 15 ~9:12am ET: Hinkson sent \u201cCanceled: BLOCKED ACCESS/EXCLUSION ZONE ADVISORY - BCL7 Infrastructure: Crane Lift Plan\u201d (body repeats Oct 9 cancel text; ICS not readable) \u2014 Oct 17 lift likely canceled; confirm.",
       "start": "2026-10-17T06:00:00-04:00",
       "end": "2026-10-17T19:00:00-04:00",
       "allDay": false,
@@ -2122,13 +2132,25 @@
       "id": "e76",
       "type": "outage",
       "title": "Outage/Shutdown/LOTO: RP-19B-3.4 @ ABA \u2014 Downdraft Table Cell 5-6 receptacles",
-      "summary": "Fri Oct 16 8:00\u20138:30am ET \u2014 DPP install (4) duplex receptacles for new downdraft table; GE Lead Matt Fitts (request; watch for Hinkson notice)",
+      "summary": "Fri Oct 16 9:00\u20139:30am ET \u2014 DPP install (4) duplex receptacles for new downdraft table; GE Lead Matt Fitts (Hinkson OUTAGE NOTIFICATION confirmed; moved from 8:00 request)",
       "location": "ABA",
-      "description": "Jason Marchbanks (DPP) Thu Oct 15 ~7:47am ET outage request to Hinkson/McCurry (cc Roper, Jeff, Katheryn, Adam McClure, Fitts): Panel RP-19B-3.4 @ ABA; project Downdraft Table Cell 5-6; install (4) duplex receptacles for new downdraft table. Kat calendar has two Jeff holds 8:00\u20138:30 (deduped). Ties T137 (SD23 DDT install). (T173)",
-      "start": "2026-10-16T08:00:00-04:00",
-      "end": "2026-10-16T08:30:00-04:00",
+      "description": "Jason Marchbanks (DPP) Thu Oct 15 ~7:47am ET outage request to Hinkson/McCurry (cc Roper, Jeff, Katheryn, Adam McClure, Fitts): Panel RP-19B-3.4 @ ABA; project Downdraft Table Cell 5-6; install (4) duplex receptacles for new downdraft table. Kat calendar has two Jeff holds 8:00\u20138:30 (deduped). Ties T137 (SD23 DDT install). (T173) UPDATE Thu ~9:07am ET Hinkson OUTAGE NOTIFICATION: time set 9:00\u20139:30am (not 8:00\u20138:30); affects misc area receptacles, undocumented 208V loads, misc 120V devices. Kat cal Hinkson invite + Jeff holds all 9:00\u20139:30 (deduped).",
+      "start": "2026-10-16T09:00:00-04:00",
+      "end": "2026-10-16T09:30:00-04:00",
       "allDay": false,
       "todoId": "T173"
+    },
+    {
+      "id": "e77",
+      "type": "work",
+      "title": "Allied Modular starts BSA office install (BSA 18034)",
+      "summary": "Mon Oct 19 \u2014 Allied Modular (Gloria Pedroza) starting BSA; wants to work concurrently with Indcom fire suppression etc.",
+      "location": "BSA",
+      "description": "Gloria Pedroza (Allied Modular Sr PM) Thu Oct 15 ~8:13am ET Fw: BSA 18034 to Jeff: starting 10-19-26 for the BSA; tight schedule; asks if they can work at the same time while Indcom does Fire Suppression etc. Drawings QH-12515-1/-2 attached. Email only (not on Kat cal). (T13)",
+      "start": "2026-10-19",
+      "end": "2026-10-20",
+      "allDay": true,
+      "todoId": "T13"
     }
   ]
 }
