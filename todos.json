@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T09:12:56-04:00",
+  "updated": "2026-10-16T10:07:16-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -1237,15 +1237,6 @@
       "notes": "**Thu ~7:43am ET Chuck Kirkley\u2192Jeff (Re: MDC Nozzle supply storage racks):** asks for an **updated crack completion list based on the 178 findings of the September report**, **before 10:00am** so Julia can report it at **today\u2019s Pulse**. **~7:49am ET Jeff\u2192Chuck (cc Brian Hill), subject \u201cWeekly Update\u201d:** attached *GE REPAIR PROGRESS REPORT 10.15.pdf* (no body text). Likely the answer \u2014 confirm it shows completion status against all 178 findings; if not, send the list before 10am. Related: **Wed ~12:20am ET Jeff\u2192Julia (cc Kat)** sent the same 10.15 weekly progress PDF and said he is **still working on the updated packet** following last week\u2019s version; Michael Smith (mscottsc71@gmail.com) shared *GE REPAIR PROGRESS REPORT 2.pdf* with Jeff+Kat Wed ~8:44pm (Kat thanked ~10:31pm). Rack program = **T20**. **Thu ~8:40am ET Brian Hill (GE EHS Leader)\u2192Jeff, cc Chuck Kirkley + Julia Filiatreau (RE: Weekly Update):** cut the **178 findings** from the original report into a spreadsheet *Rack Repair Progress Report.xlsx* with **three tabs (RED / YELLOW / GREEN)**; asks Jeff to **update the Status column in each tab**; Brian already entered \u201cComplete\u201d for **all pole barn items**. \u2192 back to **open** (Jeff action; 10.15 PDF alone not enough)."
     },
     {
-      "id": "T173",
-      "status": "open",
-      "priority": "med",
-      "due": "**Fri Oct 16 9:00\u20139:30am ET** (Hinkson OUTAGE NOTIFICATION \u2014 moved from 8:00\u20138:30 request)",
-      "item": "Track outage **RP-19B-3.4 @ ABA** \u2014 DPP install (4) duplex receptacles for new downdraft table (Downdraft Table Cell 5-6)",
-      "source": "Email / Jason Marchbanks (DPP) 2026-10-15 ~7:47am ET",
-      "notes": "**Thu ~7:47am ET Jason\u2192Hinkson + McCurry (cc Jon Roper, Jeff, Katheryn, Adam McClure, Matt Fitts):** outage request **RP-19B-3.4**, panel @ **ABA**, project **Downdraft Table Cell 5-6**; purpose install **(4) duplex receptacles** for new downdraft table; **Fri Oct 16 8:00\u20138:30am**; sub **DPP**; GE Lead **Matthew Fitts**; 3 photos. Request only \u2014 watch for GE OUTAGE NOTIFICATION. Kat cal has **2 Jeff holds** 8:00\u20138:30 (deduped = e76). Ties **T137** (Superior SD23 DDT BCL5 Cell 5-6 install \u2014 GE PO was \u201cin process\u201d; this suggests the install is moving). No scaffold mentioned. \u2014 e76 **Thu ~9:07am ET Hinkson OUTAGE NOTIFICATION - RP-19B-3.4** (to Roper, McCurry, Jason, Jeff, Katheryn, Adam McClure, Fitts, Lambley, Brian White, Caitlyn Foulker): **Fri Oct 16 9:00\u20139:30am** (not 8:00\u20138:30 as requested); affects MISC. AREA RECEPTACLES (panel schedule attached), undocumented 208V loads, misc 120V devices. Kat cal: Hinkson invite + 2 Jeff holds now all 9:00\u20139:30 (deduped = e76). No scaffold mentioned."
-    },
-    {
       "id": "T174",
       "status": "open",
       "priority": "high",
@@ -1342,7 +1333,7 @@
       "due": "**Window PASSED Fri Oct 16 7:45\u20139:00am ET** \u2014 no \u201cOutage complete\u201d reply as of ~9:10am; confirm complete",
       "item": "Track IMPROMPTU outage \u2014 **Mitsubishi Sinker fire-alarm motor-starter tie-ins** (#2301352/#2301353/#2301348 via TP-11B-8.1)",
       "source": "Email / Jason Marchbanks + Hinkson 2026-10-16 ~7:20\u20137:24am ET",
-      "notes": "**Fri ~7:20am Jason** outage request; **~7:24am Hinkson** *IMPROMPTU OUTAGES FOR FIRE ALARM TIE-INS* (invite.ics on Kat cal + Jeff hold = one). DPP install relays for final FA connections in motor-starter combos @ HDA/HEA; GE Lead Jim Stanley. Directly addresses **T67** FA termination/NC-contact gap. Confirm complete after window. **e80** (deduped). **~9:10am ET Fri:** window ended 9:00am; no Hinkson/Jason completion reply or DPP invoice in Jeff\u2019s inbox yet \u2014 confirm relays installed + FA connections made, then close T67 gap / revisit MSS invoice hold."
+      "notes": "**Fri ~7:20am Jason** outage request; **~7:24am Hinkson** *IMPROMPTU OUTAGES FOR FIRE ALARM TIE-INS* (invite.ics on Kat cal + Jeff hold = one). DPP install relays for final FA connections in motor-starter combos @ HDA/HEA; GE Lead Jim Stanley. Directly addresses **T67** FA termination/NC-contact gap. Confirm complete after window. **e80** (deduped). **~9:10am ET Fri:** window ended 9:00am; no Hinkson/Jason completion reply or DPP invoice in Jeff\u2019s inbox yet \u2014 confirm relays installed + FA connections made, then close T67 gap / revisit MSS invoice hold. **Fri ~10:04am ET:** still no Hinkson/Jason \u201cOutage complete\u201d reply on the IMPROMPTU FA tie-in thread (Hinkson did close out RP-19B-3.4 at ~9:17am) \u2014 confirm tie-ins done, then T67 MSS invoice hold."
     },
     {
       "id": "T185",
@@ -1361,13 +1352,23 @@
       "item": "Attend **Indcom Corp Family Meeting 2** (Bill Marchbanks)",
       "source": "Calendar / Bill Marchbanks 2026-10-16 ~8:46am ET",
       "notes": "**Fri ~8:46am ET** Bill Marchbanks (bill.marchbanks@indcomcorp.com) Kat-cal + Jeff invite *Indcom Corp Family Meeting 2* \u2014 **Sun Oct 18, 2:00\u20133:00pm ET**, location **17 International Ct, Greenville SC 29607**; Google Meet meet.google.com/aqx-ybio-bwp (phone +1 575-518-3073 PIN 272876755). Guests Bill, Katheryn, Jeff (Jeff\u2019s attendance marked optional). Same weekend as RP-10 Ckt#30 outage (T176/e79) + Sun coater scaffold strike (T130). RSVP not yet sent. \u2014 e81"
+    },
+    {
+      "id": "T187",
+      "status": "open",
+      "priority": "high",
+      "due": "**Before Sat Nov 14** \u2014 review valve plan + reply Bob Smith w/ questions/concerns/conflicts; outage **Sat Nov 14 \u2192 Tue Nov 24**",
+      "item": "Review GE **GTTL HVAC chilled-water outage / valve replacement** plan (NO HVAC cooling building-wide) \u2014 flag Indcom conflicts/needs to Bob Smith",
+      "source": "Email / Robert (Bob) Smith (GE Vernova Facilities Engineer) 2026-10-16 ~9:46am ET",
+      "notes": "**Fri ~9:46am ET Bob Smith (Robert1.Smith@gevernova.com; M 864-237-5847)\u2192Jeff + MSS (Tim McGill, Chris Shope) + GE (Mark Monroe, Julia Harbin, Bill Byrne, Leslie Miller, Diana Setzer, Eddie Nelms) + Randy Moore (Rescom Construction); cc Chris Sutton, Scott Compton + Clifford Seltrecht (Amentum), Dominic Maxwell, Trevor Honosky, Joseph Betten \u2014 *GTTL Chilled Water Outage \u2013 Valve Replacement Plan and Schedule*:** planned HVAC chilled water outage **beginning Sat Nov 14**; system shut down + drained for valve replacement; ~**10 days**, \u201c**NO WEEKENDS**\u201d; **NO HVAC COOLING building wide** (incl. portions of test areas). Start south end **Valve #18**. Schedule: **Sat 11/14\u2013Sun 11/15** shut down + drain; **Mon 11/16, Tue 11/17, Wed 11/18, Thu 11/19, Mon 11/23** replace 3 valves/day; **Tue 11/24** final valve + refill, plant start-up. Attached *GTTL Chill Water Replacment Plan.pptx* (valve layout/locations; not opened). Asks recipients for **questions, concerns, conflicts, recommendations** before the outage. Indcom action: open deck, check whether valve locations need scaffold/access support and any Indcom work in that window affected by no cooling; reply Bob. Kat cal has 2 Jeff holds (all-day Nov 14\u201324) deduped = **e82**. No scaffold mentioned in email."
     }
   ],
   "calendar": [
+    "**Sat Nov 14 \u2192 Tue Nov 24 (NEW \u2014 Bob Smith ~9:46am; Kat cal 2 Jeff holds = one) @ GTTL / building-wide** \u2014 Outage **HVAC chilled water shutdown + valve replacement** \u2014 NO HVAC cooling building-wide (incl. test areas); drain Sat\u2013Sun 11/14\u201315; 3 valves/day Mon 11/16\u2013Thu 11/19 + Mon 11/23; final valve + refill/start-up Tue 11/24; starts south end Valve #18; send concerns/conflicts to Bob Smith beforehand (T187) \u2014 e82",
     "**Sun Oct 18 2:00\u20133:00pm ET @ 17 International Ct (NEW \u2014 Bill Kat-cal invite Fri ~8:46am; Google Meet option)** \u2014 Meeting **Indcom Corp Family Meeting 2** (Bill, Kat, Jeff) (T186) \u2014 e81",
-    "**PASSED (confirm complete) Fri Oct 16 7:45\u20139:00am ET @ HDA/HEA (Jason ~7:20am request; Hinkson IMPROMPTU ~7:24am; Kat cal Hinkson invite + Jeff hold = one)** \u2014 Outage **Mitsubishi Sinker fire-alarm motor-starter tie-ins** (#2301352/#2301353/#2301348 via TP-11B-8.1) \u2014 DPP install relays for final FA connections; GE Lead Jim Stanley (T184/T67) \u2014 **e80**",
+    "**PASSED (confirm complete \u2014 still no reply ~10:04am) Fri Oct 16 7:45\u20139:00am ET @ HDA/HEA (Jason ~7:20am request; Hinkson IMPROMPTU ~7:24am; Kat cal Hinkson invite + Jeff hold = one)** \u2014 Outage **Mitsubishi Sinker fire-alarm motor-starter tie-ins** (#2301352/#2301353/#2301348 via TP-11B-8.1) \u2014 DPP install relays for final FA connections; GE Lead Jim Stanley (T184/T67) \u2014 **e80**",
     "**Sat Oct 17 7:00am \u2013 Sun Oct 18 5:00pm ET (Jason ~11:14am request; Kat cal Jeff hold ~11:22am)** \u2014 Outage **RP-10 Circuit #30** \u2014 relocate Data Cabinets 20-S2-IE4K & 20-S2-CP (BSA; DPP; GE Lead Alex Leppard) (T176) \u2014 e79",
-    "**TODAY (in progress ~9:10am) Fri Oct 16 9:00\u20139:30am ET @ ABA (Hinkson OUTAGE NOTIFICATION Thu ~9:07am \u2014 moved from 8:00\u20138:30 request; Kat cal Hinkson invite + 2 Jeff holds = one)** \u2014 Outage **RP-19B-3.4** \u2014 install (4) duplex receptacles for new downdraft table, Cell 5-6 (DPP; GE Lead Matt Fitts) (T173/T137) \u2014 e76",
+    "**DONE Fri Oct 16 ~9:17am ET (Hinkson \u201cOutage complete\u201d) \u2014 was 9:00\u20139:30am ET @ ABA (Hinkson OUTAGE NOTIFICATION Thu ~9:07am \u2014 moved from 8:00\u20138:30 request; Kat cal Hinkson invite + 2 Jeff holds = one)** \u2014 Outage **RP-19B-3.4** \u2014 install (4) duplex receptacles for new downdraft table, Cell 5-6 (DPP; GE Lead Matt Fitts) (T173/T137) \u2014 e76",
     "**Mon Oct 19 (start) @ BSA** \u2014 Work: **Allied Modular starts BSA office install** (Gloria Pedroza; wants to work concurrently w/ Indcom fire suppression etc.) (T13) \u2014 e77 (email only; not on Kat cal)",
     "**Mon Oct 19 (start) @ EZA UA Ops Tower** \u2014 Work: **EZA renovation starts** (training\u2194office conversion; 6\u20138 wks; green-tape keepers; Colby/Minhaj) (T23/T169) \u2014 e78 (email only; not on Kat cal); JMT flooring ~2 days per area, two mobilizations \u2014 install date TBD (Jeff to answer Matt ~3:54pm Qs)",
     "**DONE Thu Oct 15 8:30\u20139:00am ET @ EZA Office Area** \u2014 Meeting **EZA Project Kick-off** held; renovation starts Mon Oct 19 (Minhaj ~10:49am) (T170 closed \u2192 T23/T169) \u2014 e75",
@@ -2241,14 +2242,15 @@
     {
       "id": "e76",
       "type": "outage",
-      "title": "Outage/Shutdown/LOTO: RP-19B-3.4 @ ABA \u2014 Downdraft Table Cell 5-6 receptacles",
+      "title": "DONE \u2014 Outage/Shutdown/LOTO: RP-19B-3.4 @ ABA \u2014 Downdraft Table Cell 5-6 receptacles",
       "summary": "Fri Oct 16 9:00\u20139:30am ET \u2014 DPP install (4) duplex receptacles for new downdraft table; GE Lead Matt Fitts (Hinkson OUTAGE NOTIFICATION confirmed; moved from 8:00 request)",
       "location": "ABA",
-      "description": "Jason Marchbanks (DPP) Thu Oct 15 ~7:47am ET outage request to Hinkson/McCurry (cc Roper, Jeff, Katheryn, Adam McClure, Fitts): Panel RP-19B-3.4 @ ABA; project Downdraft Table Cell 5-6; install (4) duplex receptacles for new downdraft table. Kat calendar has two Jeff holds 8:00\u20138:30 (deduped). Ties T137 (SD23 DDT install). (T173) UPDATE Thu ~9:07am ET Hinkson OUTAGE NOTIFICATION: time set 9:00\u20139:30am (not 8:00\u20138:30); affects misc area receptacles, undocumented 208V loads, misc 120V devices. Kat cal Hinkson invite + Jeff holds all 9:00\u20139:30 (deduped).",
+      "description": "Jason Marchbanks (DPP) Thu Oct 15 ~7:47am ET outage request to Hinkson/McCurry (cc Roper, Jeff, Katheryn, Adam McClure, Fitts): Panel RP-19B-3.4 @ ABA; project Downdraft Table Cell 5-6; install (4) duplex receptacles for new downdraft table. Kat calendar has two Jeff holds 8:00\u20138:30 (deduped). Ties T137 (SD23 DDT install). (T173) UPDATE Thu ~9:07am ET Hinkson OUTAGE NOTIFICATION: time set 9:00\u20139:30am (not 8:00\u20138:30); affects misc area receptacles, undocumented 208V loads, misc 120V devices. Kat cal Hinkson invite + Jeff holds all 9:00\u20139:30 (deduped). UPDATE Fri Oct 16 ~9:17am ET: Hinkson reply-all \u201cOutage complete.\u201d T173 closed (DDT install quote/PO stays on T137).",
       "start": "2026-10-16T09:00:00-04:00",
       "end": "2026-10-16T09:30:00-04:00",
       "allDay": false,
-      "todoId": "T173"
+      "todoId": "T173",
+      "status": "done"
     },
     {
       "id": "e77",
@@ -2288,7 +2290,7 @@
         "T67",
         "T72"
       ],
-      "notes": "Jason Marchbanks ~7:20am Fri Oct 16 outage request; Hinkson ~7:24am IMPROMPTU OUTAGES FOR FIRE ALARM TIE-INS (invite.ics). Kat cal shows Hinkson invite + Jeff Outage/Shutdown/LOTO hold = one (deduped). Directly addresses T67 FA termination/NC-contact gap. No scaffold mentioned. UPDATE Fri ~9:10am ET: window ended 9:00am; no Hinkson/Jason \u201ccomplete\u201d reply yet \u2014 confirm complete (T184).",
+      "notes": "Jason Marchbanks ~7:20am Fri Oct 16 outage request; Hinkson ~7:24am IMPROMPTU OUTAGES FOR FIRE ALARM TIE-INS (invite.ics). Kat cal shows Hinkson invite + Jeff Outage/Shutdown/LOTO hold = one (deduped). Directly addresses T67 FA termination/NC-contact gap. No scaffold mentioned. UPDATE Fri ~9:10am ET: window ended 9:00am; no Hinkson/Jason \u201ccomplete\u201d reply yet \u2014 confirm complete (T184). UPDATE Fri ~10:04am ET: still no Hinkson/Jason \u201ccomplete\u201d reply on the FA tie-in thread \u2014 confirm (T184).",
       "status": "passed-confirm"
     },
     {
@@ -2303,6 +2305,22 @@
       "allDay": false,
       "todoId": "T186",
       "relatedTodo": "T186",
+      "status": "scheduled"
+    },
+    {
+      "id": "e82",
+      "type": "outage",
+      "title": "Outage/Shutdown/LOTO: GTTL HVAC Chilled Water System \u2014 Valve Replacement (NO HVAC cooling building-wide)",
+      "summary": "Sat Nov 14 \u2192 Tue Nov 24 \u2014 chilled water shut down + drained Sat\u2013Sun 11/14\u201315; 3 valves/day Mon 11/16\u2013Thu 11/19 + Mon 11/23; final valve + refill/plant start-up Tue 11/24; NO HVAC cooling building-wide (incl. portions of test areas); Bob Smith (GE Facilities)",
+      "location": "GTTL \u2014 HVAC chilled water system (starts south end Valve #18)",
+      "description": "Fri Oct 16 ~9:46am ET Robert (Bob) Smith, GE Vernova Facilities Engineer (864-237-5847), email GTTL Chilled Water Outage \u2013 Valve Replacement Plan and Schedule to Jeff + MSS + GE + Rescom (Randy Moore); ~10 days, NO WEEKENDS; attached GTTL Chill Water Replacment Plan.pptx (valve layout). Asks for questions/concerns/conflicts/recommendations before outage. Kat cal shows 2 Jeff all-day holds Nov 14\u201324 (deduped = one). No scaffold mentioned. (T187)",
+      "start": "2026-11-14",
+      "end": "2026-11-24",
+      "allDay": true,
+      "todoId": "T187",
+      "relatedTodos": [
+        "T187"
+      ],
       "status": "scheduled"
     }
   ]
