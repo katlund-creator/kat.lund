@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T16:15:09-04:00",
+  "updated": "2026-10-16T09:12:56-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -478,7 +478,7 @@
       "due": "WAITING Frank/Jason clarify \u2014 Frank ~10:44: **loose wire/NC contact** must be tied in; MSS **cannot** connect inside or to monitor/suppression",
       "item": "Schedule BL4 / NFPS.03 mist-collector + fire-alarm work with MSS (Jason Gunter / Frank Manganella); lock Mon crew",
       "source": "Email / Jeff\u2194Jason Gunter + Frank Manganella (MSS) 2026-09-29/30/10-02",
-      "notes": "**Prior:** PO **4900652190**/card; Bill vendor setup; GE fire-alarm POC ask; MSS Sinker quote chase (T68). **Fri ~7:43am/8:07am/9:03am:** Frank offered Mon if ready; Jeff confirmed **6 machines 100% ready** (1 unplaced = separate). **Fri ~3:08pm ET Frank\u2192Kat+Jeff:** Indcom **not set up as MSS customer** \u2014 return customer form to start service (see **T95**). **Fri ~3:10pm ET Kat\u2192Bill+Jeff:** asked Bill to fill *New Customer Application v9_3.12.26.pdf*. **Action:** complete T95 form \u2192 then Frank/MSS Mon crew lock + update customer; still need GE onsite fire-alarm POC. Distinct from T57. Relates T68/T95. **Mon ~9:16am ET:** no Frank/MSS crew-arrival mail today; form (T95) not yet returned per mail. **Mon ~1:07pm ET:** MSS vendor-packet reply to Frank drafted in Jeff Gmail (not yet sent) \u2014 see T95. **Wed Oct 7 ~8:22am ET Frank Manganella (MSS)\u2192Jeff (cc Jason Gunter):** MSS **pulled wire for, installed, and programmed 6 FMM-1s + 6 FRM-1s** for monitoring/shutdown of associated equipment in **H-Bay** \u2014 6 machines done. **7th machine not yet installed; wire in place.** Frank: \"let me know when this is ready, we can come back and finish.\" **Action:** Jeff notify Frank when 7th machine is placed; expect MSS invoice for completed 6. (Work proceeded, so T95 customer setup evidently cleared.) **Wed ~9:48am ET Jeff\u2192Frank:** will let him know when the 7th machine is scheduled to be installed; thanked MSS. **Mon Oct 12 ~9:26am ET Shanna\u2192Jason (cc Jeff):** Filter Mist asset #s issued for NFPS.03 \u2014 **607291 HEA / 607292 HDA / 607296 HDA / 607293 HDA / 607294 HCA / 607295 HBA / 607297 HBA**; will sync one-lines with Jason after meetings. FYI (supports mist-collector GT path). **Wed Oct 14 ~8:32am ET Jeff\u2192Frank Manganella (cc Jason Gunter, Katheryn):** electrician says the **Mitsubishi motor starters are not tied into the machines** \u2014 thought this was completed; asks MSS to clarify what was/wasn\u2019t done; \u201cif the machines aren\u2019t tied into the system on both ends this is not complete.\u201d Waiting MSS reply (hold any MSS invoice until resolved). **Wed Oct 14 ~10:26am ET Frank Manganella (cc Jason Gunter, Katheryn):** replied with Oct 5 trip notes \u2014 **Donald Bowles ~2:26pm:** installed/programmed relay+monitor modules for **6 of 7** machines; 7th programmed into panel but not installed (return to add two modules when installed); new module #s **N29L03M079, M082\u2013M094**. **Drew Lempesis ~4:06pm:** pulled wire for, installed, programmed **6\u00d7 FMM-1 + 6\u00d7 FRM-1** H-Bay monitoring/shutdown; 7th not installed, wire in place. Reply documents **fire-alarm modules**, does **not clearly answer** Jeff\u2019s **Mitsubishi motor-starter tie-in** question \u2014 Jeff may need follow-up if starters are separate from FMM/FRM scope. Hold MSS invoice until motor-starter gap resolved. **Wed Oct 14 ~11:20am ET Jeff\u2192Jason Marchbanks (DPP), subject \u201cMSS Response\u201d:** forwarded Frank\u2019s Oct 5 trip notes verbatim (\u201cThis is the response I got from MSS\u201d) \u2014 no added ask in body. Ball now with **Jason/DPP (the electrician who flagged the gap)** to confirm whether the Mitsubishi motor-starter tie-in is inside MSS FMM-1/FRM-1 scope or a separate DPP/Mitsubishi item; then Jeff back to MSS if needed. Keep MSS invoice on hold. **Wed Oct 14 ~1:03pm ET Jason Marchbanks (DPP)\u2192Jeff, Re: MSS Response:** confirms gap \u2014 although MSS installed/programmed fire-alarm modules, **FA wiring from those modules has only been pulled into each of the six motor-starter combos and remains unconnected**. Asks MSS to confirm **who terminates** these connections and **verifies fire-alarm properly shuts down each machine**. Modules may be installed/programmed but **shutdown connections not completed**. Photo of inside motor-starter combo attached (Image.jpeg + IMG_7618.jpeg). **Action:** Jeff forward Jason\u2019s concern (w/ photos) to Frank/MSS; hold MSS invoice until terminations done + verified. Still waiting MSS. **Thu Oct 15 ~10:25am ET Jeff\u2192Frank:** \u201c6 out of 6\u2026.? Please advise.\u201d **~10:44am ET Frank Manganella:** \u201cThe **lose wire** needs to be **tied in** \u2014 its normally closed contact. We **can not** make the connection inside nor can we make the connection to the monitor to the suppression system.\u201d **~10:54am ET Jeff\u2192Jason Marchbanks (DPP), Fwd: GEV RFQ:** \u201cI am lost with this.\u201d **~10:55am ET Jeff\u2192Frank:** \u201cTied into what? I\u2019m confused.\u201d **Action:** clarify with Frank/Jason who ties the NC contact / terminates FA wiring into motor-starter combos + verifies shutdown; hold MSS invoice. Still open."
+      "notes": "**Prior:** PO **4900652190**/card; Bill vendor setup; GE fire-alarm POC ask; MSS Sinker quote chase (T68). **Fri ~7:43am/8:07am/9:03am:** Frank offered Mon if ready; Jeff confirmed **6 machines 100% ready** (1 unplaced = separate). **Fri ~3:08pm ET Frank\u2192Kat+Jeff:** Indcom **not set up as MSS customer** \u2014 return customer form to start service (see **T95**). **Fri ~3:10pm ET Kat\u2192Bill+Jeff:** asked Bill to fill *New Customer Application v9_3.12.26.pdf*. **Action:** complete T95 form \u2192 then Frank/MSS Mon crew lock + update customer; still need GE onsite fire-alarm POC. Distinct from T57. Relates T68/T95. **Mon ~9:16am ET:** no Frank/MSS crew-arrival mail today; form (T95) not yet returned per mail. **Mon ~1:07pm ET:** MSS vendor-packet reply to Frank drafted in Jeff Gmail (not yet sent) \u2014 see T95. **Wed Oct 7 ~8:22am ET Frank Manganella (MSS)\u2192Jeff (cc Jason Gunter):** MSS **pulled wire for, installed, and programmed 6 FMM-1s + 6 FRM-1s** for monitoring/shutdown of associated equipment in **H-Bay** \u2014 6 machines done. **7th machine not yet installed; wire in place.** Frank: \"let me know when this is ready, we can come back and finish.\" **Action:** Jeff notify Frank when 7th machine is placed; expect MSS invoice for completed 6. (Work proceeded, so T95 customer setup evidently cleared.) **Wed ~9:48am ET Jeff\u2192Frank:** will let him know when the 7th machine is scheduled to be installed; thanked MSS. **Mon Oct 12 ~9:26am ET Shanna\u2192Jason (cc Jeff):** Filter Mist asset #s issued for NFPS.03 \u2014 **607291 HEA / 607292 HDA / 607296 HDA / 607293 HDA / 607294 HCA / 607295 HBA / 607297 HBA**; will sync one-lines with Jason after meetings. FYI (supports mist-collector GT path). **Wed Oct 14 ~8:32am ET Jeff\u2192Frank Manganella (cc Jason Gunter, Katheryn):** electrician says the **Mitsubishi motor starters are not tied into the machines** \u2014 thought this was completed; asks MSS to clarify what was/wasn\u2019t done; \u201cif the machines aren\u2019t tied into the system on both ends this is not complete.\u201d Waiting MSS reply (hold any MSS invoice until resolved). **Wed Oct 14 ~10:26am ET Frank Manganella (cc Jason Gunter, Katheryn):** replied with Oct 5 trip notes \u2014 **Donald Bowles ~2:26pm:** installed/programmed relay+monitor modules for **6 of 7** machines; 7th programmed into panel but not installed (return to add two modules when installed); new module #s **N29L03M079, M082\u2013M094**. **Drew Lempesis ~4:06pm:** pulled wire for, installed, programmed **6\u00d7 FMM-1 + 6\u00d7 FRM-1** H-Bay monitoring/shutdown; 7th not installed, wire in place. Reply documents **fire-alarm modules**, does **not clearly answer** Jeff\u2019s **Mitsubishi motor-starter tie-in** question \u2014 Jeff may need follow-up if starters are separate from FMM/FRM scope. Hold MSS invoice until motor-starter gap resolved. **Wed Oct 14 ~11:20am ET Jeff\u2192Jason Marchbanks (DPP), subject \u201cMSS Response\u201d:** forwarded Frank\u2019s Oct 5 trip notes verbatim (\u201cThis is the response I got from MSS\u201d) \u2014 no added ask in body. Ball now with **Jason/DPP (the electrician who flagged the gap)** to confirm whether the Mitsubishi motor-starter tie-in is inside MSS FMM-1/FRM-1 scope or a separate DPP/Mitsubishi item; then Jeff back to MSS if needed. Keep MSS invoice on hold. **Wed Oct 14 ~1:03pm ET Jason Marchbanks (DPP)\u2192Jeff, Re: MSS Response:** confirms gap \u2014 although MSS installed/programmed fire-alarm modules, **FA wiring from those modules has only been pulled into each of the six motor-starter combos and remains unconnected**. Asks MSS to confirm **who terminates** these connections and **verifies fire-alarm properly shuts down each machine**. Modules may be installed/programmed but **shutdown connections not completed**. Photo of inside motor-starter combo attached (Image.jpeg + IMG_7618.jpeg). **Action:** Jeff forward Jason\u2019s concern (w/ photos) to Frank/MSS; hold MSS invoice until terminations done + verified. Still waiting MSS. **Thu Oct 15 ~10:25am ET Jeff\u2192Frank:** \u201c6 out of 6\u2026.? Please advise.\u201d **~10:44am ET Frank Manganella:** \u201cThe **lose wire** needs to be **tied in** \u2014 its normally closed contact. We **can not** make the connection inside nor can we make the connection to the monitor to the suppression system.\u201d **~10:54am ET Jeff\u2192Jason Marchbanks (DPP), Fwd: GEV RFQ:** \u201cI am lost with this.\u201d **~10:55am ET Jeff\u2192Frank:** \u201cTied into what? I\u2019m confused.\u201d **Action:** clarify with Frank/Jason who ties the NC contact / terminates FA wiring into motor-starter combos + verifies shutdown; hold MSS invoice. Still open. **Fri Oct 16 ~7:20am ET Jason Marchbanks (DPP)** *Outage Request (NFPS.03 Mitsubishi Sinkers)* + **~7:24am Hinkson** *IMPROMPTU OUTAGES FOR FIRE ALARM TIE-INS* (invite.ics): **TODAY Fri Oct 16 7:45\u20139:00am ET** @ HDA/HEA \u2014 DPP install relays for **final Fire Alarm Connections** in each motor-starter combo: Sinkers **#2301352 @ HDA Ckt#17**, **#2301353 @ HEA Ckt#15**, **#2301348 @ HDA Ckt#19**; TP-11B-8.1 @ HDA; GE Lead Jim Stanley. This is the **FA termination / NC-contact tie-in** gap Jason flagged Wed. Track as **T184/e80**. Confirm complete after window; then revisit MSS invoice hold."
     },
     {
       "id": "T68",
@@ -781,10 +781,10 @@
       "id": "T108",
       "status": "open",
       "priority": "high",
-      "due": "ASAP \u2014 Martin reviewing electrical Est 2026; **owes crane/rigging quote** for EC1600 rotary load",
+      "due": "**Martin PO $3,500 (lift work) expected early next week** \u2192 do lifts within ~1 week of PO; Jeff still owes **formal quote**; electrical Est 2026 still with Martin",
       "item": "Quote MM Repair Area work for Martin Brown \u2014 (1) 220V 1-ph crane power; (2) 1600 lb rotary into Haas EC1600 + remove current plate",
       "source": "Email / Martin Brown (GE Repair Process Eng) 2026-10-05 ~12:19pm ET",
-      "notes": "**Mon ~12:19pm ET Martin Brown (Industrialization / Greenville Service Center)\u2192Jeff:** two quotes for **MM Repair Area**: (1) **Crane Power** \u2014 install electrical power to a crane, **220V single phase** (attachment *101A.pdf*); (2) get a **1600 lb rotary** into the **Haas EC1600** + **remove the current plate** in the machine (discussed previously). Martin free to walk the area; tel 864-361-0344. Schedule walk \u2192 quote. **Tue Oct 6 ~3:27pm ET Jeff fwd Martin's request to Jason Marchbanks (DPP):** \u201cMM repair quote needed.\u201d Now waiting DPP pricing \u2192 Indcom quote to Martin. **Thu Oct 8 ~8:36am ET Jason Marchbanks (DPP)\u2192Jeff (cc Katheryn, Bill, Amie):** *MM Repair Jib Crane* estimate via Joist \u2014 https://client.joistapp.com/estimates/2996b33fcfd18c2a39b7a355 (amount not in email; open link). Next: build Indcom quote to Martin Brown (check whether it covers only crane power or also the Haas EC1600 rotary/plate). **Thu Oct 8 ~9:51am ET QuickBooks Estimate 2026 *MM Repair JIB Crane Power* \u2014 $11,193.02 \u2014 sent to Martin Brown (GE)** (Review and approve). Now waiting Martin approval/PO. Haas EC1600 1600 lb rotary + plate removal (item 2) not seen in this estimate \u2014 confirm whether it needs a separate quote. **Fri ~2:27pm ET Katheryn\u2192Jason Marchbanks:** acknowledged *MM Repair Jib Crane* estimate receipt. **Tue Oct 13 ~8:16am ET Martin Brown\u2192Jeff:** received the electrical quote, looking into it today; asks for a **quote for crane work at the EC1600** \u2014 remove a **1500 lb table** from the machine and load the **1600 lb rotary** in; can meet on site to review. Electrical (Est 2026 $11,193.02) still waiting Martin PO; **item 2 now a separate crane/rigging quote Jeff owes**."
+      "notes": "**Mon ~12:19pm ET Martin Brown (Industrialization / Greenville Service Center)\u2192Jeff:** two quotes for **MM Repair Area**: (1) **Crane Power** \u2014 install electrical power to a crane, **220V single phase** (attachment *101A.pdf*); (2) get a **1600 lb rotary** into the **Haas EC1600** + **remove the current plate** in the machine (discussed previously). Martin free to walk the area; tel 864-361-0344. Schedule walk \u2192 quote. **Tue Oct 6 ~3:27pm ET Jeff fwd Martin's request to Jason Marchbanks (DPP):** \u201cMM repair quote needed.\u201d Now waiting DPP pricing \u2192 Indcom quote to Martin. **Thu Oct 8 ~8:36am ET Jason Marchbanks (DPP)\u2192Jeff (cc Katheryn, Bill, Amie):** *MM Repair Jib Crane* estimate via Joist \u2014 https://client.joistapp.com/estimates/2996b33fcfd18c2a39b7a355 (amount not in email; open link). Next: build Indcom quote to Martin Brown (check whether it covers only crane power or also the Haas EC1600 rotary/plate). **Thu Oct 8 ~9:51am ET QuickBooks Estimate 2026 *MM Repair JIB Crane Power* \u2014 $11,193.02 \u2014 sent to Martin Brown (GE)** (Review and approve). Now waiting Martin approval/PO. Haas EC1600 1600 lb rotary + plate removal (item 2) not seen in this estimate \u2014 confirm whether it needs a separate quote. **Fri ~2:27pm ET Katheryn\u2192Jason Marchbanks:** acknowledged *MM Repair Jib Crane* estimate receipt. **Tue Oct 13 ~8:16am ET Martin Brown\u2192Jeff:** received the electrical quote, looking into it today; asks for a **quote for crane work at the EC1600** \u2014 remove a **1500 lb table** from the machine and load the **1600 lb rotary** in; can meet on site to review. Electrical (Est 2026 $11,193.02) still waiting Martin PO; **item 2 now a separate crane/rigging quote Jeff owes**. **Fri Oct 16 ~8:09am ET Martin\u2192Jeff:** following up on rotary-install quote; can meet. **~8:39am Jeff\u2192Martin:** will send a formal quote when he can; timing of lifts unknown so **estimate $3,200.00**. **~8:53am Martin:** could it be done **within a week of the PO** (hopes to send PO **early next week**)? **~8:54am Jeff:** \u201cwe can do it anytime you are ready.\u201d **~8:55am Martin:** will create a **PO for $3,500 for the lift work**; still working on the **electrical quote** (Est 2026 $11,193.02). Next: send formal EC1600 lift quote (note $3,200 est vs $3,500 PO), watch for PO, schedule lift crew within a week of PO; electrical PO still pending."
     },
     {
       "id": "T109",
@@ -1216,7 +1216,7 @@
       "due": "ASAP \u2014 ack in Ariba; **renovation starts Mon Oct 19** (Minhaj)",
       "item": "Process/ack GE PO **4900667131** (**$169,428.00**) \u2014 Transform EZA Shop Floor Office (Colby Murphy)",
       "source": "Email / Ariba GE Vernova 2026-10-14 ~5:31am ET",
-      "notes": "**Wed ~5:31am ET** Ariba new PO **4900667131** to Indcom (ariba.mail@); requester **Colby Murphy**; **PR836974**; NET 150 (150 DD NET); FCA; purchase group VF5 US_GVL_Indirect; ship-to 5250 (300 Garlington Rd). Line 1 Material **$169,428.00**: *Transform EZA Shop Floor Office to meet expanded salaried support team \u2014 convert training space into office space and office space into training/meeting space.* This is the **T23** EZA OPS Office / Training Room Conversion PO. Ack/confirm in Ariba; Katheryn already kicked off CDI Cabinets + PMC furniture (~8:53\u20138:54am). **Wed ~9:39am ET Minhaj:** kick-off invited (T170/e75); Jeff+Kat accepted ~9:52\u20139:53am. Still ack PO in Ariba. **Thu ~10:49am Minhaj:** renovation starts Mon Oct 19 (see T23). Still ack PO in Ariba. **Thu ~11:30am ET Jeff\u2192Matthew Larmore (JMT Flooring):** floor demo/install timing ask for training + office (two mobilizations) + walk-off mat \u2014 see T23. Still ack PO in Ariba. **Thu ~3:54pm ET JMT (Matt Larmore)** replied w/ scope Qs + ~2 days/area \u2014 see T23. Still ack PO in Ariba."
+      "notes": "**Wed ~5:31am ET** Ariba new PO **4900667131** to Indcom (ariba.mail@); requester **Colby Murphy**; **PR836974**; NET 150 (150 DD NET); FCA; purchase group VF5 US_GVL_Indirect; ship-to 5250 (300 Garlington Rd). Line 1 Material **$169,428.00**: *Transform EZA Shop Floor Office to meet expanded salaried support team \u2014 convert training space into office space and office space into training/meeting space.* This is the **T23** EZA OPS Office / Training Room Conversion PO. Ack/confirm in Ariba; Katheryn already kicked off CDI Cabinets + PMC furniture (~8:53\u20138:54am). **Wed ~9:39am ET Minhaj:** kick-off invited (T170/e75); Jeff+Kat accepted ~9:52\u20139:53am. Still ack PO in Ariba. **Thu ~10:49am Minhaj:** renovation starts Mon Oct 19 (see T23). Still ack PO in Ariba. **Thu ~11:30am ET Jeff\u2192Matthew Larmore (JMT Flooring):** floor demo/install timing ask for training + office (two mobilizations) + walk-off mat \u2014 see T23. Still ack PO in Ariba. **Thu ~3:54pm ET JMT (Matt Larmore)** replied w/ scope Qs + ~2 days/area \u2014 see T23. Still ack PO in Ariba. **Fri Oct 16 ~5:00am ET Ariba** *Confirm orders from your buyers* still lists PO **4900667131** as **New/unconfirmed** \u2014 ack in SAP Business Network ASAP (renovation starts Mon Oct 19)."
     },
     {
       "id": "T171",
@@ -1270,7 +1270,7 @@
       "due": "**Sat Oct 17 7:00am \u2013 Sun Oct 18 5:00pm ET** (Jason outage request; Kat cal Jeff hold)",
       "item": "Track outage **RP-10 Circuit #30** \u2014 DPP relocate Data Cabinets **20-S2-IE4K & 20-S2-CP** (BSA Data Cabinet Relocation)",
       "source": "Email / Jason Marchbanks (DPP) 2026-10-15 ~11:14am ET",
-      "notes": "**Thu ~11:14am ET Jason\u2192Hinkson + McCurry (cc Jon Roper, Jeff, Katheryn, Adam McClure):** outage request **RP-10 Circuit #30**; purpose relocate Data Cabinets **20-S2-IE4K & 20-S2-CP**; project **BSA Data Cabinet 20-S2-IE4K Relocation**; **Sat Oct 17 7:00am \u2013 Sun Oct 18 5:00pm**; sub **DPP**; photos attached. **~11:18am ET Jason follow-up:** **GE Lead : Alex Leppard**. Kat cal has Jeff hold *Outage/Shutdown/LOTO: RP-10 Circuit #30* same window (created ~11:22am) \u2014 e79. Weekend OT window; overlaps T130 Coater #3/#4 scaffold Fri\u2013Sun and T120 BCL7 crane-lift date (likely canceled). **Thu ~1:01pm ET Hinkson OUTAGE NOTIFICATION \u2014 RP-10 ckt-30; DATA; 20-S2-IE4K & 20-S2-CP** (to Roper, McCurry, Jason, Jeff, Katheryn, Adam McClure, Coletti, McGrath, Connor, GVL Local Network, Fitzgerald, Quincy Hill, Hanscom, Coon, Flowers, Henderson, Command Center): **confirmed** same window Sat Oct 17 7:00am \u2013 Sun Oct 18 5:00pm; affected **20-S2-IE4K & 20-S2-CP** + **networking in the area**; location **ASB; BSA and surrounding areas**. Hinkson invite on Kat cal (deduped into e79). No scaffold mentioned."
+      "notes": "**Thu ~11:14am ET Jason\u2192Hinkson + McCurry (cc Jon Roper, Jeff, Katheryn, Adam McClure):** outage request **RP-10 Circuit #30**; purpose relocate Data Cabinets **20-S2-IE4K & 20-S2-CP**; project **BSA Data Cabinet 20-S2-IE4K Relocation**; **Sat Oct 17 7:00am \u2013 Sun Oct 18 5:00pm**; sub **DPP**; photos attached. **~11:18am ET Jason follow-up:** **GE Lead : Alex Leppard**. Kat cal has Jeff hold *Outage/Shutdown/LOTO: RP-10 Circuit #30* same window (created ~11:22am) \u2014 e79. Weekend OT window; overlaps T130 Coater #3/#4 scaffold Fri\u2013Sun and T120 BCL7 crane-lift date (likely canceled). **Thu ~1:01pm ET Hinkson OUTAGE NOTIFICATION \u2014 RP-10 ckt-30; DATA; 20-S2-IE4K & 20-S2-CP** (to Roper, McCurry, Jason, Jeff, Katheryn, Adam McClure, Coletti, McGrath, Connor, GVL Local Network, Fitzgerald, Quincy Hill, Hanscom, Coon, Flowers, Henderson, Command Center): **confirmed** same window Sat Oct 17 7:00am \u2013 Sun Oct 18 5:00pm; affected **20-S2-IE4K & 20-S2-CP** + **networking in the area**; location **ASB; BSA and surrounding areas**. Hinkson invite on Kat cal (deduped into e79). No scaffold mentioned. **Fri Oct 16 ~6:00am ET Jason Marchbanks (DPP)\u2192Jeff (cc Bill+Kat):** Joist estimate *BSA \u2013 Relocation of Existing Cabinets 20-S2-1E4K & 20-S2-CP* \u2014 https://client.joistapp.com/estimates/3516475fe73d23707b806358 (see **T183**). Review/route before Sat outage."
     },
     {
       "id": "T177",
@@ -1283,12 +1283,12 @@
     },
     {
       "id": "T178",
-      "status": "open",
+      "status": "waiting",
       "priority": "high",
-      "due": "before Sat Oct 17 cabinet move / Allied start Mon Oct 19",
+      "due": "before Sat Oct 17 cabinet move / Allied start Mon Oct 19 \u2014 **Kat draft sent to Jeff Fri ~8:28am; waiting Jeff to send to Jason+Mike \u2192 availability for joint review this week**",
       "item": "BSA office (was Allied BSB/KQB package) \u2014 set joint data+electrical review w/ **Jason (DPP)** + **Mike (SCI)**; provide Kat\u2019s BSA layout for floor boxes",
       "source": "Email / Jeff\u2192Katheryn 2026-10-15 ~1:30pm ET",
-      "notes": "**Thu ~1:30pm ET Jeff\u2192Katheryn, *BSA Office (Allied Quote for BSB/KQB packages)*** (addressed \u201cJason/Mike\u201d; attached **QH-12515-1 1.pdf** + **QH-12515-2 1.pdf** install dwgs): scopes connected \u2192 meet together for review. Allied package originally BSB+KQB offices; location now **BSA** (where office demo took place). **BSB canceled** \u2192 new design in BSA; **KQB still happening, different design**. Confirm data + electrical needs w/: **Roper\u2019s requirements** (panels, transformers, etc.); **load centers externally mounted**; GE confirming **raised floor on 1st floor** \u2192 line item for **floor boxes** using **Kat\u2019s BSA layout**; **TVs** in those locations either way. **Mike** to specify conduit sizes + source if requirements exceed local boxes being **moved this weekend** (RP-10 Ckt#30 cabinet relocation T176/e79). FYI: Jeff also has an unsent Gmail **DRAFT** ~1:17pm \u201cJason- DPP EST-\u201d **BSB (QH-10049) $19,896.81** (Estimate #215: 40 ft primary + 115 ft secondary feeder, 2\u00d770A TD fuses PP-6B-4, 45 kVA 1-ph NEMA 12 xfmr + disconnect, powers one interior building Area KIB; DATA conduit TBD). Ties T13/T111/T176/T174."
+      "notes": "**Thu ~1:30pm ET Jeff\u2192Katheryn, *BSA Office (Allied Quote for BSB/KQB packages)*** (addressed \u201cJason/Mike\u201d; attached **QH-12515-1 1.pdf** + **QH-12515-2 1.pdf** install dwgs): scopes connected \u2192 meet together for review. Allied package originally BSB+KQB offices; location now **BSA** (where office demo took place). **BSB canceled** \u2192 new design in BSA; **KQB still happening, different design**. Confirm data + electrical needs w/: **Roper\u2019s requirements** (panels, transformers, etc.); **load centers externally mounted**; GE confirming **raised floor on 1st floor** \u2192 line item for **floor boxes** using **Kat\u2019s BSA layout**; **TVs** in those locations either way. **Mike** to specify conduit sizes + source if requirements exceed local boxes being **moved this weekend** (RP-10 Ckt#30 cabinet relocation T176/e79). FYI: Jeff also has an unsent Gmail **DRAFT** ~1:17pm \u201cJason- DPP EST-\u201d **BSB (QH-10049) $19,896.81** (Estimate #215: 40 ft primary + 115 ft secondary feeder, 2\u00d770A TD fuses PP-6B-4, 45 kVA 1-ph NEMA 12 xfmr + disconnect, powers one interior building Area KIB; DATA conduit TBD). Ties T13/T111/T176/T174. **Fri Oct 16 ~8:28am ET Katheryn\u2192Jeff (reply on thread):** polished email for Jeff to send \u2014 subject *BSA Office Install - Joint Data & Electrical Scope Review (Drawings Attached)*, to \u201cJason and Mike\u201d: what changed (BSB canceled \u2192 new BSA office; KQB separate revised design, not in scope); asks each to confirm data/electrical per (1) Roper equipment reqs (panels/transformers), (2) externally mounted load centers, (3) raised floor pending \u2192 **floor boxes as separate add/remove line item** from Kat\u2019s BSA layout, (4) TVs in base scope; Mike to specify conduit sizes/source beyond boxes relocated this weekend; reply with availability for a **joint review this week**. Waiting Jeff to send / Jason+Mike availability."
     },
     {
       "id": "T179",
@@ -1298,11 +1298,76 @@
       "item": "Notify **Max** \u2014 GE **UB Tubing** additional support **ends after October**; Max OK through EOM only",
       "source": "Email / Mateo Castro (GE Vernova) 2026-10-15 ~2:20pm ET",
       "notes": "**Thu ~2:20pm ET Mateo Castro (Lead Mfg Eng, Turbine Assembly)** \u2192 Jeff *UB Tubing Support Needs*: 2027 tubing volume lower than expected (no ABs; no dual-fuel units); recent hires + apprentices graduating \u2192 **no longer need additional Indcom support**. Max can still help **through end of October**; **not needed after that**. **Jeff ~2:33pm ET** replied: \"I appreciate the heads up and will let him know.\" Action: tell Max the wind-down; confirm last day / handoff."
+    },
+    {
+      "id": "T180",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP",
+      "item": "Process SPC **Guardrails** invoice (**Invoice 229** / Invoice_229_2026-11-14.pdf)",
+      "source": "Email / Evan Groce 2026-10-15 ~5:25pm ET",
+      "notes": "**Thu ~5:25pm ET Evan\u2192Jeff + ap.mail:** *Guardrails invoice* \u2014 PDF **Invoice_229_2026-11-14.pdf**. Route/confirm payment (same SPC path)."
+    },
+    {
+      "id": "T181",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP",
+      "item": "Process SPC **Build stand caster inspection and grease** invoice (**Invoice 230** / Invoice_230_2026-11-14.pdf)",
+      "source": "Email / Evan Groce 2026-10-15 ~5:27pm ET",
+      "notes": "**Thu ~5:27pm ET Evan\u2192Jeff + ap.mail:** *Build stand caster inspection and grease invoice* \u2014 PDF **Invoice_230_2026-11-14.pdf**. Route/confirm payment."
+    },
+    {
+      "id": "T182",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP",
+      "item": "Process SPC **COA stair removal** invoice (**Invoice 231** / Invoice_231_2026-11-14.pdf)",
+      "source": "Email / Evan Groce 2026-10-15 ~5:28pm ET",
+      "notes": "**Thu ~5:28pm ET Evan\u2192Jeff + ap.mail:** *COA stair removal* \u2014 PDF **Invoice_231_2026-11-14.pdf**. Route/confirm payment."
+    },
+    {
+      "id": "T183",
+      "status": "open",
+      "priority": "high",
+      "due": "before Sat Oct 17 RP-10 outage",
+      "item": "Review/route DPP Joist estimate \u2014 **BSA Relocation of Existing Cabinets 20-S2-1E4K & 20-S2-CP**",
+      "source": "Email / Jason Marchbanks (DPP) 2026-10-16 ~6:00am ET",
+      "notes": "**Fri ~6:00am ET Jason\u2192Jeff (cc Bill+Katheryn):** Joist estimate https://client.joistapp.com/estimates/3516475fe73d23707b806358 for weekend cabinet relocation (ties **T176/e79** RP-10 Ckt#30 Sat\u2013Sun). Review/approve/route."
+    },
+    {
+      "id": "T184",
+      "status": "open",
+      "priority": "high",
+      "due": "**Window PASSED Fri Oct 16 7:45\u20139:00am ET** \u2014 no \u201cOutage complete\u201d reply as of ~9:10am; confirm complete",
+      "item": "Track IMPROMPTU outage \u2014 **Mitsubishi Sinker fire-alarm motor-starter tie-ins** (#2301352/#2301353/#2301348 via TP-11B-8.1)",
+      "source": "Email / Jason Marchbanks + Hinkson 2026-10-16 ~7:20\u20137:24am ET",
+      "notes": "**Fri ~7:20am Jason** outage request; **~7:24am Hinkson** *IMPROMPTU OUTAGES FOR FIRE ALARM TIE-INS* (invite.ics on Kat cal + Jeff hold = one). DPP install relays for final FA connections in motor-starter combos @ HDA/HEA; GE Lead Jim Stanley. Directly addresses **T67** FA termination/NC-contact gap. Confirm complete after window. **e80** (deduped). **~9:10am ET Fri:** window ended 9:00am; no Hinkson/Jason completion reply or DPP invoice in Jeff\u2019s inbox yet \u2014 confirm relays installed + FA connections made, then close T67 gap / revisit MSS invoice hold."
+    },
+    {
+      "id": "T185",
+      "status": "waiting",
+      "priority": "high",
+      "due": "waiting OpSource links/complete",
+      "item": "OpSource onboarding \u2014 **Josue Gomez Jr** (Carpenter; 504-389-0144; swayjr29@icloud.com) + **Carlos E Rojas IV** (1991rojas.cr@gmail.com; 504-919-0997)",
+      "source": "Email / Jeff\u2192Yesenia Portes (cc Lisa+Kat) 2026-10-16 ~7:40am ET",
+      "notes": "**Fri ~7:40am ET Jeff\u2192Yesenia:** send new-hire links for Josue (Carpenter) + Carlos. **~7:43am Yesenia:** will process and let Jeff know when completed. Waiting OpSource completion / start dates."
+    },
+    {
+      "id": "T186",
+      "status": "open",
+      "priority": "med",
+      "due": "**Sun Oct 18 2:00\u20133:00pm ET** @ 17 International Ct (Google Meet option)",
+      "item": "Attend **Indcom Corp Family Meeting 2** (Bill Marchbanks)",
+      "source": "Calendar / Bill Marchbanks 2026-10-16 ~8:46am ET",
+      "notes": "**Fri ~8:46am ET** Bill Marchbanks (bill.marchbanks@indcomcorp.com) Kat-cal + Jeff invite *Indcom Corp Family Meeting 2* \u2014 **Sun Oct 18, 2:00\u20133:00pm ET**, location **17 International Ct, Greenville SC 29607**; Google Meet meet.google.com/aqx-ybio-bwp (phone +1 575-518-3073 PIN 272876755). Guests Bill, Katheryn, Jeff (Jeff\u2019s attendance marked optional). Same weekend as RP-10 Ckt#30 outage (T176/e79) + Sun coater scaffold strike (T130). RSVP not yet sent. \u2014 e81"
     }
   ],
   "calendar": [
+    "**Sun Oct 18 2:00\u20133:00pm ET @ 17 International Ct (NEW \u2014 Bill Kat-cal invite Fri ~8:46am; Google Meet option)** \u2014 Meeting **Indcom Corp Family Meeting 2** (Bill, Kat, Jeff) (T186) \u2014 e81",
+    "**PASSED (confirm complete) Fri Oct 16 7:45\u20139:00am ET @ HDA/HEA (Jason ~7:20am request; Hinkson IMPROMPTU ~7:24am; Kat cal Hinkson invite + Jeff hold = one)** \u2014 Outage **Mitsubishi Sinker fire-alarm motor-starter tie-ins** (#2301352/#2301353/#2301348 via TP-11B-8.1) \u2014 DPP install relays for final FA connections; GE Lead Jim Stanley (T184/T67) \u2014 **e80**",
     "**Sat Oct 17 7:00am \u2013 Sun Oct 18 5:00pm ET (Jason ~11:14am request; Kat cal Jeff hold ~11:22am)** \u2014 Outage **RP-10 Circuit #30** \u2014 relocate Data Cabinets 20-S2-IE4K & 20-S2-CP (BSA; DPP; GE Lead Alex Leppard) (T176) \u2014 e79",
-    "**Fri Oct 16 9:00\u20139:30am ET @ ABA (Hinkson OUTAGE NOTIFICATION Thu ~9:07am \u2014 moved from 8:00\u20138:30 request; Kat cal Hinkson invite + 2 Jeff holds = one)** \u2014 Outage **RP-19B-3.4** \u2014 install (4) duplex receptacles for new downdraft table, Cell 5-6 (DPP; GE Lead Matt Fitts) (T173/T137) \u2014 e76",
+    "**TODAY (in progress ~9:10am) Fri Oct 16 9:00\u20139:30am ET @ ABA (Hinkson OUTAGE NOTIFICATION Thu ~9:07am \u2014 moved from 8:00\u20138:30 request; Kat cal Hinkson invite + 2 Jeff holds = one)** \u2014 Outage **RP-19B-3.4** \u2014 install (4) duplex receptacles for new downdraft table, Cell 5-6 (DPP; GE Lead Matt Fitts) (T173/T137) \u2014 e76",
     "**Mon Oct 19 (start) @ BSA** \u2014 Work: **Allied Modular starts BSA office install** (Gloria Pedroza; wants to work concurrently w/ Indcom fire suppression etc.) (T13) \u2014 e77 (email only; not on Kat cal)",
     "**Mon Oct 19 (start) @ EZA UA Ops Tower** \u2014 Work: **EZA renovation starts** (training\u2194office conversion; 6\u20138 wks; green-tape keepers; Colby/Minhaj) (T23/T169) \u2014 e78 (email only; not on Kat cal); JMT flooring ~2 days per area, two mobilizations \u2014 install date TBD (Jeff to answer Matt ~3:54pm Qs)",
     "**DONE Thu Oct 15 8:30\u20139:00am ET @ EZA Office Area** \u2014 Meeting **EZA Project Kick-off** held; renovation starts Mon Oct 19 (Minhaj ~10:49am) (T170 closed \u2192 T23/T169) \u2014 e75",
@@ -1393,7 +1458,7 @@
     "**Pending Hinkson window** \u2014 Energize Haas DM-2 #2301427 @ HCA via PP-6A-5B @ HBA (Jason ~7:14am Mon) (T100)",
     "**ASAP (see deck dates)** \u2014 AGV Lift & Rotate: remove scaffold stairs @ CKA; move/remove stairs @ COA (Adam Edwards walk notes ~7:46am Mon) (T101)",
     "**~Sun Nov 1 (tentative)** \u2014 ENSER 7HA1 build stand move from Advanced Rigging into plant (ENSER rep directs; GE rigging) then Nov 2\u20133 install (Twigg Fri ~6:24pm) (T56)",
-    "**ASAP** \u2014 Martin Brown reviewing electrical Est 2026 ($11,193.02); **Jeff owes crane/rigging quote** for EC1600 (remove 1500 lb table + load 1600 lb rotary; Martin can meet on site) (T108)",
+    "**Early next week (PO) \u2192 lifts within ~1 week of PO** \u2014 Martin Brown will issue **PO $3,500** for EC1600 lift work (Jeff est $3,200 Fri ~8:39am; formal quote still owed); electrical Est 2026 ($11,193.02) still with Martin (T108)",
     "**Review** \u2014 DPP updated NFPS.02 Plumbing + Electrical proposals (10.08) vs Estimate 2022 sent to Jim Stanley; revise GE quote if numbers changed (T70/T90)",
     "**ASAP (best-possible dates)** \u2014 Nozzle Fab Relocation RFQ REV_0 quote for Jim Stanley; Jeff sending sub RFQs; can't meet concrete/epoxy start dates (T122)",
     "**ASAP** \u2014 Jeff verify LastPass blocked master-password login (Duncan SC, ~12:13pm) + Google new Mac sign-in (~12:11pm) (T109)",
@@ -2208,6 +2273,37 @@
       "end": "2026-10-18T17:00:00-04:00",
       "allDay": false,
       "todoId": "T176"
+    },
+    {
+      "id": "e80",
+      "type": "outage",
+      "title": "PASSED \u2014 Outage/Shutdown/LOTO: Mitsubishi Sinker EDMs Fire Alarm Tie-ins (TP-11B-8.1)",
+      "summary": "Fri Oct 16 7:45\u20139:00am ET \u2014 DPP install relays for final Fire Alarm Connections in motor-starter combos; Sinkers #2301352/#2301353/#2301348 @ HDA/HEA; GE Lead Jim Stanley (Hinkson IMPROMPTU; Jason request)",
+      "start": "2026-10-16T07:45:00-04:00",
+      "end": "2026-10-16T09:00:00-04:00",
+      "allDay": false,
+      "location": "HDA / HEA (TP-11B-8.1 @ HDA)",
+      "relatedTodos": [
+        "T184",
+        "T67",
+        "T72"
+      ],
+      "notes": "Jason Marchbanks ~7:20am Fri Oct 16 outage request; Hinkson ~7:24am IMPROMPTU OUTAGES FOR FIRE ALARM TIE-INS (invite.ics). Kat cal shows Hinkson invite + Jeff Outage/Shutdown/LOTO hold = one (deduped). Directly addresses T67 FA termination/NC-contact gap. No scaffold mentioned. UPDATE Fri ~9:10am ET: window ended 9:00am; no Hinkson/Jason \u201ccomplete\u201d reply yet \u2014 confirm complete (T184).",
+      "status": "passed-confirm"
+    },
+    {
+      "id": "e81",
+      "type": "meeting",
+      "title": "Indcom Corp Family Meeting 2",
+      "summary": "Sun Oct 18 2:00\u20133:00pm ET @ 17 International Ct (Google Meet option) \u2014 Bill Marchbanks invited Katheryn + Jeff",
+      "location": "17 International Ct, Greenville, SC 29607",
+      "description": "Fri Oct 16 ~8:46am ET Bill Marchbanks Kat-cal + Jeff invite. Google Meet meet.google.com/aqx-ybio-bwp; phone +1 575-518-3073 PIN 272876755. Guests: Bill (organizer), Katheryn, Jeff (optional). Same weekend as RP-10 Ckt#30 outage (e79) and Sun coater scaffold strike. (T186)",
+      "start": "2026-10-18T14:00:00-04:00",
+      "end": "2026-10-18T15:00:00-04:00",
+      "allDay": false,
+      "todoId": "T186",
+      "relatedTodo": "T186",
+      "status": "scheduled"
     }
   ]
 }
