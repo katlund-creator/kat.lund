@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T08:10:57-04:00",
+  "updated": "2026-10-19T09:17:48-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -680,12 +680,12 @@
     },
     {
       "id": "T94",
-      "status": "waiting",
+      "status": "open",
       "priority": "high",
-      "due": "ASAP (Kat reviewed \u2014 Jeff reply Fitts / get POs 3884-3886)",
+      "due": "**POs RECEIVED Mon Oct 19 ~8:14am ET** for 3884 / 3885 / 3886 (T204 / T202 / T203; need-by Fri Oct 30) \u2014 match + confirm in Ariba, then reply Fitts/Mitch",
       "item": "Confirm GE invoices 3780 / 3883 / 3884 / 3886 have POs + received status (Fitts)",
       "source": "Email / Matthew Fitts + Jeff\u2192Kat 2026-10-02",
-      "notes": "**Fri ~2:50pm ET Fitts\u2192Bill + Jeff:** received invoices last week; wants confirm already covered with POs and whether GE needs to receive them \u2014 Mitch handles finances. Invoice #s: **3780, 3883, 3884, 3886**. **Fri ~4:46pm ET Jeff\u2192Katheryn:** forwarded Fitts request (no added comment) \u2014 **Kat to help confirm POs + receive status / reply**. Distinct from T46 (3878/3879/3845) / T51 (3877). **Fri ~5:28pm ET Katheryn\u2192Jeff** review: **3883** has PO **4900657873** (AAA demo + material return; due in 11 days; build already paid); **3780** has PO **4900657858** (pre-shift inspections + material, two 28-day cycles; due in 11 days); **3884** (AMA duct enclosure build), **3885** (AMA duct enclosure demo), **3886** (West Wall outside H Bay \u2014 freight/labor/material/equipment) have **NO PO** in QuickBooks \u2014 **overdue 21 days**. Waiting on Jeff to reply Fitts/Mitch + get POs for 3884/3885/3886 (Fitts didn't list 3885 but same gap)."
+      "notes": "**Fri ~2:50pm ET Fitts\u2192Bill + Jeff:** received invoices last week; wants confirm already covered with POs and whether GE needs to receive them \u2014 Mitch handles finances. Invoice #s: **3780, 3883, 3884, 3886**. **Fri ~4:46pm ET Jeff\u2192Katheryn:** forwarded Fitts request (no added comment) \u2014 **Kat to help confirm POs + receive status / reply**. Distinct from T46 (3878/3879/3845) / T51 (3877). **Fri ~5:28pm ET Katheryn\u2192Jeff** review: **3883** has PO **4900657873** (AAA demo + material return; due in 11 days; build already paid); **3780** has PO **4900657858** (pre-shift inspections + material, two 28-day cycles; due in 11 days); **3884** (AMA duct enclosure build), **3885** (AMA duct enclosure demo), **3886** (West Wall outside H Bay \u2014 freight/labor/material/equipment) have **NO PO** in QuickBooks \u2014 **overdue 21 days**. Waiting on Jeff to reply Fitts/Mitch + get POs for 3884/3885/3886 (Fitts didn't list 3885 but same gap). **Mon Oct 19 ~8:14am ET UPDATE:** Ariba new POs from GE (requester Reese, James M / mitch.reese@) carry line Part # **3884 \u2192 PO 4900668839** ($37,734.35; T204), **3885 \u2192 PO 4900668835** ($29,811.00; Invoice_3885 attached; T202), **3886 \u2192 PO 4900668837** ($32,455.00; T203); Mitch FW\u2019d the \u201cPO sent to supplier\u201d notices to Jeff ~8:37\u20138:39am (cc Fitts on 2 of 3, no added comment). GE PO descriptions say **BCL7** (HVAC unit removal scaffold rental / install; Metco dust collector ductwork) \u2014 differ from the Oct 2 QB descriptions above (AMA duct enclosure / West Wall) \u2014 **verify invoice\u2194PO match** before applying."
     },
     {
       "id": "T95",
@@ -1022,12 +1022,12 @@
     },
     {
       "id": "T141",
-      "status": "waiting",
+      "status": "open",
       "priority": "med",
-      "due": "waiting Heatherly approve Est **2034** ($18,895.69)",
+      "due": "**PO 4200339489 RECEIVED + released Mon Oct 19** (need-by Mon Oct 19) \u2014 confirm order in Ariba (T205) + proceed w/ pole fingers",
       "item": "GE quotation Est **2034** \u2014 D Bay Pole Fingers (from SPC Est 422 / QB Est 2029)",
       "source": "Email / Evan Groce (SPC) 2026-10-08 + QB Est 2034 \u2192 Heatherly 2026-10-13 ~12:24pm ET",
-      "notes": "*Pole fingers quote* \u2014 \u201cPlease see attached quote\u201d \u2014 PDF **Estimate_422_2026-10-08.pdf** to Jeff only. Likely more North Pole finger work (cf. T64 Invoice 220 / T132 Invoice 222) \u2014 review, approve/route to GE quote if needed. **Tue Oct 13 ~12:12pm ET Jeff\u2192Katheryn** on Estimates thread: Est **2029** Pole Fingers customer = **William Andrew Heatherly** (needs Customer Info filled). **~12:24pm ET** QuickBooks sent **Estimate/Quotation 2034** *D Bay Pole Fingers* **$18,895.69** to **William.Heatherly@gevernova.com** (cc mail@ / kat / jeff@) \u2014 customer-facing send of the pole-fingers quote (ties SPC Est 422). Status \u2192 waiting GE review/approve."
+      "notes": "*Pole fingers quote* \u2014 \u201cPlease see attached quote\u201d \u2014 PDF **Estimate_422_2026-10-08.pdf** to Jeff only. Likely more North Pole finger work (cf. T64 Invoice 220 / T132 Invoice 222) \u2014 review, approve/route to GE quote if needed. **Tue Oct 13 ~12:12pm ET Jeff\u2192Katheryn** on Estimates thread: Est **2029** Pole Fingers customer = **William Andrew Heatherly** (needs Customer Info filled). **~12:24pm ET** QuickBooks sent **Estimate/Quotation 2034** *D Bay Pole Fingers* **$18,895.69** to **William.Heatherly@gevernova.com** (cc mail@ / kat / jeff@) \u2014 customer-facing send of the pole-fingers quote (ties SPC Est 422). Status \u2192 waiting GE review/approve. **Mon Oct 19 ~8:20am ET Kristen Jackson (GE On-Site Sr CSR)** *NEW PO Estimate 2034 \u2026 D Bay Pole Fingers* (to James Ray, Zac Ciesielczyk, Matthew McDonnell, Jeff Lemons, Zachary Kleiner, Veronica Kyle; cc Heatherly, jeff@, Katheryn, mail@): \u201cplease use **PO # 4200339489** for the attached quote\u201d (Estimate_2034 PDF) \u2014 thread shows James Ray Thu Oct 15 ~4:35pm \u201cKristen approved for PO, Original Dispatch L2L 90959\u201d. **~8:52am Zachary Kleiner: \u201cPO released.\u201d** Ariba PO **4200339489 $18,895.69** received ~8:31am \u2192 **T205**."
     },
     {
       "id": "T144",
@@ -1427,12 +1427,12 @@
     },
     {
       "id": "T198",
-      "status": "open",
+      "status": "waiting",
       "priority": "high",
-      "due": "**Within 2\u20133 days (~Wed Oct 21\u2013Thu Oct 22)** \u2014 Julia owes Pulse update **Thu Oct 22**",
+      "due": "**Within 2\u20133 days (~Wed Oct 21\u2013Thu Oct 22)** \u2014 Jeff replied ~9:02am \u201cwe can assist\u201d \u2014 **waiting Zac: panels like the enclosures?** \u2014 Julia owes Pulse update **Thu Oct 22**",
       "item": "GE EHS read-across \u2014 install **netting / side panels** on all **elevated scaffolding build stands** (+ help add corrugated-plastic panels to permanent stand railings if Zac\u2019s test works)",
       "source": "Email / Zac Ciesielczyk (GE Vernova) 2026-10-19 ~7:36am ET",
-      "notes": "**Mon ~7:36am ET Zac Ciesielczyk (Turbine Assembly Sr Mfg Eng, 864-395-1243; cc Hudson Brower, Andrew Heatherly, Christine Price)\u2192Jeff, *FW: Read Across \u2013 Build Stand ATS Finding*:** EHS requested **netting or side panels on all elevated build stands**; asks Indcom to get the **scaffolding build stands completed within the next 2\u20133 days**. Zac will test screwing **corrugated plastic** to the **permanent stand railings** (GE provides material) \u2014 if effective, wants Indcom help completing those too. Background (Julia Filiatreau, GE EHS): ATS **14620** scaffolding horizontal stands (continuous toe boards, railing paneling/netting, exclusion zones + signage, housekeeping), **14621** permanent/vertical stands, **14623** Blue Boys, **14624** Pits, **14625/14626** repair stands; Thu Oct 15 Pulse \u2014 Jason wants gaps closed **immediately** with temporary measures; Onsite already installed **mesh netting on H-Bay scaffolding**; Julia Mon ~6:29am asked to discuss on today\u2019s **RTA EHS walk**; update due **Thu 10/22**. Action: scope stand count/material (netting, toe boards), crew + quote/PO path (Heatherly \u2014 cf. T192 DIA buildstand PO), reply Zac."
+      "notes": "**Mon ~7:36am ET Zac Ciesielczyk (Turbine Assembly Sr Mfg Eng, 864-395-1243; cc Hudson Brower, Andrew Heatherly, Christine Price)\u2192Jeff, *FW: Read Across \u2013 Build Stand ATS Finding*:** EHS requested **netting or side panels on all elevated build stands**; asks Indcom to get the **scaffolding build stands completed within the next 2\u20133 days**. Zac will test screwing **corrugated plastic** to the **permanent stand railings** (GE provides material) \u2014 if effective, wants Indcom help completing those too. Background (Julia Filiatreau, GE EHS): ATS **14620** scaffolding horizontal stands (continuous toe boards, railing paneling/netting, exclusion zones + signage, housekeeping), **14621** permanent/vertical stands, **14623** Blue Boys, **14624** Pits, **14625/14626** repair stands; Thu Oct 15 Pulse \u2014 Jason wants gaps closed **immediately** with temporary measures; Onsite already installed **mesh netting on H-Bay scaffolding**; Julia Mon ~6:29am asked to discuss on today\u2019s **RTA EHS walk**; update due **Thu 10/22**. Action: scope stand count/material (netting, toe boards), crew + quote/PO path (Heatherly \u2014 cf. T192 DIA buildstand PO), reply Zac. **Mon ~9:02am ET Jeff\u2192Zac (cc Hudson Brower, William Heatherly, Christine Price):** \u201cWe can assist with that. Would you like us to install the panels like we have in the enclosures on the scaffold buildstands?\u201d \u2014 waiting Zac\u2019s answer on panel type before scheduling."
     },
     {
       "id": "T199",
@@ -1460,9 +1460,47 @@
       "item": "**Layher \u2014 another truck ASAP** for additional project scope (Allround verticals/ledgers/decks) under PO GE-JF260930",
       "source": "Email / Jeff\u2192Jeremy Bayate (Layher; cc Jimmy Holmes) 2026-10-19 ~5:55am ET",
       "notes": "**Mon ~5:55am ET Jeff\u2192Jeremy (cc Jimmy), Re: Indcom Ledgers on GE-JF260930:** additional scope \u2192 need **another truck loaded and shipped ASAP**; send what Ocala has on hand and source the rest from another branch if needed. **Totals:** 112\u00d7 9'9\" verticals w/ pin; 100\u00d7 0.45 LW ledgers; 100\u00d7 0.65 LW ledgers; 500\u00d7 2.57 (8'5\") LW ledgers; 40\u00d7 0.65 (2'1\") side brackets; 100\u00d7 rosette clamps; 180\u00d7 8'5\" steel decks; 180\u00d7 6'9\" steel decks; 30\u00d7 2'1\" steel decks; 90\u00d7 3'7\" steel decks. Waiting Layher reply/quote + truck; then freight (Priority1 like T156) + drop-off contact. Related **T197** (R-000272 ledgers, Mon pickup unconfirmed), **T190** (girders not in this list), **T4**."
+    },
+    {
+      "id": "T202",
+      "status": "open",
+      "priority": "high",
+      "due": "**Need-by Fri Oct 30** \u2014 confirm in Ariba; covers Indcom Invoice **3885** (attached to PO) \u2014 see T94",
+      "item": "Process/ack GE PO **4900668835** (**$29,811.00**) \u2014 **BCL7 scaffolding rental for removing old HVAC units** (Mitch Reese)",
+      "source": "Email / Ariba GE Vernova 2026-10-19 ~8:14am ET (+ Mitch Reese FW ~8:39am, cc Matt Fitts)",
+      "notes": "**Mon ~8:14am ET** Ariba new PO **4900668835** to Indcom (ariba.mail@; Version 1; NET 150; order submitted 8:12am): requester **Reese, James M** (mitch.reese@gevernova.com); **PR849326**; line 1 Part # **3885**, Material, qty 1 EA, **need-by 30 Oct 2026**, $29,811.00; attachment *Invoice_3885 \u2026 Indcom Corp is Onsite.pdf*; GE comment by Reese dated Oct 13. **~8:39am ET Mitch Reese FW** GE \u201cPO has been sent to the supplier\u201d notice to Jeff (cc Matthew Fitts), no added comment. Ties T94 (3885 had no PO)."
+    },
+    {
+      "id": "T203",
+      "status": "open",
+      "priority": "high",
+      "due": "**Need-by Fri Oct 30** \u2014 confirm in Ariba; covers Indcom **3886** \u2014 see T94",
+      "item": "Process/ack GE PO **4900668837** (**$32,455.00**) \u2014 **BCL7 Metco dust collector ductwork install requiring scaffolding** (Mitch Reese)",
+      "source": "Email / Ariba GE Vernova 2026-10-19 ~8:14am ET (+ Mitch Reese FW ~8:38am, cc Matt Fitts)",
+      "notes": "**Mon ~8:14am ET** Ariba new PO **4900668837** to Indcom (Version 1; NET 150): requester **Reese, James M** (mitch.reese@); **PR849333**; line 1 Part # **3886**, Material, qty 1 EA, **need-by 30 Oct 2026**, $32,455.00. **~8:38am ET Mitch Reese FW** \u201cPO sent to supplier\u201d notice to Jeff (cc Matthew Fitts), no added comment. Ties T94 (3886 had no PO)."
+    },
+    {
+      "id": "T204",
+      "status": "open",
+      "priority": "high",
+      "due": "**Need-by Fri Oct 30** \u2014 confirm in Ariba; covers Indcom **3884** \u2014 see T94",
+      "item": "Process/ack GE PO **4900668839** (**$37,734.35**) \u2014 **BCL7 scaffolding install for removing HVAC units from the BCL7 wall area** (Mitch Reese)",
+      "source": "Email / Ariba GE Vernova 2026-10-19 ~8:14am ET (+ Mitch Reese FW ~8:37am)",
+      "notes": "**Mon ~8:14am ET** Ariba new PO **4900668839** to Indcom (Version 1; NET 150): requester **Reese, James M** (mitch.reese@); **PR848415**; line 1 Part # **3884**, Material, qty 1 EA, **need-by 30 Oct 2026**, $37,734.35. **~8:37am ET Mitch Reese FW** \u201cPO sent to supplier\u201d notice to Jeff (no cc, no added comment). Ties T94 (3884 had no PO)."
+    },
+    {
+      "id": "T205",
+      "status": "open",
+      "priority": "high",
+      "due": "**Need-by Mon Oct 19 (TODAY)** \u2014 **order confirmation required before shipping** in Ariba",
+      "item": "Process/confirm GE PO **4200339489** (**$18,895.69**) \u2014 **Pole Fingers for Repairs L2L 90959** (D Bay Pole Fingers, Est 2034)",
+      "source": "Email / Ariba GE Vernova 2026-10-19 ~8:31am ET + Kristen Jackson (GE) ~8:20am / Zachary Kleiner ~8:52am",
+      "notes": "**Mon ~8:31am ET** Ariba new PO **4200339489** to Indcom (submitted 7:00am): line 10, Material, qty 1 EA, **need-by 19 Oct 2026**, $18,895.69, *Pole Fingers for Repairs L2L 90959*; control keys: **Order Confirmation required before shipping**, ship notice + invoice allowed; attachment *4200339489_PO.pdf*. Kristen Jackson ~8:20am: \u201cplease use PO # 4200339489 for the attached quote\u201d (Est 2034); Zachary Kleiner ~8:52am \u201cPO released\u201d. From T141 (Est 2034 \u2192 Heatherly Oct 13; SPC Est 422)."
     }
   ],
   "calendar": [
+    "**Need-by Mon Oct 19 TODAY (NEW \u2014 Ariba Mon ~8:31am; Kleiner released ~8:52am)** \u2014 Confirm GE Ariba PO **4200339489** ($18,895.69; Pole Fingers for Repairs L2L 90959 / Est 2034; order confirmation required before shipping) (T205/T141)",
+    "**Need-by Fri Oct 30 (NEW \u2014 Ariba Mon ~8:14am; Mitch Reese)** \u2014 Ack GE Ariba POs **4900668835** ($29,811.00; BCL7 HVAC-unit removal scaffold rental; #3885), **4900668837** ($32,455.00; BCL7 Metco dust collector ductwork scaffold; #3886), **4900668839** ($37,734.35; BCL7 HVAC-unit removal scaffold install; #3884) (T202/T203/T204; T94)",
     "**Mon Oct 19 \u2192 Thu Oct 22 (NEW \u2014 Zac Ciesielczyk ~7:36am; \u201cwithin 2\u20133 days\u201d; Julia Pulse update Thu 10/22) @ UA / Turbine Assembly build stands** \u2014 Work/deadline **netting / side panels on elevated scaffolding build stands** (GE EHS ATS 14620/14621 read-across) (T198) \u2014 e83 (email only; not on Kat cal)",
     "**Need-by Tue Oct 20 (NEW \u2014 Ariba Mon ~4:26am)** \u2014 Ack GE Ariba PO **4900668714** ($41,962.48; Heatherly; FW36 UA Scaffold Support Aug 31\u2013Sep 6; service sheet required) (T199)",
     "**Sat Nov 14 \u2192 Tue Nov 24 (NEW \u2014 Bob Smith ~9:46am; Kat cal 2 Jeff holds = one) @ GTTL / building-wide** \u2014 Outage **HVAC chilled water shutdown + valve replacement** \u2014 NO HVAC cooling building-wide (incl. test areas); drain Sat\u2013Sun 11/14\u201315; 3 valves/day Mon 11/16\u2013Thu 11/19 + Mon 11/23; final valve + refill/start-up Tue 11/24; starts south end Valve #18; send concerns/conflicts to Bob Smith beforehand (T187) \u2014 e82",
@@ -2428,10 +2466,10 @@
     {
       "id": "e83",
       "type": "deadline",
-      "title": "Deadline: Netting / side panels on elevated scaffolding build stands (GE EHS read-across)",
+      "title": "Deadline: Netting / side panels on elevated scaffolding build stands (GE EHS read-across) \u2014 waiting Zac on panel type",
       "summary": "Mon Oct 19 \u2192 ~Thu Oct 22 \u2014 Zac Ciesielczyk asks Indcom to complete scaffolding build-stand netting/side panels within 2\u20133 days; Julia Filiatreau owes Pulse update Thu 10/22",
       "location": "UA / Turbine Assembly elevated build stands",
-      "description": "Zac Ciesielczyk (GE Turbine Assembly Sr Mfg Eng) Mon Oct 19 ~7:36am ET FW: Read Across \u2013 Build Stand ATS Finding (cc Hudson Brower, Andrew Heatherly, Christine Price): EHS requires netting or side panels on all elevated build stands; scaffolding stands within 2\u20133 days; possible follow-on corrugated-plastic panels on permanent stand railings (GE material). ATS 14620/14621/14623\u201314626. Julia: Jason (Pulse Thu Oct 15) wants gaps closed immediately; update Thu 10/22; discuss at RTA EHS walk Mon. Email only (not on Kat cal). (T198)",
+      "description": "Zac Ciesielczyk (GE Turbine Assembly Sr Mfg Eng) Mon Oct 19 ~7:36am ET FW: Read Across \u2013 Build Stand ATS Finding (cc Hudson Brower, Andrew Heatherly, Christine Price): EHS requires netting or side panels on all elevated build stands; scaffolding stands within 2\u20133 days; possible follow-on corrugated-plastic panels on permanent stand railings (GE material). ATS 14620/14621/14623\u201314626. Julia: Jason (Pulse Thu Oct 15) wants gaps closed immediately; update Thu 10/22; discuss at RTA EHS walk Mon. Email only (not on Kat cal). (T198) UPDATE Mon ~9:02am ET: Jeff offered enclosure-style panels; waiting Zac.",
       "start": "2026-10-19",
       "end": "2026-10-23",
       "allDay": true,
@@ -2439,7 +2477,8 @@
       "relatedTodos": [
         "T198"
       ],
-      "status": "scheduled"
+      "status": "scheduled",
+      "notes": " Mon Oct 19 ~9:02am ET Jeff\u2192Zac (cc Hudson Brower, William Heatherly, Christine Price): \"We can assist with that. Would you like us to install the panels like we have in the enclosures on the scaffold buildstands?\" \u2014 waiting Zac (T198 \u2192 waiting)."
     }
   ]
 }
