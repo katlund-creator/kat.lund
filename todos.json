@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T09:17:48-04:00",
+  "updated": "2026-10-19T10:09:00-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -1427,12 +1427,12 @@
     },
     {
       "id": "T198",
-      "status": "waiting",
+      "status": "open",
       "priority": "high",
-      "due": "**Within 2\u20133 days (~Wed Oct 21\u2013Thu Oct 22)** \u2014 Jeff replied ~9:02am \u201cwe can assist\u201d \u2014 **waiting Zac: panels like the enclosures?** \u2014 Julia owes Pulse update **Thu Oct 22**",
+      "due": "**Within 2\u20133 days (~Wed Oct 21\u2013Thu Oct 22)** \u2014 **Zac ~9:24am asks for examples/pictures** of the enclosure-style panels \u2014 Jeff/Kat to send photos or point to on-site examples \u2014 Julia owes Pulse update **Thu Oct 22**",
       "item": "GE EHS read-across \u2014 install **netting / side panels** on all **elevated scaffolding build stands** (+ help add corrugated-plastic panels to permanent stand railings if Zac\u2019s test works)",
       "source": "Email / Zac Ciesielczyk (GE Vernova) 2026-10-19 ~7:36am ET",
-      "notes": "**Mon ~7:36am ET Zac Ciesielczyk (Turbine Assembly Sr Mfg Eng, 864-395-1243; cc Hudson Brower, Andrew Heatherly, Christine Price)\u2192Jeff, *FW: Read Across \u2013 Build Stand ATS Finding*:** EHS requested **netting or side panels on all elevated build stands**; asks Indcom to get the **scaffolding build stands completed within the next 2\u20133 days**. Zac will test screwing **corrugated plastic** to the **permanent stand railings** (GE provides material) \u2014 if effective, wants Indcom help completing those too. Background (Julia Filiatreau, GE EHS): ATS **14620** scaffolding horizontal stands (continuous toe boards, railing paneling/netting, exclusion zones + signage, housekeeping), **14621** permanent/vertical stands, **14623** Blue Boys, **14624** Pits, **14625/14626** repair stands; Thu Oct 15 Pulse \u2014 Jason wants gaps closed **immediately** with temporary measures; Onsite already installed **mesh netting on H-Bay scaffolding**; Julia Mon ~6:29am asked to discuss on today\u2019s **RTA EHS walk**; update due **Thu 10/22**. Action: scope stand count/material (netting, toe boards), crew + quote/PO path (Heatherly \u2014 cf. T192 DIA buildstand PO), reply Zac. **Mon ~9:02am ET Jeff\u2192Zac (cc Hudson Brower, William Heatherly, Christine Price):** \u201cWe can assist with that. Would you like us to install the panels like we have in the enclosures on the scaffold buildstands?\u201d \u2014 waiting Zac\u2019s answer on panel type before scheduling."
+      "notes": "**Mon ~7:36am ET Zac Ciesielczyk (Turbine Assembly Sr Mfg Eng, 864-395-1243; cc Hudson Brower, Andrew Heatherly, Christine Price)\u2192Jeff, *FW: Read Across \u2013 Build Stand ATS Finding*:** EHS requested **netting or side panels on all elevated build stands**; asks Indcom to get the **scaffolding build stands completed within the next 2\u20133 days**. Zac will test screwing **corrugated plastic** to the **permanent stand railings** (GE provides material) \u2014 if effective, wants Indcom help completing those too. Background (Julia Filiatreau, GE EHS): ATS **14620** scaffolding horizontal stands (continuous toe boards, railing paneling/netting, exclusion zones + signage, housekeeping), **14621** permanent/vertical stands, **14623** Blue Boys, **14624** Pits, **14625/14626** repair stands; Thu Oct 15 Pulse \u2014 Jason wants gaps closed **immediately** with temporary measures; Onsite already installed **mesh netting on H-Bay scaffolding**; Julia Mon ~6:29am asked to discuss on today\u2019s **RTA EHS walk**; update due **Thu 10/22**. Action: scope stand count/material (netting, toe boards), crew + quote/PO path (Heatherly \u2014 cf. T192 DIA buildstand PO), reply Zac. **Mon ~9:02am ET Jeff\u2192Zac (cc Hudson Brower, William Heatherly, Christine Price):** \u201cWe can assist with that. Would you like us to install the panels like we have in the enclosures on the scaffold buildstands?\u201d \u2014 waiting Zac\u2019s answer on panel type before scheduling. **Mon ~9:24am ET Zac Ciesielczyk\u2192Jeff (RE: Read Across \u2013 Build Stand ATS Finding):** \u201cDo you have any examples on site or pictures already so I can better understand?\u201d \u2192 **T198 waiting \u2192 open** \u2014 send Zac photos / on-site locations of the enclosure panels on scaffold build stands."
     },
     {
       "id": "T199",
@@ -1495,13 +1495,22 @@
       "due": "**Need-by Mon Oct 19 (TODAY)** \u2014 **order confirmation required before shipping** in Ariba",
       "item": "Process/confirm GE PO **4200339489** (**$18,895.69**) \u2014 **Pole Fingers for Repairs L2L 90959** (D Bay Pole Fingers, Est 2034)",
       "source": "Email / Ariba GE Vernova 2026-10-19 ~8:31am ET + Kristen Jackson (GE) ~8:20am / Zachary Kleiner ~8:52am",
-      "notes": "**Mon ~8:31am ET** Ariba new PO **4200339489** to Indcom (submitted 7:00am): line 10, Material, qty 1 EA, **need-by 19 Oct 2026**, $18,895.69, *Pole Fingers for Repairs L2L 90959*; control keys: **Order Confirmation required before shipping**, ship notice + invoice allowed; attachment *4200339489_PO.pdf*. Kristen Jackson ~8:20am: \u201cplease use PO # 4200339489 for the attached quote\u201d (Est 2034); Zachary Kleiner ~8:52am \u201cPO released\u201d. From T141 (Est 2034 \u2192 Heatherly Oct 13; SPC Est 422)."
+      "notes": "**Mon ~8:31am ET** Ariba new PO **4200339489** to Indcom (submitted 7:00am): line 10, Material, qty 1 EA, **need-by 19 Oct 2026**, $18,895.69, *Pole Fingers for Repairs L2L 90959*; control keys: **Order Confirmation required before shipping**, ship notice + invoice allowed; attachment *4200339489_PO.pdf*. Kristen Jackson ~8:20am: \u201cplease use PO # 4200339489 for the attached quote\u201d (Est 2034); Zachary Kleiner ~8:52am \u201cPO released\u201d. From T141 (Est 2034 \u2192 Heatherly Oct 13; SPC Est 422). **Mon ~10:00am ET Jeff\u2192Zachary Kleiner (Re: NEW PO Estimate 2034 \u2013 D Bay Pole Fingers):** \u201cThank you we will get these ordered.\u201d \u2192 still need Ariba order confirmation + place pole-finger order (SPC Est 422). (Veronica Kyle auto-reply: OOO Oct 14\u201320; MRO.Buyers@gevernova.com for urgent.)"
+    },
+    {
+      "id": "T206",
+      "status": "open",
+      "priority": "med",
+      "due": "ASAP \u2014 review/route",
+      "item": "Review SPC **Estimate 424** \u2014 **L bay hangman posts** (Evan Groce)",
+      "source": "Email / Evan Groce (SPC, fabricationspc@gmail.com) 2026-10-19 ~9:55am ET",
+      "notes": "**Mon ~9:55am ET Evan\u2192Jeff**, subject *L bay hangman posts*: \u201cPlease see attached quote, thanks!\u201d \u2014 PDF **Estimate_424_2026-10-19.pdf** (amount not in email body; PDF not opened). Review, then build/send GE quotation (same path as SPC Est 422 \u2192 QB Est 2034 / T141)."
     }
   ],
   "calendar": [
     "**Need-by Mon Oct 19 TODAY (NEW \u2014 Ariba Mon ~8:31am; Kleiner released ~8:52am)** \u2014 Confirm GE Ariba PO **4200339489** ($18,895.69; Pole Fingers for Repairs L2L 90959 / Est 2034; order confirmation required before shipping) (T205/T141)",
     "**Need-by Fri Oct 30 (NEW \u2014 Ariba Mon ~8:14am; Mitch Reese)** \u2014 Ack GE Ariba POs **4900668835** ($29,811.00; BCL7 HVAC-unit removal scaffold rental; #3885), **4900668837** ($32,455.00; BCL7 Metco dust collector ductwork scaffold; #3886), **4900668839** ($37,734.35; BCL7 HVAC-unit removal scaffold install; #3884) (T202/T203/T204; T94)",
-    "**Mon Oct 19 \u2192 Thu Oct 22 (NEW \u2014 Zac Ciesielczyk ~7:36am; \u201cwithin 2\u20133 days\u201d; Julia Pulse update Thu 10/22) @ UA / Turbine Assembly build stands** \u2014 Work/deadline **netting / side panels on elevated scaffolding build stands** (GE EHS ATS 14620/14621 read-across) (T198) \u2014 e83 (email only; not on Kat cal)",
+    "**Mon Oct 19 \u2192 Thu Oct 22 (NEW \u2014 Zac Ciesielczyk ~7:36am; \u201cwithin 2\u20133 days\u201d; Julia Pulse update Thu 10/22) @ UA / Turbine Assembly build stands** \u2014 Work/deadline **netting / side panels on elevated scaffolding build stands** (GE EHS ATS 14620/14621 read-across) (T198; Zac ~9:24am wants photos/examples of enclosure panels) \u2014 e83 (email only; not on Kat cal)",
     "**Need-by Tue Oct 20 (NEW \u2014 Ariba Mon ~4:26am)** \u2014 Ack GE Ariba PO **4900668714** ($41,962.48; Heatherly; FW36 UA Scaffold Support Aug 31\u2013Sep 6; service sheet required) (T199)",
     "**Sat Nov 14 \u2192 Tue Nov 24 (NEW \u2014 Bob Smith ~9:46am; Kat cal 2 Jeff holds = one) @ GTTL / building-wide** \u2014 Outage **HVAC chilled water shutdown + valve replacement** \u2014 NO HVAC cooling building-wide (incl. test areas); drain Sat\u2013Sun 11/14\u201315; 3 valves/day Mon 11/16\u2013Thu 11/19 + Mon 11/23; final valve + refill/start-up Tue 11/24; starts south end Valve #18; send concerns/conflicts to Bob Smith beforehand (T187) \u2014 e82",
     "**PASSED Sun Oct 18 2:00\u20133:00pm ET @ 17 International Ct (Bill updated invite Sat ~4:56pm ET)** \u2014 Meeting **Indcom Corp Family Meeting 2** (Bill, Kat, Jeff) (T186 closed) \u2014 e81",
@@ -2466,10 +2475,10 @@
     {
       "id": "e83",
       "type": "deadline",
-      "title": "Deadline: Netting / side panels on elevated scaffolding build stands (GE EHS read-across) \u2014 waiting Zac on panel type",
+      "title": "Deadline: Netting / side panels on elevated scaffolding build stands (GE EHS read-across) \u2014 Zac wants photos/examples",
       "summary": "Mon Oct 19 \u2192 ~Thu Oct 22 \u2014 Zac Ciesielczyk asks Indcom to complete scaffolding build-stand netting/side panels within 2\u20133 days; Julia Filiatreau owes Pulse update Thu 10/22",
       "location": "UA / Turbine Assembly elevated build stands",
-      "description": "Zac Ciesielczyk (GE Turbine Assembly Sr Mfg Eng) Mon Oct 19 ~7:36am ET FW: Read Across \u2013 Build Stand ATS Finding (cc Hudson Brower, Andrew Heatherly, Christine Price): EHS requires netting or side panels on all elevated build stands; scaffolding stands within 2\u20133 days; possible follow-on corrugated-plastic panels on permanent stand railings (GE material). ATS 14620/14621/14623\u201314626. Julia: Jason (Pulse Thu Oct 15) wants gaps closed immediately; update Thu 10/22; discuss at RTA EHS walk Mon. Email only (not on Kat cal). (T198) UPDATE Mon ~9:02am ET: Jeff offered enclosure-style panels; waiting Zac.",
+      "description": "Zac Ciesielczyk (GE Turbine Assembly Sr Mfg Eng) Mon Oct 19 ~7:36am ET FW: Read Across \u2013 Build Stand ATS Finding (cc Hudson Brower, Andrew Heatherly, Christine Price): EHS requires netting or side panels on all elevated build stands; scaffolding stands within 2\u20133 days; possible follow-on corrugated-plastic panels on permanent stand railings (GE material). ATS 14620/14621/14623\u201314626. Julia: Jason (Pulse Thu Oct 15) wants gaps closed immediately; update Thu 10/22; discuss at RTA EHS walk Mon. Email only (not on Kat cal). (T198) UPDATE Mon ~9:02am ET: Jeff offered enclosure-style panels; waiting Zac. UPDATE Mon ~9:24am ET: Zac asked for examples on site or pictures of the enclosure-style panels.",
       "start": "2026-10-19",
       "end": "2026-10-23",
       "allDay": true,
@@ -2478,7 +2487,7 @@
         "T198"
       ],
       "status": "scheduled",
-      "notes": " Mon Oct 19 ~9:02am ET Jeff\u2192Zac (cc Hudson Brower, William Heatherly, Christine Price): \"We can assist with that. Would you like us to install the panels like we have in the enclosures on the scaffold buildstands?\" \u2014 waiting Zac (T198 \u2192 waiting)."
+      "notes": " Mon Oct 19 ~9:02am ET Jeff\u2192Zac (cc Hudson Brower, William Heatherly, Christine Price): \"We can assist with that. Would you like us to install the panels like we have in the enclosures on the scaffold buildstands?\" \u2014 waiting Zac (T198 \u2192 waiting). Mon Oct 19 ~9:24am ET Zac\u2192Jeff: \"Do you have any examples on site or pictures already so I can better understand?\" (T198 \u2192 open)."
     }
   ]
 }
