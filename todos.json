@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T15:06:00-04:00",
+  "updated": "2026-10-19T17:13:36-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -1523,6 +1523,15 @@
       "item": "Update the chart in Julia\u2019s slide (*rack inspection table.pptx*) with **counts of each color (RED/YELLOW/GREEN) and their status** for the rack-repair findings",
       "source": "Email / Julia Filiatreau (GE EHS) 2026-10-19 ~1:17pm ET",
       "notes": "**Mon ~1:17pm ET Julia Filiatreau\u2192Jeff + Brian Hill (cc Katheryn), RE: updating metrics for rack repairs:** thanks for the 10-18-26 PDF (\u201cvery helpful\u201d); asks to **update the chart in the attached slide** (*rack inspection table.pptx*) **with #s on how many of each color we have and the status** \u2014 \u201cthe level of detail that **Jason and Rebecca** will be looking for **this Thursday**.\u201d Jeff\u2019s 7:45am email had left the Pending / In Progress / Complete percentages blank. Counts come from the same 178-finding status work (**T172**); rack program **T20**."
+    },
+    {
+      "id": "T209",
+      "status": "waiting",
+      "priority": "med",
+      "due": "waiting Strong Man quote",
+      "item": "Custom Indcom debris netting \u2014 quote + next steps to order (Strong Man)",
+      "source": "Email / Katheryn \u2192 Orders@strongman.com (cc Bill Marchbanks, Jeff) 2026-10-19 ~4:50pm ET",
+      "notes": "**Mon ~4:50pm ET Kat\u2192Strong Man**, subject *Custom Debris Netting - Indcom Corp / Onsite*: requested quote + next steps for custom debris netting for scaffolding (typically **4' 4\" height**); attached mockup *FINAL DESIGN FOR DEBRI NETTING.pdf*. Waiting on Strong Man reply."
     }
   ],
   "calendar": [
