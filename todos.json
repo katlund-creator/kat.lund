@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T16:12:34-04:00",
+  "updated": "2026-10-20T17:08:19-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -1519,10 +1519,10 @@
       "id": "T208",
       "status": "open",
       "priority": "high",
-      "due": "**Before Thu Oct 22 Pulse** (Julia briefs Jason + Rebecca) \u2014 ideally with the T172 spreadsheet today",
+      "due": "**KAT \u2014 confirm figures Wed Oct 21 + send updated count before Thu Oct 22 Pulse** (Julia briefs Jason + Rebecca)",
       "item": "Update the chart in Julia\u2019s slide (*rack inspection table.pptx*) with **counts of each color (RED/YELLOW/GREEN) and their status** for the rack-repair findings",
       "source": "Email / Julia Filiatreau (GE EHS) 2026-10-19 ~1:17pm ET",
-      "notes": "**Mon ~1:17pm ET Julia Filiatreau\u2192Jeff + Brian Hill (cc Katheryn), RE: updating metrics for rack repairs:** thanks for the 10-18-26 PDF (\u201cvery helpful\u201d); asks to **update the chart in the attached slide** (*rack inspection table.pptx*) **with #s on how many of each color we have and the status** \u2014 \u201cthe level of detail that **Jason and Rebecca** will be looking for **this Thursday**.\u201d Jeff\u2019s 7:45am email had left the Pending / In Progress / Complete percentages blank. Counts come from the same 178-finding status work (**T172**); rack program **T20**. **Mon ~5:17pm ET:** Kat shared the editable Pallet Rack chart/map with Michael Smith (see T172) \u2014 counts per color + status still owed to Julia before Thu Oct 22 Pulse."
+      "notes": "**Mon ~1:17pm ET Julia Filiatreau\u2192Jeff + Brian Hill (cc Katheryn), RE: updating metrics for rack repairs:** thanks for the 10-18-26 PDF (\u201cvery helpful\u201d); asks to **update the chart in the attached slide** (*rack inspection table.pptx*) **with #s on how many of each color we have and the status** \u2014 \u201cthe level of detail that **Jason and Rebecca** will be looking for **this Thursday**.\u201d Jeff\u2019s 7:45am email had left the Pending / In Progress / Complete percentages blank. Counts come from the same 178-finding status work (**T172**); rack program **T20**. **Mon ~5:17pm ET:** Kat shared the editable Pallet Rack chart/map with Michael Smith (see T172) \u2014 counts per color + status still owed to Julia before Thu Oct 22 Pulse. **Mon ~6:29pm ET Kat\u2192Julia (cc Jeff, Brian Hill):** sent updated chart; promised another update before Thu. **Mon ~8:01pm ET Julia follow-ups:** (1) the **2 pending top-priority red** items \u2014 which findings/where, unsafe now or unloaded awaiting material? (2) timing / furthest-out completion for the **20 pending red**; (3) timing / furthest-out completion for the **84 pending yellow**. **Tue ~1:05am ET Kat:** checking with pallet rack crew. **Tue Oct 20 ~4:38pm ET Kat\u2192Julia (cc Jeff, Brian Hill):** crew lead gave updated progress numbers (work Wed\u2192today) + answered some questions, working with his manager on the rest; Kat will **confirm figures tomorrow (Wed Oct 21)** and send the updated count in time for Thursday's meeting. Still owed: confirmed counts + remaining answers (timing for red/yellow)."
     },
     {
       "id": "T209",
