@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T12:08:12-04:00",
+  "updated": "2026-10-20T13:08:55-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -100,7 +100,7 @@
       "due": "**Allied starts BSA TODAY Mon Oct 19** \u2014 still no reply to Gloria in mail (concurrent w/ fire suppression); raised floor T195 + joint review T178 still pending",
       "item": "Review BSA office Allied Modular final drawings + update RFQ",
       "source": "Email / Gloria + Docs share 2026-09-18/21",
-      "notes": "Final dwgs QH-11013-1/2 to Alex Leppard (cc Jeff) \u2014 sign and return ASAP so Allied can ship extras. Jeff\u2192Katheryn: confirm eng changes + update RFQ. **Mon ~10:54am ET:** Katheryn shared Google Doc *BSA Office \u2014 Trade RFQ Package (Rev B)* (Electrical/Data/Fire Suppression) with Jeff for edit. **Thu Oct 15 ~8:13am ET Gloria Pedroza (Allied Modular Sr PM)\u2192Jeff, *Fw: BSA 18034*:** Allied is **starting BSA on Mon 10-19-26**; tight schedule \u2014 asks whether they can **work at the same time while Indcom does the Fire Suppression etc.** (\u201cmy only concern\u201d). Attached drawings **QH-12515-1 1.pdf** + **QH-12515-2 1.pdf**. Jeff needs to answer/coordinate trade sequencing (fire suppression/electrical/data \u2014 see Rev B RFQ; T42/T50/T111). **Weekend \u2192 Mon ~8:10am ET:** no Allied/Gloria, Alex Leppard (T195) or SCI/DPP joint-review (T178) mail over the weekend. DPP finished the RP-10 cabinet relocation (Invoice 4717 Mon ~5:44am, T200) ahead of Allied start."
+      "notes": "Final dwgs QH-11013-1/2 to Alex Leppard (cc Jeff) \u2014 sign and return ASAP so Allied can ship extras. Jeff\u2192Katheryn: confirm eng changes + update RFQ. **Mon ~10:54am ET:** Katheryn shared Google Doc *BSA Office \u2014 Trade RFQ Package (Rev B)* (Electrical/Data/Fire Suppression) with Jeff for edit. **Thu Oct 15 ~8:13am ET Gloria Pedroza (Allied Modular Sr PM)\u2192Jeff, *Fw: BSA 18034*:** Allied is **starting BSA on Mon 10-19-26**; tight schedule \u2014 asks whether they can **work at the same time while Indcom does the Fire Suppression etc.** (\u201cmy only concern\u201d). Attached drawings **QH-12515-1 1.pdf** + **QH-12515-2 1.pdf**. Jeff needs to answer/coordinate trade sequencing (fire suppression/electrical/data \u2014 see Rev B RFQ; T42/T50/T111). **Weekend \u2192 Mon ~8:10am ET:** no Allied/Gloria, Alex Leppard (T195) or SCI/DPP joint-review (T178) mail over the weekend. DPP finished the RP-10 cabinet relocation (Invoice 4717 Mon ~5:44am, T200) ahead of Allied start. **Tue Oct 20 ~1:06pm ET Jeff\u2192Jon Roper (GE), *BSA Office Layout*:** \u201cWhat I have from Allied\u201d \u2014 attached **QH-11013-1.pdf** + **QH-11013-2.pdf**. Still no Gloria reply in mail; joint review T178 + raised floor T195 pending."
     },
     {
       "id": "T14",
@@ -1184,12 +1184,12 @@
     },
     {
       "id": "T165",
-      "status": "open",
+      "status": "waiting",
       "priority": "med",
-      "due": "ASAP / this week \u2014 review & route to customer (Alex Acosta / KMB)",
+      "due": "**Est 2035 sent Tue Oct 20** \u2014 waiting Alex Acosta approval/PO",
       "item": "Review/route DPP Joist estimate \u2014 KMB Projects (Alex Acosta)",
       "source": "Email / Jason Marchbanks (DPP) 2026-10-13 ~4:28pm ET",
-      "notes": "Jason sent Joist estimate for **KMB Projects - Alex Acosta** (cc Bill + Kat): https://client.joistapp.com/estimates/8a7cabed3c1bb9cfc56cf927. Jeff/Kat: open Joist, confirm scope/amount, fold into customer proposal / next step with Alex Acosta."
+      "notes": "Jason sent Joist estimate for **KMB Projects - Alex Acosta** (cc Bill + Kat): https://client.joistapp.com/estimates/8a7cabed3c1bb9cfc56cf927. Jeff/Kat: open Joist, confirm scope/amount, fold into customer proposal / next step with Alex Acosta. **Tue Oct 20 ~12:44pm ET QuickBooks Estimate 2035 *KMB Electrical Repairs* $13,866.06** sent to Alex Acosta (GE; cc mail@, Kat, jeff@). Now waiting Alex approval / GE PO."
     },
     {
       "id": "T166",
