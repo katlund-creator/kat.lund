@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T08:11:19-04:00",
+  "updated": "2026-10-21T10:12:41-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -842,12 +842,12 @@
     },
     {
       "id": "T118",
-      "status": "open",
+      "status": "waiting",
       "priority": "med",
-      "due": "ASAP \u2014 before payroll (onboarding DONE Thu ~3:28pm)",
+      "due": "verify retro pay on Fri Oct 23 payroll",
       "item": "OpSource new hire \u2014 Daniel Ramirez: wait for onboarding, then give start date + pay rate",
       "source": "Email / Jeff\u2192Julie Solesbee + Yesenia Portes reply 2026-10-06 ~2:04\u20132:07pm ET",
-      "notes": "**Tue ~2:04pm ET Jeff\u2192Julie (OpSource):** send new-hire link for **Daniel Ramirez** (Alex7daniel@gmail.com, 504-385-7044). **~2:07pm ET Yesenia:** will do; will notify Jeff once he completes OpSource onboarding. Next: Jeff owes **start date + pay rate** once onboarded (same pattern as Chaz Kieff T78). **Thu Oct 8 ~3:28pm ET Yesenia Portes (OpSource):** **Daniel Ramirez completed OpSource onboarding** \u2014 all set to start; **send his pay rate before payroll**. Jeff owes pay rate (+ start date). **Fri Oct 9 ~8:27pm ET Jeff\u2192Yesenia (cc Julie, Lisa, Jose, Katheryn, Bill, Drew):** \u201cThank you. I will let you know.\u201d \u2014 pay rate still owed before payroll."
+      "notes": "**Tue ~2:04pm ET Jeff\u2192Julie (OpSource):** send new-hire link for **Daniel Ramirez** (Alex7daniel@gmail.com, 504-385-7044). **~2:07pm ET Yesenia:** will do; will notify Jeff once he completes OpSource onboarding. Next: Jeff owes **start date + pay rate** once onboarded (same pattern as Chaz Kieff T78). **Thu Oct 8 ~3:28pm ET Yesenia Portes (OpSource):** **Daniel Ramirez completed OpSource onboarding** \u2014 all set to start; **send his pay rate before payroll**. Jeff owes pay rate (+ start date). **Fri Oct 9 ~8:27pm ET Jeff\u2192Yesenia (cc Julie, Lisa, Jose, Katheryn, Bill, Drew):** \u201cThank you. I will let you know.\u201d \u2014 pay rate still owed before payroll. **Wed Oct 21 ~10:04am ET Jeff\u2192Lisa Stafford (OpSource), Re: INDCOM TIME 10/12\u201310/18:** Daniel Ramirez's paystub shows **$20/hr** but his rate is **$28/hr** \u2014 asked them to fix. **~10:11am ET Julie Solesbee (OpSource):** apologies, note was missed; will process a **retro payment for the difference this Friday 10/23** and update his assignment to $28. \u2192 confirm on Fri Oct 23 payroll."
     },
     {
       "id": "T119",
@@ -1576,7 +1576,7 @@
       "due": "**Jeff replied Tue ~6:52pm \u2014 work started; Meltric extension reels due by Fri Oct 23** \u2192 finish hook-up when reels land",
       "item": "**220V power hook-up for 2 build stands** \u2014 Andrew Heatherly (GE ME Turbine Assembly) asks how soon Indcom can start (Jeff already gave him cost numbers for the 2 stands)",
       "source": "Email / Andrew (William) Heatherly (GE Vernova) 2026-10-20 ~2:40pm ET",
-      "notes": "**Tue ~2:40pm ET Andrew Heatherly\u2192Jeff** (cc Zachary Ciesielczyk, Hudson Brower), *220 Power for Stands*: \u201cI know you gave me numbers for the cost of the 2 stands for adding this power hook up. **How soon can work be started** and **what can myself or the ME team do to assist?**\u201d Andrew tel 864-252-5624. Jeff to reply with start date / scheduling (DPP electrical) + any GE ME prep needed; confirm whether a PO is coming. Likely ties **T10** (ITH power reels DQA + DIA stands), **T66** (ITH pumps D-Bay power) and **T99** (DIA 220 pump reel mount / DPP quote). **Tue Oct 20 ~6:52pm ET Jeff\u2192Andrew (cc Zac Ciesielczyk, Hudson Brower), Re: 220 Power for Stands:** \u201c**Work has started.** Conduit from the panels to the columns at the center of the back of each stand is in place. Awaiting the arrival of the **Meltric extension reels** \u2014 should be in **by Friday** (Oct 23).\u201d \u2192 waiting on reels, then complete hook-up."
+      "notes": "**Tue ~2:40pm ET Andrew Heatherly\u2192Jeff** (cc Zachary Ciesielczyk, Hudson Brower), *220 Power for Stands*: \u201cI know you gave me numbers for the cost of the 2 stands for adding this power hook up. **How soon can work be started** and **what can myself or the ME team do to assist?**\u201d Andrew tel 864-252-5624. Jeff to reply with start date / scheduling (DPP electrical) + any GE ME prep needed; confirm whether a PO is coming. Likely ties **T10** (ITH power reels DQA + DIA stands), **T66** (ITH pumps D-Bay power) and **T99** (DIA 220 pump reel mount / DPP quote). **Tue Oct 20 ~6:52pm ET Jeff\u2192Andrew (cc Zac Ciesielczyk, Hudson Brower), Re: 220 Power for Stands:** \u201c**Work has started.** Conduit from the panels to the columns at the center of the back of each stand is in place. Awaiting the arrival of the **Meltric extension reels** \u2014 should be in **by Friday** (Oct 23).\u201d \u2192 waiting on reels, then complete hook-up. **Wed Oct 21 ~9:18am ET Andrew Heatherly:** thanks for the update (ack)."
     },
     {
       "id": "T217",
@@ -1604,6 +1604,24 @@
       "item": "Review DPP **estimate \u2014 BSA Office Data Raceway & Power Distribution**",
       "source": "Email / Jason Marchbanks (DPP) 2026-10-21 ~6:12am ET",
       "notes": "**Wed ~6:12am ET Jason\u2192Jeff** (cc Bill, Katheryn), *BSA Office - Data Raceway & Power Distribution*: Joist estimate https://client.joistapp.com/estimates/984768d1d80673d0692c3a74 (amount not in body). DPP electrical/raceway pricing for the BSA office install \u2014 ties **T178** (joint data & electrical scope review w/ SCI Mike Mullaney), **T13** (Allied BSA install started Mon Oct 19; Rev B trade RFQ), BSA PO **4900661869** (T111). Review vs SCI data scope, approve/route, fold into GE BSA quote/CO."
+    },
+    {
+      "id": "T220",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP \u2014 reply with site-walk time",
+      "item": "**Quote scaffolding around the unit behind the GTOS** (2-month rental) for Tom Mogle + schedule site walk",
+      "source": "Email / Tom Mogle (GE Vernova, Outage Tooling TL) 2026-10-21 ~9:23am ET",
+      "notes": "**Wed ~9:23am ET Tom Mogle\u2192Jeff + Bill** (cc Sophie Campbell, Naza Isaac): wants a quote to put up scaffolding **around the unit behind the GTOS**, needed **2 months**; asks when Jeff is free to **walk the site** to determine what's needed. Tom 864-430-0308. \u2192 Jeff to propose walk time, then scope + quote (28-day rental minimums apply)."
+    },
+    {
+      "id": "T221",
+      "status": "open",
+      "priority": "low",
+      "due": "route to AP",
+      "item": "Distribution International **receipt** (Will Roach) \u2014 attach/route to AP",
+      "source": "Email / Will Roach (Distribution International) 2026-10-21 ~9:59am ET",
+      "notes": "**Wed ~9:59am ET Will Roach (Outside Sales, Distribution International Greenville)\u2192Jeff:** \u201cSee attached\u201d receipt (attachment not opened; amount unknown). Route to AP / match to purchase."
     }
   ],
   "calendar": [
