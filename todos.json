@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T11:13:22-04:00",
+  "updated": "2026-10-21T12:09:34-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -847,7 +847,7 @@
       "due": "verify retro pay on Fri Oct 23 payroll",
       "item": "OpSource new hire \u2014 Daniel Ramirez: wait for onboarding, then give start date + pay rate",
       "source": "Email / Jeff\u2192Julie Solesbee + Yesenia Portes reply 2026-10-06 ~2:04\u20132:07pm ET",
-      "notes": "**Tue ~2:04pm ET Jeff\u2192Julie (OpSource):** send new-hire link for **Daniel Ramirez** (Alex7daniel@gmail.com, 504-385-7044). **~2:07pm ET Yesenia:** will do; will notify Jeff once he completes OpSource onboarding. Next: Jeff owes **start date + pay rate** once onboarded (same pattern as Chaz Kieff T78). **Thu Oct 8 ~3:28pm ET Yesenia Portes (OpSource):** **Daniel Ramirez completed OpSource onboarding** \u2014 all set to start; **send his pay rate before payroll**. Jeff owes pay rate (+ start date). **Fri Oct 9 ~8:27pm ET Jeff\u2192Yesenia (cc Julie, Lisa, Jose, Katheryn, Bill, Drew):** \u201cThank you. I will let you know.\u201d \u2014 pay rate still owed before payroll. **Wed Oct 21 ~10:04am ET Jeff\u2192Lisa Stafford (OpSource), Re: INDCOM TIME 10/12\u201310/18:** Daniel Ramirez's paystub shows **$20/hr** but his rate is **$28/hr** \u2014 asked them to fix. **~10:11am ET Julie Solesbee (OpSource):** apologies, note was missed; will process a **retro payment for the difference this Friday 10/23** and update his assignment to $28. \u2192 confirm on Fri Oct 23 payroll. **Wed Oct 21 ~10:14am ET Julie Solesbee (OpSource):** reviewed \u2014 his **travel hours are correct**; they'll add the **RT & OT retro**. Verify on Fri Oct 23 pay."
+      "notes": "**Tue ~2:04pm ET Jeff\u2192Julie (OpSource):** send new-hire link for **Daniel Ramirez** (Alex7daniel@gmail.com, 504-385-7044). **~2:07pm ET Yesenia:** will do; will notify Jeff once he completes OpSource onboarding. Next: Jeff owes **start date + pay rate** once onboarded (same pattern as Chaz Kieff T78). **Thu Oct 8 ~3:28pm ET Yesenia Portes (OpSource):** **Daniel Ramirez completed OpSource onboarding** \u2014 all set to start; **send his pay rate before payroll**. Jeff owes pay rate (+ start date). **Fri Oct 9 ~8:27pm ET Jeff\u2192Yesenia (cc Julie, Lisa, Jose, Katheryn, Bill, Drew):** \u201cThank you. I will let you know.\u201d \u2014 pay rate still owed before payroll. **Wed Oct 21 ~10:04am ET Jeff\u2192Lisa Stafford (OpSource), Re: INDCOM TIME 10/12\u201310/18:** Daniel Ramirez's paystub shows **$20/hr** but his rate is **$28/hr** \u2014 asked them to fix. **~10:11am ET Julie Solesbee (OpSource):** apologies, note was missed; will process a **retro payment for the difference this Friday 10/23** and update his assignment to $28. \u2192 confirm on Fri Oct 23 payroll. **Wed Oct 21 ~10:14am ET Julie Solesbee (OpSource):** reviewed \u2014 his **travel hours are correct**; they'll add the **RT & OT retro**. Verify on Fri Oct 23 pay. **Wed Oct 21 ~11:25am\u201312:00pm ET Jeff\u2194Julie Solesbee (OpSource):** Jeff asked Daniel's per diem be set to **$125/day** (week total should have been **$875**, not $700); Julie ~11:52am: will **add $125 per diem** with the retro pay (Fri 10/23). **~12:00pm Jeff:** please change **Chaz** per diem as well \u2014 $125/day ($875). Waiting Julie confirm on Chaz."
     },
     {
       "id": "T119",
@@ -1631,6 +1631,15 @@
       "item": "**MEA crane outage \u2014 Cranes 700055 & 700056 powered down** for GE construction project; plan around any Indcom MEA lifts/scaffold work",
       "source": "Email / Paul Madak (GE Vernova) 2026-10-21 ~10:23am + ~10:25am ET",
       "notes": "**Wed ~10:23am ET Paul Madak\u2192Jeff** (+ Kevin Fitzgerald, Matthew Orders, Anthony Matti, Brendan Baganski, Joseph Buellesbach, Tres Orr, Nasheka Lee), *Crane outage MEA* (invite) and **~10:25am** *MEA Crane outage* (second invite w/ Teams link): \u201cCranes 700055 and 700056 will be powered down for construction project.\u201d Kat cal (Jeff holds): **12:00\u20138:00pm ET Wed Oct 21** (2 dup holds = one) and **10:00pm Wed\u20136:00am Thu Oct 22**. Second invite may be a reschedule of the first \u2014 confirm which window(s) apply if Indcom needs MEA cranes."
+    },
+    {
+      "id": "T223",
+      "status": "open",
+      "priority": "med",
+      "due": "review + route (ties T178/T219 BSA joint data/electrical review)",
+      "item": "Review **SCI Electronics quote \u2014 GE BSA New Office data** (network connections)",
+      "source": "Email / Mike Mullaney (SCI) 2026-10-21 ~12:00pm ET",
+      "notes": "**Wed ~12:00pm ET Mike Mullaney (SCI, Account Manager)\u2192Jeff (cc Katheryn)**, *SCI GE BSA Office Data Quote*: attached *13312610584- Indcom GE BSA New Office 10-21-26.pdf* \u2014 prices split into **office data**, **repull of cables for the CP and IE4K**, and **floor boxes**; also included a drawing of other CPs/IE4Ks in the area if space runs out. Amount not in email body. Review vs DPP raceway/power estimate (T219) + raised-floor/floor-box plan (T195) and route into customer quote path."
     }
   ],
   "calendar": [
