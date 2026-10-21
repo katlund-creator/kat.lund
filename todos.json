@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T10:12:41-04:00",
+  "updated": "2026-10-21T11:13:22-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -847,7 +847,7 @@
       "due": "verify retro pay on Fri Oct 23 payroll",
       "item": "OpSource new hire \u2014 Daniel Ramirez: wait for onboarding, then give start date + pay rate",
       "source": "Email / Jeff\u2192Julie Solesbee + Yesenia Portes reply 2026-10-06 ~2:04\u20132:07pm ET",
-      "notes": "**Tue ~2:04pm ET Jeff\u2192Julie (OpSource):** send new-hire link for **Daniel Ramirez** (Alex7daniel@gmail.com, 504-385-7044). **~2:07pm ET Yesenia:** will do; will notify Jeff once he completes OpSource onboarding. Next: Jeff owes **start date + pay rate** once onboarded (same pattern as Chaz Kieff T78). **Thu Oct 8 ~3:28pm ET Yesenia Portes (OpSource):** **Daniel Ramirez completed OpSource onboarding** \u2014 all set to start; **send his pay rate before payroll**. Jeff owes pay rate (+ start date). **Fri Oct 9 ~8:27pm ET Jeff\u2192Yesenia (cc Julie, Lisa, Jose, Katheryn, Bill, Drew):** \u201cThank you. I will let you know.\u201d \u2014 pay rate still owed before payroll. **Wed Oct 21 ~10:04am ET Jeff\u2192Lisa Stafford (OpSource), Re: INDCOM TIME 10/12\u201310/18:** Daniel Ramirez's paystub shows **$20/hr** but his rate is **$28/hr** \u2014 asked them to fix. **~10:11am ET Julie Solesbee (OpSource):** apologies, note was missed; will process a **retro payment for the difference this Friday 10/23** and update his assignment to $28. \u2192 confirm on Fri Oct 23 payroll."
+      "notes": "**Tue ~2:04pm ET Jeff\u2192Julie (OpSource):** send new-hire link for **Daniel Ramirez** (Alex7daniel@gmail.com, 504-385-7044). **~2:07pm ET Yesenia:** will do; will notify Jeff once he completes OpSource onboarding. Next: Jeff owes **start date + pay rate** once onboarded (same pattern as Chaz Kieff T78). **Thu Oct 8 ~3:28pm ET Yesenia Portes (OpSource):** **Daniel Ramirez completed OpSource onboarding** \u2014 all set to start; **send his pay rate before payroll**. Jeff owes pay rate (+ start date). **Fri Oct 9 ~8:27pm ET Jeff\u2192Yesenia (cc Julie, Lisa, Jose, Katheryn, Bill, Drew):** \u201cThank you. I will let you know.\u201d \u2014 pay rate still owed before payroll. **Wed Oct 21 ~10:04am ET Jeff\u2192Lisa Stafford (OpSource), Re: INDCOM TIME 10/12\u201310/18:** Daniel Ramirez's paystub shows **$20/hr** but his rate is **$28/hr** \u2014 asked them to fix. **~10:11am ET Julie Solesbee (OpSource):** apologies, note was missed; will process a **retro payment for the difference this Friday 10/23** and update his assignment to $28. \u2192 confirm on Fri Oct 23 payroll. **Wed Oct 21 ~10:14am ET Julie Solesbee (OpSource):** reviewed \u2014 his **travel hours are correct**; they'll add the **RT & OT retro**. Verify on Fri Oct 23 pay."
     },
     {
       "id": "T119",
@@ -1622,9 +1622,19 @@
       "item": "Distribution International **receipt** (Will Roach) \u2014 attach/route to AP",
       "source": "Email / Will Roach (Distribution International) 2026-10-21 ~9:59am ET",
       "notes": "**Wed ~9:59am ET Will Roach (Outside Sales, Distribution International Greenville)\u2192Jeff:** \u201cSee attached\u201d receipt (attachment not opened; amount unknown). Route to AP / match to purchase."
+    },
+    {
+      "id": "T222",
+      "status": "open",
+      "priority": "med",
+      "due": "TODAY Wed Oct 21 12:00pm\u20138:00pm ET + 10:00pm\u20136:00am Thu",
+      "item": "**MEA crane outage \u2014 Cranes 700055 & 700056 powered down** for GE construction project; plan around any Indcom MEA lifts/scaffold work",
+      "source": "Email / Paul Madak (GE Vernova) 2026-10-21 ~10:23am + ~10:25am ET",
+      "notes": "**Wed ~10:23am ET Paul Madak\u2192Jeff** (+ Kevin Fitzgerald, Matthew Orders, Anthony Matti, Brendan Baganski, Joseph Buellesbach, Tres Orr, Nasheka Lee), *Crane outage MEA* (invite) and **~10:25am** *MEA Crane outage* (second invite w/ Teams link): \u201cCranes 700055 and 700056 will be powered down for construction project.\u201d Kat cal (Jeff holds): **12:00\u20138:00pm ET Wed Oct 21** (2 dup holds = one) and **10:00pm Wed\u20136:00am Thu Oct 22**. Second invite may be a reschedule of the first \u2014 confirm which window(s) apply if Indcom needs MEA cranes."
     }
   ],
   "calendar": [
+    "**TODAY Wed Oct 21 12:00\u20138:00pm ET + 10:00pm Wed\u20136:00am Thu Oct 22 ET @ MEA (NEW \u2014 Paul Madak ~10:23/10:25am; Kat cal 3 Jeff holds = two windows)** \u2014 Outage **Cranes 700055 & 700056 powered down** for GE construction project (T222) \u2014 e87/e88",
     "\u2705 DONE (Outage complete ~11:07am) **TODAY Tue Oct 20 10:00\u201310:30am ET @ HAA/HCA/HDA (TP-11B-8.1 @ HDA)** \u2014 Hinkson OUTAGE: **Mitsubishi Sinker FA relay install** #2301350 (HAA ckt 13) / #2301351 (HCA ckt 23) / #2301349 (HDA ckt 21); GE Lead Jim Stanley (T210/T67) \u2014 e84 (Hinkson invite + Jeff's own copy on Kat cal, deduped)",
     "\u2705 DONE (Energization complete ~10:25am) **TODAY Tue Oct 20 10:00\u201310:30am ET @ HEA/HCA (PP-7B-7 @ HCA)** \u2014 Hinkson ENERGIZATION: **Ramco Parts Washers** #2301361 (HEA, ckt 8) / #2301362 (HCA, ckt 10); GE Lead Jim Stanley (T214) \u2014 e85 (Hinkson invite on Kat cal)",
     "**TBD night shift ~10:30pm (as production allows) @ 7E build stand DMB / DQB tool room** \u2014 Work: swap temp shelving/desks for new permanent furniture on 7E build-stand platform (Hudson Brower ask; Jeff reply owed) (T211)",
@@ -2659,6 +2669,38 @@
         "T216"
       ],
       "status": "upcoming"
+    },
+    {
+      "type": "outage",
+      "location": "MEA area",
+      "todoId": "T222",
+      "relatedTodos": [
+        "T222"
+      ],
+      "allDay": false,
+      "status": "upcoming",
+      "description": "Paul Madak (GE Vernova) \u2192 Jeff + GE team, 'Crane outage MEA' (~10:23am ET) and 'MEA Crane outage' (~10:25am ET, Teams link). Jeff holds on Kat cal (12\u20138pm had 2 duplicate holds, deduped). Second invite may be a reschedule of the first.",
+      "id": "e87",
+      "title": "Outage: MEA Cranes 700055 & 700056 powered down (construction)",
+      "summary": "Wed Oct 21 12:00\u20138:00pm ET \u2014 Paul Madak (GE)",
+      "start": "2026-10-21T12:00:00-04:00",
+      "end": "2026-10-21T20:00:00-04:00"
+    },
+    {
+      "type": "outage",
+      "location": "MEA area",
+      "todoId": "T222",
+      "relatedTodos": [
+        "T222"
+      ],
+      "allDay": false,
+      "status": "upcoming",
+      "description": "Paul Madak (GE Vernova) \u2192 Jeff + GE team, 'Crane outage MEA' (~10:23am ET) and 'MEA Crane outage' (~10:25am ET, Teams link). Jeff holds on Kat cal (12\u20138pm had 2 duplicate holds, deduped). Second invite may be a reschedule of the first.",
+      "id": "e88",
+      "title": "Outage: MEA Cranes 700055 & 700056 powered down (construction) \u2014 overnight",
+      "summary": "Wed Oct 21 10:00pm \u2013 Thu Oct 22 6:00am ET \u2014 Paul Madak (GE)",
+      "start": "2026-10-21T22:00:00-04:00",
+      "end": "2026-10-22T06:00:00-04:00"
     }
   ]
 }
