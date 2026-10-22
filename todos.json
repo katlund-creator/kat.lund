@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T10:08:08-04:00",
+  "updated": "2026-10-22T12:07:17-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -1667,9 +1667,29 @@
       "item": "Estimate **2036 \u2014 LIB Hangman Post** (**$23,175.00**) sent to Alex Acosta (GE) \u2014 watch for PO",
       "source": "Email / QuickBooks \u2192 alex.acosta@gevernova.com 2026-10-21 ~8:33pm ET",
       "notes": "**Wed ~8:33pm ET** Indcom QuickBooks Estimate **2036** *LIB Hangman Post* **$23,175.00** to Alex Acosta. Likely built on SPC Est 424 hangman posts (T206). Waiting approval/PO."
+    },
+    {
+      "id": "T227",
+      "status": "open",
+      "priority": "high",
+      "due": "**BY FRI Oct 23** (Bill deadline)",
+      "item": "Tally **exactly what Joey Lum (GE) owes Indcom for all prior unsecured work** (no PO) \u2014 give Bill the number",
+      "source": "Email / Bill Marchbanks 2026-10-22 ~11:28am ET",
+      "notes": "**Thu ~11:28am ET Bill Marchbanks\u2192Jeff, *Joey Lum*:** needs exactly what Joey owes for all prior unsecured work **by tomorrow**; says he has asked many times; plans to speak with Joey personally to **initiate a Support Hold** if not fully resolved. Pull together unpaid/un-PO'd Joey Lum work (cf. T74/T96/T104/T110/T119 POs, invoice 3889 $49,470 FW37\u201340 cleaning) and send Bill the total."
+    },
+    {
+      "id": "T228",
+      "status": "open",
+      "priority": "med",
+      "due": "**Fri Oct 23 11:00\u201311:30am ET @ LDB**",
+      "item": "Attend **LDB Rotor Lathe Shoring Review** (JT Pingry, AM King)",
+      "source": "Email / JT Pingry (AM King) 2026-10-22 ~11:16am ET",
+      "notes": "**Thu ~11:16am ET JT Pingry** meeting invite (invite.ics) to Jeff, Joseph Buellesbach, Charles Kirkley, Elijah Smith (Rollins Industrial), Kyle Herman, Steve Gordon: *RE: LDB Rotor Lathe Shoring Review*, **Fri Oct 23 11:00\u201311:30am ET, location LDB**. Body empty (iPhone forward). Not on Katheryn's calendar. RSVP + likely scaffold/shoring scope."
     }
   ],
   "calendar": [
+    "**Fri Oct 23 11:00\u201311:30am ET @ LDB** \u2014 Meeting: **LDB Rotor Lathe Shoring Review** (JT Pingry/AM King; Buellesbach, Kirkley, Rollins) (T228)",
+    "**Fri Oct 23 (deadline)** \u2014 Give Bill the total Joey Lum owes for prior unsecured work (Support Hold threat) (T227)",
     "**Fri Oct 23** \u2014 EZA ops tower room cleared; JMT (Matt Larmore) asked to start removing existing LVT (Jeff proposal, awaiting confirm) (T23)",
     "**Tue Oct 27** \u2014 Amazon scaffold netting (8 rolls 4'\u00d7150') arrives for build-stand panels; Jeff proposed weekend install, waiting Zac on which stands/off-shift windows (T198)",
     "**TODAY Wed Oct 21 12:00\u20138:00pm ET + 10:00pm Wed\u20136:00am Thu Oct 22 ET @ MEA (NEW \u2014 Paul Madak ~10:23/10:25am; Kat cal 3 Jeff holds = two windows)** \u2014 Outage **Cranes 700055 & 700056 powered down** for GE construction project (T222) \u2014 e87/e88",
@@ -2755,6 +2775,38 @@
         "T23"
       ],
       "description": "Jeff\u2192Matt Larmore Wed Oct 21 ~8:04pm ET: same tile/base; walk-off carpet samples needed; second area after operations relocate."
+    },
+    {
+      "id": "e90",
+      "type": "meeting",
+      "title": "LDB Rotor Lathe Shoring Review (AM King)",
+      "summary": "Fri Oct 23 11:00\u201311:30am ET @ LDB \u2014 JT Pingry invite (Buellesbach, Kirkley, Rollins, Herman, Gordon)",
+      "start": "2026-10-23T11:00:00-04:00",
+      "end": "2026-10-23T11:30:00-04:00",
+      "allDay": false,
+      "location": "LDB",
+      "status": "upcoming",
+      "todoId": "T228",
+      "relatedTodos": [
+        "T228"
+      ],
+      "description": "JT Pingry (AM King) invite.ics sent Thu Oct 22 ~11:16am ET; body empty. Not on Katheryn's calendar."
+    },
+    {
+      "id": "e91",
+      "type": "deadline",
+      "title": "Joey Lum unsecured-work total due to Bill",
+      "summary": "Fri Oct 23 \u2014 Bill Marchbanks needs exact amount Joey Lum owes for prior unsecured work (Support Hold threat)",
+      "start": "2026-10-23",
+      "end": "2026-10-24",
+      "allDay": true,
+      "location": "",
+      "status": "upcoming",
+      "todoId": "T227",
+      "relatedTodos": [
+        "T227"
+      ],
+      "description": "Bill\u2192Jeff Thu Oct 22 ~11:28am ET."
     }
   ]
 }
