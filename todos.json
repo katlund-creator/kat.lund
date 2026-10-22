@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T14:09:17-04:00",
+  "updated": "2026-10-22T16:11:20-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -806,12 +806,12 @@
     },
     {
       "id": "T111",
-      "status": "open",
+      "status": "done",
       "priority": "high",
       "due": "Need-by Fri Oct 16 (ack now)",
       "item": "Process/ack GE PO 4900661869 ($97,759.38) \u2014 BSA Renovation (Alex Leppard)",
       "source": "Email / Ariba GE Vernova 2026-10-05 ~1:40pm ET",
-      "notes": "**Mon ~1:40pm ET** Ariba new PO **4900661869** to Indcom (ariba.mail@); requester **Leppard, Hewett Alexander**; **PR841864**; NET 150; FCA; line 1 Material 97,759.38 LE @ $1 = **$97,759.38**, need-by **16 Oct 2026**, description **BSA Renovation**. Ties BSA office work (T13 Allied Modular dwgs / RFQ Rev B, T42/T48 demo, T88 Bonitz access floor, T103 FMS-7 shutdown). Ack/confirm order. **Thu Oct 22 ~1:52pm ET Jeff\u2192Hewett (Alex) Leppard, *PO Status*:** \u201cPlease receive PO 4900661869 for formal invoicing.\u201d Now waiting on Alex to goods-receipt the PO so Indcom can invoice."
+      "notes": "**Mon ~1:40pm ET** Ariba new PO **4900661869** to Indcom (ariba.mail@); requester **Leppard, Hewett Alexander**; **PR841864**; NET 150; FCA; line 1 Material 97,759.38 LE @ $1 = **$97,759.38**, need-by **16 Oct 2026**, description **BSA Renovation**. Ties BSA office work (T13 Allied Modular dwgs / RFQ Rev B, T42/T48 demo, T88 Bonitz access floor, T103 FMS-7 shutdown). Ack/confirm order. **Thu Oct 22 ~1:52pm ET Jeff\u2192Hewett (Alex) Leppard, *PO Status*:** \u201cPlease receive PO 4900661869 for formal invoicing.\u201d Now waiting on Alex to goods-receipt the PO so Indcom can invoice. **Thu ~2:20pm ET Alex Leppard\u2192Jeff (RE: PO Status):** \u201cReceived\u201d \u2014 PO goods-receipted; Indcom can formally invoice. **DONE.**"
     },
     {
       "id": "T112",
@@ -1636,10 +1636,10 @@
       "id": "T222",
       "status": "open",
       "priority": "med",
-      "due": "TODAY Wed Oct 21 12:00pm\u20138:00pm ET + 10:00pm\u20136:00am Thu",
+      "due": "**TONIGHT Thu Oct 22 10:30pm \u2013 Fri Oct 23 6:30am ET** (new window; Wed Oct 21 windows passed)",
       "item": "**MEA crane outage \u2014 Cranes 700055 & 700056 powered down** for GE construction project; plan around any Indcom MEA lifts/scaffold work",
       "source": "Email / Paul Madak (GE Vernova) 2026-10-21 ~10:23am + ~10:25am ET",
-      "notes": "**Wed ~10:23am ET Paul Madak\u2192Jeff** (+ Kevin Fitzgerald, Matthew Orders, Anthony Matti, Brendan Baganski, Joseph Buellesbach, Tres Orr, Nasheka Lee), *Crane outage MEA* (invite) and **~10:25am** *MEA Crane outage* (second invite w/ Teams link): \u201cCranes 700055 and 700056 will be powered down for construction project.\u201d Kat cal (Jeff holds): **12:00\u20138:00pm ET Wed Oct 21** (2 dup holds = one) and **10:00pm Wed\u20136:00am Thu Oct 22**. Second invite may be a reschedule of the first \u2014 confirm which window(s) apply if Indcom needs MEA cranes."
+      "notes": "**Wed ~10:23am ET Paul Madak\u2192Jeff** (+ Kevin Fitzgerald, Matthew Orders, Anthony Matti, Brendan Baganski, Joseph Buellesbach, Tres Orr, Nasheka Lee), *Crane outage MEA* (invite) and **~10:25am** *MEA Crane outage* (second invite w/ Teams link): \u201cCranes 700055 and 700056 will be powered down for construction project.\u201d Kat cal (Jeff holds): **12:00\u20138:00pm ET Wed Oct 21** (2 dup holds = one) and **10:00pm Wed\u20136:00am Thu Oct 22**. Second invite may be a reschedule of the first \u2014 confirm which window(s) apply if Indcom needs MEA cranes. **Thu Oct 22 ~2:21pm + ~2:27pm ET Paul Madak (MEA Crane outages, Teams invites):** NEW window \u2014 Cranes 700055 & 700056 powered down **TONIGHT Thu Oct 22 10:30pm \u2013 Fri Oct 23 6:30am ET** (Kat cal hold from Jeff; 2 invites = one). Plan around any Indcom MEA lifts/scaffold work tonight."
     },
     {
       "id": "T223",
@@ -1670,12 +1670,12 @@
     },
     {
       "id": "T227",
-      "status": "open",
+      "status": "waiting",
       "priority": "high",
-      "due": "**BY FRI Oct 23** (Bill deadline)",
+      "due": "answered Thu ~1:50pm \u2014 waiting Bill/Joey",
       "item": "Tally **exactly what Joey Lum (GE) owes Indcom for all prior unsecured work** (no PO) \u2014 give Bill the number",
       "source": "Email / Bill Marchbanks 2026-10-22 ~11:28am ET",
-      "notes": "**Thu ~11:28am ET Bill Marchbanks\u2192Jeff, *Joey Lum*:** needs exactly what Joey owes for all prior unsecured work **by tomorrow**; says he has asked many times; plans to speak with Joey personally to **initiate a Support Hold** if not fully resolved. Pull together unpaid/un-PO'd Joey Lum work (cf. T74/T96/T104/T110/T119 POs, invoice 3889 $49,470 FW37\u201340 cleaning) and send Bill the total. **Thu ~12:53pm + ~12:57pm ET QuickBooks** sent Joey Lum (Lamontjoey.lum@gevernova.com) invoice **3940** *Scaffold Enclosure Rental Oct 30\u2013Nov 26* and invoice **3941** *Onsite Enclosure Rental Nov 27\u2013Dec 24 2026*, **$46,278.34 each** (forward rental billing; Bill's ask for the prior unsecured-work total still open)."
+      "notes": "**Thu ~11:28am ET Bill Marchbanks\u2192Jeff, *Joey Lum*:** needs exactly what Joey owes for all prior unsecured work **by tomorrow**; says he has asked many times; plans to speak with Joey personally to **initiate a Support Hold** if not fully resolved. Pull together unpaid/un-PO'd Joey Lum work (cf. T74/T96/T104/T110/T119 POs, invoice 3889 $49,470 FW37\u201340 cleaning) and send Bill the total. **Thu ~12:53pm + ~12:57pm ET QuickBooks** sent Joey Lum (Lamontjoey.lum@gevernova.com) invoice **3940** *Scaffold Enclosure Rental Oct 30\u2013Nov 26* and invoice **3941** *Onsite Enclosure Rental Nov 27\u2013Dec 24 2026*, **$46,278.34 each** (forward rental billing; Bill's ask for the prior unsecured-work total still open). **Thu ~1:50pm ET Jeff\u2192Bill (Re: Joey Lum):** prior balance **$71,163.78** = invoices **3418** $25,936.27 (PO submitted) + **3454** $29,996.51 + **3455** $15,231.00; **3409** shows due but covered on **3911**. Current/near-future work all has POs: **3921** $48,878.16 FW40\u201343 scaffold support (entered in SAP), **3889** $49,470 FW37\u201340 cleaning (pending PO issue), **3940**/**3941** $46,278.34 each enclosure rental. Bill's number delivered \u2014 now waiting on Bill/Joey (Support Hold decision)."
     },
     {
       "id": "T228",
@@ -1693,12 +1693,22 @@
       "due": "waiting Jeff decision",
       "item": "Jeff to decide how to adjust NFPS 7HA.03 change quotes **2016\u20132020** ($93,285.82 total) for overlap/credits vs original quote **1991** before they go to GE",
       "source": "Email / Katheryn\u2192Jeff 2026-10-22 ~12:14pm ET",
-      "notes": "**Thu ~12:14pm ET Katheryn\u2192Jeff, *Overlap review: quotes 2016-2020 vs. original quote 1991 (NFPS 7HA.03)*:** (1) mist collector braces in both 2019 + 2020 ($3,607.58) \u2014 1991 already has 7 mist collectors w/ adjustable stands; drop one, justify bracing; (2) 2017 Basaran chilled water $19,250 re-prices tie-in/valves/hoses already in 1991 \u2014 price only independent feeds/check valves/isolation; (3) 2019 pipe-stand bracing may be covered by 1991's 4 prefab posts (temp Basaran loop is new); (4) 2018 480V\u2192208V $36,227.92 legit but needs credit for original 480V work; (5) 2016 breaker relocation $12,732.72 no overlap. Asked Jeff how to adjust. Ties T7/T8/T77. Waiting Jeff reply."
+      "notes": "**Thu ~12:14pm ET Katheryn\u2192Jeff, *Overlap review: quotes 2016-2020 vs. original quote 1991 (NFPS 7HA.03)*:** (1) mist collector braces in both 2019 + 2020 ($3,607.58) \u2014 1991 already has 7 mist collectors w/ adjustable stands; drop one, justify bracing; (2) 2017 Basaran chilled water $19,250 re-prices tie-in/valves/hoses already in 1991 \u2014 price only independent feeds/check valves/isolation; (3) 2019 pipe-stand bracing may be covered by 1991's 4 prefab posts (temp Basaran loop is new); (4) 2018 480V\u2192208V $36,227.92 legit but needs credit for original 480V work; (5) 2016 breaker relocation $12,732.72 no overlap. Asked Jeff how to adjust. Ties T7/T8/T77. Waiting Jeff reply. **Thu ~1:36\u20132:33pm ET Katheryn\u2194Evan Groce (SPC), *Confusion On BL4 / NFPS.03 Quotes*:** Kat asked Evan to clarify overlapping wording; **Evan ~1:44pm: \u201cPlease disregard the mist collector estimate\u201d**; Kat ~1:52pm \u201cEstimate 413\u201d \u2192 Evan \u201cYes ma'am!\u201d; Kat ~2:33pm asked whether the other estimate says *painted* though SPC didn't paint; **~2:38pm Kat forwarded Evan's reply to Jeff**. Supports dropping duplicate mist-collector bracing (item 1). Waiting Evan on painted question + Jeff decision."
+    },
+    {
+      "id": "T230",
+      "status": "open",
+      "priority": "med",
+      "due": "reply to Strong Man",
+      "item": "Custom logo debris netting (Strong Man Safety) \u2014 pick option, send vector logo, choose distributor or send resale cert",
+      "source": "Email / Dan Peloquin (Strong Man) 2026-10-22 ~2:49pm ET",
+      "notes": "**Thu ~2:49pm ET Dan Peloquin (Territory Sales Mgr East, 860-710-9982; cc Bill, Jeff, Scott Eckert)\u2192Katheryn, *Custom Debris Netting - Indcom Corp / Onsite*:** standard printed-logo rolls **4'\u00d7150'** or **5'6\"\u00d7150'**, colors **Orange w/ black logo** or **Blue w/ white logo**; also **full-color print** option cut to any size/any color. Needs: which option + **high-res vector logo**. Sells **through distribution only** \u2014 name a preferred distributor, or send **resale cert** + onboarding (attached: New Acct-Credit App 7-23.pdf, Freight Onboarding Information.pdf, SMSP Credit Card Authorization Form 7-23.pdf). Kat had asked Mon Oct 19 (mockup, typical 4'4\" height) + follow-up Thu ~10:30am. Related netting need: T198."
     }
   ],
   "calendar": [
     "**Fri Oct 23 11:00\u201311:30am ET @ LDB** \u2014 Meeting: **LDB Rotor Lathe Shoring Review** (JT Pingry/AM King; Buellesbach, Kirkley, Rollins) (T228)",
-    "**Fri Oct 23 (deadline)** \u2014 Give Bill the total Joey Lum owes for prior unsecured work (Support Hold threat) (T227)",
+    "**TONIGHT Thu Oct 22 10:30pm \u2013 Fri Oct 23 6:30am ET @ MEA (NEW \u2014 Paul Madak ~2:27pm; Kat cal Jeff hold)** \u2014 Outage **Cranes 700055 & 700056 powered down** for GE construction project (T222) \u2014 e92",
+    "**Fri Oct 23 (deadline) \u2014 ANSWERED Thu ~1:50pm** \u2014 Jeff gave Bill Joey Lum balance $71,163.78 (T227)",
     "**Fri Oct 23** \u2014 EZA ops tower room cleared; JMT (Matt Larmore) asked to start removing existing LVT (Jeff proposal, awaiting confirm) (T23)",
     "**Tue Oct 27** \u2014 Amazon scaffold netting (8 rolls 4'\u00d7150') arrives for build-stand panels; Jeff proposed weekend install, waiting Zac on which stands/off-shift windows (T198)",
     "**TODAY Wed Oct 21 12:00\u20138:00pm ET + 10:00pm Wed\u20136:00am Thu Oct 22 ET @ MEA (NEW \u2014 Paul Madak ~10:23/10:25am; Kat cal 3 Jeff holds = two windows)** \u2014 Outage **Cranes 700055 & 700056 powered down** for GE construction project (T222) \u2014 e87/e88",
@@ -2804,18 +2814,34 @@
     {
       "id": "e91",
       "type": "deadline",
-      "title": "Joey Lum unsecured-work total due to Bill",
+      "title": "Joey Lum unsecured-work total due to Bill \u2014 ANSWERED",
       "summary": "Fri Oct 23 \u2014 Bill Marchbanks needs exact amount Joey Lum owes for prior unsecured work (Support Hold threat)",
       "start": "2026-10-23",
       "end": "2026-10-24",
       "allDay": true,
       "location": "",
-      "status": "upcoming",
+      "status": "done",
       "todoId": "T227",
       "relatedTodos": [
         "T227"
       ],
-      "description": "Bill\u2192Jeff Thu Oct 22 ~11:28am ET."
+      "description": "Bill\u2192Jeff Thu Oct 22 ~11:28am ET. Jeff\u2192Bill Thu ~1:50pm ET: balance $71,163.78 (inv 3418/3454/3455)."
+    },
+    {
+      "id": "e92",
+      "type": "outage",
+      "title": "Outage: MEA Cranes 700055 & 700056 powered down (construction) \u2014 tonight",
+      "summary": "Thu Oct 22 10:30pm \u2013 Fri Oct 23 6:30am ET \u2014 Paul Madak (GE)",
+      "start": "2026-10-22T22:30:00-04:00",
+      "end": "2026-10-23T06:30:00-04:00",
+      "allDay": false,
+      "location": "MEA Crane",
+      "status": "upcoming",
+      "todoId": "T222",
+      "relatedTodos": [
+        "T222"
+      ],
+      "description": "Paul Madak (GE Vernova) 'MEA Crane outages' invites ~2:21pm + ~2:27pm ET Thu Oct 22 (deduped). Jeff hold on Kat cal."
     }
   ]
 }
