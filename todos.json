@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T12:07:17-04:00",
+  "updated": "2026-10-22T13:07:42-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -1675,7 +1675,7 @@
       "due": "**BY FRI Oct 23** (Bill deadline)",
       "item": "Tally **exactly what Joey Lum (GE) owes Indcom for all prior unsecured work** (no PO) \u2014 give Bill the number",
       "source": "Email / Bill Marchbanks 2026-10-22 ~11:28am ET",
-      "notes": "**Thu ~11:28am ET Bill Marchbanks\u2192Jeff, *Joey Lum*:** needs exactly what Joey owes for all prior unsecured work **by tomorrow**; says he has asked many times; plans to speak with Joey personally to **initiate a Support Hold** if not fully resolved. Pull together unpaid/un-PO'd Joey Lum work (cf. T74/T96/T104/T110/T119 POs, invoice 3889 $49,470 FW37\u201340 cleaning) and send Bill the total."
+      "notes": "**Thu ~11:28am ET Bill Marchbanks\u2192Jeff, *Joey Lum*:** needs exactly what Joey owes for all prior unsecured work **by tomorrow**; says he has asked many times; plans to speak with Joey personally to **initiate a Support Hold** if not fully resolved. Pull together unpaid/un-PO'd Joey Lum work (cf. T74/T96/T104/T110/T119 POs, invoice 3889 $49,470 FW37\u201340 cleaning) and send Bill the total. **Thu ~12:53pm + ~12:57pm ET QuickBooks** sent Joey Lum (Lamontjoey.lum@gevernova.com) invoice **3940** *Scaffold Enclosure Rental Oct 30\u2013Nov 26* and invoice **3941** *Onsite Enclosure Rental Nov 27\u2013Dec 24 2026*, **$46,278.34 each** (forward rental billing; Bill's ask for the prior unsecured-work total still open)."
     },
     {
       "id": "T228",
@@ -1685,6 +1685,15 @@
       "item": "Attend **LDB Rotor Lathe Shoring Review** (JT Pingry, AM King)",
       "source": "Email / JT Pingry (AM King) 2026-10-22 ~11:16am ET",
       "notes": "**Thu ~11:16am ET JT Pingry** meeting invite (invite.ics) to Jeff, Joseph Buellesbach, Charles Kirkley, Elijah Smith (Rollins Industrial), Kyle Herman, Steve Gordon: *RE: LDB Rotor Lathe Shoring Review*, **Fri Oct 23 11:00\u201311:30am ET, location LDB**. Body empty (iPhone forward). Not on Katheryn's calendar. RSVP + likely scaffold/shoring scope."
+    },
+    {
+      "id": "T229",
+      "status": "waiting",
+      "priority": "high",
+      "due": "waiting Jeff decision",
+      "item": "Jeff to decide how to adjust NFPS 7HA.03 change quotes **2016\u20132020** ($93,285.82 total) for overlap/credits vs original quote **1991** before they go to GE",
+      "source": "Email / Katheryn\u2192Jeff 2026-10-22 ~12:14pm ET",
+      "notes": "**Thu ~12:14pm ET Katheryn\u2192Jeff, *Overlap review: quotes 2016-2020 vs. original quote 1991 (NFPS 7HA.03)*:** (1) mist collector braces in both 2019 + 2020 ($3,607.58) \u2014 1991 already has 7 mist collectors w/ adjustable stands; drop one, justify bracing; (2) 2017 Basaran chilled water $19,250 re-prices tie-in/valves/hoses already in 1991 \u2014 price only independent feeds/check valves/isolation; (3) 2019 pipe-stand bracing may be covered by 1991's 4 prefab posts (temp Basaran loop is new); (4) 2018 480V\u2192208V $36,227.92 legit but needs credit for original 480V work; (5) 2016 breaker relocation $12,732.72 no overlap. Asked Jeff how to adjust. Ties T7/T8/T77. Waiting Jeff reply."
     }
   ],
   "calendar": [
