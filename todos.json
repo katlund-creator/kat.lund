@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T16:11:20-04:00",
+  "updated": "2026-10-22T17:07:43-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -1180,7 +1180,7 @@
       "due": "Jason free **after 7am Wed Oct 14** to meet Ed; machines arrive **March 2027**",
       "item": "Utilities for **Kardex Vertical Lift Machines** \u2014 MDC kitting area (Ed Daughtry, GE) \u2014 costs + timing",
       "source": "Email / Jason Marchbanks (DPP) fwd 2026-10-13 ~3:48pm ET",
-      "notes": "**Tue ~3:19pm ET Ed Daughtry (GE Lead Industrial Engineer, Gas Power, +1 864-263-8082)\u2192Jason:** working Vertical Lift Machines (Kardex) for the **MDC area**; needs utilities run to them; machines **not here until March** \u2014 just looking for **costs and timing**; wants to meet in the **MDC kitting area** to show install locations (layout image attached). **~3:48pm ET Jason\u2192Ed:** happy to put something together; available **anytime after 7am tomorrow (Wed Oct 14)**. Jason fwd to Jeff (no note). Jeff/Kat: coordinate MDC walk with Ed + Jason, then build utilities quotation."
+      "notes": "**Tue ~3:19pm ET Ed Daughtry (GE Lead Industrial Engineer, Gas Power, +1 864-263-8082)\u2192Jason:** working Vertical Lift Machines (Kardex) for the **MDC area**; needs utilities run to them; machines **not here until March** \u2014 just looking for **costs and timing**; wants to meet in the **MDC kitting area** to show install locations (layout image attached). **~3:48pm ET Jason\u2192Ed:** happy to put something together; available **anytime after 7am tomorrow (Wed Oct 14)**. Jason fwd to Jeff (no note). Jeff/Kat: coordinate MDC walk with Ed + Jason, then build utilities quotation. **Thu Oct 22 ~4:56pm ET Jason Marchbanks (Dynamic Pipe & Power)\u2192Jeff (cc Kat), *MDC \u2013 Vertical Lift Machine Power & Data Installation (Ed Daughtry)*:** quote for Ed's job sent as a Joist online estimate (client.joistapp.com link; amount not in email). Jeff/Kat: review DPP estimate \u2192 mark up + build GE quote for Ed Daughtry (Ed.Daughtry@gevernova.com, 864-263-8082)."
     },
     {
       "id": "T165",
@@ -1703,6 +1703,24 @@
       "item": "Custom logo debris netting (Strong Man Safety) \u2014 pick option, send vector logo, choose distributor or send resale cert",
       "source": "Email / Dan Peloquin (Strong Man) 2026-10-22 ~2:49pm ET",
       "notes": "**Thu ~2:49pm ET Dan Peloquin (Territory Sales Mgr East, 860-710-9982; cc Bill, Jeff, Scott Eckert)\u2192Katheryn, *Custom Debris Netting - Indcom Corp / Onsite*:** standard printed-logo rolls **4'\u00d7150'** or **5'6\"\u00d7150'**, colors **Orange w/ black logo** or **Blue w/ white logo**; also **full-color print** option cut to any size/any color. Needs: which option + **high-res vector logo**. Sells **through distribution only** \u2014 name a preferred distributor, or send **resale cert** + onboarding (attached: New Acct-Credit App 7-23.pdf, Freight Onboarding Information.pdf, SMSP Credit Card Authorization Form 7-23.pdf). Kat had asked Mon Oct 19 (mockup, typical 4'4\" height) + follow-up Thu ~10:30am. Related netting need: T198."
+    },
+    {
+      "id": "T231",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP (AP)",
+      "item": "Process SPC **Guardrail** invoice (**Invoice 234** / Invoice_234_2026-11-20.pdf)",
+      "source": "Email / Evan Groce (SPC) 2026-10-22 ~4:53pm ET",
+      "notes": "**Thu ~4:53pm ET Evan\u2192Jeff:** *Guardrail invoice* \u2014 \u201cPlease see attached invoice\u201d \u2014 PDF **Invoice_234_2026-11-20.pdf** (amount not in email; sent to Jeff only, not ap.mail). Route/confirm payment (same SPC path as T180)."
+    },
+    {
+      "id": "T232",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP (AP)",
+      "item": "Process SPC **Fire blanket rolls** invoice (**Invoice 235** / Invoice_235_2026-11-20.pdf)",
+      "source": "Email / Evan Groce (SPC) 2026-10-22 ~4:55pm ET",
+      "notes": "**Thu ~4:55pm ET Evan\u2192Jeff:** *Fire blanket rolls* \u2014 \u201cPlease see attached invoice\u201d \u2014 PDF **Invoice_235_2026-11-20.pdf** (amount not in email; sent to Jeff only, not ap.mail). Route/confirm payment."
     }
   ],
   "calendar": [
