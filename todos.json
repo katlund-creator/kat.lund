@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T13:07:42-04:00",
+  "updated": "2026-10-22T14:09:17-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -811,7 +811,7 @@
       "due": "Need-by Fri Oct 16 (ack now)",
       "item": "Process/ack GE PO 4900661869 ($97,759.38) \u2014 BSA Renovation (Alex Leppard)",
       "source": "Email / Ariba GE Vernova 2026-10-05 ~1:40pm ET",
-      "notes": "**Mon ~1:40pm ET** Ariba new PO **4900661869** to Indcom (ariba.mail@); requester **Leppard, Hewett Alexander**; **PR841864**; NET 150; FCA; line 1 Material 97,759.38 LE @ $1 = **$97,759.38**, need-by **16 Oct 2026**, description **BSA Renovation**. Ties BSA office work (T13 Allied Modular dwgs / RFQ Rev B, T42/T48 demo, T88 Bonitz access floor, T103 FMS-7 shutdown). Ack/confirm order."
+      "notes": "**Mon ~1:40pm ET** Ariba new PO **4900661869** to Indcom (ariba.mail@); requester **Leppard, Hewett Alexander**; **PR841864**; NET 150; FCA; line 1 Material 97,759.38 LE @ $1 = **$97,759.38**, need-by **16 Oct 2026**, description **BSA Renovation**. Ties BSA office work (T13 Allied Modular dwgs / RFQ Rev B, T42/T48 demo, T88 Bonitz access floor, T103 FMS-7 shutdown). Ack/confirm order. **Thu Oct 22 ~1:52pm ET Jeff\u2192Hewett (Alex) Leppard, *PO Status*:** \u201cPlease receive PO 4900661869 for formal invoicing.\u201d Now waiting on Alex to goods-receipt the PO so Indcom can invoice."
     },
     {
       "id": "T112",
