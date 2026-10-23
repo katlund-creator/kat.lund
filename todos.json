@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T12:16:13-04:00",
+  "updated": "2026-10-23T14:11:27-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -1175,12 +1175,12 @@
     },
     {
       "id": "T164",
-      "status": "open",
+      "status": "waiting",
       "priority": "med",
       "due": "Jason free **after 7am Wed Oct 14** to meet Ed; machines arrive **March 2027**",
       "item": "Utilities for **Kardex Vertical Lift Machines** \u2014 MDC kitting area (Ed Daughtry, GE) \u2014 costs + timing",
       "source": "Email / Jason Marchbanks (DPP) fwd 2026-10-13 ~3:48pm ET",
-      "notes": "**Tue ~3:19pm ET Ed Daughtry (GE Lead Industrial Engineer, Gas Power, +1 864-263-8082)\u2192Jason:** working Vertical Lift Machines (Kardex) for the **MDC area**; needs utilities run to them; machines **not here until March** \u2014 just looking for **costs and timing**; wants to meet in the **MDC kitting area** to show install locations (layout image attached). **~3:48pm ET Jason\u2192Ed:** happy to put something together; available **anytime after 7am tomorrow (Wed Oct 14)**. Jason fwd to Jeff (no note). Jeff/Kat: coordinate MDC walk with Ed + Jason, then build utilities quotation. **Thu Oct 22 ~4:56pm ET Jason Marchbanks (Dynamic Pipe & Power)\u2192Jeff (cc Kat), *MDC \u2013 Vertical Lift Machine Power & Data Installation (Ed Daughtry)*:** quote for Ed's job sent as a Joist online estimate (client.joistapp.com link; amount not in email). Jeff/Kat: review DPP estimate \u2192 mark up + build GE quote for Ed Daughtry (Ed.Daughtry@gevernova.com, 864-263-8082)."
+      "notes": "**Tue ~3:19pm ET Ed Daughtry (GE Lead Industrial Engineer, Gas Power, +1 864-263-8082)\u2192Jason:** working Vertical Lift Machines (Kardex) for the **MDC area**; needs utilities run to them; machines **not here until March** \u2014 just looking for **costs and timing**; wants to meet in the **MDC kitting area** to show install locations (layout image attached). **~3:48pm ET Jason\u2192Ed:** happy to put something together; available **anytime after 7am tomorrow (Wed Oct 14)**. Jason fwd to Jeff (no note). Jeff/Kat: coordinate MDC walk with Ed + Jason, then build utilities quotation. **Thu Oct 22 ~4:56pm ET Jason Marchbanks (Dynamic Pipe & Power)\u2192Jeff (cc Kat), *MDC \u2013 Vertical Lift Machine Power & Data Installation (Ed Daughtry)*:** quote for Ed's job sent as a Joist online estimate (client.joistapp.com link; amount not in email). Jeff/Kat: review DPP estimate \u2192 mark up + build GE quote for Ed Daughtry (Ed.Daughtry@gevernova.com, 864-263-8082). **Fri Oct 23 ~2:01pm ET Indcom QuickBooks Estimate 2039 \u2014 *Vertical Lift Machine Power & Data Installation* \u2014 $25,627.61 sent to Ed Daughtry.** Now waiting on Ed's approval."
     },
     {
       "id": "T165",
@@ -1774,7 +1774,7 @@
       "due": "**Mon Oct 26 9:00am ET** (requested \u2014 watch for GE fire-alarm approval)",
       "item": "Track **fire alarm / suppression outage** for **Broach CAT#18654 @ JJB + Broach CAT#18566 @ BOB** removals (DPP)",
       "source": "Email / Jason Marchbanks (DPP)\u2192Jason Dickerson (GE) 2026-10-23 ~11:41am ET",
-      "notes": "**Fri ~11:41am ET Jason Marchbanks\u2192Jason Dickerson (GE), cc Jeff, Katheryn, Adam McClure, Steven Olivieri, *Fire Alarm Outage Request (BOB Broach & JJB Broach)*:** remove fire suppression from both Broaches; **Mon Oct 26 9AM**; GE Lead Joey Lum. Ties T233/T235 (BOB) and T236/T237 (JJB). Two identical holds on Kat's cal (dedupe)."
+      "notes": "**Fri ~11:41am ET Jason Marchbanks\u2192Jason Dickerson (GE), cc Jeff, Katheryn, Adam McClure, Steven Olivieri, *Fire Alarm Outage Request (BOB Broach & JJB Broach)*:** remove fire suppression from both Broaches; **Mon Oct 26 9AM**; GE Lead Joey Lum. Ties T233/T235 (BOB) and T236/T237 (JJB). Two identical holds on Kat's cal (dedupe). **Fri ~1:55pm ET Jason Dickerson (GE)\u2192Marchbanks:** can drain the system; **BOB already isolated**; will do **JJB Monday morning**; asked if broaches are being removed \u2014 **~2:07pm Marchbanks: yes**. Effectively approved/in hand."
     },
     {
       "id": "T239",
