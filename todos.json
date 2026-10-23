@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T17:07:43-04:00",
+  "updated": "2026-10-23T10:09:41-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -736,10 +736,10 @@
       "id": "T101",
       "status": "open",
       "priority": "high",
-      "due": "ASAP (see deck for need-by dates)",
+      "due": "**CJB install next week; CNB/COA in ~2 wks (Adam Fri Oct 23)** \u2014 clear obstructions",
       "item": "AGV Lift & Rotate walk results \u2014 remove scaffold stairs @ CKA + move/remove stairs @ COA (arc-flash space)",
       "source": "Email / Adam Edwards (GE) 2026-10-05 ~7:46am ET",
-      "notes": "**Mon ~7:46am ET Adam Edwards** (to Eclipse/GE team + Shanna, Kat, Jeff, Kirkley, Julia): notes from the AGV install walk + *Lift and Rotate Installation Walk Results.pptx* (work + dates it must be done by to avoid AGV Lift & Rotate install delays). **Indcom scaffold impact:** **CKA** \u2014 scaffolding + stairs not in planned layout \u2192 **scaffold stairs must be removed** (assigned Jon Roper/EHS); **COA** \u2014 stairs not in layout + encroach on lift-and-rotate **arc-flash protected space** \u2192 **move/remove** (Jon Roper/EHS). Others (not Indcom): CFB Eclipse cost; CSB/CYA shot-peen air tanks relocate (Joey Lum/Dalton Crooks); CTB lockers/tool crib move (Maintenance/Motion). **Action:** open deck for required dates; coordinate with Roper on stair removal/relocation + any re-access plan. Closes T76 walk outcome."
+      "notes": "**Mon ~7:46am ET Adam Edwards** (to Eclipse/GE team + Shanna, Kat, Jeff, Kirkley, Julia): notes from the AGV install walk + *Lift and Rotate Installation Walk Results.pptx* (work + dates it must be done by to avoid AGV Lift & Rotate install delays). **Indcom scaffold impact:** **CKA** \u2014 scaffolding + stairs not in planned layout \u2192 **scaffold stairs must be removed** (assigned Jon Roper/EHS); **COA** \u2014 stairs not in layout + encroach on lift-and-rotate **arc-flash protected space** \u2192 **move/remove** (Jon Roper/EHS). Others (not Indcom): CFB Eclipse cost; CSB/CYA shot-peen air tanks relocate (Joey Lum/Dalton Crooks); CTB lockers/tool crib move (Maintenance/Motion). **Action:** open deck for required dates; coordinate with Roper on stair removal/relocation + any re-access plan. Closes T76 walk outcome. **Fri Oct 23 ~8:48am ET Adam Edwards (GE)\u2192same team (Kat + Jeff on To), RE: AGV Installation Line Walk** \u2014 attached *Lift and Rotate Installation Walk Results - 261022.pptx* (status update on flip station installs). **Installations at risk due to obstructions:** **CJB** \u2014 install **next week**, blocking material not yet moved; **CNB and COA** \u2014 install in **two weeks**, significant materials not yet moved; **CSB** \u2014 tank not moved, install in **3 weeks**; **CTB** \u2014 crib + lockers not moved, install in **4 weeks**. \u2192 Confirm whether Indcom scaffold/stairs/material are part of the CJB/CNB/COA blockers (COA stairs = Indcom action) and plan removal before next week."
     },
     {
       "id": "T102",
@@ -1405,7 +1405,7 @@
       "due": "waiting Alex Leppard OK (affects T178 floor boxes + Allied start Mon Oct 19)",
       "item": "BSA office **raised floor** \u2014 Alex to approve **3\" RAF subfloor** (tile) + **interior ramp / desk re-layout**",
       "source": "Email / Katheryn\u2192Alex Leppard (cc Jeff) 2026-10-16 ~1:47/1:51pm ET",
-      "notes": "**Fri ~1:51pm ET Katheryn\u2192H Alex Leppard (GE, hewett.leppard@gevernova.com; cc Jeff)**, *Raised Floor for BSA*: tile preferred over carpet \u2192 upgrade to **3\" subflooring** (1-1/2\" supports carpet only); ramp placed right of exterior door \u2014 emergency-exit door must swing **inward** and walkway blocks an exterior ramp, so **interior ramp** + desks rearranged around it. Attached *OVERLAY of FLOORING.pdf*, *BSA GE Gas - Office Building - 3in RAF Floor Layout (Draft) - 10.15.2026.pdf*, *Option 2.BSA OFFICE.pdf*. (Earlier ~1:47pm send went to typo address **ahewett.leppard@** \u2014 likely undeliverable; ~1:51pm resend to correct address.) Waiting Alex reply; decision drives floor-box line item (T178) + RFQ (T13). **Weekend \u2192 Mon ~8:10am ET:** no Alex Leppard reply."
+      "notes": "**Fri ~1:51pm ET Katheryn\u2192H Alex Leppard (GE, hewett.leppard@gevernova.com; cc Jeff)**, *Raised Floor for BSA*: tile preferred over carpet \u2192 upgrade to **3\" subflooring** (1-1/2\" supports carpet only); ramp placed right of exterior door \u2014 emergency-exit door must swing **inward** and walkway blocks an exterior ramp, so **interior ramp** + desks rearranged around it. Attached *OVERLAY of FLOORING.pdf*, *BSA GE Gas - Office Building - 3in RAF Floor Layout (Draft) - 10.15.2026.pdf*, *Option 2.BSA OFFICE.pdf*. (Earlier ~1:47pm send went to typo address **ahewett.leppard@** \u2014 likely undeliverable; ~1:51pm resend to correct address.) Waiting Alex reply; decision drives floor-box line item (T178) + RFQ (T13). **Weekend \u2192 Mon ~8:10am ET:** no Alex Leppard reply. **Fri Oct 23 ~7:33am ET Katheryn\u2192Alex Leppard (Re: Raised Floor for BSA):** sent **updated floor layout incl. ramps + door changes**; asked if any questions or OK to move forward with getting an **estimate**. Waiting Alex."
     },
     {
       "id": "T196",
@@ -1429,10 +1429,10 @@
       "id": "T198",
       "status": "waiting",
       "priority": "high",
-      "due": "**Waiting Zac/GE ops:** which stands are idle this weekend / off-shift windows; Amazon netting (8\u00d7 4'\u00d7150' rolls) **arriving Tue Oct 27** \u2014 schedule install once GE answers (Julia Pulse update Thu Oct 22)",
+      "due": "**WEEKEND Sat\u2013Sun Oct 24\u201325 install (Andrew Sat / Zac Sun guiding); Zac ordered 300' fencing (zip-tie); waiting Megan/Will list of open stands** \u2014 prior: **Waiting Zac/GE ops:** which stands are idle this weekend / off-shift windows; Amazon netting (8\u00d7 4'\u00d7150' rolls) **arriving Tue Oct 27** \u2014 schedule install once GE answers (Julia Pulse update Thu Oct 22)",
       "item": "GE EHS read-across \u2014 install **netting / side panels** on all **elevated scaffolding build stands** (+ help add corrugated-plastic panels to permanent stand railings if Zac\u2019s test works)",
       "source": "Email / Zac Ciesielczyk (GE Vernova) 2026-10-19 ~7:36am ET",
-      "notes": "**Mon ~7:36am ET Zac Ciesielczyk (Turbine Assembly Sr Mfg Eng, 864-395-1243; cc Hudson Brower, Andrew Heatherly, Christine Price)\u2192Jeff, *FW: Read Across \u2013 Build Stand ATS Finding*:** EHS requested **netting or side panels on all elevated build stands**; asks Indcom to get the **scaffolding build stands completed within the next 2\u20133 days**. Zac will test screwing **corrugated plastic** to the **permanent stand railings** (GE provides material) \u2014 if effective, wants Indcom help completing those too. Background (Julia Filiatreau, GE EHS): ATS **14620** scaffolding horizontal stands (continuous toe boards, railing paneling/netting, exclusion zones + signage, housekeeping), **14621** permanent/vertical stands, **14623** Blue Boys, **14624** Pits, **14625/14626** repair stands; Thu Oct 15 Pulse \u2014 Jason wants gaps closed **immediately** with temporary measures; Onsite already installed **mesh netting on H-Bay scaffolding**; Julia Mon ~6:29am asked to discuss on today\u2019s **RTA EHS walk**; update due **Thu 10/22**. Action: scope stand count/material (netting, toe boards), crew + quote/PO path (Heatherly \u2014 cf. T192 DIA buildstand PO), reply Zac. **Mon ~9:02am ET Jeff\u2192Zac (cc Hudson Brower, William Heatherly, Christine Price):** \u201cWe can assist with that. Would you like us to install the panels like we have in the enclosures on the scaffold buildstands?\u201d \u2014 waiting Zac\u2019s answer on panel type before scheduling. **Mon ~9:24am ET Zac Ciesielczyk\u2192Jeff (RE: Read Across \u2013 Build Stand ATS Finding):** \u201cDo you have any examples on site or pictures already so I can better understand?\u201d \u2192 **T198 waiting \u2192 open** \u2014 send Zac photos / on-site locations of the enclosure panels on scaffold build stands. **Mon ~12:02pm ET Jeff\u2192Zac (cc Hudson Brower, William Heatherly, Christine Price), Re: Read Across \u2013 Build Stand ATS Finding:** attached photo (*image0.jpeg*) of an elevated platform \u2014 explained they\u2019d use the same panels as the construction enclosures around the plant but **only cover from the deck to the handrail** (photo shows one panel not full height) \u2192 **T198 open \u2192 waiting** Zac\u2019s approval / panel decision before scheduling the crew. **Mon ~12:33pm ET Zac Ciesielczyk\u2192Jeff (cc Christine Price, David Simmons, Will Walton):** \u201cThanks Jeff, since Megan is out, can we talk with **Will and Scott** to get the **scaffolding stands converted sometime this week**?\u201d **~12:36pm ET Christine Price** added **John Machen**. \u2192 **T198 waiting \u2192 open** \u2014 Jeff to coordinate with Will Walton / Scott (and John Machen) to schedule the build-stand panel conversion this week. **Thu Oct 22 ~7:52am ET Zac Ciesielczyk\u2192Christine Price/Jeff/David Simmons/Will Walton/John Machen:** \u201cFollowing up, ops team have we had this scheduled? Leadership would like to add these panels asap.\u201d \u2192 confirm install date for build-stand netting/side panels + reply. **Thu ~9:56am ET Jeff\u2192Zac (cc Christine Price, David Simmons, Will Walton, John Machen, Hudson Brower, William Heatherly):** \u201ctrying to secure netting to do this in that time frame\u201d; can assist with the **plastic install** after review; **weekend best** (fewer workers on stands) \u2014 asks **which stands won't be worked this weekend / off-shift times** to be minimally invasive. **~10:06am ET Amazon order #114-8105314-7165841** ($1,096.79, ship to Spartanburg): 4\u00d7 mychoiii orange + 4\u00d7 Xpose black **4'\u00d7150' 1/4\" scaffold safety netting** (arriving **Tue Oct 27**) + impact gloves (MAGID T-REX / Graloky, some arriving Sat). \u2192 **T198 open \u2192 waiting** GE answer on stands/windows."
+      "notes": "**Mon ~7:36am ET Zac Ciesielczyk (Turbine Assembly Sr Mfg Eng, 864-395-1243; cc Hudson Brower, Andrew Heatherly, Christine Price)\u2192Jeff, *FW: Read Across \u2013 Build Stand ATS Finding*:** EHS requested **netting or side panels on all elevated build stands**; asks Indcom to get the **scaffolding build stands completed within the next 2\u20133 days**. Zac will test screwing **corrugated plastic** to the **permanent stand railings** (GE provides material) \u2014 if effective, wants Indcom help completing those too. Background (Julia Filiatreau, GE EHS): ATS **14620** scaffolding horizontal stands (continuous toe boards, railing paneling/netting, exclusion zones + signage, housekeeping), **14621** permanent/vertical stands, **14623** Blue Boys, **14624** Pits, **14625/14626** repair stands; Thu Oct 15 Pulse \u2014 Jason wants gaps closed **immediately** with temporary measures; Onsite already installed **mesh netting on H-Bay scaffolding**; Julia Mon ~6:29am asked to discuss on today\u2019s **RTA EHS walk**; update due **Thu 10/22**. Action: scope stand count/material (netting, toe boards), crew + quote/PO path (Heatherly \u2014 cf. T192 DIA buildstand PO), reply Zac. **Mon ~9:02am ET Jeff\u2192Zac (cc Hudson Brower, William Heatherly, Christine Price):** \u201cWe can assist with that. Would you like us to install the panels like we have in the enclosures on the scaffold buildstands?\u201d \u2014 waiting Zac\u2019s answer on panel type before scheduling. **Mon ~9:24am ET Zac Ciesielczyk\u2192Jeff (RE: Read Across \u2013 Build Stand ATS Finding):** \u201cDo you have any examples on site or pictures already so I can better understand?\u201d \u2192 **T198 waiting \u2192 open** \u2014 send Zac photos / on-site locations of the enclosure panels on scaffold build stands. **Mon ~12:02pm ET Jeff\u2192Zac (cc Hudson Brower, William Heatherly, Christine Price), Re: Read Across \u2013 Build Stand ATS Finding:** attached photo (*image0.jpeg*) of an elevated platform \u2014 explained they\u2019d use the same panels as the construction enclosures around the plant but **only cover from the deck to the handrail** (photo shows one panel not full height) \u2192 **T198 open \u2192 waiting** Zac\u2019s approval / panel decision before scheduling the crew. **Mon ~12:33pm ET Zac Ciesielczyk\u2192Jeff (cc Christine Price, David Simmons, Will Walton):** \u201cThanks Jeff, since Megan is out, can we talk with **Will and Scott** to get the **scaffolding stands converted sometime this week**?\u201d **~12:36pm ET Christine Price** added **John Machen**. \u2192 **T198 waiting \u2192 open** \u2014 Jeff to coordinate with Will Walton / Scott (and John Machen) to schedule the build-stand panel conversion this week. **Thu Oct 22 ~7:52am ET Zac Ciesielczyk\u2192Christine Price/Jeff/David Simmons/Will Walton/John Machen:** \u201cFollowing up, ops team have we had this scheduled? Leadership would like to add these panels asap.\u201d \u2192 confirm install date for build-stand netting/side panels + reply. **Thu ~9:56am ET Jeff\u2192Zac (cc Christine Price, David Simmons, Will Walton, John Machen, Hudson Brower, William Heatherly):** \u201ctrying to secure netting to do this in that time frame\u201d; can assist with the **plastic install** after review; **weekend best** (fewer workers on stands) \u2014 asks **which stands won't be worked this weekend / off-shift times** to be minimally invasive. **~10:06am ET Amazon order #114-8105314-7165841** ($1,096.79, ship to Spartanburg): 4\u00d7 mychoiii orange + 4\u00d7 Xpose black **4'\u00d7150' 1/4\" scaffold safety netting** (arriving **Tue Oct 27**) + impact gloves (MAGID T-REX / Graloky, some arriving Sat). \u2192 **T198 open \u2192 waiting** GE answer on stands/windows. **Fri Oct 23 ~6:08am ET Zac\u2192Megan Cavanaugh + Will Walton (cc Jeff, Christine Price, David Simmons, John Machen, Hudson Brower, William Heatherly):** asks GE ops to tell Jeff which stands are **free this weekend** so Indcom can add netting on GE stands + panels on open scaffold stands; **Andrew in Sat**, **Zac in Sun** to guide. **~7:34am ET Jeff\u2192Zac (cc same):** unless someone ordered netting, Indcom does **not have enough to do every GE buildstand**; thought the plastic on the pallet in **D Bay** was for buildstands; needs a **plan of action** to order sufficient material (**2\u20134 days shipping**). **~7:40am ET Zac:** he **ordered 300' of fencing**; plan is to **zip-tie it down for now**. \u2192 Still need GE ops (Megan/Will) list of open stands + confirm weekend crew (Sat/Sun = OT). **Fri Oct 23 ~9:17am ET Jeff\u2192Zac:** \u201cSounds good thank you\u201d (ack of Zac\u2019s 300' fencing order / zip-tie plan); ~9:23am Will Walton reacted. Still waiting Megan/Will to say which stands are free this weekend."
     },
     {
       "id": "T199",
@@ -1504,7 +1504,7 @@
       "due": "**Need-by Mon Oct 19 PASSED \u2014 still UNCONFIRMED in Ariba (Wed Oct 21 ~5:00am list)** \u2014 **order confirmation required before shipping**",
       "item": "Process/confirm GE PO **4200339489** (**$18,895.69**) \u2014 **Pole Fingers for Repairs L2L 90959** (D Bay Pole Fingers, Est 2034)",
       "source": "Email / Ariba GE Vernova 2026-10-19 ~8:31am ET + Kristen Jackson (GE) ~8:20am / Zachary Kleiner ~8:52am",
-      "notes": "**Mon ~8:31am ET** Ariba new PO **4200339489** to Indcom (submitted 7:00am): line 10, Material, qty 1 EA, **need-by 19 Oct 2026**, $18,895.69, *Pole Fingers for Repairs L2L 90959*; control keys: **Order Confirmation required before shipping**, ship notice + invoice allowed; attachment *4200339489_PO.pdf*. Kristen Jackson ~8:20am: \u201cplease use PO # 4200339489 for the attached quote\u201d (Est 2034); Zachary Kleiner ~8:52am \u201cPO released\u201d. From T141 (Est 2034 \u2192 Heatherly Oct 13; SPC Est 422). **Mon ~10:00am ET Jeff\u2192Zachary Kleiner (Re: NEW PO Estimate 2034 \u2013 D Bay Pole Fingers):** \u201cThank you we will get these ordered.\u201d \u2192 still need Ariba order confirmation + place pole-finger order (SPC Est 422). (Veronica Kyle auto-reply: OOO Oct 14\u201320; MRO.Buyers@gevernova.com for urgent.) **Wed Oct 21 ~5:00am ET Ariba** *Confirm orders* list still shows **4200339489 = New (UNCONFIRMED)** \u2014 need-by Mon Oct 19 passed; order confirmation still required before shipping. (Same list: BCL7 POs 4900668835/837/839 = Received \u2014 T202\u2013T204.) Still New/unconfirmed on Thu Oct 22 ~5:00am Ariba list."
+      "notes": "**Mon ~8:31am ET** Ariba new PO **4200339489** to Indcom (submitted 7:00am): line 10, Material, qty 1 EA, **need-by 19 Oct 2026**, $18,895.69, *Pole Fingers for Repairs L2L 90959*; control keys: **Order Confirmation required before shipping**, ship notice + invoice allowed; attachment *4200339489_PO.pdf*. Kristen Jackson ~8:20am: \u201cplease use PO # 4200339489 for the attached quote\u201d (Est 2034); Zachary Kleiner ~8:52am \u201cPO released\u201d. From T141 (Est 2034 \u2192 Heatherly Oct 13; SPC Est 422). **Mon ~10:00am ET Jeff\u2192Zachary Kleiner (Re: NEW PO Estimate 2034 \u2013 D Bay Pole Fingers):** \u201cThank you we will get these ordered.\u201d \u2192 still need Ariba order confirmation + place pole-finger order (SPC Est 422). (Veronica Kyle auto-reply: OOO Oct 14\u201320; MRO.Buyers@gevernova.com for urgent.) **Wed Oct 21 ~5:00am ET Ariba** *Confirm orders* list still shows **4200339489 = New (UNCONFIRMED)** \u2014 need-by Mon Oct 19 passed; order confirmation still required before shipping. (Same list: BCL7 POs 4900668835/837/839 = Received \u2014 T202\u2013T204.) Still New/unconfirmed on Thu Oct 22 ~5:00am Ariba list. **Fri Oct 23 ~5:00am ET Ariba reminder:** 4200339489 still listed **New / unconfirmed** (only PO on list)."
     },
     {
       "id": "T206",
@@ -1670,12 +1670,12 @@
     },
     {
       "id": "T227",
-      "status": "waiting",
+      "status": "open",
       "priority": "high",
-      "due": "answered Thu ~1:50pm \u2014 waiting Bill/Joey",
+      "due": "**MEET BILL TODAY Fri Oct 23 (Bill free 9am\u20133pm ET)** \u2014 number sent Thu ~1:50pm",
       "item": "Tally **exactly what Joey Lum (GE) owes Indcom for all prior unsecured work** (no PO) \u2014 give Bill the number",
       "source": "Email / Bill Marchbanks 2026-10-22 ~11:28am ET",
-      "notes": "**Thu ~11:28am ET Bill Marchbanks\u2192Jeff, *Joey Lum*:** needs exactly what Joey owes for all prior unsecured work **by tomorrow**; says he has asked many times; plans to speak with Joey personally to **initiate a Support Hold** if not fully resolved. Pull together unpaid/un-PO'd Joey Lum work (cf. T74/T96/T104/T110/T119 POs, invoice 3889 $49,470 FW37\u201340 cleaning) and send Bill the total. **Thu ~12:53pm + ~12:57pm ET QuickBooks** sent Joey Lum (Lamontjoey.lum@gevernova.com) invoice **3940** *Scaffold Enclosure Rental Oct 30\u2013Nov 26* and invoice **3941** *Onsite Enclosure Rental Nov 27\u2013Dec 24 2026*, **$46,278.34 each** (forward rental billing; Bill's ask for the prior unsecured-work total still open). **Thu ~1:50pm ET Jeff\u2192Bill (Re: Joey Lum):** prior balance **$71,163.78** = invoices **3418** $25,936.27 (PO submitted) + **3454** $29,996.51 + **3455** $15,231.00; **3409** shows due but covered on **3911**. Current/near-future work all has POs: **3921** $48,878.16 FW40\u201343 scaffold support (entered in SAP), **3889** $49,470 FW37\u201340 cleaning (pending PO issue), **3940**/**3941** $46,278.34 each enclosure rental. Bill's number delivered \u2014 now waiting on Bill/Joey (Support Hold decision)."
+      "notes": "**Thu ~11:28am ET Bill Marchbanks\u2192Jeff, *Joey Lum*:** needs exactly what Joey owes for all prior unsecured work **by tomorrow**; says he has asked many times; plans to speak with Joey personally to **initiate a Support Hold** if not fully resolved. Pull together unpaid/un-PO'd Joey Lum work (cf. T74/T96/T104/T110/T119 POs, invoice 3889 $49,470 FW37\u201340 cleaning) and send Bill the total. **Thu ~12:53pm + ~12:57pm ET QuickBooks** sent Joey Lum (Lamontjoey.lum@gevernova.com) invoice **3940** *Scaffold Enclosure Rental Oct 30\u2013Nov 26* and invoice **3941** *Onsite Enclosure Rental Nov 27\u2013Dec 24 2026*, **$46,278.34 each** (forward rental billing; Bill's ask for the prior unsecured-work total still open). **Thu ~1:50pm ET Jeff\u2192Bill (Re: Joey Lum):** prior balance **$71,163.78** = invoices **3418** $25,936.27 (PO submitted) + **3454** $29,996.51 + **3455** $15,231.00; **3409** shows due but covered on **3911**. Current/near-future work all has POs: **3921** $48,878.16 FW40\u201343 scaffold support (entered in SAP), **3889** $49,470 FW37\u201340 cleaning (pending PO issue), **3940**/**3941** $46,278.34 each enclosure rental. Bill's number delivered \u2014 now waiting on Bill/Joey (Support Hold decision). **Fri Oct 23 ~4:03am ET Bill\u2192Jeff (Re: Joey Lum):** \u201cLet's **meet to discuss this today**\u201d \u2014 Bill available **9am\u20133pm ET**. \u2192 Jeff to meet Bill today."
     },
     {
       "id": "T228",
@@ -1721,11 +1721,41 @@
       "item": "Process SPC **Fire blanket rolls** invoice (**Invoice 235** / Invoice_235_2026-11-20.pdf)",
       "source": "Email / Evan Groce (SPC) 2026-10-22 ~4:55pm ET",
       "notes": "**Thu ~4:55pm ET Evan\u2192Jeff:** *Fire blanket rolls* \u2014 \u201cPlease see attached invoice\u201d \u2014 PDF **Invoice_235_2026-11-20.pdf** (amount not in email; sent to Jeff only, not ap.mail). Route/confirm payment."
+    },
+    {
+      "id": "T233",
+      "status": "open",
+      "priority": "high",
+      "due": "**Mon Oct 26 8:15am ET** (shutdown requested \u2014 watch for GE outage approval)",
+      "item": "Track **PP-19 Circuit #9 shutdown** \u2014 remove power from **Broach CAT#18566 @ BOB** for machine removal (DPP)",
+      "source": "Email / Jason Marchbanks (DPP)\u2192GVL Outage 2026-10-23 ~8:11am ET",
+      "notes": "**Fri ~8:11am ET Jason Marchbanks (DPP)\u2192GE GVL Outage (cc Jeff, Katheryn, Adam McClure, joshua.bartlett@gevernova.com), *Shutdown Request (PP-19 Circuit #9)*:** panel **PP-19 Ckt #9** (panel location **BPB**) to de-energize **Broach CAT#18566** at **BOB** for removal; **Mon Oct 26 8:15am ET**; GE Lead **Grant Bartlett**; sub Dynamic Pipe & Power. Photos IMG_7901/7902. Watch for GE outage confirmation/invite; coordinate removal crew/rigging if Indcom involved."
+    },
+    {
+      "id": "T234",
+      "status": "open",
+      "priority": "med",
+      "due": "no huge rush \u2014 reply Hudson when done",
+      "item": "**DZB** \u2014 item blocking a **power panel** + **trip hazard to lockers** (2nd-shift safety concern) \u2014 move/take down or confirm it must stay",
+      "source": "Email / Hudson Brower (GE) 2026-10-22 ~9:52pm ET",
+      "notes": "**Thu ~9:52pm ET Hudson Brower (GE Lead Mfg Eng)\u2192Jeff, *FW: DZB*:** forwarded **Stacie Ballew** (GE 2nd-shift safety, ~9:33pm): at **DZB**, something is **blocking power panel** and a **trip hazard to lockers**; she'd talked to Jeff and thought Indcom was going to **move or take it down**; may file a **concern report**. Hudson: let him know when it's done or if it must stay as is. Photo IMG_3388. \u2192 Jeff to resolve + reply Hudson."
+    },
+    {
+      "id": "T235",
+      "status": "open",
+      "priority": "high",
+      "due": "**Mon Oct 26 8:15am ET** (shutdown requested \u2014 watch for GE outage approval)",
+      "item": "Track **RP-451 Circuits 4 & 7 shutdown** \u2014 Pit Fan, Lights & Receptacles for **Broach CAT#18566 @ BOB** removal (DPP; companion to T233)",
+      "source": "Email / Jason Marchbanks (DPP)\u2192GVL Outage 2026-10-23 ~8:16am ET",
+      "notes": "**Fri ~8:16am ET Jason Marchbanks (DPP)\u2192GE GVL Outage (cc Jeff, Katheryn, Adam McClure, joshua.bartlett@, joey.lum@), *Shutdown Request (RP-451 Circuit #'s 4 & 7)*:** panel **RP-451 Ckts 4 & 7** (panel location **CQA**) \u2014 pit fan, lights & receptacles \u2014 to de-energize Broach CAT#18566 at **BOB** for removal; other unknown circuits may exist; **Mon Oct 26 8:15am ET**; GE Lead **Joey Lum**; sub Dynamic Pipe & Power. Same time/machine as T233 (PP-19 Ckt #9) but different panel. Both now on Kat's calendar."
     }
   ],
   "calendar": [
+    "**TODAY Fri Oct 23 9:00am\u20133:00pm ET (Bill's availability)** \u2014 Meet Bill Marchbanks re Joey Lum balance / Support Hold (T227) \u2014 e95",
+    "**Sat\u2013Sun Oct 24\u201325 (weekend, OT)** \u2014 Build-stand netting/panels on open stands; Andrew Heatherly Sat, Zac Sun guiding; waiting GE ops list of free stands (T198) \u2014 e94",
+    "**Mon Oct 26 8:15am ET @ BOB (panel PP-19 @ BPB) (NEW \u2014 DPP request ~8:11am)** \u2014 Shutdown **PP-19 Ckt #9** for **Broach CAT#18566** removal; GE Lead Grant Bartlett (T233) \u2014 e93",
     "**Fri Oct 23 11:00\u201311:30am ET @ LDB** \u2014 Meeting: **LDB Rotor Lathe Shoring Review** (JT Pingry/AM King; Buellesbach, Kirkley, Rollins) (T228)",
-    "**TONIGHT Thu Oct 22 10:30pm \u2013 Fri Oct 23 6:30am ET @ MEA (NEW \u2014 Paul Madak ~2:27pm; Kat cal Jeff hold)** \u2014 Outage **Cranes 700055 & 700056 powered down** for GE construction project (T222) \u2014 e92",
+    "\u2705 PAST **Thu Oct 22 10:30pm \u2013 Fri Oct 23 6:30am ET @ MEA ( \u2014 Paul Madak ~2:27pm; Kat cal Jeff hold)** \u2014 Outage **Cranes 700055 & 700056 powered down** for GE construction project (T222) \u2014 e92",
     "**Fri Oct 23 (deadline) \u2014 ANSWERED Thu ~1:50pm** \u2014 Jeff gave Bill Joey Lum balance $71,163.78 (T227)",
     "**Fri Oct 23** \u2014 EZA ops tower room cleared; JMT (Matt Larmore) asked to start removing existing LVT (Jeff proposal, awaiting confirm) (T23)",
     "**Tue Oct 27** \u2014 Amazon scaffold netting (8 rolls 4'\u00d7150') arrives for build-stand panels; Jeff proposed weekend install, waiting Zac on which stands/off-shift windows (T198)",
@@ -2848,18 +2878,84 @@
     {
       "id": "e92",
       "type": "outage",
-      "title": "Outage: MEA Cranes 700055 & 700056 powered down (construction) \u2014 tonight",
+      "title": "Outage: MEA Cranes 700055 & 700056 powered down (construction)",
       "summary": "Thu Oct 22 10:30pm \u2013 Fri Oct 23 6:30am ET \u2014 Paul Madak (GE)",
       "start": "2026-10-22T22:30:00-04:00",
       "end": "2026-10-23T06:30:00-04:00",
       "allDay": false,
       "location": "MEA Crane",
-      "status": "upcoming",
+      "status": "done",
       "todoId": "T222",
       "relatedTodos": [
         "T222"
       ],
       "description": "Paul Madak (GE Vernova) 'MEA Crane outages' invites ~2:21pm + ~2:27pm ET Thu Oct 22 (deduped). Jeff hold on Kat cal."
+    },
+    {
+      "id": "e93",
+      "type": "outage",
+      "title": "Shutdown: PP-19 Circuit #9 \u2014 Broach CAT#18566 removal @ BOB",
+      "summary": "Mon Oct 26 8:15am ET \u2014 DPP request; GE Lead Grant Bartlett",
+      "start": "2026-10-26T08:15:00-04:00",
+      "end": "2026-10-26T09:15:00-04:00",
+      "allDay": false,
+      "location": "BOB (panel PP-19 @ BPB)",
+      "status": "upcoming",
+      "todoId": "T233",
+      "relatedTodos": [
+        "T233",
+        "T235"
+      ],
+      "description": "Jason Marchbanks (DPP) shutdown request to GVL Outage Fri Oct 23 ~8:11am ET. End time not stated (1h placeholder)."
+    },
+    {
+      "id": "e94",
+      "type": "work",
+      "title": "Weekend build-stand netting/panels (open stands)",
+      "summary": "Sat\u2013Sun Oct 24\u201325 \u2014 Andrew Sat, Zac Sun guiding; waiting GE ops list of free stands",
+      "start": "2026-10-24",
+      "end": "2026-10-26",
+      "allDay": true,
+      "location": "GE build stands",
+      "status": "upcoming",
+      "todoId": "T198",
+      "relatedTodos": [
+        "T198"
+      ],
+      "description": "Zac ordered 300' fencing to zip-tie; Jeff short on netting for every GE stand (2\u20134 day shipping). Weekend = OT."
+    },
+    {
+      "id": "e95",
+      "type": "meeting",
+      "title": "Meet Bill re Joey Lum balance",
+      "summary": "Fri Oct 23 \u2014 Bill available 9am\u20133pm ET",
+      "start": "2026-10-23T09:00:00-04:00",
+      "end": "2026-10-23T15:00:00-04:00",
+      "allDay": false,
+      "location": "",
+      "status": "upcoming",
+      "todoId": "T227",
+      "relatedTodos": [
+        "T227"
+      ],
+      "description": "Bill Marchbanks Fri ~4:03am ET: let's meet to discuss today (Support Hold decision)."
+    },
+    {
+      "id": "e96",
+      "type": "outage",
+      "title": "Shutdown: RP-451 Circuits 4 & 7 \u2014 Broach CAT#18566 removal @ BOB",
+      "summary": "Mon Oct 26 8:15am ET \u2014 DPP request; GE Lead Joey Lum (pit fan, lights, receptacles)",
+      "start": "2026-10-26T08:15:00-04:00",
+      "end": "2026-10-26T09:15:00-04:00",
+      "allDay": false,
+      "location": "BOB (panel RP-451 @ CQA)",
+      "status": "upcoming",
+      "todoId": "T235",
+      "relatedTodos": [
+        "T235",
+        "T233"
+      ],
+      "description": "Jason Marchbanks (DPP) shutdown request to GVL Outage Fri Oct 23 ~8:16am ET. Companion to PP-19 Ckt #9 (e93). End time not stated (1h placeholder)."
     }
   ]
 }
