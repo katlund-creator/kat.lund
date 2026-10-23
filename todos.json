@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T10:09:41-04:00",
+  "updated": "2026-10-23T12:16:13-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -1747,13 +1747,63 @@
       "due": "**Mon Oct 26 8:15am ET** (shutdown requested \u2014 watch for GE outage approval)",
       "item": "Track **RP-451 Circuits 4 & 7 shutdown** \u2014 Pit Fan, Lights & Receptacles for **Broach CAT#18566 @ BOB** removal (DPP; companion to T233)",
       "source": "Email / Jason Marchbanks (DPP)\u2192GVL Outage 2026-10-23 ~8:16am ET",
-      "notes": "**Fri ~8:16am ET Jason Marchbanks (DPP)\u2192GE GVL Outage (cc Jeff, Katheryn, Adam McClure, joshua.bartlett@, joey.lum@), *Shutdown Request (RP-451 Circuit #'s 4 & 7)*:** panel **RP-451 Ckts 4 & 7** (panel location **CQA**) \u2014 pit fan, lights & receptacles \u2014 to de-energize Broach CAT#18566 at **BOB** for removal; other unknown circuits may exist; **Mon Oct 26 8:15am ET**; GE Lead **Joey Lum**; sub Dynamic Pipe & Power. Same time/machine as T233 (PP-19 Ckt #9) but different panel. Both now on Kat's calendar."
+      "notes": "**Fri ~8:16am ET Jason Marchbanks (DPP)\u2192GE GVL Outage (cc Jeff, Katheryn, Adam McClure, joshua.bartlett@, joey.lum@), *Shutdown Request (RP-451 Circuit #'s 4 & 7)*:** panel **RP-451 Ckts 4 & 7** (panel location **CQA**) \u2014 pit fan, lights & receptacles \u2014 to de-energize Broach CAT#18566 at **BOB** for removal; other unknown circuits may exist; **Mon Oct 26 8:15am ET**; GE Lead **Joey Lum**; sub Dynamic Pipe & Power. Same time/machine as T233 (PP-19 Ckt #9) but different panel. Both now on Kat's calendar. **Fri ~11:25am ET UPDATE:** GE David Hinkson issued official *SHUTDOWN NOTIFICATION - RP-451 ckt's-4, 7* (incl. joey.lum@) \u2014 body still says 8:15AM but GE calendar invite on Kat's cal is **9:00\u20139:30am** @ CQA."
+    },
+    {
+      "id": "T236",
+      "status": "open",
+      "priority": "high",
+      "due": "**Mon Oct 26 9:00am ET** (GE notification issued)",
+      "item": "Track **RP-JJ-33 Circuits 3, 6, 7, 8 & 9 shutdown** \u2014 Pit Fan, Lights & Receptacles for **Broach CAT#18654 @ JJB** removal (DPP)",
+      "source": "Email / Jason Marchbanks (DPP)\u2192GVL Outage ~11:32am ET + GE Hinkson SHUTDOWN NOTIFICATION ~11:52am ET 2026-10-23",
+      "notes": "**Fri ~11:32am ET Jason\u2192GVL Outage** request, then **~11:52am ET David Hinkson (GE) issued *SHUTDOWN NOTIFICATION - RP-JJ-33 ckt's-3, 6, 7, 8, 9*** (to Jeff, Katheryn, Jon Roper, Adam McClure, Joshua Bartlett, Shanna Henson): panel + machine at **JJB**; other unknown circuits may exist; **Mon Oct 26 9AM** per email (GE invite on Kat's cal shows 9:30\u201310:00am @ JJC); GE Lead **Joey Lum**; sub DPP. Second JJB Broach machine (companion T237/T238)."
+    },
+    {
+      "id": "T237",
+      "status": "open",
+      "priority": "high",
+      "due": "**Mon Oct 26 9:30am ET** (GE notification issued)",
+      "item": "Track **PP-11B-4 Circuit #1 shutdown** \u2014 **Broach CAT#18654 @ JJB** removal (DPP)",
+      "source": "Email / Jason Marchbanks (DPP)\u2192GVL Outage ~11:27am ET + GE Hinkson SHUTDOWN NOTIFICATION ~11:48am ET 2026-10-23",
+      "notes": "**Fri ~11:48am ET Hinkson (GE) *SHUTDOWN NOTIFICATION - PP-11B-4 ckt-1***: machine location **JJC**, panel location **JKB**; **Mon Oct 26 9:30AM**; GE Lead **Joey Lum**; sub DPP. Companion to T236 (RP-JJ-33)."
+    },
+    {
+      "id": "T238",
+      "status": "open",
+      "priority": "high",
+      "due": "**Mon Oct 26 9:00am ET** (requested \u2014 watch for GE fire-alarm approval)",
+      "item": "Track **fire alarm / suppression outage** for **Broach CAT#18654 @ JJB + Broach CAT#18566 @ BOB** removals (DPP)",
+      "source": "Email / Jason Marchbanks (DPP)\u2192Jason Dickerson (GE) 2026-10-23 ~11:41am ET",
+      "notes": "**Fri ~11:41am ET Jason Marchbanks\u2192Jason Dickerson (GE), cc Jeff, Katheryn, Adam McClure, Steven Olivieri, *Fire Alarm Outage Request (BOB Broach & JJB Broach)*:** remove fire suppression from both Broaches; **Mon Oct 26 9AM**; GE Lead Joey Lum. Ties T233/T235 (BOB) and T236/T237 (JJB). Two identical holds on Kat's cal (dedupe)."
+    },
+    {
+      "id": "T239",
+      "status": "open",
+      "priority": "low",
+      "due": "**Mon Oct 26 7:45\u20139:15am ET** (FYI)",
+      "item": "FYI **SP-PQ-34 outage @ QGA (combustion)** \u2014 AMK installing receptacles on ckts 9, 11, 13, 15 & 17 (not Indcom work)",
+      "source": "Email / David Hinkson (GE) OUTAGE NOTIFICATION 2026-10-23 ~11:27am ET",
+      "notes": "Hinkson\u2192Jeff, Katheryn, Adam McClure, Joshua Bartlett: ME Matt Anderson; AMK APM Russ Zubkov; electrician Carolina Power; AMK Job # 26.0324; panel schedule SP-PQ-34.pdf attached. Undocumented 208V/120V loads in area may be affected \u2014 check if any Indcom crew/tools on that panel at QGA Monday morning."
+    },
+    {
+      "id": "T240",
+      "status": "waiting",
+      "priority": "med",
+      "due": "when Jeff can (quote add-on scope)",
+      "item": "**Jeff Rawls / Darryl Lind dust collector add-on scope** \u2014 Katheryn sent Jeff both lists (Aug 26 + Sep 30)",
+      "source": "Email / Katheryn\u2192Jeff 2026-10-23 ~11:35am ET",
+      "notes": "**Fri ~11:35am ET Katheryn\u2192Jeff, *Jeff Rawls - Project info:*** \u2014 GE Vernova dust collector install add-on scope from Darryl Lind: (1) conduit + (4) 1/4\" poly tubing outside, (2) Sch 40 sprinkler piping + heads to each collector (1\" coupling), (3) 1\" compressed air to 4 tank connections @ 13 cfm/90 psi (1.5\u20132\" main), (4) wall penetrations, (5) flash/seal duct penetrations, (6) duct + HEPA supports outside, (7) LV wiring to safety equipment (Boss Products panel needs dedicated 120V + 4\u00d7 18-4 shielded to explosion isolation valve sensors), (8) HV wiring to blowers + 120V pulse cleaning, (9) receive/unload/store equipment, (10) remove utilities from old collector. Waiting on Jeff to quote/decide. Ties T1/T53."
     }
   ],
   "calendar": [
     "**TODAY Fri Oct 23 9:00am\u20133:00pm ET (Bill's availability)** \u2014 Meet Bill Marchbanks re Joey Lum balance / Support Hold (T227) \u2014 e95",
     "**Sat\u2013Sun Oct 24\u201325 (weekend, OT)** \u2014 Build-stand netting/panels on open stands; Andrew Heatherly Sat, Zac Sun guiding; waiting GE ops list of free stands (T198) \u2014 e94",
     "**Mon Oct 26 8:15am ET @ BOB (panel PP-19 @ BPB) (NEW \u2014 DPP request ~8:11am)** \u2014 Shutdown **PP-19 Ckt #9** for **Broach CAT#18566** removal; GE Lead Grant Bartlett (T233) \u2014 e93",
+    "**Mon Oct 26 8:15am ET @ BOB (panel RP-451 @ CQA)** \u2014 Shutdown **RP-451 Ckts 4 & 7** (Broach CAT#18566); GE notification issued ~11:25am, GE invite shows 9:00\u20139:30am (T235) \u2014 e96",
+    "**Mon Oct 26 7:45\u20139:15am ET @ QGA (NEW \u2014 GE notification)** \u2014 FYI outage **SP-PQ-34** (AMK receptacles; Carolina Power) (T239) \u2014 e100",
+    "**Mon Oct 26 9:00am ET @ JJB & BOB (NEW \u2014 DPP request)** \u2014 **Fire alarm/suppression outage** for both Broach removals (T238) \u2014 e99",
+    "**Mon Oct 26 9:00am ET @ JJB (NEW \u2014 GE notification; GE invite 9:30\u201310:00am)** \u2014 Shutdown **RP-JJ-33 Ckts 3, 6, 7, 8 & 9** (Broach CAT#18654) (T236) \u2014 e97",
+    "**Mon Oct 26 9:30am ET @ JJC (panel PP-11B-4 @ JKB) (NEW \u2014 GE notification)** \u2014 Shutdown **PP-11B-4 Ckt #1** (Broach CAT#18654) (T237) \u2014 e98",
     "**Fri Oct 23 11:00\u201311:30am ET @ LDB** \u2014 Meeting: **LDB Rotor Lathe Shoring Review** (JT Pingry/AM King; Buellesbach, Kirkley, Rollins) (T228)",
     "\u2705 PAST **Thu Oct 22 10:30pm \u2013 Fri Oct 23 6:30am ET @ MEA ( \u2014 Paul Madak ~2:27pm; Kat cal Jeff hold)** \u2014 Outage **Cranes 700055 & 700056 powered down** for GE construction project (T222) \u2014 e92",
     "**Fri Oct 23 (deadline) \u2014 ANSWERED Thu ~1:50pm** \u2014 Jeff gave Bill Joey Lum balance $71,163.78 (T227)",
@@ -1873,21 +1923,6 @@
     "**Fri Oct 23 (expected)** \u2014 Meltric extension reels arrive \u2192 finish 220V power hook-up on 2 build stands (Andrew Heatherly) (T216)"
   ],
   "events": [
-    {
-      "id": "e78",
-      "type": "work",
-      "title": "TODAY \u2014 EZA UA Ops Tower renovation starts (training\u2194office conversion)",
-      "summary": "Mon Oct 19 start \u2014 6\u20138 weeks; green-tape keepers (Colby Murphy / Minhaj Syed); training/meeting space unavailable during reno; phase 1 training\u2192office then office\u2192meeting",
-      "start": "2026-10-19",
-      "end": null,
-      "allDay": true,
-      "location": "EZA UA Ops Tower",
-      "relatedTodos": [
-        "T23",
-        "T169"
-      ],
-      "notes": "Minhaj Syed ~10:49am Thu Oct 15 email (cc Jeff+Katheryn). Not on Kat Google Calendar \u2014 email only. Thu Oct 15 ~3:54pm ET Matthew Larmore (JMT Commercial Flooring) Re: EZA ops tower: confirm two areas per attached drawings; assumes J&J LVP Legends 3 Color Fable 108 + 6\" black base; walk-off carpet tile Qs; existing floor?; ~2 days per area (two mobilizations); asks how far out install is. Jeff to answer. UPDATE Mon Oct 19 ~8:10am ET: start day; no weekend Minhaj/JMT/CDI/PMC mail; CDI deposit pending (T189); Ariba 4900667131 dropped off unconfirmed list (T169)."
-    },
     {
       "id": "e4",
       "summary": "OVERDUE Deadline: Guard rail AAA\u2013AUA (Bob Peterson)",
@@ -2532,6 +2567,36 @@
       "todoId": "T111"
     },
     {
+      "id": "e80",
+      "type": "outage",
+      "title": "PASSED \u2014 Outage/Shutdown/LOTO: Mitsubishi Sinker EDMs Fire Alarm Tie-ins (TP-11B-8.1)",
+      "summary": "Fri Oct 16 7:45\u20139:00am ET \u2014 DPP install relays for final Fire Alarm Connections in motor-starter combos; Sinkers #2301352/#2301353/#2301348 @ HDA/HEA; GE Lead Jim Stanley (Hinkson IMPROMPTU; Jason request)",
+      "start": "2026-10-16T07:45:00-04:00",
+      "end": "2026-10-16T09:00:00-04:00",
+      "allDay": false,
+      "location": "HDA / HEA (TP-11B-8.1 @ HDA)",
+      "relatedTodos": [
+        "T184",
+        "T67",
+        "T72"
+      ],
+      "notes": "Jason Marchbanks ~7:20am Fri Oct 16 outage request; Hinkson ~7:24am IMPROMPTU OUTAGES FOR FIRE ALARM TIE-INS (invite.ics). Kat cal shows Hinkson invite + Jeff Outage/Shutdown/LOTO hold = one (deduped). Directly addresses T67 FA termination/NC-contact gap. No scaffold mentioned. UPDATE Fri ~9:10am ET: window ended 9:00am; no Hinkson/Jason \u201ccomplete\u201d reply yet \u2014 confirm complete (T184). UPDATE Fri ~10:04am ET: still no Hinkson/Jason \u201ccomplete\u201d reply on the FA tie-in thread \u2014 confirm (T184). UPDATE Mon Oct 19 ~8:10am ET: still no complete reply (T184).",
+      "status": "passed-confirm"
+    },
+    {
+      "id": "e76",
+      "type": "outage",
+      "title": "DONE \u2014 Outage/Shutdown/LOTO: RP-19B-3.4 @ ABA \u2014 Downdraft Table Cell 5-6 receptacles",
+      "summary": "Fri Oct 16 9:00\u20139:30am ET \u2014 DPP install (4) duplex receptacles for new downdraft table; GE Lead Matt Fitts (Hinkson OUTAGE NOTIFICATION confirmed; moved from 8:00 request)",
+      "location": "ABA",
+      "description": "Jason Marchbanks (DPP) Thu Oct 15 ~7:47am ET outage request to Hinkson/McCurry (cc Roper, Jeff, Katheryn, Adam McClure, Fitts): Panel RP-19B-3.4 @ ABA; project Downdraft Table Cell 5-6; install (4) duplex receptacles for new downdraft table. Kat calendar has two Jeff holds 8:00\u20138:30 (deduped). Ties T137 (SD23 DDT install). (T173) UPDATE Thu ~9:07am ET Hinkson OUTAGE NOTIFICATION: time set 9:00\u20139:30am (not 8:00\u20138:30); affects misc area receptacles, undocumented 208V loads, misc 120V devices. Kat cal Hinkson invite + Jeff holds all 9:00\u20139:30 (deduped). UPDATE Fri Oct 16 ~9:17am ET: Hinkson reply-all \u201cOutage complete.\u201d T173 closed (DDT install quote/PO stays on T137).",
+      "start": "2026-10-16T09:00:00-04:00",
+      "end": "2026-10-16T09:30:00-04:00",
+      "allDay": false,
+      "todoId": "T173",
+      "status": "done"
+    },
+    {
       "id": "e53",
       "type": "outage",
       "title": "LIKELY CANCELED \u2014 Exclusion zone: BCL7 crane lift Sat Oct 17 \u2014 ANA/ANB thru AYA/AYB + Admin",
@@ -2542,6 +2607,48 @@
       "end": "2026-10-17T19:00:00-04:00",
       "allDay": false,
       "todoId": "T120"
+    },
+    {
+      "id": "e79",
+      "type": "outage",
+      "title": "DONE \u2014 Outage/Shutdown/LOTO: RP-10 Circuit #30 \u2014 BSA Data Cabinets 20-S2-IE4K & 20-S2-CP",
+      "summary": "Sat Oct 17 7:00am \u2013 Sun Oct 18 5:00pm ET \u2014 DPP relocate Data Cabinets 20-S2-IE4K & 20-S2-CP (BSA); networking in area affected; GE Lead Alex Leppard; Hinkson notice confirmed",
+      "location": "RP-10 Circuit #30 / ASB; BSA and surrounding areas",
+      "description": "Jason Marchbanks (DPP) Thu Oct 15 ~11:14am ET outage request to Hinkson/McCurry (cc Roper, Jeff, Katheryn, Adam McClure): Panel RP-10 Circuit #30; project BSA Data Cabinet 20-S2-IE4K Relocation; purpose relocate Data Cabinets 20-S2-IE4K & 20-S2-CP; Sat Oct 17 7:00AM \u2013 Sun Oct 18 5:00PM; sub DPP. ~11:18am: GE Lead Alex Leppard. Kat cal Jeff hold Outage/Shutdown/LOTO: RP-10 Circuit #30 same window (created ~11:22am). (T176) Thu ~1:01pm ET Hinkson OUTAGE NOTIFICATION confirmed same window; affected 20-S2-IE4K & 20-S2-CP + networking in the area; location ASB; BSA and surrounding areas (Hinkson invite deduped). UPDATE Fri ~5:09pm ET: Jeff confirmed MOC 23204 / Alex Leppard. UPDATE Mon Oct 19 ~5:44am ET: DPP Invoice 4717 *BSA \u2013 Relocation of Existing Cabinets 20-S2-1E4K & 20-S2-CP* = work done (T176 closed \u2192 payment T200). No Hinkson \u201cOutage complete\u201d reply seen.",
+      "start": "2026-10-17T07:00:00-04:00",
+      "end": "2026-10-18T17:00:00-04:00",
+      "allDay": false,
+      "todoId": "T176",
+      "status": "done"
+    },
+    {
+      "id": "e81",
+      "type": "meeting",
+      "title": "PASSED \u2014 Indcom Corp Family Meeting 2",
+      "summary": "Sun Oct 18 2:00\u20133:00pm ET @ 17 International Ct (Google Meet option) \u2014 Bill Marchbanks invited Katheryn + Jeff",
+      "location": "17 International Ct, Greenville, SC 29607",
+      "description": "Fri Oct 16 ~8:46am ET Bill Marchbanks Kat-cal + Jeff invite. Google Meet meet.google.com/aqx-ybio-bwp; phone +1 575-518-3073 PIN 272876755. Guests: Bill (organizer), Katheryn, Jeff (optional). Same weekend as RP-10 Ckt#30 outage (e79) and Sun coater scaffold strike. (T186) UPDATE Sat Oct 17 ~4:56pm ET: Bill updated invite (description/Meet details removed; Jeff regular guest). Meeting window passed Sun; no outcome mail (T186 closed).",
+      "start": "2026-10-18T14:00:00-04:00",
+      "end": "2026-10-18T15:00:00-04:00",
+      "allDay": false,
+      "todoId": "T186",
+      "relatedTodo": "T186",
+      "status": "passed"
+    },
+    {
+      "id": "e78",
+      "type": "work",
+      "title": "TODAY \u2014 EZA UA Ops Tower renovation starts (training\u2194office conversion)",
+      "summary": "Mon Oct 19 start \u2014 6\u20138 weeks; green-tape keepers (Colby Murphy / Minhaj Syed); training/meeting space unavailable during reno; phase 1 training\u2192office then office\u2192meeting",
+      "start": "2026-10-19",
+      "end": null,
+      "allDay": true,
+      "location": "EZA UA Ops Tower",
+      "relatedTodos": [
+        "T23",
+        "T169"
+      ],
+      "notes": "Minhaj Syed ~10:49am Thu Oct 15 email (cc Jeff+Katheryn). Not on Kat Google Calendar \u2014 email only. Thu Oct 15 ~3:54pm ET Matthew Larmore (JMT Commercial Flooring) Re: EZA ops tower: confirm two areas per attached drawings; assumes J&J LVP Legends 3 Color Fable 108 + 6\" black base; walk-off carpet tile Qs; existing floor?; ~2 days per area (two mobilizations); asks how far out install is. Jeff to answer. UPDATE Mon Oct 19 ~8:10am ET: start day; no weekend Minhaj/JMT/CDI/PMC mail; CDI deposit pending (T189); Ariba 4900667131 dropped off unconfirmed list (T169)."
     },
     {
       "id": "e73",
@@ -2557,6 +2664,213 @@
       "status": "scheduled"
     },
     {
+      "id": "e77",
+      "type": "work",
+      "title": "TODAY \u2014 Allied Modular starts BSA office install (BSA 18034)",
+      "summary": "Mon Oct 19 \u2014 Allied Modular (Gloria Pedroza) starting BSA; wants to work concurrently with Indcom fire suppression etc.",
+      "location": "BSA",
+      "description": "Gloria Pedroza (Allied Modular Sr PM) Thu Oct 15 ~8:13am ET Fw: BSA 18034 to Jeff: starting 10-19-26 for the BSA; tight schedule; asks if they can work at the same time while Indcom does Fire Suppression etc. Drawings QH-12515-1/-2 attached. Email only (not on Kat cal). (T13) UPDATE Mon Oct 19 ~8:10am ET: start day; no weekend Allied/Gloria reply mail; raised floor (T195) + joint data/electrical review (T178) still pending.",
+      "start": "2026-10-19",
+      "end": "2026-10-20",
+      "allDay": true,
+      "todoId": "T13"
+    },
+    {
+      "id": "e83",
+      "type": "deadline",
+      "title": "Deadline: Netting / side panels on elevated scaffolding build stands (GE EHS read-across) \u2014 waiting Zac go-ahead",
+      "summary": "Build-stand netting/side panels \u2014 GE wants ASAP; netting arrives Tue Oct 27, Jeff waiting on which stands/off-shift windows",
+      "location": "UA / Turbine Assembly elevated build stands",
+      "description": "Zac Ciesielczyk (GE Turbine Assembly Sr Mfg Eng) Mon Oct 19 ~7:36am ET FW: Read Across \u2013 Build Stand ATS Finding (cc Hudson Brower, Andrew Heatherly, Christine Price): EHS requires netting or side panels on all elevated build stands; scaffolding stands within 2\u20133 days; possible follow-on corrugated-plastic panels on permanent stand railings (GE material). ATS 14620/14621/14623\u201314626. Julia: Jason (Pulse Thu Oct 15) wants gaps closed immediately; update Thu 10/22; discuss at RTA EHS walk Mon. Email only (not on Kat cal). (T198) UPDATE Mon ~9:02am ET: Jeff offered enclosure-style panels; waiting Zac. UPDATE Mon ~9:24am ET: Zac asked for examples on site or pictures of the enclosure-style panels. UPDATE Mon ~12:02pm ET: Jeff sent Zac a photo of the enclosure-style panel (deck-to-handrail only); waiting Zac. UPDATE Thu Oct 22 ~7:52am ET: Zac says leadership wants panels ASAP. UPDATE Thu ~9:56am ET: Jeff securing netting, proposes weekend install (fewer workers), asked which stands are idle this weekend/off-shift; Amazon netting (8 rolls 4'x150') arriving Tue Oct 27.",
+      "start": "2026-10-19",
+      "end": "2026-10-28",
+      "allDay": true,
+      "todoId": "T198",
+      "relatedTodos": [
+        "T198"
+      ],
+      "status": "scheduled",
+      "notes": " Mon Oct 19 ~9:02am ET Jeff\u2192Zac (cc Hudson Brower, William Heatherly, Christine Price): \"We can assist with that. Would you like us to install the panels like we have in the enclosures on the scaffold buildstands?\" \u2014 waiting Zac (T198 \u2192 waiting). Mon Oct 19 ~9:24am ET Zac\u2192Jeff: \"Do you have any examples on site or pictures already so I can better understand?\" (T198 \u2192 open). Mon Oct 19 ~12:02pm ET Jeff\u2192Zac: photo of elevated platform w/ enclosure panel, deck-to-handrail coverage (T198 \u2192 waiting). Thu Oct 22 ~9:56am ET Jeff\u2192Zac: weekend install proposed, asked which stands idle; Amazon netting arriving Tue Oct 27 (T198 \u2192 waiting)."
+    },
+    {
+      "id": "e84",
+      "type": "outage",
+      "title": "Outage: Mitsubishi Sinker FA relay install \u2014 #2301350 HAA / #2301351 HCA / #2301349 HDA (TP-11B-8.1 ckts 13, 21, 23)",
+      "summary": "DONE \u2014 GVL.Outage \u201cOutage complete\u201d ~11:07am ET Tue Oct 20 (window 10:00\u201310:30am ET); GE Lead Jim Stanley; T67 retest pending",
+      "location": "HAA-HDA (TP-11B-8.1 @ HDA)",
+      "description": "Jason Marchbanks (DPP) \u2192 David Hinkson, Jeff McCurry, Jeff (cc Jon Roper, Jim Stanley, Katheryn, Adam McClure). Ckts: HAA #13, HCA #23, HDA #21. Second Sinker set after T184 (Fri Oct 16). Feeds T67 fire test / green tag. Hinkson invite on Kat cal 10:00\u201310:30am ET; Jeff also added his own copy (deduped). GE (Jeff McCurry) asked DPP to send future outage requests to GVL.Outage@gevernova.com.",
+      "start": "2026-10-20T10:00:00-04:00",
+      "end": "2026-10-20T10:30:00-04:00",
+      "allDay": false,
+      "todoId": "T210",
+      "relatedTodos": [
+        "T210",
+        "T67",
+        "T184"
+      ],
+      "status": "done"
+    },
+    {
+      "id": "e85",
+      "type": "outage",
+      "title": "Energization: Ramco Parts Washers #2301361 HEA / #2301362 HCA (PP-7B-7 ckts 8, 10)",
+      "summary": "DONE \u2014 GVL.Outage \u201cEnergization complete\u201d ~10:25am ET Tue Oct 20 (window 10:00\u201310:30am ET); GE Lead Jim Stanley",
+      "location": "HCA, HEA (PP-7B-7 @ HCA)",
+      "description": "Jason Marchbanks (DPP) \u2192 David Hinkson, Jeff McCurry (cc Jeff, Katheryn, Adam McClure, Jim Stanley, Shanna Henson, Jon Roper). Ckts: PP-7B-7 #8 (HEA, 2301361), #10 (HCA, 2301362). Hinkson invite on Kat cal 10:00\u201310:30am ET (one-lines attached).",
+      "start": "2026-10-20T10:00:00-04:00",
+      "end": "2026-10-20T10:30:00-04:00",
+      "allDay": false,
+      "todoId": "T214",
+      "relatedTodos": [
+        "T214"
+      ],
+      "status": "done"
+    },
+    {
+      "type": "outage",
+      "location": "MEA area",
+      "todoId": "T222",
+      "relatedTodos": [
+        "T222"
+      ],
+      "allDay": false,
+      "status": "past",
+      "description": "Paul Madak (GE Vernova) \u2192 Jeff + GE team, 'Crane outage MEA' (~10:23am ET) and 'MEA Crane outage' (~10:25am ET, Teams link). Jeff holds on Kat cal (12\u20138pm had 2 duplicate holds, deduped). Second invite may be a reschedule of the first.",
+      "id": "e87",
+      "title": "Outage: MEA Cranes 700055 & 700056 powered down (construction)",
+      "summary": "Wed Oct 21 12:00\u20138:00pm ET \u2014 Paul Madak (GE)",
+      "start": "2026-10-21T12:00:00-04:00",
+      "end": "2026-10-21T20:00:00-04:00"
+    },
+    {
+      "type": "outage",
+      "location": "MEA area",
+      "todoId": "T222",
+      "relatedTodos": [
+        "T222"
+      ],
+      "allDay": false,
+      "status": "past",
+      "description": "Paul Madak (GE Vernova) \u2192 Jeff + GE team, 'Crane outage MEA' (~10:23am ET) and 'MEA Crane outage' (~10:25am ET, Teams link). Jeff holds on Kat cal (12\u20138pm had 2 duplicate holds, deduped). Second invite may be a reschedule of the first.",
+      "id": "e88",
+      "title": "Outage: MEA Cranes 700055 & 700056 powered down (construction) \u2014 overnight",
+      "summary": "Wed Oct 21 10:00pm \u2013 Thu Oct 22 6:00am ET \u2014 Paul Madak (GE)",
+      "start": "2026-10-21T22:00:00-04:00",
+      "end": "2026-10-22T06:00:00-04:00"
+    },
+    {
+      "id": "e92",
+      "type": "outage",
+      "title": "Outage: MEA Cranes 700055 & 700056 powered down (construction)",
+      "summary": "Thu Oct 22 10:30pm \u2013 Fri Oct 23 6:30am ET \u2014 Paul Madak (GE)",
+      "start": "2026-10-22T22:30:00-04:00",
+      "end": "2026-10-23T06:30:00-04:00",
+      "allDay": false,
+      "location": "MEA Crane",
+      "status": "done",
+      "todoId": "T222",
+      "relatedTodos": [
+        "T222"
+      ],
+      "description": "Paul Madak (GE Vernova) 'MEA Crane outages' invites ~2:21pm + ~2:27pm ET Thu Oct 22 (deduped). Jeff hold on Kat cal."
+    },
+    {
+      "id": "e86",
+      "type": "work",
+      "title": "Meltric extension reels expected \u2014 finish 220V power hook-up on 2 build stands",
+      "summary": "Jeff Tue ~6:52pm ET: work started, conduit panels\u2192stand columns in place; reels should be in by Fri Oct 23 (Andrew Heatherly, GE ME Turbine Assembly)",
+      "location": "UA / Turbine Assembly build stands",
+      "description": "Email only; not on Kat cal. Jeff\u2192Andrew Heatherly (cc Zac Ciesielczyk, Hudson Brower), Re: 220 Power for Stands.",
+      "start": "2026-10-23",
+      "end": "2026-10-24",
+      "allDay": true,
+      "todoId": "T216",
+      "relatedTodos": [
+        "T216"
+      ],
+      "status": "upcoming"
+    },
+    {
+      "id": "e89",
+      "type": "work",
+      "title": "EZA ops tower \u2014 JMT floor demo (existing LVT removal) proposed start",
+      "summary": "Fri Oct 23 \u2014 Jeff asked Matt Larmore (JMT) to start; room cleared by Friday (awaiting confirm)",
+      "start": "2026-10-23",
+      "end": "2026-10-24",
+      "allDay": true,
+      "location": "EZA Ops Tower",
+      "status": "upcoming",
+      "todoId": "T23",
+      "relatedTodos": [
+        "T23"
+      ],
+      "description": "Jeff\u2192Matt Larmore Wed Oct 21 ~8:04pm ET: same tile/base; walk-off carpet samples needed; second area after operations relocate."
+    },
+    {
+      "id": "e91",
+      "type": "deadline",
+      "title": "Joey Lum unsecured-work total due to Bill \u2014 ANSWERED",
+      "summary": "Fri Oct 23 \u2014 Bill Marchbanks needs exact amount Joey Lum owes for prior unsecured work (Support Hold threat)",
+      "start": "2026-10-23",
+      "end": "2026-10-24",
+      "allDay": true,
+      "location": "",
+      "status": "done",
+      "todoId": "T227",
+      "relatedTodos": [
+        "T227"
+      ],
+      "description": "Bill\u2192Jeff Thu Oct 22 ~11:28am ET. Jeff\u2192Bill Thu ~1:50pm ET: balance $71,163.78 (inv 3418/3454/3455)."
+    },
+    {
+      "id": "e95",
+      "type": "meeting",
+      "title": "Meet Bill re Joey Lum balance",
+      "summary": "Fri Oct 23 \u2014 Bill available 9am\u20133pm ET",
+      "start": "2026-10-23T09:00:00-04:00",
+      "end": "2026-10-23T15:00:00-04:00",
+      "allDay": false,
+      "location": "",
+      "status": "today",
+      "todoId": "T227",
+      "relatedTodos": [
+        "T227"
+      ],
+      "description": "Bill Marchbanks Fri ~4:03am ET: let's meet to discuss today (Support Hold decision)."
+    },
+    {
+      "id": "e90",
+      "type": "meeting",
+      "title": "LDB Rotor Lathe Shoring Review (AM King)",
+      "summary": "Fri Oct 23 11:00\u201311:30am ET @ LDB \u2014 JT Pingry invite (Buellesbach, Kirkley, Rollins, Herman, Gordon)",
+      "start": "2026-10-23T11:00:00-04:00",
+      "end": "2026-10-23T11:30:00-04:00",
+      "allDay": false,
+      "location": "LDB",
+      "status": "upcoming",
+      "todoId": "T228",
+      "relatedTodos": [
+        "T228"
+      ],
+      "description": "JT Pingry (AM King) invite.ics sent Thu Oct 22 ~11:16am ET; body empty. Not on Katheryn's calendar."
+    },
+    {
+      "id": "e94",
+      "type": "work",
+      "title": "Weekend build-stand netting/panels (open stands)",
+      "summary": "Sat\u2013Sun Oct 24\u201325 \u2014 Andrew Sat, Zac Sun guiding; waiting GE ops list of free stands",
+      "start": "2026-10-24",
+      "end": "2026-10-26",
+      "allDay": true,
+      "location": "GE build stands",
+      "status": "upcoming",
+      "todoId": "T198",
+      "relatedTodos": [
+        "T198"
+      ],
+      "description": "Zac ordered 300' fencing to zip-tie; Jeff short on netting for every GE stand (2\u20134 day shipping). Weekend = OT."
+    },
+    {
       "id": "e66",
       "type": "deadline",
       "title": "Deadline: MDB foundation wall up (AM King cutting starts wk of 10/26)",
@@ -2568,6 +2882,111 @@
       "allDay": true,
       "todoId": "T151",
       "status": "pending"
+    },
+    {
+      "allDay": false,
+      "status": "upcoming",
+      "id": "e100",
+      "type": "outage",
+      "title": "FYI Outage: SP-PQ-34 @ QGA (combustion)",
+      "summary": "Mon Oct 26 7:45\u20139:15am ET \u2014 AMK receptacles ckts 9/11/13/15/17",
+      "start": "2026-10-26T07:45:00-04:00",
+      "end": "2026-10-26T09:15:00-04:00",
+      "location": "QGA",
+      "todoId": "T239",
+      "relatedTodos": [
+        "T239"
+      ],
+      "description": "GE Hinkson OUTAGE NOTIFICATION ~11:27am ET Fri Oct 23; Carolina Power electrician; AMK Job 26.0324."
+    },
+    {
+      "id": "e93",
+      "type": "outage",
+      "title": "Shutdown: PP-19 Circuit #9 \u2014 Broach CAT#18566 removal @ BOB",
+      "summary": "Mon Oct 26 8:15am ET \u2014 DPP request; GE Lead Grant Bartlett",
+      "start": "2026-10-26T08:15:00-04:00",
+      "end": "2026-10-26T09:15:00-04:00",
+      "allDay": false,
+      "location": "BOB (panel PP-19 @ BPB)",
+      "status": "upcoming",
+      "todoId": "T233",
+      "relatedTodos": [
+        "T233",
+        "T235"
+      ],
+      "description": "Jason Marchbanks (DPP) shutdown request to GVL Outage Fri Oct 23 ~8:11am ET. End time not stated (1h placeholder)."
+    },
+    {
+      "id": "e96",
+      "type": "outage",
+      "title": "Shutdown: RP-451 Circuits 4 & 7 \u2014 Broach CAT#18566 removal @ BOB",
+      "summary": "Mon Oct 26 8:15am ET \u2014 DPP request; GE Lead Joey Lum (pit fan, lights, receptacles)",
+      "start": "2026-10-26T08:15:00-04:00",
+      "end": "2026-10-26T09:15:00-04:00",
+      "allDay": false,
+      "location": "BOB (panel RP-451 @ CQA)",
+      "status": "upcoming",
+      "todoId": "T235",
+      "relatedTodos": [
+        "T235",
+        "T233"
+      ],
+      "description": "Jason Marchbanks (DPP) shutdown request to GVL Outage Fri Oct 23 ~8:16am ET. Companion to PP-19 Ckt #9 (e93). End time not stated (1h placeholder). GE Hinkson official SHUTDOWN NOTIFICATION Fri ~11:25am ET; GE invite on Kat's cal shows 9:00\u20139:30am."
+    },
+    {
+      "allDay": false,
+      "status": "upcoming",
+      "id": "e97",
+      "type": "outage",
+      "title": "Shutdown: RP-JJ-33 Circuits 3, 6, 7, 8 & 9 \u2014 Broach CAT#18654 removal @ JJB",
+      "summary": "Mon Oct 26 9:00am ET \u2014 GE notification; GE Lead Joey Lum (pit fan, lights, receptacles)",
+      "start": "2026-10-26T09:00:00-04:00",
+      "end": "2026-10-26T10:00:00-04:00",
+      "location": "JJB (panel RP-JJ-33 @ JJB)",
+      "todoId": "T236",
+      "relatedTodos": [
+        "T236",
+        "T237",
+        "T238"
+      ],
+      "description": "DPP request ~11:32am; GE Hinkson SHUTDOWN NOTIFICATION ~11:52am ET Fri Oct 23. Email says 9AM; GE invite 9:30\u201310:00am."
+    },
+    {
+      "allDay": false,
+      "status": "upcoming",
+      "id": "e99",
+      "type": "outage",
+      "title": "Fire alarm / suppression outage \u2014 Broach removals @ JJB & BOB",
+      "summary": "Mon Oct 26 9:00am ET \u2014 DPP request to GE (Jason Dickerson)",
+      "start": "2026-10-26T09:00:00-04:00",
+      "end": "2026-10-26T10:00:00-04:00",
+      "location": "JJB & BOB",
+      "todoId": "T238",
+      "relatedTodos": [
+        "T238",
+        "T233",
+        "T235",
+        "T236",
+        "T237"
+      ],
+      "description": "Jason Marchbanks (DPP) request ~11:41am ET Fri Oct 23. End time not stated (1h placeholder)."
+    },
+    {
+      "allDay": false,
+      "status": "upcoming",
+      "id": "e98",
+      "type": "outage",
+      "title": "Shutdown: PP-11B-4 Circuit #1 \u2014 Broach CAT#18654 removal",
+      "summary": "Mon Oct 26 9:30am ET \u2014 GE notification; GE Lead Joey Lum",
+      "start": "2026-10-26T09:30:00-04:00",
+      "end": "2026-10-26T10:00:00-04:00",
+      "location": "JJC (panel PP-11B-4 @ JKB)",
+      "todoId": "T237",
+      "relatedTodos": [
+        "T237",
+        "T236"
+      ],
+      "description": "GE Hinkson SHUTDOWN NOTIFICATION ~11:48am ET Fri Oct 23."
     },
     {
       "id": "e74",
@@ -2632,87 +3051,6 @@
       "todoId": "T110"
     },
     {
-      "id": "e45",
-      "type": "deadline",
-      "title": "Deadline: GE PO 4900661672 need-by \u2014 Material Rental Cycles ($22,125)",
-      "summary": "Deadline: GE PO 4900661672 need-by (Joey Lum)",
-      "location": "Ariba / SAP Business Network",
-      "description": "PO 4900661672 Material Rental Cycles Sep 1\u2013Jan 18; PR841755; need-by Dec 21. Ack now; invoice per cycle. (T104)",
-      "start": "2026-12-21",
-      "end": "2026-12-22",
-      "allDay": true,
-      "todoId": "T104"
-    },
-    {
-      "id": "e76",
-      "type": "outage",
-      "title": "DONE \u2014 Outage/Shutdown/LOTO: RP-19B-3.4 @ ABA \u2014 Downdraft Table Cell 5-6 receptacles",
-      "summary": "Fri Oct 16 9:00\u20139:30am ET \u2014 DPP install (4) duplex receptacles for new downdraft table; GE Lead Matt Fitts (Hinkson OUTAGE NOTIFICATION confirmed; moved from 8:00 request)",
-      "location": "ABA",
-      "description": "Jason Marchbanks (DPP) Thu Oct 15 ~7:47am ET outage request to Hinkson/McCurry (cc Roper, Jeff, Katheryn, Adam McClure, Fitts): Panel RP-19B-3.4 @ ABA; project Downdraft Table Cell 5-6; install (4) duplex receptacles for new downdraft table. Kat calendar has two Jeff holds 8:00\u20138:30 (deduped). Ties T137 (SD23 DDT install). (T173) UPDATE Thu ~9:07am ET Hinkson OUTAGE NOTIFICATION: time set 9:00\u20139:30am (not 8:00\u20138:30); affects misc area receptacles, undocumented 208V loads, misc 120V devices. Kat cal Hinkson invite + Jeff holds all 9:00\u20139:30 (deduped). UPDATE Fri Oct 16 ~9:17am ET: Hinkson reply-all \u201cOutage complete.\u201d T173 closed (DDT install quote/PO stays on T137).",
-      "start": "2026-10-16T09:00:00-04:00",
-      "end": "2026-10-16T09:30:00-04:00",
-      "allDay": false,
-      "todoId": "T173",
-      "status": "done"
-    },
-    {
-      "id": "e77",
-      "type": "work",
-      "title": "TODAY \u2014 Allied Modular starts BSA office install (BSA 18034)",
-      "summary": "Mon Oct 19 \u2014 Allied Modular (Gloria Pedroza) starting BSA; wants to work concurrently with Indcom fire suppression etc.",
-      "location": "BSA",
-      "description": "Gloria Pedroza (Allied Modular Sr PM) Thu Oct 15 ~8:13am ET Fw: BSA 18034 to Jeff: starting 10-19-26 for the BSA; tight schedule; asks if they can work at the same time while Indcom does Fire Suppression etc. Drawings QH-12515-1/-2 attached. Email only (not on Kat cal). (T13) UPDATE Mon Oct 19 ~8:10am ET: start day; no weekend Allied/Gloria reply mail; raised floor (T195) + joint data/electrical review (T178) still pending.",
-      "start": "2026-10-19",
-      "end": "2026-10-20",
-      "allDay": true,
-      "todoId": "T13"
-    },
-    {
-      "id": "e79",
-      "type": "outage",
-      "title": "DONE \u2014 Outage/Shutdown/LOTO: RP-10 Circuit #30 \u2014 BSA Data Cabinets 20-S2-IE4K & 20-S2-CP",
-      "summary": "Sat Oct 17 7:00am \u2013 Sun Oct 18 5:00pm ET \u2014 DPP relocate Data Cabinets 20-S2-IE4K & 20-S2-CP (BSA); networking in area affected; GE Lead Alex Leppard; Hinkson notice confirmed",
-      "location": "RP-10 Circuit #30 / ASB; BSA and surrounding areas",
-      "description": "Jason Marchbanks (DPP) Thu Oct 15 ~11:14am ET outage request to Hinkson/McCurry (cc Roper, Jeff, Katheryn, Adam McClure): Panel RP-10 Circuit #30; project BSA Data Cabinet 20-S2-IE4K Relocation; purpose relocate Data Cabinets 20-S2-IE4K & 20-S2-CP; Sat Oct 17 7:00AM \u2013 Sun Oct 18 5:00PM; sub DPP. ~11:18am: GE Lead Alex Leppard. Kat cal Jeff hold Outage/Shutdown/LOTO: RP-10 Circuit #30 same window (created ~11:22am). (T176) Thu ~1:01pm ET Hinkson OUTAGE NOTIFICATION confirmed same window; affected 20-S2-IE4K & 20-S2-CP + networking in the area; location ASB; BSA and surrounding areas (Hinkson invite deduped). UPDATE Fri ~5:09pm ET: Jeff confirmed MOC 23204 / Alex Leppard. UPDATE Mon Oct 19 ~5:44am ET: DPP Invoice 4717 *BSA \u2013 Relocation of Existing Cabinets 20-S2-1E4K & 20-S2-CP* = work done (T176 closed \u2192 payment T200). No Hinkson \u201cOutage complete\u201d reply seen.",
-      "start": "2026-10-17T07:00:00-04:00",
-      "end": "2026-10-18T17:00:00-04:00",
-      "allDay": false,
-      "todoId": "T176",
-      "status": "done"
-    },
-    {
-      "id": "e80",
-      "type": "outage",
-      "title": "PASSED \u2014 Outage/Shutdown/LOTO: Mitsubishi Sinker EDMs Fire Alarm Tie-ins (TP-11B-8.1)",
-      "summary": "Fri Oct 16 7:45\u20139:00am ET \u2014 DPP install relays for final Fire Alarm Connections in motor-starter combos; Sinkers #2301352/#2301353/#2301348 @ HDA/HEA; GE Lead Jim Stanley (Hinkson IMPROMPTU; Jason request)",
-      "start": "2026-10-16T07:45:00-04:00",
-      "end": "2026-10-16T09:00:00-04:00",
-      "allDay": false,
-      "location": "HDA / HEA (TP-11B-8.1 @ HDA)",
-      "relatedTodos": [
-        "T184",
-        "T67",
-        "T72"
-      ],
-      "notes": "Jason Marchbanks ~7:20am Fri Oct 16 outage request; Hinkson ~7:24am IMPROMPTU OUTAGES FOR FIRE ALARM TIE-INS (invite.ics). Kat cal shows Hinkson invite + Jeff Outage/Shutdown/LOTO hold = one (deduped). Directly addresses T67 FA termination/NC-contact gap. No scaffold mentioned. UPDATE Fri ~9:10am ET: window ended 9:00am; no Hinkson/Jason \u201ccomplete\u201d reply yet \u2014 confirm complete (T184). UPDATE Fri ~10:04am ET: still no Hinkson/Jason \u201ccomplete\u201d reply on the FA tie-in thread \u2014 confirm (T184). UPDATE Mon Oct 19 ~8:10am ET: still no complete reply (T184).",
-      "status": "passed-confirm"
-    },
-    {
-      "id": "e81",
-      "type": "meeting",
-      "title": "PASSED \u2014 Indcom Corp Family Meeting 2",
-      "summary": "Sun Oct 18 2:00\u20133:00pm ET @ 17 International Ct (Google Meet option) \u2014 Bill Marchbanks invited Katheryn + Jeff",
-      "location": "17 International Ct, Greenville, SC 29607",
-      "description": "Fri Oct 16 ~8:46am ET Bill Marchbanks Kat-cal + Jeff invite. Google Meet meet.google.com/aqx-ybio-bwp; phone +1 575-518-3073 PIN 272876755. Guests: Bill (organizer), Katheryn, Jeff (optional). Same weekend as RP-10 Ckt#30 outage (e79) and Sun coater scaffold strike. (T186) UPDATE Sat Oct 17 ~4:56pm ET: Bill updated invite (description/Meet details removed; Jeff regular guest). Meeting window passed Sun; no outcome mail (T186 closed).",
-      "start": "2026-10-18T14:00:00-04:00",
-      "end": "2026-10-18T15:00:00-04:00",
-      "allDay": false,
-      "todoId": "T186",
-      "relatedTodo": "T186",
-      "status": "passed"
-    },
-    {
       "id": "e82",
       "type": "outage",
       "title": "Outage/Shutdown/LOTO: GTTL HVAC Chilled Water System \u2014 Valve Replacement (NO HVAC cooling building-wide)",
@@ -2729,233 +3067,16 @@
       "status": "scheduled"
     },
     {
-      "id": "e83",
+      "id": "e45",
       "type": "deadline",
-      "title": "Deadline: Netting / side panels on elevated scaffolding build stands (GE EHS read-across) \u2014 waiting Zac go-ahead",
-      "summary": "Build-stand netting/side panels \u2014 GE wants ASAP; netting arrives Tue Oct 27, Jeff waiting on which stands/off-shift windows",
-      "location": "UA / Turbine Assembly elevated build stands",
-      "description": "Zac Ciesielczyk (GE Turbine Assembly Sr Mfg Eng) Mon Oct 19 ~7:36am ET FW: Read Across \u2013 Build Stand ATS Finding (cc Hudson Brower, Andrew Heatherly, Christine Price): EHS requires netting or side panels on all elevated build stands; scaffolding stands within 2\u20133 days; possible follow-on corrugated-plastic panels on permanent stand railings (GE material). ATS 14620/14621/14623\u201314626. Julia: Jason (Pulse Thu Oct 15) wants gaps closed immediately; update Thu 10/22; discuss at RTA EHS walk Mon. Email only (not on Kat cal). (T198) UPDATE Mon ~9:02am ET: Jeff offered enclosure-style panels; waiting Zac. UPDATE Mon ~9:24am ET: Zac asked for examples on site or pictures of the enclosure-style panels. UPDATE Mon ~12:02pm ET: Jeff sent Zac a photo of the enclosure-style panel (deck-to-handrail only); waiting Zac. UPDATE Thu Oct 22 ~7:52am ET: Zac says leadership wants panels ASAP. UPDATE Thu ~9:56am ET: Jeff securing netting, proposes weekend install (fewer workers), asked which stands are idle this weekend/off-shift; Amazon netting (8 rolls 4'x150') arriving Tue Oct 27.",
-      "start": "2026-10-19",
-      "end": "2026-10-28",
+      "title": "Deadline: GE PO 4900661672 need-by \u2014 Material Rental Cycles ($22,125)",
+      "summary": "Deadline: GE PO 4900661672 need-by (Joey Lum)",
+      "location": "Ariba / SAP Business Network",
+      "description": "PO 4900661672 Material Rental Cycles Sep 1\u2013Jan 18; PR841755; need-by Dec 21. Ack now; invoice per cycle. (T104)",
+      "start": "2026-12-21",
+      "end": "2026-12-22",
       "allDay": true,
-      "todoId": "T198",
-      "relatedTodos": [
-        "T198"
-      ],
-      "status": "scheduled",
-      "notes": " Mon Oct 19 ~9:02am ET Jeff\u2192Zac (cc Hudson Brower, William Heatherly, Christine Price): \"We can assist with that. Would you like us to install the panels like we have in the enclosures on the scaffold buildstands?\" \u2014 waiting Zac (T198 \u2192 waiting). Mon Oct 19 ~9:24am ET Zac\u2192Jeff: \"Do you have any examples on site or pictures already so I can better understand?\" (T198 \u2192 open). Mon Oct 19 ~12:02pm ET Jeff\u2192Zac: photo of elevated platform w/ enclosure panel, deck-to-handrail coverage (T198 \u2192 waiting). Thu Oct 22 ~9:56am ET Jeff\u2192Zac: weekend install proposed, asked which stands idle; Amazon netting arriving Tue Oct 27 (T198 \u2192 waiting)."
-    },
-    {
-      "id": "e84",
-      "type": "outage",
-      "title": "Outage: Mitsubishi Sinker FA relay install \u2014 #2301350 HAA / #2301351 HCA / #2301349 HDA (TP-11B-8.1 ckts 13, 21, 23)",
-      "summary": "DONE \u2014 GVL.Outage \u201cOutage complete\u201d ~11:07am ET Tue Oct 20 (window 10:00\u201310:30am ET); GE Lead Jim Stanley; T67 retest pending",
-      "location": "HAA-HDA (TP-11B-8.1 @ HDA)",
-      "description": "Jason Marchbanks (DPP) \u2192 David Hinkson, Jeff McCurry, Jeff (cc Jon Roper, Jim Stanley, Katheryn, Adam McClure). Ckts: HAA #13, HCA #23, HDA #21. Second Sinker set after T184 (Fri Oct 16). Feeds T67 fire test / green tag. Hinkson invite on Kat cal 10:00\u201310:30am ET; Jeff also added his own copy (deduped). GE (Jeff McCurry) asked DPP to send future outage requests to GVL.Outage@gevernova.com.",
-      "start": "2026-10-20T10:00:00-04:00",
-      "end": "2026-10-20T10:30:00-04:00",
-      "allDay": false,
-      "todoId": "T210",
-      "relatedTodos": [
-        "T210",
-        "T67",
-        "T184"
-      ],
-      "status": "done"
-    },
-    {
-      "id": "e85",
-      "type": "outage",
-      "title": "Energization: Ramco Parts Washers #2301361 HEA / #2301362 HCA (PP-7B-7 ckts 8, 10)",
-      "summary": "DONE \u2014 GVL.Outage \u201cEnergization complete\u201d ~10:25am ET Tue Oct 20 (window 10:00\u201310:30am ET); GE Lead Jim Stanley",
-      "location": "HCA, HEA (PP-7B-7 @ HCA)",
-      "description": "Jason Marchbanks (DPP) \u2192 David Hinkson, Jeff McCurry (cc Jeff, Katheryn, Adam McClure, Jim Stanley, Shanna Henson, Jon Roper). Ckts: PP-7B-7 #8 (HEA, 2301361), #10 (HCA, 2301362). Hinkson invite on Kat cal 10:00\u201310:30am ET (one-lines attached).",
-      "start": "2026-10-20T10:00:00-04:00",
-      "end": "2026-10-20T10:30:00-04:00",
-      "allDay": false,
-      "todoId": "T214",
-      "relatedTodos": [
-        "T214"
-      ],
-      "status": "done"
-    },
-    {
-      "id": "e86",
-      "type": "work",
-      "title": "Meltric extension reels expected \u2014 finish 220V power hook-up on 2 build stands",
-      "summary": "Jeff Tue ~6:52pm ET: work started, conduit panels\u2192stand columns in place; reels should be in by Fri Oct 23 (Andrew Heatherly, GE ME Turbine Assembly)",
-      "location": "UA / Turbine Assembly build stands",
-      "description": "Email only; not on Kat cal. Jeff\u2192Andrew Heatherly (cc Zac Ciesielczyk, Hudson Brower), Re: 220 Power for Stands.",
-      "start": "2026-10-23",
-      "end": "2026-10-24",
-      "allDay": true,
-      "todoId": "T216",
-      "relatedTodos": [
-        "T216"
-      ],
-      "status": "upcoming"
-    },
-    {
-      "type": "outage",
-      "location": "MEA area",
-      "todoId": "T222",
-      "relatedTodos": [
-        "T222"
-      ],
-      "allDay": false,
-      "status": "past",
-      "description": "Paul Madak (GE Vernova) \u2192 Jeff + GE team, 'Crane outage MEA' (~10:23am ET) and 'MEA Crane outage' (~10:25am ET, Teams link). Jeff holds on Kat cal (12\u20138pm had 2 duplicate holds, deduped). Second invite may be a reschedule of the first.",
-      "id": "e87",
-      "title": "Outage: MEA Cranes 700055 & 700056 powered down (construction)",
-      "summary": "Wed Oct 21 12:00\u20138:00pm ET \u2014 Paul Madak (GE)",
-      "start": "2026-10-21T12:00:00-04:00",
-      "end": "2026-10-21T20:00:00-04:00"
-    },
-    {
-      "type": "outage",
-      "location": "MEA area",
-      "todoId": "T222",
-      "relatedTodos": [
-        "T222"
-      ],
-      "allDay": false,
-      "status": "past",
-      "description": "Paul Madak (GE Vernova) \u2192 Jeff + GE team, 'Crane outage MEA' (~10:23am ET) and 'MEA Crane outage' (~10:25am ET, Teams link). Jeff holds on Kat cal (12\u20138pm had 2 duplicate holds, deduped). Second invite may be a reschedule of the first.",
-      "id": "e88",
-      "title": "Outage: MEA Cranes 700055 & 700056 powered down (construction) \u2014 overnight",
-      "summary": "Wed Oct 21 10:00pm \u2013 Thu Oct 22 6:00am ET \u2014 Paul Madak (GE)",
-      "start": "2026-10-21T22:00:00-04:00",
-      "end": "2026-10-22T06:00:00-04:00"
-    },
-    {
-      "id": "e89",
-      "type": "work",
-      "title": "EZA ops tower \u2014 JMT floor demo (existing LVT removal) proposed start",
-      "summary": "Fri Oct 23 \u2014 Jeff asked Matt Larmore (JMT) to start; room cleared by Friday (awaiting confirm)",
-      "start": "2026-10-23",
-      "end": "2026-10-24",
-      "allDay": true,
-      "location": "EZA Ops Tower",
-      "status": "upcoming",
-      "todoId": "T23",
-      "relatedTodos": [
-        "T23"
-      ],
-      "description": "Jeff\u2192Matt Larmore Wed Oct 21 ~8:04pm ET: same tile/base; walk-off carpet samples needed; second area after operations relocate."
-    },
-    {
-      "id": "e90",
-      "type": "meeting",
-      "title": "LDB Rotor Lathe Shoring Review (AM King)",
-      "summary": "Fri Oct 23 11:00\u201311:30am ET @ LDB \u2014 JT Pingry invite (Buellesbach, Kirkley, Rollins, Herman, Gordon)",
-      "start": "2026-10-23T11:00:00-04:00",
-      "end": "2026-10-23T11:30:00-04:00",
-      "allDay": false,
-      "location": "LDB",
-      "status": "upcoming",
-      "todoId": "T228",
-      "relatedTodos": [
-        "T228"
-      ],
-      "description": "JT Pingry (AM King) invite.ics sent Thu Oct 22 ~11:16am ET; body empty. Not on Katheryn's calendar."
-    },
-    {
-      "id": "e91",
-      "type": "deadline",
-      "title": "Joey Lum unsecured-work total due to Bill \u2014 ANSWERED",
-      "summary": "Fri Oct 23 \u2014 Bill Marchbanks needs exact amount Joey Lum owes for prior unsecured work (Support Hold threat)",
-      "start": "2026-10-23",
-      "end": "2026-10-24",
-      "allDay": true,
-      "location": "",
-      "status": "done",
-      "todoId": "T227",
-      "relatedTodos": [
-        "T227"
-      ],
-      "description": "Bill\u2192Jeff Thu Oct 22 ~11:28am ET. Jeff\u2192Bill Thu ~1:50pm ET: balance $71,163.78 (inv 3418/3454/3455)."
-    },
-    {
-      "id": "e92",
-      "type": "outage",
-      "title": "Outage: MEA Cranes 700055 & 700056 powered down (construction)",
-      "summary": "Thu Oct 22 10:30pm \u2013 Fri Oct 23 6:30am ET \u2014 Paul Madak (GE)",
-      "start": "2026-10-22T22:30:00-04:00",
-      "end": "2026-10-23T06:30:00-04:00",
-      "allDay": false,
-      "location": "MEA Crane",
-      "status": "done",
-      "todoId": "T222",
-      "relatedTodos": [
-        "T222"
-      ],
-      "description": "Paul Madak (GE Vernova) 'MEA Crane outages' invites ~2:21pm + ~2:27pm ET Thu Oct 22 (deduped). Jeff hold on Kat cal."
-    },
-    {
-      "id": "e93",
-      "type": "outage",
-      "title": "Shutdown: PP-19 Circuit #9 \u2014 Broach CAT#18566 removal @ BOB",
-      "summary": "Mon Oct 26 8:15am ET \u2014 DPP request; GE Lead Grant Bartlett",
-      "start": "2026-10-26T08:15:00-04:00",
-      "end": "2026-10-26T09:15:00-04:00",
-      "allDay": false,
-      "location": "BOB (panel PP-19 @ BPB)",
-      "status": "upcoming",
-      "todoId": "T233",
-      "relatedTodos": [
-        "T233",
-        "T235"
-      ],
-      "description": "Jason Marchbanks (DPP) shutdown request to GVL Outage Fri Oct 23 ~8:11am ET. End time not stated (1h placeholder)."
-    },
-    {
-      "id": "e94",
-      "type": "work",
-      "title": "Weekend build-stand netting/panels (open stands)",
-      "summary": "Sat\u2013Sun Oct 24\u201325 \u2014 Andrew Sat, Zac Sun guiding; waiting GE ops list of free stands",
-      "start": "2026-10-24",
-      "end": "2026-10-26",
-      "allDay": true,
-      "location": "GE build stands",
-      "status": "upcoming",
-      "todoId": "T198",
-      "relatedTodos": [
-        "T198"
-      ],
-      "description": "Zac ordered 300' fencing to zip-tie; Jeff short on netting for every GE stand (2\u20134 day shipping). Weekend = OT."
-    },
-    {
-      "id": "e95",
-      "type": "meeting",
-      "title": "Meet Bill re Joey Lum balance",
-      "summary": "Fri Oct 23 \u2014 Bill available 9am\u20133pm ET",
-      "start": "2026-10-23T09:00:00-04:00",
-      "end": "2026-10-23T15:00:00-04:00",
-      "allDay": false,
-      "location": "",
-      "status": "upcoming",
-      "todoId": "T227",
-      "relatedTodos": [
-        "T227"
-      ],
-      "description": "Bill Marchbanks Fri ~4:03am ET: let's meet to discuss today (Support Hold decision)."
-    },
-    {
-      "id": "e96",
-      "type": "outage",
-      "title": "Shutdown: RP-451 Circuits 4 & 7 \u2014 Broach CAT#18566 removal @ BOB",
-      "summary": "Mon Oct 26 8:15am ET \u2014 DPP request; GE Lead Joey Lum (pit fan, lights, receptacles)",
-      "start": "2026-10-26T08:15:00-04:00",
-      "end": "2026-10-26T09:15:00-04:00",
-      "allDay": false,
-      "location": "BOB (panel RP-451 @ CQA)",
-      "status": "upcoming",
-      "todoId": "T235",
-      "relatedTodos": [
-        "T235",
-        "T233"
-      ],
-      "description": "Jason Marchbanks (DPP) shutdown request to GVL Outage Fri Oct 23 ~8:16am ET. Companion to PP-19 Ckt #9 (e93). End time not stated (1h placeholder)."
+      "todoId": "T104"
     }
   ]
 }
