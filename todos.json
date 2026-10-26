@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T16:08:57-04:00",
+  "updated": "2026-10-26T17:06:27-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -1919,6 +1919,15 @@
       "item": "Confirm GE badge for **Cody Stoddard** (CP-1805) ready for Tue ~4:00pm",
       "source": "Email / Jeff\u2192Colby Murphy 2026-10-26 ~3:53pm ET",
       "notes": "**Mon ~3:53pm ET Jeff\u2192Colby Murphy:** please submit a badge request for **Cody Stoddard** for **tomorrow around 4:00pm** \u2014 Indcom safe work plan **CP-1805**. Waiting Colby confirm. Related: Cody OpSource onboarding (T246)."
+    },
+    {
+      "id": "T257",
+      "status": "open",
+      "priority": "med",
+      "due": "soon \u2014 reply to Julia (cc Logan/Chuck)",
+      "item": "Remove the first section of **pedestrian guardrail on each side** at the **C Bay cross aisle** (shown purple in Julia's photo) \u2014 rails block maneuvering rotor parts from cross aisle into C Bay",
+      "source": "Email / Julia Filiatreau (GE EHS) 2026-10-26 ~4:18pm ET",
+      "notes": "**Mon ~4:18pm ET Julia Filiatreau\u2192Jeff (cc Logan Nelson, Chuck Kirkley, Adam Kammerer):** 'Would it be possible to remove the first section of guardrails on each side\u2026 C Bay cross aisle.' Forwarding **Logan Nelson** (Cell Leader \u2013 Rotor Machining) ~3:01pm: remove or shrink the two rail sections \u2014 too hard to move parts from cross aisle into C Bay (photo *image001.png*). No Indcom reply yet. Related: T194 guard rail installs."
     }
   ],
   "calendar": [
