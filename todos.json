@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T17:06:21-04:00",
+  "updated": "2026-10-26T08:10:43-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -626,12 +626,12 @@
     },
     {
       "id": "T88",
-      "status": "open",
+      "status": "waiting",
       "priority": "high",
-      "due": "ASAP (Kat relay Jeff answers to Bonitz)",
+      "due": "waiting Bonitz quote (requested Mon Oct 26)",
       "item": "Answer Bonitz access-floor RFQ questions for BSA / BSB conf-room flooring",
       "source": "Email / Katheryn fwd James Henninger (Bonitz) 2026-10-01 + Jeff\u2192Kat 2026-10-05",
-      "notes": "**Thu ~5:21pm ET Katheryn\u2192Jeff:** \u201cHere is for the flooring for BSA\u201d \u2014 fwd **James Henninger** (Bonitz Product Specialist; jameshenninger@bonitz.com; 262-442-3097) RE: Indcom Corp. Access Floor System RFQ. James asks: (1) project name (BSB GE Gas \u2013 Conf. Room or similar?); (2) do 2 rooms off main also get low-profile flooring?; (3) how many floor outlet locations?; (4) carpet tile over ASM Q2C 1.6\" system \u2014 Bonitz provide or Indcom/GE? Attached *ASM Q2C - 1.6in Low Profile Flooring Data & Overview.pdf*. Bill+Kat already on thread with floor plan (conduit under access floor). **Jeff owes answers** (or confirm Kat/Bill own) to keep quote moving. Relates T13/T42 BSA but distinct access-floor RFQ. **Mon Oct 5 ~9:09am ET Jeff\u2192Katheryn:** floor receptacles at **each desk location + the conference-room table**; Alex wants **tile, not carpet** \u2014 color similar to the tile in the **KIB office**. **Action (Kat):** relay to James Henninger; still open: project name (e.g., *BSB GE Gas \u2013 Conf. Room*), whether the **2 side rooms** get the low-profile floor, exact outlet count (= desk count + table), and whether Bonitz supplies the tile."
+      "notes": "**Thu ~5:21pm ET Katheryn\u2192Jeff:** \u201cHere is for the flooring for BSA\u201d \u2014 fwd **James Henninger** (Bonitz Product Specialist; jameshenninger@bonitz.com; 262-442-3097) RE: Indcom Corp. Access Floor System RFQ. James asks: (1) project name (BSB GE Gas \u2013 Conf. Room or similar?); (2) do 2 rooms off main also get low-profile flooring?; (3) how many floor outlet locations?; (4) carpet tile over ASM Q2C 1.6\" system \u2014 Bonitz provide or Indcom/GE? Attached *ASM Q2C - 1.6in Low Profile Flooring Data & Overview.pdf*. Bill+Kat already on thread with floor plan (conduit under access floor). **Jeff owes answers** (or confirm Kat/Bill own) to keep quote moving. Relates T13/T42 BSA but distinct access-floor RFQ. **Mon Oct 5 ~9:09am ET Jeff\u2192Katheryn:** floor receptacles at **each desk location + the conference-room table**; Alex wants **tile, not carpet** \u2014 color similar to the tile in the **KIB office**. **Action (Kat):** relay to James Henninger; still open: project name (e.g., *BSB GE Gas \u2013 Conf. Room*), whether the **2 side rooms** get the low-profile floor, exact outlet count (= desk count + table), and whether Bonitz supplies the tile. **Mon Oct 26 ~6:46am ET Katheryn\u2192James Henninger (Bonitz, cc Jeff), Re: BSB GE Gas - Office Building:** GE decided to proceed with his floor design \u2014 asked him to send the quote ASAP. Waiting Bonitz quote."
     },
     {
       "id": "T89",
@@ -1400,12 +1400,12 @@
     },
     {
       "id": "T195",
-      "status": "waiting",
+      "status": "open",
       "priority": "high",
-      "due": "waiting Alex Leppard OK (affects T178 floor boxes + Allied start Mon Oct 19)",
+      "due": "**Alex APPROVED Sun Oct 25 \u2192 send quote ASAP**",
       "item": "BSA office **raised floor** \u2014 Alex to approve **3\" RAF subfloor** (tile) + **interior ramp / desk re-layout**",
       "source": "Email / Katheryn\u2192Alex Leppard (cc Jeff) 2026-10-16 ~1:47/1:51pm ET",
-      "notes": "**Fri ~1:51pm ET Katheryn\u2192H Alex Leppard (GE, hewett.leppard@gevernova.com; cc Jeff)**, *Raised Floor for BSA*: tile preferred over carpet \u2192 upgrade to **3\" subflooring** (1-1/2\" supports carpet only); ramp placed right of exterior door \u2014 emergency-exit door must swing **inward** and walkway blocks an exterior ramp, so **interior ramp** + desks rearranged around it. Attached *OVERLAY of FLOORING.pdf*, *BSA GE Gas - Office Building - 3in RAF Floor Layout (Draft) - 10.15.2026.pdf*, *Option 2.BSA OFFICE.pdf*. (Earlier ~1:47pm send went to typo address **ahewett.leppard@** \u2014 likely undeliverable; ~1:51pm resend to correct address.) Waiting Alex reply; decision drives floor-box line item (T178) + RFQ (T13). **Weekend \u2192 Mon ~8:10am ET:** no Alex Leppard reply. **Fri Oct 23 ~7:33am ET Katheryn\u2192Alex Leppard (Re: Raised Floor for BSA):** sent **updated floor layout incl. ramps + door changes**; asked if any questions or OK to move forward with getting an **estimate**. Waiting Alex."
+      "notes": "**Fri ~1:51pm ET Katheryn\u2192H Alex Leppard (GE, hewett.leppard@gevernova.com; cc Jeff)**, *Raised Floor for BSA*: tile preferred over carpet \u2192 upgrade to **3\" subflooring** (1-1/2\" supports carpet only); ramp placed right of exterior door \u2014 emergency-exit door must swing **inward** and walkway blocks an exterior ramp, so **interior ramp** + desks rearranged around it. Attached *OVERLAY of FLOORING.pdf*, *BSA GE Gas - Office Building - 3in RAF Floor Layout (Draft) - 10.15.2026.pdf*, *Option 2.BSA OFFICE.pdf*. (Earlier ~1:47pm send went to typo address **ahewett.leppard@** \u2014 likely undeliverable; ~1:51pm resend to correct address.) Waiting Alex reply; decision drives floor-box line item (T178) + RFQ (T13). **Weekend \u2192 Mon ~8:10am ET:** no Alex Leppard reply. **Fri Oct 23 ~7:33am ET Katheryn\u2192Alex Leppard (Re: Raised Floor for BSA):** sent **updated floor layout incl. ramps + door changes**; asked if any questions or OK to move forward with getting an **estimate**. Waiting Alex. **Sun Oct 25 ~3:30pm ET Alex Leppard\u2192Katheryn:** \u201cThis looks good to me. Please move forward and send me a quote.\u201d **Mon ~6:08am ET Jeff\u2192Alex:** will prepare quote on updated layout (3\" subflooring, ramps, door changes) and send shortly. **~6:42am Katheryn\u2192Alex:** will get that number to him. \u2192 Quote owed now."
     },
     {
       "id": "T196",
@@ -1802,9 +1802,66 @@
       "item": "Quote **BL5 downdraft table swap** \u2014 remove + scrap old DDT asset **701115**, install newer smaller DDT asset **606684** (Air Purification Inc, BENCHTRON-AP-BFS-3-2-3-36D) \u2014 Scott Barnes (GE)",
       "source": "Email / Scott Barnes (GE HGP Technical Leader) 2026-10-23 ~4:36pm ET",
       "notes": "**Fri ~4:36pm ET Scott Barnes\u2192Jeff** (cc Jim Stanley, Duncan Holman, Kevin Fitzgerald, Roxanne Wooldridge): quote removal/scrap of old BL5 downdraft table 701115 and install of 606684; new unit is in storage at **Advance Rigging warehouse** and they'll bring it to the shop when ready for the swap. Attached *BFS 3-2-3 SUBMITTAL 29053.pdf* + *R7212.2.GE.BFS-3-2-3-42D.1.3.25.doc* + photos. Likely needs DPP utility disconnect/reconnect (power/air) like T113/T137."
+    },
+    {
+      "id": "T242",
+      "status": "open",
+      "priority": "high",
+      "due": "**TODAY Mon Oct 26 ASAP (safety)**",
+      "item": "Check **leaning scaffolding in VPS at old Coater 1 area** \u2014 GE EHS report **2032206** (Hot Gas Path / Coatings; \u201cLine of Fire\u201d)",
+      "source": "Email / Chuck Kirkley (GE Safety Lead) 2026-10-26 ~6:41am ET",
+      "notes": "**Mon ~6:41am ET Chuck Kirkley\u2192Jeff (cc Michael Oliver):** \u201cCan you have someone check on this?\u201d \u2014 Gensuite item 2032206, logged ~8:32pm, scaffolding leaning in VPS at old Coater 1 area, category Line of Fire, owner Charles Kirkley, date shown 22-Nov-26. Send crew to inspect/fix + reply to Chuck. Related VPS coater scaffolds: T121/T130."
+    },
+    {
+      "id": "T243",
+      "status": "open",
+      "priority": "high",
+      "due": "Need-by Fri Nov 27 \u2014 ack in Ariba",
+      "item": "Process/ack GE PO **4900671224** (**$13,866.06**) \u2014 KMB **PS430MIR7-W replacement** \u00d72 ($4,090.23 + $4,414.68) + **Sleepy Torque/Tensioner machine power installation** ($5,361.15) (Alex Acosta)",
+      "source": "Email / Ariba GE Vernova 2026-10-23 ~5:28pm ET",
+      "notes": "Requester **Alex Acosta**, PR853217, NET 150. Still **New/unconfirmed** on Mon ~5:00am Ariba confirm-orders list."
+    },
+    {
+      "id": "T244",
+      "status": "open",
+      "priority": "high",
+      "due": "Need-by Mon Nov 30 \u2014 ack in Ariba",
+      "item": "Process/ack GE PO **4900671226** (**$23,175.00**) \u2014 **Replacement of damaged conduit supports for a wider emergency aisle** (#safety) (Alex Acosta)",
+      "source": "Email / Ariba GE Vernova 2026-10-23 ~5:29pm ET",
+      "notes": "Requester **Alex Acosta**, PR853794, NET 150. Still **New/unconfirmed** on Mon ~5:00am Ariba confirm-orders list."
+    },
+    {
+      "id": "T245",
+      "status": "open",
+      "priority": "high",
+      "due": "**Need-by Thu Oct 29** \u2014 ack in Ariba",
+      "item": "Process/ack GE PO **4900671574** (**$49,470.00**) \u2014 **FW37\u201340 two Industrial Techs, 40 hrs/wk** \u2014 C-Bay machine cleaning (panels, belt covers, scaffold/lifts for hard-to-reach) (Joey Lum)",
+      "source": "Email / Ariba GE Vernova 2026-10-26 ~8:03am ET",
+      "notes": "Requester **Lamont Joey Lum**, PR854051, NET 150. Same scope/amount as T110 (FW41\u201344). Ties to Joey Lum balance / Support Hold (T227)."
+    },
+    {
+      "id": "T246",
+      "status": "waiting",
+      "priority": "med",
+      "due": "waiting OpSource link",
+      "item": "OpSource onboarding \u2014 **Cody Stoddard** hire-in link (coddystoddard22@gmail.com; 504-537-4871)",
+      "source": "Email / Jeff\u2192Julie Solesbee (cc Lisa Stafford, Katheryn, Bill) 2026-10-25 ~7:35pm ET",
+      "notes": "**Sun ~8:14pm ET Julie:** forwarded to Greenville recruiters. **Mon ~7:48am ET Yesenia Portes:** \u201cWe will work on this.\u201d Same email: **Chaz Kief terminated Sat Oct 24** (intentionally damaged company truck; not eligible for rehire). **Mon ~5:30am Bill:** wants to hear more about the truck damage; presumes no pay to Chaz \u2192 Jeff/Kat to brief Bill + document truck damage."
+    },
+    {
+      "id": "T247",
+      "status": "waiting",
+      "priority": "high",
+      "due": "**Mon Oct 26 same-day pay** \u2014 verify",
+      "item": "OpSource \u2014 correct **Alexis** pay (received no money on last check)",
+      "source": "Email / Jeff\u2192Julie Solesbee 2026-10-25 ~7:35pm ET",
+      "notes": "**Sun ~8:14pm ET Julie Solesbee:** billing missed entering his hours last week; will process **Monday morning for same-day pay**. Confirm Alexis got paid today."
     }
   ],
   "calendar": [
+    "**TODAY Mon Oct 26 ASAP (NEW \u2014 Chuck Kirkley ~6:41am)** \u2014 Safety: check **leaning scaffold in VPS at old Coater 1** (EHS 2032206, Line of Fire) (T242)",
+    "**Need-by Thu Oct 29 (NEW \u2014 Ariba Mon ~8:03am)** \u2014 Ack GE PO **4900671574** ($49,470.00; FW37\u201340 C-Bay techs; Joey Lum) (T245) \u2014 e101",
+    "**Need-by Fri Nov 27 / Mon Nov 30 (NEW \u2014 Ariba Fri ~5:28pm)** \u2014 Ack GE POs **4900671224** ($13,866.06; KMB) + **4900671226** ($23,175.00; conduit supports / emergency aisle) (Alex Acosta) (T243/T244) \u2014 e102/e103",
     "**TODAY Fri Oct 23 9:00am\u20133:00pm ET (Bill's availability)** \u2014 Meet Bill Marchbanks re Joey Lum balance / Support Hold (T227) \u2014 e95",
     "**Sat\u2013Sun Oct 24\u201325 (weekend, OT)** \u2014 Build-stand netting/fencing: Sat 1st shift DGA/DQA/DMB open, Sat 2nd shift all areas free; Sun 1st shift DGA/DQA/DMB/DMA open; yellow fencing at DRA (Uline boxes); Andrew Heatherly Sat, Zac Sun (T198) \u2014 e94",
     "**Mon Oct 26 8:15am ET @ BOB (panel PP-19 @ BPB) (NEW \u2014 DPP request ~8:11am)** \u2014 Shutdown **PP-19 Ckt #9** for **Broach CAT#18566** removal; GE Lead Grant Bartlett (T233) \u2014 e93",
@@ -3086,6 +3143,54 @@
       "end": "2026-12-22",
       "allDay": true,
       "todoId": "T104"
+    },
+    {
+      "id": "e101",
+      "type": "deadline",
+      "title": "Deadline: GE PO 4900671574 need-by \u2014 FW37\u201340 C-Bay Industrial Techs ($49,470)",
+      "summary": "Ack GE PO 4900671574 in Ariba (Joey Lum)",
+      "location": "Ariba / SAP Business Network",
+      "description": "PO 4900671574 $49,470.00; two Industrial Techs 40 hrs/wk FW37\u201340, C-Bay machine cleaning; requester Lamont Joey Lum; PR854051; need-by Thu Oct 29. (T245)",
+      "start": "2026-10-29",
+      "end": "2026-10-30",
+      "allDay": true,
+      "todoId": "T245"
+    },
+    {
+      "id": "e102",
+      "type": "deadline",
+      "title": "Deadline: GE PO 4900671224 need-by \u2014 KMB PS430MIR7-W replacements + Sleepy Torque power ($13,866.06)",
+      "summary": "Ack GE PO 4900671224 in Ariba (Alex Acosta)",
+      "location": "Ariba / SAP Business Network",
+      "description": "PO 4900671224 $13,866.06; KMB PS430MIR7-W replacement x2 + Sleepy Torque/Tensioner machine power installation; requester Alex Acosta; PR853217; need-by Fri Nov 27. (T243)",
+      "start": "2026-11-27",
+      "end": "2026-11-28",
+      "allDay": true,
+      "todoId": "T243"
+    },
+    {
+      "id": "e103",
+      "type": "deadline",
+      "title": "Deadline: GE PO 4900671226 need-by \u2014 damaged conduit supports / wider emergency aisle ($23,175)",
+      "summary": "Ack GE PO 4900671226 in Ariba (Alex Acosta)",
+      "location": "Ariba / SAP Business Network",
+      "description": "PO 4900671226 $23,175.00; replacement of damaged conduit supports for a wider emergency aisle; requester Alex Acosta; PR853794; need-by Mon Nov 30. (T244)",
+      "start": "2026-11-30",
+      "end": "2026-12-01",
+      "allDay": true,
+      "todoId": "T244"
+    },
+    {
+      "id": "e104",
+      "type": "work",
+      "title": "Safety: check leaning scaffold in VPS at old Coater 1 (EHS 2032206)",
+      "summary": "Chuck Kirkley asks Jeff to have someone check leaning scaffolding \u2014 Line of Fire",
+      "location": "VPS \u2014 old Coater 1 area",
+      "description": "Chuck Kirkley (GE Greenville Safety Lead) Mon Oct 26 ~6:41am ET, cc Michael Oliver. Gensuite 2032206. (T242)",
+      "start": "2026-10-26",
+      "end": "2026-10-27",
+      "allDay": true,
+      "todoId": "T242"
     }
   ]
 }
