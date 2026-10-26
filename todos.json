@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T15:11:09-04:00",
+  "updated": "2026-10-26T16:08:57-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -1573,10 +1573,10 @@
       "id": "T215",
       "status": "open",
       "priority": "high",
-      "due": "**Reply to Martin ASAP** \u2014 mobilization date (PO 4900668412 need-by Fri Oct 23)",
+      "due": "**Reply to Martin before his Tue Oct 27 meeting** \u2014 rotary-load timeline (PO 4900668412 need-by Fri Oct 23 passed)",
       "item": "**Haas EC1600 rotary move @ Micromixer Repair Area** \u2014 tell Martin Brown when Indcom can mobilize; Indcom tasks: (1) **temp crane install**, (2) **remove plate from 4th axis** (w/ GEV), (6) **install trunnion** \u2014 adapter plate to rotary + tail stock; tail-stock plate may need shimming/grinding to make trunnion parallel with X-axis (w/ GEV)",
       "source": "Email / Martin Brown (GE Repair Process Eng) 2026-10-20 ~9:15am ET",
-      "notes": "**Tue ~9:15am ET Martin Brown\u2192Jeff** (cc Craig Sarratt, Cage Powell, Christopher Matthew), *Haas EC1600 - Rotary move*: wants to define a timeline for 11 activities; GEV-only items: clean/stone table, riser plate + rotary on bed, hydraulic/pneumatic coupling, hydraulic hoses/valve, re-route pneumatic + control wires, Schunk plate air, remove scaffolding around machine side; item 4 (unplug new rotary + move to front) **GEV complete**. \u201c**Jeff \u2013 When can you mobilize for this effort?**\u201d **~9:17am ET Martin:** PO is **4900668412** ($3,500 lift PO, T191). Martin tel 864-361-0344. Related T108/T191."
+      "notes": "**Tue ~9:15am ET Martin Brown\u2192Jeff** (cc Craig Sarratt, Cage Powell, Christopher Matthew), *Haas EC1600 - Rotary move*: wants to define a timeline for 11 activities; GEV-only items: clean/stone table, riser plate + rotary on bed, hydraulic/pneumatic coupling, hydraulic hoses/valve, re-route pneumatic + control wires, Schunk plate air, remove scaffolding around machine side; item 4 (unplug new rotary + move to front) **GEV complete**. \u201c**Jeff \u2013 When can you mobilize for this effort?**\u201d **~9:17am ET Martin:** PO is **4900668412** ($3,500 lift PO, T191). Martin tel 864-361-0344. Related T108/T191. **Mon Oct 26 ~3:23pm ET Martin Brown\u2192Jeff (cc Sarratt/Powell/Matthew):** has a repair-schedule meeting **tomorrow (Tue Oct 27)** \u2014 asks for a **timeline on when the rotary can be loaded into the machine**. No Jeff reply yet."
     },
     {
       "id": "T216",
@@ -1618,10 +1618,10 @@
       "id": "T220",
       "status": "open",
       "priority": "high",
-      "due": "**Reply ASAP** \u2014 GE wants scaffold secured by **Tue Nov 3** (vendor Nov 4); confirm timeline + site walk + quote",
+      "due": "**Site walk Tue Oct 27 8:00am w/ Tom Mogle** \u2192 quote; GE wants scaffold secured by **Tue Nov 3** (vendor Nov 4)",
       "item": "**Quote scaffolding around the unit behind the GTOS** (2-month rental) for Tom Mogle + schedule site walk",
       "source": "Email / Tom Mogle (GE Vernova, Outage Tooling TL) 2026-10-21 ~9:23am ET",
-      "notes": "**Wed ~9:23am ET Tom Mogle\u2192Jeff + Bill** (cc Sophie Campbell, Naza Isaac): wants a quote to put up scaffolding **around the unit behind the GTOS**, needed **2 months**; asks when Jeff is free to **walk the site** to determine what's needed. Tom 864-430-0308. \u2192 Jeff to propose walk time, then scope + quote (28-day rental minimums apply). **Mon Oct 26 ~12:43pm ET Sophie Campbell (GE, Edison Eng Dev Program)\u2192Jeff + Bill (cc Naza Isaac, Tom Mogle):** following up on Tom's request \u2014 wants scaffolding **secured by Tue Nov 3** (vendor arrives Wed Nov 4); asks if timeline is achievable + Tom's quote/site-walk ask. **No Indcom reply yet** \u2192 Jeff/Bill reply ASAP (e109)."
+      "notes": "**Wed ~9:23am ET Tom Mogle\u2192Jeff + Bill** (cc Sophie Campbell, Naza Isaac): wants a quote to put up scaffolding **around the unit behind the GTOS**, needed **2 months**; asks when Jeff is free to **walk the site** to determine what's needed. Tom 864-430-0308. \u2192 Jeff to propose walk time, then scope + quote (28-day rental minimums apply). **Mon Oct 26 ~12:43pm ET Sophie Campbell (GE, Edison Eng Dev Program)\u2192Jeff + Bill (cc Naza Isaac, Tom Mogle):** following up on Tom's request \u2014 wants scaffolding **secured by Tue Nov 3** (vendor arrives Wed Nov 4); asks if timeline is achievable + Tom's quote/site-walk ask. **No Indcom reply yet** \u2192 Jeff/Bill reply ASAP (e109). **Mon ~3:38pm ET Jeff\u2192Sophie:** apologized for missing it (working 2nd/3rd coverage); will **meet Tom at 8:00am Tue Oct 27** to review the need. **~3:59pm Tom Mogle** asked Sophie to meet Jeff at 8 (Tom has a meeting), then **~4:01pm Tom:** \u201cI am free, I can meet you at 8:00 am on Tuesday.\u201d \u2192 **Site walk Tue Oct 27 8:00am** (Jeff + Tom Mogle); then quote + timeline for Nov 3 (e110)."
     },
     {
       "id": "T221",
@@ -1910,9 +1910,20 @@
       "item": "Scaffold support for DPP **Argon Gas Line Extension \u2013 MFA** (Jim Stanley) \u2014 on top of existing scaffold at **MDA/MEA column**",
       "source": "Email / Jason Marchbanks (DPP) 2026-10-26 ~1:45pm ET",
       "notes": "Jason\u2192Jeff: 'This will need scaffold support on top of the existing scaffold at MDA/MEA Column'; DPP Joist estimate linked (client.joistapp.com/estimates/dd1ff7373b386a842bf1e5ae). \u2192 Jeff to scope/price add-on scaffold for Jim Stanley's argon line job; coordinate with DPP timing."
+    },
+    {
+      "id": "T256",
+      "status": "waiting",
+      "priority": "med",
+      "due": "Tue Oct 27 ~4:00pm",
+      "item": "Confirm GE badge for **Cody Stoddard** (CP-1805) ready for Tue ~4:00pm",
+      "source": "Email / Jeff\u2192Colby Murphy 2026-10-26 ~3:53pm ET",
+      "notes": "**Mon ~3:53pm ET Jeff\u2192Colby Murphy:** please submit a badge request for **Cody Stoddard** for **tomorrow around 4:00pm** \u2014 Indcom safe work plan **CP-1805**. Waiting Colby confirm. Related: Cody OpSource onboarding (T246)."
     }
   ],
   "calendar": [
+    "**Tue Oct 27 8:00am** \u2014 GTOS scaffold site walk: Jeff + Tom Mogle (GE) \u2014 scope/quote; secure by Nov 3 (T220)",
+    "**Tue Oct 27 ~4:00pm** \u2014 Cody Stoddard GE badge (CP-1805) requested via Colby (T256)",
     "**Tue Nov 3 (NEW \u2014 GE ask)** \u2014 Scaffold around unit behind GTOS to be **secured** (Sophie Campbell/Tom Mogle; vendor arrives Nov 4) (T220) \u2014 e109",
     "**Need-by Tue Oct 27 (NEW \u2014 Ariba Mon ~11:52\u201311:54am)** \u2014 Ack GE POs **4900671763** (FW37) + **4900671756** (FW38) UA Scaffold Support, $41,962.48 each (Heatherly) (T253/T252) \u2014 e108",
     "**Need-by Fri Oct 23 PASSED (NEW \u2014 Ariba Mon ~11:54am)** \u2014 Ack GE PO **4900671759** ($5,453.00; UB Tubing Support; Mateo Castro) (T254)",
@@ -3281,6 +3292,30 @@
       "end": "2026-11-04",
       "allDay": true,
       "todoId": "T220"
+    },
+    {
+      "id": "e110",
+      "type": "meeting",
+      "title": "GTOS scaffold site walk \u2014 Jeff + Tom Mogle (GE)",
+      "summary": "Review scaffold need around unit behind GTOS; quote + timeline (secure by Nov 3)",
+      "location": "GTOS (GE Vernova Greenville)",
+      "description": "Jeff told Sophie Campbell ~3:38pm Mon he will meet Tom at 8:00am Tue; Tom ~4:01pm confirmed. (T220)",
+      "start": "2026-10-27T08:00:00-04:00",
+      "end": "2026-10-27T09:00:00-04:00",
+      "allDay": false,
+      "todoId": "T220"
+    },
+    {
+      "id": "e111",
+      "type": "appointment",
+      "title": "Cody Stoddard GE badge (CP-1805) \u2014 ~4:00pm",
+      "summary": "Jeff asked Colby Murphy to submit badge request",
+      "location": "GE Vernova Greenville",
+      "description": "Jeff\u2192Colby ~3:53pm Mon: badge request for Cody Stoddard for Tue ~4:00pm, safe work plan CP-1805. (T256)",
+      "start": "2026-10-27T16:00:00-04:00",
+      "end": "2026-10-27T16:30:00-04:00",
+      "allDay": false,
+      "todoId": "T256"
     }
   ]
 }
