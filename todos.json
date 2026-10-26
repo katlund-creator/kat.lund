@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T09:19:48-04:00",
+  "updated": "2026-10-26T12:09:23-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -631,7 +631,7 @@
       "due": "waiting Bonitz quote (requested Mon Oct 26)",
       "item": "Answer Bonitz access-floor RFQ questions for BSA / BSB conf-room flooring",
       "source": "Email / Katheryn fwd James Henninger (Bonitz) 2026-10-01 + Jeff\u2192Kat 2026-10-05",
-      "notes": "**Thu ~5:21pm ET Katheryn\u2192Jeff:** \u201cHere is for the flooring for BSA\u201d \u2014 fwd **James Henninger** (Bonitz Product Specialist; jameshenninger@bonitz.com; 262-442-3097) RE: Indcom Corp. Access Floor System RFQ. James asks: (1) project name (BSB GE Gas \u2013 Conf. Room or similar?); (2) do 2 rooms off main also get low-profile flooring?; (3) how many floor outlet locations?; (4) carpet tile over ASM Q2C 1.6\" system \u2014 Bonitz provide or Indcom/GE? Attached *ASM Q2C - 1.6in Low Profile Flooring Data & Overview.pdf*. Bill+Kat already on thread with floor plan (conduit under access floor). **Jeff owes answers** (or confirm Kat/Bill own) to keep quote moving. Relates T13/T42 BSA but distinct access-floor RFQ. **Mon Oct 5 ~9:09am ET Jeff\u2192Katheryn:** floor receptacles at **each desk location + the conference-room table**; Alex wants **tile, not carpet** \u2014 color similar to the tile in the **KIB office**. **Action (Kat):** relay to James Henninger; still open: project name (e.g., *BSB GE Gas \u2013 Conf. Room*), whether the **2 side rooms** get the low-profile floor, exact outlet count (= desk count + table), and whether Bonitz supplies the tile. **Mon Oct 26 ~6:46am ET Katheryn\u2192James Henninger (Bonitz, cc Jeff), Re: BSB GE Gas - Office Building:** GE decided to proceed with his floor design \u2014 asked him to send the quote ASAP. Waiting Bonitz quote."
+      "notes": "**Thu ~5:21pm ET Katheryn\u2192Jeff:** \u201cHere is for the flooring for BSA\u201d \u2014 fwd **James Henninger** (Bonitz Product Specialist; jameshenninger@bonitz.com; 262-442-3097) RE: Indcom Corp. Access Floor System RFQ. James asks: (1) project name (BSB GE Gas \u2013 Conf. Room or similar?); (2) do 2 rooms off main also get low-profile flooring?; (3) how many floor outlet locations?; (4) carpet tile over ASM Q2C 1.6\" system \u2014 Bonitz provide or Indcom/GE? Attached *ASM Q2C - 1.6in Low Profile Flooring Data & Overview.pdf*. Bill+Kat already on thread with floor plan (conduit under access floor). **Jeff owes answers** (or confirm Kat/Bill own) to keep quote moving. Relates T13/T42 BSA but distinct access-floor RFQ. **Mon Oct 5 ~9:09am ET Jeff\u2192Katheryn:** floor receptacles at **each desk location + the conference-room table**; Alex wants **tile, not carpet** \u2014 color similar to the tile in the **KIB office**. **Action (Kat):** relay to James Henninger; still open: project name (e.g., *BSB GE Gas \u2013 Conf. Room*), whether the **2 side rooms** get the low-profile floor, exact outlet count (= desk count + table), and whether Bonitz supplies the tile. **Mon Oct 26 ~6:46am ET Katheryn\u2192James Henninger (Bonitz, cc Jeff), Re: BSB GE Gas - Office Building:** GE decided to proceed with his floor design \u2014 asked him to send the quote ASAP. Waiting Bonitz quote. **Mon Oct 26 ~10:14am ET James Henninger (Bonitz)\u2192Kat+Jeff:** 2\u20133 days to round up material, freight + install pricing for the raised access floor proposal. **~11:00am Kat:** please get it to me ASAP."
     },
     {
       "id": "T89",
@@ -1333,7 +1333,7 @@
       "due": "**Before Sat Nov 14** \u2014 review valve plan + reply Bob Smith w/ questions/concerns/conflicts; outage **Sat Nov 14 \u2192 Tue Nov 24**",
       "item": "Review GE **GTTL HVAC chilled-water outage / valve replacement** plan (NO HVAC cooling building-wide) \u2014 flag Indcom conflicts/needs to Bob Smith",
       "source": "Email / Robert (Bob) Smith (GE Vernova Facilities Engineer) 2026-10-16 ~9:46am ET",
-      "notes": "**Fri ~9:46am ET Bob Smith (Robert1.Smith@gevernova.com; M 864-237-5847)\u2192Jeff + MSS (Tim McGill, Chris Shope) + GE (Mark Monroe, Julia Harbin, Bill Byrne, Leslie Miller, Diana Setzer, Eddie Nelms) + Randy Moore (Rescom Construction); cc Chris Sutton, Scott Compton + Clifford Seltrecht (Amentum), Dominic Maxwell, Trevor Honosky, Joseph Betten \u2014 *GTTL Chilled Water Outage \u2013 Valve Replacement Plan and Schedule*:** planned HVAC chilled water outage **beginning Sat Nov 14**; system shut down + drained for valve replacement; ~**10 days**, \u201c**NO WEEKENDS**\u201d; **NO HVAC COOLING building wide** (incl. portions of test areas). Start south end **Valve #18**. Schedule: **Sat 11/14\u2013Sun 11/15** shut down + drain; **Mon 11/16, Tue 11/17, Wed 11/18, Thu 11/19, Mon 11/23** replace 3 valves/day; **Tue 11/24** final valve + refill, plant start-up. Attached *GTTL Chill Water Replacment Plan.pptx* (valve layout/locations; not opened). Asks recipients for **questions, concerns, conflicts, recommendations** before the outage. Indcom action: open deck, check whether valve locations need scaffold/access support and any Indcom work in that window affected by no cooling; reply Bob. Kat cal has 2 Jeff holds (all-day Nov 14\u201324) deduped = **e82**. No scaffold mentioned in email."
+      "notes": "**Fri ~9:46am ET Bob Smith (Robert1.Smith@gevernova.com; M 864-237-5847)\u2192Jeff + MSS (Tim McGill, Chris Shope) + GE (Mark Monroe, Julia Harbin, Bill Byrne, Leslie Miller, Diana Setzer, Eddie Nelms) + Randy Moore (Rescom Construction); cc Chris Sutton, Scott Compton + Clifford Seltrecht (Amentum), Dominic Maxwell, Trevor Honosky, Joseph Betten \u2014 *GTTL Chilled Water Outage \u2013 Valve Replacement Plan and Schedule*:** planned HVAC chilled water outage **beginning Sat Nov 14**; system shut down + drained for valve replacement; ~**10 days**, \u201c**NO WEEKENDS**\u201d; **NO HVAC COOLING building wide** (incl. portions of test areas). Start south end **Valve #18**. Schedule: **Sat 11/14\u2013Sun 11/15** shut down + drain; **Mon 11/16, Tue 11/17, Wed 11/18, Thu 11/19, Mon 11/23** replace 3 valves/day; **Tue 11/24** final valve + refill, plant start-up. Attached *GTTL Chill Water Replacment Plan.pptx* (valve layout/locations; not opened). Asks recipients for **questions, concerns, conflicts, recommendations** before the outage. Indcom action: open deck, check whether valve locations need scaffold/access support and any Indcom work in that window affected by no cooling; reply Bob. Kat cal has 2 Jeff holds (all-day Nov 14\u201324) deduped = **e82**. No scaffold mentioned in email. **Mon Oct 26 ~9:49am ET Bob Smith update:** **no change** to the outage schedule (Sat 11/14\u2013Tue 11/24); clarified chilled water drained for full duration \u2192 no building-wide HVAC cooling incl. test areas, but heating/ventilation/exhaust not on chilled water stays up (AHU blower motors run; air mostly circulating). Still send any Indcom concerns."
     },
     {
       "id": "T188",
@@ -1657,7 +1657,7 @@
       "due": "match POs / Heatherly receive",
       "item": "Get POs + receipt for UA Scaffold Support invoices **3929 / 3930 / 3931 / 3938 / 3939** (FW37\u2013FW41, **$41,962.48 each**, ~$209.8K total) \u2014 Andrew Heatherly",
       "source": "Email / QuickBooks \u2192 William.Heatherly@gevernova.com 2026-10-22 ~2:12\u20132:41am ET",
-      "notes": "**Thu ~2:12am\u20132:41am ET** Indcom QuickBooks payment requests to Heatherly: **3929** FW37, **3930** FW38, **3931** FW39, **3938** FW40, **3939** FW41 UA Scaffold Support \u2014 each balance due **$41,962.48**. Only FW36 has a PO so far (**4900668714**, T199). Confirm GE POs issued/received for FW37\u201341 so these can be paid."
+      "notes": "**Thu ~2:12am\u20132:41am ET** Indcom QuickBooks payment requests to Heatherly: **3929** FW37, **3930** FW38, **3931** FW39, **3938** FW40, **3939** FW41 UA Scaffold Support \u2014 each balance due **$41,962.48**. Only FW36 has a PO so far (**4900668714**, T199). Confirm GE POs issued/received for FW37\u201341 so these can be paid. **Mon Oct 26 ~11:52\u201311:54am ET Ariba:** POs now issued for **FW37 \u2192 4900671763** (T253) and **FW38 \u2192 4900671756** (T252), $41,962.48 each; FW39/FW40/FW41 (inv 3931/3938/3939) still need POs."
     },
     {
       "id": "T226",
@@ -1774,16 +1774,7 @@
       "due": "**Mon Oct 26 9:00am ET** (requested \u2014 watch for GE fire-alarm approval)",
       "item": "Track **fire alarm / suppression outage** for **Broach CAT#18654 @ JJB + Broach CAT#18566 @ BOB** removals (DPP)",
       "source": "Email / Jason Marchbanks (DPP)\u2192Jason Dickerson (GE) 2026-10-23 ~11:41am ET",
-      "notes": "**Fri ~11:41am ET Jason Marchbanks\u2192Jason Dickerson (GE), cc Jeff, Katheryn, Adam McClure, Steven Olivieri, *Fire Alarm Outage Request (BOB Broach & JJB Broach)*:** remove fire suppression from both Broaches; **Mon Oct 26 9AM**; GE Lead Joey Lum. Ties T233/T235 (BOB) and T236/T237 (JJB). Two identical holds on Kat's cal (dedupe). **Fri ~1:55pm ET Jason Dickerson (GE)\u2192Marchbanks:** can drain the system; **BOB already isolated**; will do **JJB Monday morning**; asked if broaches are being removed \u2014 **~2:07pm Marchbanks: yes**. Effectively approved/in hand."
-    },
-    {
-      "id": "T239",
-      "status": "open",
-      "priority": "low",
-      "due": "**Mon Oct 26 7:45\u20139:15am ET** (FYI)",
-      "item": "FYI **SP-PQ-34 outage @ QGA (combustion)** \u2014 AMK installing receptacles on ckts 9, 11, 13, 15 & 17 (not Indcom work)",
-      "source": "Email / David Hinkson (GE) OUTAGE NOTIFICATION 2026-10-23 ~11:27am ET",
-      "notes": "Hinkson\u2192Jeff, Katheryn, Adam McClure, Joshua Bartlett: ME Matt Anderson; AMK APM Russ Zubkov; electrician Carolina Power; AMK Job # 26.0324; panel schedule SP-PQ-34.pdf attached. Undocumented 208V/120V loads in area may be affected \u2014 check if any Indcom crew/tools on that panel at QGA Monday morning."
+      "notes": "**Fri ~11:41am ET Jason Marchbanks\u2192Jason Dickerson (GE), cc Jeff, Katheryn, Adam McClure, Steven Olivieri, *Fire Alarm Outage Request (BOB Broach & JJB Broach)*:** remove fire suppression from both Broaches; **Mon Oct 26 9AM**; GE Lead Joey Lum. Ties T233/T235 (BOB) and T236/T237 (JJB). Two identical holds on Kat's cal (dedupe). **Fri ~1:55pm ET Jason Dickerson (GE)\u2192Marchbanks:** can drain the system; **BOB already isolated**; will do **JJB Monday morning**; asked if broaches are being removed \u2014 **~2:07pm Marchbanks: yes**. Effectively approved/in hand. **Mon ~10:23am ET Jason Dickerson (GE)\u2192Marchbanks:** asks to have his name added to the **red tape card at JIB**; will shut down sprinklers once he's on it (ph +1 864-483-1663)."
     },
     {
       "id": "T240",
@@ -1868,15 +1859,54 @@
     },
     {
       "id": "T250",
-      "status": "waiting",
+      "status": "open",
       "priority": "high",
-      "due": "ASAP \u2014 waiting Layher quote + ship",
+      "due": "ASAP \u2014 Jeff review/approve Layher **Rental Quote R-000309** \u2192 PO + ship date",
       "item": "**Layher rental material to GE**: 50\u00d7 8'5\" gap covers, 300\u00d7 5'2\" LW ledgers, 180\u00d7 5'2\" steel decks, 50\u00d7 8'5\" steel filler decks; resume rental on cleaned masonry-job material",
       "source": "Email / Jeff\u2192Jimmy Holmes (Layher; cc Jeremy Bayate, Obed Bosch) 2026-10-26 ~8:05am ET",
-      "notes": "**Mon ~8:05am Jeff:** send ASAP, confirm no contaminated material (else hold for other branches); cleaned masonry material is less contaminated than the 6'9\" steel decks just received \u2014 resume rental on it (inventory shortages). **~8:57am Jimmy:** rental, RTO or purchase? used rental may have paint/contaminants. **~9:11am Jeff:** **rental**; building over machines/turbines \u2014 **no concrete**, paint OK. Waiting Jimmy quote + freight. Related: T4/T201."
+      "notes": "**Mon ~8:05am Jeff:** send ASAP, confirm no contaminated material (else hold for other branches); cleaned masonry material is less contaminated than the 6'9\" steel decks just received \u2014 resume rental on it (inventory shortages). **~8:57am Jimmy:** rental, RTO or purchase? used rental may have paint/contaminants. **~9:11am Jeff:** **rental**; building over machines/turbines \u2014 **no concrete**, paint OK. Waiting Jimmy quote + freight. Related: T4/T201. **Mon ~9:23am ET Jimmy Holmes (cc Jeremy Bayate):** sent *Rental Quote R-000309.pdf* (\u201cattached is the requested quote\u201d; amount not in body) \u2192 Jeff to review/approve, issue PO, confirm freight/ship date."
+    },
+    {
+      "id": "T251",
+      "status": "open",
+      "priority": "high",
+      "due": "**Tue Oct 27 11:00am ET** (requested \u2014 watch for GE approval/notification)",
+      "item": "Track **shutdown SP-MN-31 Ckts 3 & 5** \u2014 remove 120V receptacles & switches from crane structure **MFB\u2013MHB** (structure being removed)",
+      "source": "Email / Jason Marchbanks (DPP)\u2192GVL Outage 2026-10-26 ~10:49am ET",
+      "notes": "**Mon ~10:49am ET Jason Marchbanks\u2192gvl.outage, cc Jim Stanley (GE), Jeff, Katheryn, Adam McClure, *Shutdown Request (SP-MN-31 Circuits 3 & 5)*:** Tue Oct 27 11:00AM; GE Lead **Jim Stanley**; sub DPP; photos attached. Two identical holds on Kat's cal (deduped \u2192 e107)."
+    },
+    {
+      "id": "T252",
+      "status": "open",
+      "priority": "high",
+      "due": "**Need-by Tue Oct 27** \u2014 ack in Ariba + service sheet + invoice",
+      "item": "Process/ack GE PO **4900671756** (**$41,962.48**) \u2014 **FW38 UA Scaffold Support** (svc Sep 14\u201320) (Andrew Heatherly)",
+      "source": "Email / Ariba GE Vernova 2026-10-26 ~11:52am ET",
+      "notes": "Requester **William Andrew Heatherly**; **PR853987**; NET 150; FCA; ship-to 5250. Matches QuickBooks invoice **3930** (FW38) on T225."
+    },
+    {
+      "id": "T253",
+      "status": "open",
+      "priority": "high",
+      "due": "**Need-by Tue Oct 27** \u2014 ack in Ariba + service sheet + invoice",
+      "item": "Process/ack GE PO **4900671763** (**$41,962.48**) \u2014 **FW37 UA Scaffold Support** (svc Sep 7\u201313) (Andrew Heatherly)",
+      "source": "Email / Ariba GE Vernova 2026-10-26 ~11:54am ET",
+      "notes": "Requester **William Andrew Heatherly**; **PR853983**; NET 150; FCA; ship-to 5250. Matches QuickBooks invoice **3929** (FW37) on T225."
+    },
+    {
+      "id": "T254",
+      "status": "open",
+      "priority": "high",
+      "due": "**Need-by Fri Oct 23 (already past)** \u2014 ack in Ariba + invoice",
+      "item": "Process/ack GE PO **4900671759** (**$5,453.00**) \u2014 **UB Tubing Support** (Mateo Castro)",
+      "source": "Email / Ariba GE Vernova 2026-10-26 ~11:54am ET",
+      "notes": "Requester **Mateo Castro**; **PR853192**; NET 150; FCA; Material 1 EA. Same scope/amount as T193 (PO 4900668417, PR850518) \u2014 likely the next month's UB tubing support; confirm it's not a duplicate."
     }
   ],
   "calendar": [
+    "**Need-by Tue Oct 27 (NEW \u2014 Ariba Mon ~11:52\u201311:54am)** \u2014 Ack GE POs **4900671763** (FW37) + **4900671756** (FW38) UA Scaffold Support, $41,962.48 each (Heatherly) (T253/T252) \u2014 e108",
+    "**Need-by Fri Oct 23 PASSED (NEW \u2014 Ariba Mon ~11:54am)** \u2014 Ack GE PO **4900671759** ($5,453.00; UB Tubing Support; Mateo Castro) (T254)",
+    "**Tue Oct 27 11:00am ET (NEW \u2014 DPP request)** \u2014 **Shutdown SP-MN-31 Ckts 3 & 5** for crane structure MFB\u2013MHB removal; GE lead Jim Stanley (T251) \u2014 e107",
     "**TODAY Mon Oct 26 (NEW \u2014 Matt Fitts ~8:16am)** \u2014 GE EHS 2032221: NNA scaffold support beam half off base \u2014 Matt walk-down; Jeff says addressed (T248) \u2014 e105",
     "**Need-by Thu Oct 29 (NEW \u2014 Ariba Mon ~8:03am)** \u2014 Ack GE PO **4900671575** ($25,936.27; Indcom 3418 CNA/CDA/CMA\u2013CLA; Joey Lum) (T249) \u2014 e106",
     "**Need-by Thu Oct 29 (NEW \u2014 Ariba Mon ~8:03am)** \u2014 Ack GE PO **4900671574** ($49,470.00; FW37\u201340 C-Bay techs; Joey Lum) (T245) \u2014 e101",
@@ -1885,7 +1915,6 @@
     "**Sat\u2013Sun Oct 24\u201325 (weekend, OT)** \u2014 Build-stand netting/fencing: Sat 1st shift DGA/DQA/DMB open, Sat 2nd shift all areas free; Sun 1st shift DGA/DQA/DMB/DMA open; yellow fencing at DRA (Uline boxes); Andrew Heatherly Sat, Zac Sun (T198) \u2014 e94",
     "**Mon Oct 26 8:15am ET @ BOB (panel PP-19 @ BPB) (NEW \u2014 DPP request ~8:11am)** \u2014 Shutdown **PP-19 Ckt #9** for **Broach CAT#18566** removal; GE Lead Grant Bartlett (T233) \u2014 e93",
     "**Mon Oct 26 8:15am ET @ BOB (panel RP-451 @ CQA)** \u2014 Shutdown **RP-451 Ckts 4 & 7** (Broach CAT#18566); GE notification issued ~11:25am, GE invite shows 9:00\u20139:30am (T235) \u2014 e96",
-    "**Mon Oct 26 7:45\u20139:15am ET @ QGA (NEW \u2014 GE notification)** \u2014 FYI outage **SP-PQ-34** (AMK receptacles; Carolina Power) (T239) \u2014 e100",
     "**Mon Oct 26 9:00am ET @ JJB & BOB (NEW \u2014 DPP request)** \u2014 **Fire alarm/suppression outage** for both Broach removals (T238) \u2014 e99",
     "**Mon Oct 26 9:00am ET @ JJB (NEW \u2014 GE notification; GE invite 9:30\u201310:00am)** \u2014 Shutdown **RP-JJ-33 Ckts 3, 6, 7, 8 & 9** (Broach CAT#18654) (T236) \u2014 e97",
     "**Mon Oct 26 9:30am ET @ JJC (panel PP-11B-4 @ JKB) (NEW \u2014 GE notification)** \u2014 Shutdown **PP-11B-4 Ckt #1** (Broach CAT#18654) (T237) \u2014 e98",
@@ -2969,22 +2998,6 @@
       "status": "pending"
     },
     {
-      "allDay": false,
-      "status": "upcoming",
-      "id": "e100",
-      "type": "outage",
-      "title": "FYI Outage: SP-PQ-34 @ QGA (combustion)",
-      "summary": "Mon Oct 26 7:45\u20139:15am ET \u2014 AMK receptacles ckts 9/11/13/15/17",
-      "start": "2026-10-26T07:45:00-04:00",
-      "end": "2026-10-26T09:15:00-04:00",
-      "location": "QGA",
-      "todoId": "T239",
-      "relatedTodos": [
-        "T239"
-      ],
-      "description": "GE Hinkson OUTAGE NOTIFICATION ~11:27am ET Fri Oct 23; Carolina Power electrician; AMK Job 26.0324."
-    },
-    {
       "id": "e93",
       "type": "outage",
       "title": "Shutdown: PP-19 Circuit #9 \u2014 Broach CAT#18566 removal @ BOB",
@@ -3222,6 +3235,30 @@
       "end": "2026-10-30",
       "allDay": true,
       "todoId": "T249"
+    },
+    {
+      "id": "e107",
+      "type": "outage",
+      "title": "Shutdown: SP-MN-31 Circuits 3 & 5 (crane structure MFB\u2013MHB removal)",
+      "summary": "DPP request; GE lead Jim Stanley",
+      "location": "MFB\u2013MHB crane structure",
+      "description": "Remove 120V receptacles & switches from crane structure MFB\u2013MHB (structure being removed). Requested by Jason Marchbanks (DPP) Mon 10/26 ~10:49am. (T251)",
+      "start": "2026-10-27T11:00:00-04:00",
+      "end": "2026-10-27T12:00:00-04:00",
+      "allDay": false,
+      "todoId": "T251"
+    },
+    {
+      "id": "e108",
+      "type": "deadline",
+      "title": "Deadline: GE POs 4900671763 (FW37) + 4900671756 (FW38) UA Scaffold Support need-by",
+      "summary": "Ack in Ariba + service sheet/invoice (Andrew Heatherly)",
+      "location": "Ariba / SAP Business Network",
+      "description": "PO 4900671763 FW37 + PO 4900671756 FW38 UA Scaffold Support, $41,962.48 each; requester Andrew Heatherly; need-by Tue Oct 27; matches invoices 3929/3930 (T225). (T252/T253)",
+      "start": "2026-10-27",
+      "end": "2026-10-28",
+      "allDay": true,
+      "todoId": "T252"
     }
   ]
 }
