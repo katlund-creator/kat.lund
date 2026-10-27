@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T14:16:17-04:00",
+  "updated": "2026-10-27T15:15:26-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -1946,6 +1946,15 @@
       "item": "Remove the **two pedestrian-rail sections at the BGB cross aisle** (per Adam Kammerer's photo IMG_2561.JPG) \u2014 fork truck can't make the turn",
       "source": "Email / Adam Kammerer (GE Vernova, Ops Leader \u2013 Rotor Machining)\u2192Julia Filiatreau + Jeff (cc Logan Nelson, Chuck Kirkley) 2026-10-27 ~1:27pm ET, Re: Pedestrian Rails",
       "notes": "**Tue ~1:27pm ET Adam Kammerer:** thanks for the quick action removing the C Bay cross-aisle rail sections (T257 done Mon night); asks to **also remove the two sections at BGB** shown in attached photo \u2014 difficult for fork truck to turn at the cross aisle with rails installed. \u2192 Jeff to schedule removal (likely off-shift like T257) + reply/confirm with photos. Related: T257, T194 (Chuck Kirkley guard-rail deck)."
+    },
+    {
+      "id": "T264",
+      "status": "waiting",
+      "priority": "med",
+      "due": "route/confirm payment",
+      "item": "Process SPC (Evan Groce) invoice \u2014 **CNA diamond plate**",
+      "source": "Email / Evan Groce (SPC Fabrication) 2026-10-27 ~2:56pm ET",
+      "notes": "Invoice attached, sent to Jeff + ap.mail@indcomcorp.com (\u201cPlease see attached invoice\u201d). Related to CNA modification work (T249 GE PO 4900671575). Waiting AP confirm/pay."
     }
   ],
   "calendar": [
