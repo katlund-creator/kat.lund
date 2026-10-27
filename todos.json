@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T13:17:18-04:00",
+  "updated": "2026-10-27T14:16:17-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -1937,6 +1937,15 @@
       "item": "GE approval of Indcom **Estimate 2038 \u2014 Shipping Rack Materials and Future Repairs** (**$189,571.89**)",
       "source": "Email / QuickBooks\u2192Julia Filiatreau 2026-10-27 ~12:52pm ET",
       "notes": "**Tue ~12:52pm ET** QuickBooks quotation **2038** sent to Julia (GE) for review/approval, **$189,571.89**. Ties T20 rack repairs (repair kits/uprights). Waiting Julia approval \u2192 PO."
+    },
+    {
+      "id": "T263",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP (GE ops \u2014 fork-truck access)",
+      "item": "Remove the **two pedestrian-rail sections at the BGB cross aisle** (per Adam Kammerer's photo IMG_2561.JPG) \u2014 fork truck can't make the turn",
+      "source": "Email / Adam Kammerer (GE Vernova, Ops Leader \u2013 Rotor Machining)\u2192Julia Filiatreau + Jeff (cc Logan Nelson, Chuck Kirkley) 2026-10-27 ~1:27pm ET, Re: Pedestrian Rails",
+      "notes": "**Tue ~1:27pm ET Adam Kammerer:** thanks for the quick action removing the C Bay cross-aisle rail sections (T257 done Mon night); asks to **also remove the two sections at BGB** shown in attached photo \u2014 difficult for fork truck to turn at the cross aisle with rails installed. \u2192 Jeff to schedule removal (likely off-shift like T257) + reply/confirm with photos. Related: T257, T194 (Chuck Kirkley guard-rail deck)."
     }
   ],
   "calendar": [
@@ -1944,6 +1953,7 @@
     "\u2705 DONE Tue Oct 27 ~10:10am \u2014 FW43 TIME/per diems 10/19\u201310/25 sent to Payroll OpSource (Chaz held) (T258) \u2014 e112",
     "**TODAY Tue Oct 27 (Martin Brown repair-schedule meeting)** \u2014 Give Martin EC1600 rotary-load timeline; Craig Sarratt offers to come look (T215)",
     "\u2705 DONE Mon night Oct 26 \u2014 C Bay cross-aisle pedestrian rails removed (Julia ack\u2019d Tue ~6:17am) (T257)",
+    "**ASAP (NEW \u2014 Adam Kammerer ~1:27pm Tue)** \u2014 Remove two pedestrian-rail sections at BGB cross aisle (fork-truck turn) (T263)",
     "**Tue Oct 27 ~4:00pm** \u2014 Cody Stoddard GE badge (CP-1805) requested via Colby (T256)",
     "**Tue Nov 3 (NEW \u2014 GE ask)** \u2014 Scaffold around unit behind GTOS to be **secured** (Sophie Campbell/Tom Mogle; vendor arrives Nov 4) (T220) \u2014 e109",
     "**Need-by TODAY Tue Oct 27 \u2014 \u2705 off Ariba unconfirmed list Tue 5am (service sheet/invoice remaining)** \u2014 GE POs **4900671763** (FW37) + **4900671756** (FW38) UA Scaffold Support, $41,962.48 each (Heatherly) (T253/T252) \u2014 e108",
