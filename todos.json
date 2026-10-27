@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T09:20:30-04:00",
+  "updated": "2026-10-27T10:14:52-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -1903,15 +1903,6 @@
       "notes": "**Mon ~3:53pm ET Jeff\u2192Colby Murphy:** please submit a badge request for **Cody Stoddard** for **tomorrow around 4:00pm** \u2014 Indcom safe work plan **CP-1805**. Waiting Colby confirm. Related: Cody OpSource onboarding (T246)."
     },
     {
-      "id": "T258",
-      "status": "open",
-      "priority": "high",
-      "due": "**TODAY Tue Oct 27 before noon payroll**",
-      "item": "Submit OpSource crew **TIME/per diems FW43 week 10/19\u201310/25** (Kat list sent 7:09am) to Lisa Stafford / Payroll OpSource",
-      "source": "Email / Katheryn\u2192Jeff 2026-10-27 ~7:09am ET",
-      "notes": "**Tue ~7:09am ET Katheryn\u2192Jeff, *TIME - 10/19 - 10/25*:** 22 names w/ hours + per diem (e.g. Ethan Russel 92 h, Travis Humphrey 88 h; Lance Maxwell Reid 40 h/$400; Angel Ordaz 46 h is last week\u2019s hours \u2014 OK to pay out); **Chaz Kieff \u2014 all hours and per diem HELD** (terminated Sat; see T246). Jeff to forward as \u201cINDCOM TIME - 10/19 - 10/25\u201d to Lisa Stafford + Payroll OpSource (cc Jose, Yesenia, Julie, Bill, Katheryn) like FW42."
-    },
-    {
       "id": "T259",
       "status": "open",
       "priority": "high",
@@ -1932,7 +1923,7 @@
   ],
   "calendar": [
     "**TODAY Tue Oct 27 ~8:30\u20139:00am (pushed from 8:00 \u2014 Jeff in turnover meeting; ping Tom when headed over)** \u2014 GTOS scaffold site walk: Jeff + Tom Mogle (GE) \u2014 scope/quote; secure by Nov 3 (T220) \u2014 e110",
-    "**TODAY Tue Oct 27 before noon (OpSource payroll)** \u2014 Submit FW43 TIME/per diems 10/19\u201310/25 (Kat list 7:09am; Chaz held) (T258) \u2014 e112",
+    "\u2705 DONE Tue Oct 27 ~10:10am \u2014 FW43 TIME/per diems 10/19\u201310/25 sent to Payroll OpSource (Chaz held) (T258) \u2014 e112",
     "**TODAY Tue Oct 27 (Martin Brown repair-schedule meeting)** \u2014 Give Martin EC1600 rotary-load timeline; Craig Sarratt offers to come look (T215)",
     "\u2705 DONE Mon night Oct 26 \u2014 C Bay cross-aisle pedestrian rails removed (Julia ack\u2019d Tue ~6:17am) (T257)",
     "**Tue Oct 27 ~4:00pm** \u2014 Cody Stoddard GE badge (CP-1805) requested via Colby (T256)",
@@ -3297,14 +3288,15 @@
     {
       "id": "e112",
       "type": "deadline",
-      "title": "Deadline: Submit FW43 TIME/per diems (10/19\u201310/25) to OpSource before noon payroll",
-      "summary": "Kat sent list 7:09am; Chaz Kieff held",
+      "title": "DONE: FW43 TIME/per diems (10/19\u201310/25) sent to OpSource",
+      "summary": "Jeff sent ~10:10am; Chaz Kieff held",
       "location": "OpSource (email)",
-      "description": "Katheryn\u2192Jeff Tue ~7:09am TIME - 10/19 - 10/25 (22 names). Jeff to forward to Lisa Stafford + Payroll OpSource before noon. (T258)",
+      "description": "Jeff\u2192Payroll OpSource \"Indcom Time\" Tue ~10:10am ET (cc Lisa Stafford, Katheryn, Bill Marchbanks). (T258 done)",
       "start": "2026-10-27T11:00:00-04:00",
       "end": "2026-10-27T12:00:00-04:00",
       "allDay": false,
-      "todoId": "T258"
+      "todoId": "T258",
+      "status": "done"
     }
   ]
 }
