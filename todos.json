@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T12:17:47-04:00",
+  "updated": "2026-10-27T13:17:18-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -55,7 +55,7 @@
       "due": "waiting GE approval/PO",
       "item": "Deliver Jim Stanley change-order numbers",
       "source": "Email / James Stanley 2026-09-16",
-      "notes": "Need numbers for: (1) NFPS.03 line changes, (2) M-Bay tool-crib disconnect + H-Bay reinstall, (3) decommission old wire EDM at EYA + install new. Jeff said working with Jason; unknowns quoted separately. **Mon ~10:27\u201310:46am ET Indcom QuickBooks estimates sent to Jim Stanley:** Est **2003** NFPS.03 New 800A Panel & Transformer Feeder (**$131,030.97**); **2016** Breaker Swap for New Panel (**$12,732.72**); **2017** Basaran chilled water mods (**$19,250.00**); **2018** NFPS.03 machine power 480V\u2192208V (**$36,227.92**); **2019** BL4 change order Basaran loop/bracing/supports (**$21,467.60**); **2020** NFPS.03 Mist Collector support stand bracing (**$3,607.58**). Now **waiting Jim Stanley approval / GE POs**. Tool-crib (item 2) + EYA wire EDM (item 3) not seen in this batch \u2014 confirm."
+      "notes": "Need numbers for: (1) NFPS.03 line changes, (2) M-Bay tool-crib disconnect + H-Bay reinstall, (3) decommission old wire EDM at EYA + install new. Jeff said working with Jason; unknowns quoted separately. **Mon ~10:27\u201310:46am ET Indcom QuickBooks estimates sent to Jim Stanley:** Est **2003** NFPS.03 New 800A Panel & Transformer Feeder (**$131,030.97**); **2016** Breaker Swap for New Panel (**$12,732.72**); **2017** Basaran chilled water mods (**$19,250.00**); **2018** NFPS.03 machine power 480V\u2192208V (**$36,227.92**); **2019** BL4 change order Basaran loop/bracing/supports (**$21,467.60**); **2020** NFPS.03 Mist Collector support stand bracing (**$3,607.58**). Now **waiting Jim Stanley approval / GE POs**. Tool-crib (item 2) + EYA wire EDM (item 3) not seen in this batch \u2014 confirm. **Tue Oct 27 ~1:08pm ET Katheryn\u2192Jeff (Fwd: NFPS.03 change quotes: a few clarifications):** forwarded Jason Marchbanks (DPP) Thu Oct 22 ~12:33pm answers \u2014 (1) DPP Est 381 breaker relocation was weekend/shutdown-based; actual cost on **DPP Invoice 4706** ~75% less; DPP Est 372 (800A panel) excludes LCU / main PP panel feed work; (2) 480V\u2192208V billed **material difference only** (6/3 wire ~$12,800 vs 10/3 ~$2,400; 5\u00d7 60A disc $4,000 vs 30A $2,000; 1\" RMC $5.50/ft vs 3/4\" $2.55/ft) \u2014 no credit breakdown yet, Jason can provide exact material delta; (3) Fanuc work **complete**, only labor on Inv 4706 was 4 hrs load calcs/sequencing; (4) Basaran chilled-water mods scope listed. \u2192 Jeff/Kat to reconcile Indcom quotes 2016/2018 vs DPP actuals before GE approval."
     },
     {
       "id": "T8",
@@ -1919,6 +1919,24 @@
       "item": "Review Kat\u2019s draft **Estimate \u2014 Onsite Safe Access Support \u2014 Matt Fitts (N Bay Hanger)** (Google Doc, built on Support Levels)",
       "source": "Email / Google Docs share Katheryn\u2192Jeff 2026-10-26 ~5:37pm ET",
       "notes": "**Mon ~5:37pm ET** Kat shared (edit) *Estimate \u2014 Onsite Safe Access Support \u2014 Matt Fitts (N Bay Hanger)*: \u201cKinda what I worked out for N bay Scaffold - using the Support Levels.\u201d Ties T16 (N Bay overhead hanging scaffold). Waiting Jeff review/edits \u2192 send to Matt Fitts."
+    },
+    {
+      "id": "T261",
+      "status": "waiting",
+      "priority": "high",
+      "due": "track payment",
+      "item": "GE payment on Indcom **Invoice 3943 \u2014 Shipping Rack Completed Repairs** (**$56,471.30**)",
+      "source": "Email / QuickBooks\u2192Julia Filiatreau 2026-10-27 ~12:54pm ET",
+      "notes": "**Tue ~12:54pm ET** QuickBooks payment request sent to Julia (GE) for invoice **3943**, balance due **$56,471.30**. Ties pallet-rack repair work (T20). Waiting GE payment / PO match."
+    },
+    {
+      "id": "T262",
+      "status": "waiting",
+      "priority": "high",
+      "due": "waiting Julia approval/PO",
+      "item": "GE approval of Indcom **Estimate 2038 \u2014 Shipping Rack Materials and Future Repairs** (**$189,571.89**)",
+      "source": "Email / QuickBooks\u2192Julia Filiatreau 2026-10-27 ~12:52pm ET",
+      "notes": "**Tue ~12:52pm ET** QuickBooks quotation **2038** sent to Julia (GE) for review/approval, **$189,571.89**. Ties T20 rack repairs (repair kits/uprights). Waiting Julia approval \u2192 PO."
     }
   ],
   "calendar": [
