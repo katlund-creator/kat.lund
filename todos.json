@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T08:19:21-04:00",
+  "updated": "2026-10-27T09:20:30-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -1618,10 +1618,10 @@
       "id": "T220",
       "status": "open",
       "priority": "high",
-      "due": "**Site walk TODAY Tue Oct 27 ~8:30\u20139:00am** (pushed from 8:00; Jeff to ping Tom when headed over) \u2192 quote; GE wants scaffold secured by **Tue Nov 3** (vendor Nov 4)",
+      "due": "**Site walk underway Tue Oct 27 ~8:45am** (Jeff arrived) \u2192 quote + timeline; GE wants scaffold secured by **Tue Nov 3** (vendor Nov 4)",
       "item": "**Quote scaffolding around the unit behind the GTOS** (2-month rental) for Tom Mogle + schedule site walk",
       "source": "Email / Tom Mogle (GE Vernova, Outage Tooling TL) 2026-10-21 ~9:23am ET",
-      "notes": "**Wed ~9:23am ET Tom Mogle\u2192Jeff + Bill** (cc Sophie Campbell, Naza Isaac): wants a quote to put up scaffolding **around the unit behind the GTOS**, needed **2 months**; asks when Jeff is free to **walk the site** to determine what's needed. Tom 864-430-0308. \u2192 Jeff to propose walk time, then scope + quote (28-day rental minimums apply). **Mon Oct 26 ~12:43pm ET Sophie Campbell (GE, Edison Eng Dev Program)\u2192Jeff + Bill (cc Naza Isaac, Tom Mogle):** following up on Tom's request \u2014 wants scaffolding **secured by Tue Nov 3** (vendor arrives Wed Nov 4); asks if timeline is achievable + Tom's quote/site-walk ask. **No Indcom reply yet** \u2192 Jeff/Bill reply ASAP (e109). **Mon ~3:38pm ET Jeff\u2192Sophie:** apologized for missing it (working 2nd/3rd coverage); will **meet Tom at 8:00am Tue Oct 27** to review the need. **~3:59pm Tom Mogle** asked Sophie to meet Jeff at 8 (Tom has a meeting), then **~4:01pm Tom:** \u201cI am free, I can meet you at 8:00 am on Tuesday.\u201d \u2192 **Site walk Tue Oct 27 8:00am** (Jeff + Tom Mogle); then quote + timeline for Nov 3 (e110). **Tue ~7:23am ET Jeff\u2192Tom (cc Sophie, Bill, Naza Isaac):** turnover meeting running behind (other contractor equipment issues last night + installer scope change) \u2014 will come to GTOS right after, **closer to 8:30/9:00am**. **~7:42am Tom:** \u201cPing or call when you\u2019re headed this way.\u201d (e110 moved to ~8:30\u20139:30)."
+      "notes": "**Wed ~9:23am ET Tom Mogle\u2192Jeff + Bill** (cc Sophie Campbell, Naza Isaac): wants a quote to put up scaffolding **around the unit behind the GTOS**, needed **2 months**; asks when Jeff is free to **walk the site** to determine what's needed. Tom 864-430-0308. \u2192 Jeff to propose walk time, then scope + quote (28-day rental minimums apply). **Mon Oct 26 ~12:43pm ET Sophie Campbell (GE, Edison Eng Dev Program)\u2192Jeff + Bill (cc Naza Isaac, Tom Mogle):** following up on Tom's request \u2014 wants scaffolding **secured by Tue Nov 3** (vendor arrives Wed Nov 4); asks if timeline is achievable + Tom's quote/site-walk ask. **No Indcom reply yet** \u2192 Jeff/Bill reply ASAP (e109). **Mon ~3:38pm ET Jeff\u2192Sophie:** apologized for missing it (working 2nd/3rd coverage); will **meet Tom at 8:00am Tue Oct 27** to review the need. **~3:59pm Tom Mogle** asked Sophie to meet Jeff at 8 (Tom has a meeting), then **~4:01pm Tom:** \u201cI am free, I can meet you at 8:00 am on Tuesday.\u201d \u2192 **Site walk Tue Oct 27 8:00am** (Jeff + Tom Mogle); then quote + timeline for Nov 3 (e110). **Tue ~7:23am ET Jeff\u2192Tom (cc Sophie, Bill, Naza Isaac):** turnover meeting running behind (other contractor equipment issues last night + installer scope change) \u2014 will come to GTOS right after, **closer to 8:30/9:00am**. **~7:42am Tom:** \u201cPing or call when you\u2019re headed this way.\u201d (e110 moved to ~8:30\u20139:30). **Tue ~8:44am ET Jeff\u2192Tom:** \u201cI am pulling in now\u201d \u2192 walk underway ~8:45am; next: Indcom quote + timeline to secure by Nov 3."
     },
     {
       "id": "T221",
@@ -1841,12 +1841,12 @@
     },
     {
       "id": "T250",
-      "status": "open",
+      "status": "waiting",
       "priority": "high",
-      "due": "ASAP \u2014 Jeff review/approve Layher **Rental Quote R-000309** \u2192 PO + ship date",
+      "due": "**Approved Tue Oct 27 ~8:45am (PO GE-JF20261027)** \u2014 waiting Layher ship date/ETA + freight",
       "item": "**Layher rental material to GE**: 50\u00d7 8'5\" gap covers, 300\u00d7 5'2\" LW ledgers, 180\u00d7 5'2\" steel decks, 50\u00d7 8'5\" steel filler decks; resume rental on cleaned masonry-job material",
       "source": "Email / Jeff\u2192Jimmy Holmes (Layher; cc Jeremy Bayate, Obed Bosch) 2026-10-26 ~8:05am ET",
-      "notes": "**Mon ~8:05am Jeff:** send ASAP, confirm no contaminated material (else hold for other branches); cleaned masonry material is less contaminated than the 6'9\" steel decks just received \u2014 resume rental on it (inventory shortages). **~8:57am Jimmy:** rental, RTO or purchase? used rental may have paint/contaminants. **~9:11am Jeff:** **rental**; building over machines/turbines \u2014 **no concrete**, paint OK. Waiting Jimmy quote + freight. Related: T4/T201. **Mon ~9:23am ET Jimmy Holmes (cc Jeremy Bayate):** sent *Rental Quote R-000309.pdf* (\u201cattached is the requested quote\u201d; amount not in body) \u2192 Jeff to review/approve, issue PO, confirm freight/ship date."
+      "notes": "**Mon ~8:05am Jeff:** send ASAP, confirm no contaminated material (else hold for other branches); cleaned masonry material is less contaminated than the 6'9\" steel decks just received \u2014 resume rental on it (inventory shortages). **~8:57am Jimmy:** rental, RTO or purchase? used rental may have paint/contaminants. **~9:11am Jeff:** **rental**; building over machines/turbines \u2014 **no concrete**, paint OK. Waiting Jimmy quote + freight. Related: T4/T201. **Mon ~9:23am ET Jimmy Holmes (cc Jeremy Bayate):** sent *Rental Quote R-000309.pdf* (\u201cattached is the requested quote\u201d; amount not in body) \u2192 Jeff to review/approve, issue PO, confirm freight/ship date. **Tue Oct 27 ~8:45am ET Jeff\u2192Jimmy Holmes:** \u201cApproved GE-JF20261027\u201d \u2192 R-000309 approved on **PO GE-JF20261027**; now waiting Layher ship date/ETA + freight arrangement."
     },
     {
       "id": "T251",
@@ -3273,12 +3273,12 @@
     {
       "id": "e110",
       "type": "meeting",
-      "title": "GTOS scaffold site walk \u2014 Jeff + Tom Mogle (GE) (~8:30\u20139:00am)",
+      "title": "GTOS scaffold site walk \u2014 Jeff + Tom Mogle (GE) (underway ~8:45am)",
       "summary": "Review scaffold need around unit behind GTOS; quote + timeline (secure by Nov 3)",
       "location": "GTOS (GE Vernova Greenville)",
-      "description": "Jeff told Sophie Campbell ~3:38pm Mon he will meet Tom at 8:00am Tue; Tom ~4:01pm confirmed. (T220) Tue ~7:23am Jeff: turnover meeting running behind, closer to 8:30/9:00; Tom ~7:42am: ping/call when headed over.",
-      "start": "2026-10-27T08:30:00-04:00",
-      "end": "2026-10-27T09:30:00-04:00",
+      "description": "Jeff told Sophie Campbell ~3:38pm Mon he will meet Tom at 8:00am Tue; Tom ~4:01pm confirmed. (T220) Tue ~7:23am Jeff: turnover meeting running behind, closer to 8:30/9:00; Tom ~7:42am: ping/call when headed over. Tue ~8:44am Jeff\u2192Tom: \"I am pulling in now\" (walk underway).",
+      "start": "2026-10-27T08:45:00-04:00",
+      "end": "2026-10-27T09:45:00-04:00",
       "allDay": false,
       "todoId": "T220"
     },
