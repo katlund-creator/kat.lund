@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T17:06:27-04:00",
+  "updated": "2026-10-27T08:19:21-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -1573,10 +1573,10 @@
       "id": "T215",
       "status": "open",
       "priority": "high",
-      "due": "**Reply to Martin before his Tue Oct 27 meeting** \u2014 rotary-load timeline (PO 4900668412 need-by Fri Oct 23 passed)",
+      "due": "**TODAY Tue Oct 27** \u2014 set review time w/ Craig Sarratt + give Martin rotary-load timeline (his repair-schedule meeting today)",
       "item": "**Haas EC1600 rotary move @ Micromixer Repair Area** \u2014 tell Martin Brown when Indcom can mobilize; Indcom tasks: (1) **temp crane install**, (2) **remove plate from 4th axis** (w/ GEV), (6) **install trunnion** \u2014 adapter plate to rotary + tail stock; tail-stock plate may need shimming/grinding to make trunnion parallel with X-axis (w/ GEV)",
       "source": "Email / Martin Brown (GE Repair Process Eng) 2026-10-20 ~9:15am ET",
-      "notes": "**Tue ~9:15am ET Martin Brown\u2192Jeff** (cc Craig Sarratt, Cage Powell, Christopher Matthew), *Haas EC1600 - Rotary move*: wants to define a timeline for 11 activities; GEV-only items: clean/stone table, riser plate + rotary on bed, hydraulic/pneumatic coupling, hydraulic hoses/valve, re-route pneumatic + control wires, Schunk plate air, remove scaffolding around machine side; item 4 (unplug new rotary + move to front) **GEV complete**. \u201c**Jeff \u2013 When can you mobilize for this effort?**\u201d **~9:17am ET Martin:** PO is **4900668412** ($3,500 lift PO, T191). Martin tel 864-361-0344. Related T108/T191. **Mon Oct 26 ~3:23pm ET Martin Brown\u2192Jeff (cc Sarratt/Powell/Matthew):** has a repair-schedule meeting **tomorrow (Tue Oct 27)** \u2014 asks for a **timeline on when the rotary can be loaded into the machine**. No Jeff reply yet."
+      "notes": "**Tue ~9:15am ET Martin Brown\u2192Jeff** (cc Craig Sarratt, Cage Powell, Christopher Matthew), *Haas EC1600 - Rotary move*: wants to define a timeline for 11 activities; GEV-only items: clean/stone table, riser plate + rotary on bed, hydraulic/pneumatic coupling, hydraulic hoses/valve, re-route pneumatic + control wires, Schunk plate air, remove scaffolding around machine side; item 4 (unplug new rotary + move to front) **GEV complete**. \u201c**Jeff \u2013 When can you mobilize for this effort?**\u201d **~9:17am ET Martin:** PO is **4900668412** ($3,500 lift PO, T191). Martin tel 864-361-0344. Related T108/T191. **Mon Oct 26 ~3:23pm ET Martin Brown\u2192Jeff (cc Sarratt/Powell/Matthew):** has a repair-schedule meeting **tomorrow (Tue Oct 27)** \u2014 asks for a **timeline on when the rotary can be loaded into the machine**. No Jeff reply yet. **Mon ~6:22pm ET Jeff\u2192Martin (cc Craig Sarratt, Cage Powell, Christopher Matthew):** \u201cWe tried to meet to review this today and have it built.\u201d (no timeline given). **Tue ~7:49am ET Craig Sarratt (GE):** \u201clet us know when you want to look at this \u2014 we can make time to come over.\u201d \u2192 Jeff to set a time with Craig/Martin + give rotary-load timeline (Martin\u2019s repair-schedule meeting is today)."
     },
     {
       "id": "T216",
@@ -1618,10 +1618,10 @@
       "id": "T220",
       "status": "open",
       "priority": "high",
-      "due": "**Site walk Tue Oct 27 8:00am w/ Tom Mogle** \u2192 quote; GE wants scaffold secured by **Tue Nov 3** (vendor Nov 4)",
+      "due": "**Site walk TODAY Tue Oct 27 ~8:30\u20139:00am** (pushed from 8:00; Jeff to ping Tom when headed over) \u2192 quote; GE wants scaffold secured by **Tue Nov 3** (vendor Nov 4)",
       "item": "**Quote scaffolding around the unit behind the GTOS** (2-month rental) for Tom Mogle + schedule site walk",
       "source": "Email / Tom Mogle (GE Vernova, Outage Tooling TL) 2026-10-21 ~9:23am ET",
-      "notes": "**Wed ~9:23am ET Tom Mogle\u2192Jeff + Bill** (cc Sophie Campbell, Naza Isaac): wants a quote to put up scaffolding **around the unit behind the GTOS**, needed **2 months**; asks when Jeff is free to **walk the site** to determine what's needed. Tom 864-430-0308. \u2192 Jeff to propose walk time, then scope + quote (28-day rental minimums apply). **Mon Oct 26 ~12:43pm ET Sophie Campbell (GE, Edison Eng Dev Program)\u2192Jeff + Bill (cc Naza Isaac, Tom Mogle):** following up on Tom's request \u2014 wants scaffolding **secured by Tue Nov 3** (vendor arrives Wed Nov 4); asks if timeline is achievable + Tom's quote/site-walk ask. **No Indcom reply yet** \u2192 Jeff/Bill reply ASAP (e109). **Mon ~3:38pm ET Jeff\u2192Sophie:** apologized for missing it (working 2nd/3rd coverage); will **meet Tom at 8:00am Tue Oct 27** to review the need. **~3:59pm Tom Mogle** asked Sophie to meet Jeff at 8 (Tom has a meeting), then **~4:01pm Tom:** \u201cI am free, I can meet you at 8:00 am on Tuesday.\u201d \u2192 **Site walk Tue Oct 27 8:00am** (Jeff + Tom Mogle); then quote + timeline for Nov 3 (e110)."
+      "notes": "**Wed ~9:23am ET Tom Mogle\u2192Jeff + Bill** (cc Sophie Campbell, Naza Isaac): wants a quote to put up scaffolding **around the unit behind the GTOS**, needed **2 months**; asks when Jeff is free to **walk the site** to determine what's needed. Tom 864-430-0308. \u2192 Jeff to propose walk time, then scope + quote (28-day rental minimums apply). **Mon Oct 26 ~12:43pm ET Sophie Campbell (GE, Edison Eng Dev Program)\u2192Jeff + Bill (cc Naza Isaac, Tom Mogle):** following up on Tom's request \u2014 wants scaffolding **secured by Tue Nov 3** (vendor arrives Wed Nov 4); asks if timeline is achievable + Tom's quote/site-walk ask. **No Indcom reply yet** \u2192 Jeff/Bill reply ASAP (e109). **Mon ~3:38pm ET Jeff\u2192Sophie:** apologized for missing it (working 2nd/3rd coverage); will **meet Tom at 8:00am Tue Oct 27** to review the need. **~3:59pm Tom Mogle** asked Sophie to meet Jeff at 8 (Tom has a meeting), then **~4:01pm Tom:** \u201cI am free, I can meet you at 8:00 am on Tuesday.\u201d \u2192 **Site walk Tue Oct 27 8:00am** (Jeff + Tom Mogle); then quote + timeline for Nov 3 (e110). **Tue ~7:23am ET Jeff\u2192Tom (cc Sophie, Bill, Naza Isaac):** turnover meeting running behind (other contractor equipment issues last night + installer scope change) \u2014 will come to GTOS right after, **closer to 8:30/9:00am**. **~7:42am Tom:** \u201cPing or call when you\u2019re headed this way.\u201d (e110 moved to ~8:30\u20139:30)."
     },
     {
       "id": "T221",
@@ -1750,31 +1750,13 @@
       "notes": "**Fri ~8:16am ET Jason Marchbanks (DPP)\u2192GE GVL Outage (cc Jeff, Katheryn, Adam McClure, joshua.bartlett@, joey.lum@), *Shutdown Request (RP-451 Circuit #'s 4 & 7)*:** panel **RP-451 Ckts 4 & 7** (panel location **CQA**) \u2014 pit fan, lights & receptacles \u2014 to de-energize Broach CAT#18566 at **BOB** for removal; other unknown circuits may exist; **Mon Oct 26 8:15am ET**; GE Lead **Joey Lum**; sub Dynamic Pipe & Power. Same time/machine as T233 (PP-19 Ckt #9) but different panel. Both now on Kat's calendar. **Fri ~11:25am ET UPDATE:** GE David Hinkson issued official *SHUTDOWN NOTIFICATION - RP-451 ckt's-4, 7* (incl. joey.lum@) \u2014 body still says 8:15AM but GE calendar invite on Kat's cal is **9:00\u20139:30am** @ CQA."
     },
     {
-      "id": "T236",
-      "status": "open",
-      "priority": "high",
-      "due": "**Mon Oct 26 9:00am ET** (GE notification issued)",
-      "item": "Track **RP-JJ-33 Circuits 3, 6, 7, 8 & 9 shutdown** \u2014 Pit Fan, Lights & Receptacles for **Broach CAT#18654 @ JJB** removal (DPP)",
-      "source": "Email / Jason Marchbanks (DPP)\u2192GVL Outage ~11:32am ET + GE Hinkson SHUTDOWN NOTIFICATION ~11:52am ET 2026-10-23",
-      "notes": "**Fri ~11:32am ET Jason\u2192GVL Outage** request, then **~11:52am ET David Hinkson (GE) issued *SHUTDOWN NOTIFICATION - RP-JJ-33 ckt's-3, 6, 7, 8, 9*** (to Jeff, Katheryn, Jon Roper, Adam McClure, Joshua Bartlett, Shanna Henson): panel + machine at **JJB**; other unknown circuits may exist; **Mon Oct 26 9AM** per email (GE invite on Kat's cal shows 9:30\u201310:00am @ JJC); GE Lead **Joey Lum**; sub DPP. Second JJB Broach machine (companion T237/T238)."
-    },
-    {
-      "id": "T237",
-      "status": "open",
-      "priority": "high",
-      "due": "**Mon Oct 26 9:30am ET** (GE notification issued)",
-      "item": "Track **PP-11B-4 Circuit #1 shutdown** \u2014 **Broach CAT#18654 @ JJB** removal (DPP)",
-      "source": "Email / Jason Marchbanks (DPP)\u2192GVL Outage ~11:27am ET + GE Hinkson SHUTDOWN NOTIFICATION ~11:48am ET 2026-10-23",
-      "notes": "**Fri ~11:48am ET Hinkson (GE) *SHUTDOWN NOTIFICATION - PP-11B-4 ckt-1***: machine location **JJC**, panel location **JKB**; **Mon Oct 26 9:30AM**; GE Lead **Joey Lum**; sub DPP. Companion to T236 (RP-JJ-33)."
-    },
-    {
       "id": "T238",
       "status": "open",
       "priority": "high",
       "due": "**Mon Oct 26 9:00am ET** (requested \u2014 watch for GE fire-alarm approval)",
       "item": "Track **fire alarm / suppression outage** for **Broach CAT#18654 @ JJB + Broach CAT#18566 @ BOB** removals (DPP)",
       "source": "Email / Jason Marchbanks (DPP)\u2192Jason Dickerson (GE) 2026-10-23 ~11:41am ET",
-      "notes": "**Fri ~11:41am ET Jason Marchbanks\u2192Jason Dickerson (GE), cc Jeff, Katheryn, Adam McClure, Steven Olivieri, *Fire Alarm Outage Request (BOB Broach & JJB Broach)*:** remove fire suppression from both Broaches; **Mon Oct 26 9AM**; GE Lead Joey Lum. Ties T233/T235 (BOB) and T236/T237 (JJB). Two identical holds on Kat's cal (dedupe). **Fri ~1:55pm ET Jason Dickerson (GE)\u2192Marchbanks:** can drain the system; **BOB already isolated**; will do **JJB Monday morning**; asked if broaches are being removed \u2014 **~2:07pm Marchbanks: yes**. Effectively approved/in hand. **Mon ~10:23am ET Jason Dickerson (GE)\u2192Marchbanks:** asks to have his name added to the **red tape card at JIB**; will shut down sprinklers once he's on it (ph +1 864-483-1663)."
+      "notes": "**Fri ~11:41am ET Jason Marchbanks\u2192Jason Dickerson (GE), cc Jeff, Katheryn, Adam McClure, Steven Olivieri, *Fire Alarm Outage Request (BOB Broach & JJB Broach)*:** remove fire suppression from both Broaches; **Mon Oct 26 9AM**; GE Lead Joey Lum. Ties T233/T235 (BOB) and T236/T237 (JJB). Two identical holds on Kat's cal (dedupe). **Fri ~1:55pm ET Jason Dickerson (GE)\u2192Marchbanks:** can drain the system; **BOB already isolated**; will do **JJB Monday morning**; asked if broaches are being removed \u2014 **~2:07pm Marchbanks: yes**. Effectively approved/in hand. **Mon ~10:23am ET Jason Dickerson (GE)\u2192Marchbanks:** asks to have his name added to the **red tape card at JIB**; will shut down sprinklers once he's on it (ph +1 864-483-1663). **Mon ~5:27pm ET** DPP invoiced *JJC Broach \u2013 CAT #18654* (T259) \u2192 JJB broach removal done; BOB broach (T233/T235) status not confirmed in mail."
     },
     {
       "id": "T240",
@@ -1801,7 +1783,7 @@
       "due": "Need-by Fri Nov 27 \u2014 ack in Ariba",
       "item": "Process/ack GE PO **4900671224** (**$13,866.06**) \u2014 KMB **PS430MIR7-W replacement** \u00d72 ($4,090.23 + $4,414.68) + **Sleepy Torque/Tensioner machine power installation** ($5,361.15) (Alex Acosta)",
       "source": "Email / Ariba GE Vernova 2026-10-23 ~5:28pm ET",
-      "notes": "Requester **Alex Acosta**, PR853217, NET 150. Still **New/unconfirmed** on Mon ~5:00am Ariba confirm-orders list."
+      "notes": "Requester **Alex Acosta**, PR853217, NET 150. Still **New/unconfirmed** on Mon ~5:00am Ariba confirm-orders list. **Still New/unconfirmed** on Tue Oct 27 ~5:00am Ariba list."
     },
     {
       "id": "T244",
@@ -1810,16 +1792,16 @@
       "due": "Need-by Mon Nov 30 \u2014 ack in Ariba",
       "item": "Process/ack GE PO **4900671226** (**$23,175.00**) \u2014 **Replacement of damaged conduit supports for a wider emergency aisle** (#safety) (Alex Acosta)",
       "source": "Email / Ariba GE Vernova 2026-10-23 ~5:29pm ET",
-      "notes": "Requester **Alex Acosta**, PR853794, NET 150. Still **New/unconfirmed** on Mon ~5:00am Ariba confirm-orders list."
+      "notes": "Requester **Alex Acosta**, PR853794, NET 150. Still **New/unconfirmed** on Mon ~5:00am Ariba confirm-orders list. **Still New/unconfirmed** on Tue Oct 27 ~5:00am Ariba list."
     },
     {
       "id": "T245",
-      "status": "open",
+      "status": "waiting",
       "priority": "high",
       "due": "**Need-by Thu Oct 29** \u2014 ack in Ariba",
       "item": "Process/ack GE PO **4900671574** (**$49,470.00**) \u2014 **FW37\u201340 two Industrial Techs, 40 hrs/wk** \u2014 C-Bay machine cleaning (panels, belt covers, scaffold/lifts for hard-to-reach) (Joey Lum)",
       "source": "Email / Ariba GE Vernova 2026-10-26 ~8:03am ET",
-      "notes": "Requester **Lamont Joey Lum**, PR854051, NET 150. Same scope/amount as T110 (FW41\u201344). Ties to Joey Lum balance / Support Hold (T227)."
+      "notes": "Requester **Lamont Joey Lum**, PR854051, NET 150. Same scope/amount as T110 (FW41\u201344). Ties to Joey Lum balance / Support Hold (T227). **Tue Oct 27 ~5:00am ET Ariba confirm-orders list** shows only 4900671224/4900671226 \u2014 this PO is **no longer unconfirmed** (appears confirmed). Remaining: service sheet/invoice in SAP Business Network."
     },
     {
       "id": "T246",
@@ -1850,12 +1832,12 @@
     },
     {
       "id": "T249",
-      "status": "open",
+      "status": "waiting",
       "priority": "high",
       "due": "**Need-by Thu Oct 29** \u2014 ack in Ariba",
       "item": "Process/ack GE PO **4900671575** (**$25,936.27**) \u2014 Indcom **3418**: CNA Modification $3,910.61 + CDA Partial Demo $4,716.68 + CMA\u2013CLA Add-on $17,308.98 (Joey Lum)",
       "source": "Email / Ariba GE Vernova 2026-10-26 ~8:03am ET",
-      "notes": "Requester **Lamont Joey Lum**, PR854045, NET 150, FCA, ship-to 5250. Arrived same minute as T245 (PO 4900671574). Ties to Joey Lum balance (T227)."
+      "notes": "Requester **Lamont Joey Lum**, PR854045, NET 150, FCA, ship-to 5250. Arrived same minute as T245 (PO 4900671574). Ties to Joey Lum balance (T227). **Tue Oct 27 ~5:00am ET Ariba confirm-orders list** shows only 4900671224/4900671226 \u2014 this PO is **no longer unconfirmed** (appears confirmed). Remaining: service sheet/invoice in SAP Business Network."
     },
     {
       "id": "T250",
@@ -1877,30 +1859,30 @@
     },
     {
       "id": "T252",
-      "status": "open",
+      "status": "waiting",
       "priority": "high",
       "due": "**Need-by Tue Oct 27** \u2014 ack in Ariba + service sheet + invoice",
       "item": "Process/ack GE PO **4900671756** (**$41,962.48**) \u2014 **FW38 UA Scaffold Support** (svc Sep 14\u201320) (Andrew Heatherly)",
       "source": "Email / Ariba GE Vernova 2026-10-26 ~11:52am ET",
-      "notes": "Requester **William Andrew Heatherly**; **PR853987**; NET 150; FCA; ship-to 5250. Matches QuickBooks invoice **3930** (FW38) on T225."
+      "notes": "Requester **William Andrew Heatherly**; **PR853987**; NET 150; FCA; ship-to 5250. Matches QuickBooks invoice **3930** (FW38) on T225. **Tue Oct 27 ~5:00am ET Ariba confirm-orders list** shows only 4900671224/4900671226 \u2014 this PO is **no longer unconfirmed** (appears confirmed). Remaining: service sheet/invoice in SAP Business Network."
     },
     {
       "id": "T253",
-      "status": "open",
+      "status": "waiting",
       "priority": "high",
       "due": "**Need-by Tue Oct 27** \u2014 ack in Ariba + service sheet + invoice",
       "item": "Process/ack GE PO **4900671763** (**$41,962.48**) \u2014 **FW37 UA Scaffold Support** (svc Sep 7\u201313) (Andrew Heatherly)",
       "source": "Email / Ariba GE Vernova 2026-10-26 ~11:54am ET",
-      "notes": "Requester **William Andrew Heatherly**; **PR853983**; NET 150; FCA; ship-to 5250. Matches QuickBooks invoice **3929** (FW37) on T225."
+      "notes": "Requester **William Andrew Heatherly**; **PR853983**; NET 150; FCA; ship-to 5250. Matches QuickBooks invoice **3929** (FW37) on T225. **Tue Oct 27 ~5:00am ET Ariba confirm-orders list** shows only 4900671224/4900671226 \u2014 this PO is **no longer unconfirmed** (appears confirmed). Remaining: service sheet/invoice in SAP Business Network."
     },
     {
       "id": "T254",
-      "status": "open",
+      "status": "waiting",
       "priority": "high",
       "due": "**Need-by Fri Oct 23 (already past)** \u2014 ack in Ariba + invoice",
       "item": "Process/ack GE PO **4900671759** (**$5,453.00**) \u2014 **UB Tubing Support** (Mateo Castro)",
       "source": "Email / Ariba GE Vernova 2026-10-26 ~11:54am ET",
-      "notes": "Requester **Mateo Castro**; **PR853192**; NET 150; FCA; Material 1 EA. Same scope/amount as T193 (PO 4900668417, PR850518) \u2014 likely the next month's UB tubing support; confirm it's not a duplicate."
+      "notes": "Requester **Mateo Castro**; **PR853192**; NET 150; FCA; Material 1 EA. Same scope/amount as T193 (PO 4900668417, PR850518) \u2014 likely the next month's UB tubing support; confirm it's not a duplicate. **Tue Oct 27 ~5:00am ET Ariba confirm-orders list** shows only 4900671224/4900671226 \u2014 this PO is **no longer unconfirmed** (appears confirmed). Remaining: service sheet/invoice in SAP Business Network."
     },
     {
       "id": "T255",
@@ -1921,22 +1903,43 @@
       "notes": "**Mon ~3:53pm ET Jeff\u2192Colby Murphy:** please submit a badge request for **Cody Stoddard** for **tomorrow around 4:00pm** \u2014 Indcom safe work plan **CP-1805**. Waiting Colby confirm. Related: Cody OpSource onboarding (T246)."
     },
     {
-      "id": "T257",
+      "id": "T258",
       "status": "open",
+      "priority": "high",
+      "due": "**TODAY Tue Oct 27 before noon payroll**",
+      "item": "Submit OpSource crew **TIME/per diems FW43 week 10/19\u201310/25** (Kat list sent 7:09am) to Lisa Stafford / Payroll OpSource",
+      "source": "Email / Katheryn\u2192Jeff 2026-10-27 ~7:09am ET",
+      "notes": "**Tue ~7:09am ET Katheryn\u2192Jeff, *TIME - 10/19 - 10/25*:** 22 names w/ hours + per diem (e.g. Ethan Russel 92 h, Travis Humphrey 88 h; Lance Maxwell Reid 40 h/$400; Angel Ordaz 46 h is last week\u2019s hours \u2014 OK to pay out); **Chaz Kieff \u2014 all hours and per diem HELD** (terminated Sat; see T246). Jeff to forward as \u201cINDCOM TIME - 10/19 - 10/25\u201d to Lisa Stafford + Payroll OpSource (cc Jose, Yesenia, Julie, Bill, Katheryn) like FW42."
+    },
+    {
+      "id": "T259",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP (AP)",
+      "item": "Process DPP invoice **JJC Broach \u2013 CAT #18654** (Joist) \u2014 broach removal @ JJB/JJC",
+      "source": "Email / Jason Marchbanks (DPP) 2026-10-26 ~5:27pm ET",
+      "notes": "**Mon ~5:27pm ET Jason\u2192Jeff:** \u201cPlease see attached\u201d \u2014 Joist invoice link client.joistapp.com/invoices/095bd511587cbbc62a1ff325 (amount not in email). Closes T236/T237 work; route/confirm payment."
+    },
+    {
+      "id": "T260",
+      "status": "waiting",
       "priority": "med",
-      "due": "soon \u2014 reply to Julia (cc Logan/Chuck)",
-      "item": "Remove the first section of **pedestrian guardrail on each side** at the **C Bay cross aisle** (shown purple in Julia's photo) \u2014 rails block maneuvering rotor parts from cross aisle into C Bay",
-      "source": "Email / Julia Filiatreau (GE EHS) 2026-10-26 ~4:18pm ET",
-      "notes": "**Mon ~4:18pm ET Julia Filiatreau\u2192Jeff (cc Logan Nelson, Chuck Kirkley, Adam Kammerer):** 'Would it be possible to remove the first section of guardrails on each side\u2026 C Bay cross aisle.' Forwarding **Logan Nelson** (Cell Leader \u2013 Rotor Machining) ~3:01pm: remove or shrink the two rail sections \u2014 too hard to move parts from cross aisle into C Bay (photo *image001.png*). No Indcom reply yet. Related: T194 guard rail installs."
+      "due": "when Jeff can \u2014 review Kat draft",
+      "item": "Review Kat\u2019s draft **Estimate \u2014 Onsite Safe Access Support \u2014 Matt Fitts (N Bay Hanger)** (Google Doc, built on Support Levels)",
+      "source": "Email / Google Docs share Katheryn\u2192Jeff 2026-10-26 ~5:37pm ET",
+      "notes": "**Mon ~5:37pm ET** Kat shared (edit) *Estimate \u2014 Onsite Safe Access Support \u2014 Matt Fitts (N Bay Hanger)*: \u201cKinda what I worked out for N bay Scaffold - using the Support Levels.\u201d Ties T16 (N Bay overhead hanging scaffold). Waiting Jeff review/edits \u2192 send to Matt Fitts."
     }
   ],
   "calendar": [
-    "**Tue Oct 27 8:00am** \u2014 GTOS scaffold site walk: Jeff + Tom Mogle (GE) \u2014 scope/quote; secure by Nov 3 (T220)",
+    "**TODAY Tue Oct 27 ~8:30\u20139:00am (pushed from 8:00 \u2014 Jeff in turnover meeting; ping Tom when headed over)** \u2014 GTOS scaffold site walk: Jeff + Tom Mogle (GE) \u2014 scope/quote; secure by Nov 3 (T220) \u2014 e110",
+    "**TODAY Tue Oct 27 before noon (OpSource payroll)** \u2014 Submit FW43 TIME/per diems 10/19\u201310/25 (Kat list 7:09am; Chaz held) (T258) \u2014 e112",
+    "**TODAY Tue Oct 27 (Martin Brown repair-schedule meeting)** \u2014 Give Martin EC1600 rotary-load timeline; Craig Sarratt offers to come look (T215)",
+    "\u2705 DONE Mon night Oct 26 \u2014 C Bay cross-aisle pedestrian rails removed (Julia ack\u2019d Tue ~6:17am) (T257)",
     "**Tue Oct 27 ~4:00pm** \u2014 Cody Stoddard GE badge (CP-1805) requested via Colby (T256)",
     "**Tue Nov 3 (NEW \u2014 GE ask)** \u2014 Scaffold around unit behind GTOS to be **secured** (Sophie Campbell/Tom Mogle; vendor arrives Nov 4) (T220) \u2014 e109",
-    "**Need-by Tue Oct 27 (NEW \u2014 Ariba Mon ~11:52\u201311:54am)** \u2014 Ack GE POs **4900671763** (FW37) + **4900671756** (FW38) UA Scaffold Support, $41,962.48 each (Heatherly) (T253/T252) \u2014 e108",
+    "**Need-by TODAY Tue Oct 27 \u2014 \u2705 off Ariba unconfirmed list Tue 5am (service sheet/invoice remaining)** \u2014 GE POs **4900671763** (FW37) + **4900671756** (FW38) UA Scaffold Support, $41,962.48 each (Heatherly) (T253/T252) \u2014 e108",
     "**Need-by Fri Oct 23 PASSED (NEW \u2014 Ariba Mon ~11:54am)** \u2014 Ack GE PO **4900671759** ($5,453.00; UB Tubing Support; Mateo Castro) (T254)",
-    "**Tue Oct 27 11:00am ET (NEW \u2014 DPP request)** \u2014 **Shutdown SP-MN-31 Ckts 3 & 5** for crane structure MFB\u2013MHB removal; GE lead Jim Stanley (T251) \u2014 e107",
+    "**TODAY Tue Oct 27 11:00am ET (GE approved; Kat cal 3 copies = one)** \u2014 **Shutdown SP-MN-31 Ckts 3 & 5** for crane structure MFB\u2013MHB removal; GE lead Jim Stanley (T251) \u2014 e107",
     "**TODAY Mon Oct 26 (NEW \u2014 Matt Fitts ~8:16am)** \u2014 GE EHS 2032221: NNA scaffold support beam half off base \u2014 Matt walk-down; Jeff says addressed (T248) \u2014 e105",
     "**Need-by Thu Oct 29 (NEW \u2014 Ariba Mon ~8:03am)** \u2014 Ack GE PO **4900671575** ($25,936.27; Indcom 3418 CNA/CDA/CMA\u2013CLA; Joey Lum) (T249) \u2014 e106",
     "**Need-by Thu Oct 29 (NEW \u2014 Ariba Mon ~8:03am)** \u2014 Ack GE PO **4900671574** ($49,470.00; FW37\u201340 C-Bay techs; Joey Lum) (T245) \u2014 e101",
@@ -3064,24 +3067,6 @@
     {
       "allDay": false,
       "status": "upcoming",
-      "id": "e97",
-      "type": "outage",
-      "title": "Shutdown: RP-JJ-33 Circuits 3, 6, 7, 8 & 9 \u2014 Broach CAT#18654 removal @ JJB",
-      "summary": "Mon Oct 26 9:00am ET \u2014 GE notification; GE Lead Joey Lum (pit fan, lights, receptacles)",
-      "start": "2026-10-26T09:00:00-04:00",
-      "end": "2026-10-26T10:00:00-04:00",
-      "location": "JJB (panel RP-JJ-33 @ JJB)",
-      "todoId": "T236",
-      "relatedTodos": [
-        "T236",
-        "T237",
-        "T238"
-      ],
-      "description": "DPP request ~11:32am; GE Hinkson SHUTDOWN NOTIFICATION ~11:52am ET Fri Oct 23. Email says 9AM; GE invite 9:30\u201310:00am."
-    },
-    {
-      "allDay": false,
-      "status": "upcoming",
       "id": "e99",
       "type": "outage",
       "title": "Fire alarm / suppression outage \u2014 Broach removals @ JJB & BOB",
@@ -3098,23 +3083,6 @@
         "T237"
       ],
       "description": "Jason Marchbanks (DPP) request ~11:41am ET Fri Oct 23. End time not stated (1h placeholder)."
-    },
-    {
-      "allDay": false,
-      "status": "upcoming",
-      "id": "e98",
-      "type": "outage",
-      "title": "Shutdown: PP-11B-4 Circuit #1 \u2014 Broach CAT#18654 removal",
-      "summary": "Mon Oct 26 9:30am ET \u2014 GE notification; GE Lead Joey Lum",
-      "start": "2026-10-26T09:30:00-04:00",
-      "end": "2026-10-26T10:00:00-04:00",
-      "location": "JJC (panel PP-11B-4 @ JKB)",
-      "todoId": "T237",
-      "relatedTodos": [
-        "T237",
-        "T236"
-      ],
-      "description": "GE Hinkson SHUTDOWN NOTIFICATION ~11:48am ET Fri Oct 23."
     },
     {
       "id": "e74",
@@ -3305,12 +3273,12 @@
     {
       "id": "e110",
       "type": "meeting",
-      "title": "GTOS scaffold site walk \u2014 Jeff + Tom Mogle (GE)",
+      "title": "GTOS scaffold site walk \u2014 Jeff + Tom Mogle (GE) (~8:30\u20139:00am)",
       "summary": "Review scaffold need around unit behind GTOS; quote + timeline (secure by Nov 3)",
       "location": "GTOS (GE Vernova Greenville)",
-      "description": "Jeff told Sophie Campbell ~3:38pm Mon he will meet Tom at 8:00am Tue; Tom ~4:01pm confirmed. (T220)",
-      "start": "2026-10-27T08:00:00-04:00",
-      "end": "2026-10-27T09:00:00-04:00",
+      "description": "Jeff told Sophie Campbell ~3:38pm Mon he will meet Tom at 8:00am Tue; Tom ~4:01pm confirmed. (T220) Tue ~7:23am Jeff: turnover meeting running behind, closer to 8:30/9:00; Tom ~7:42am: ping/call when headed over.",
+      "start": "2026-10-27T08:30:00-04:00",
+      "end": "2026-10-27T09:30:00-04:00",
       "allDay": false,
       "todoId": "T220"
     },
@@ -3325,6 +3293,18 @@
       "end": "2026-10-27T16:30:00-04:00",
       "allDay": false,
       "todoId": "T256"
+    },
+    {
+      "id": "e112",
+      "type": "deadline",
+      "title": "Deadline: Submit FW43 TIME/per diems (10/19\u201310/25) to OpSource before noon payroll",
+      "summary": "Kat sent list 7:09am; Chaz Kieff held",
+      "location": "OpSource (email)",
+      "description": "Katheryn\u2192Jeff Tue ~7:09am TIME - 10/19 - 10/25 (22 names). Jeff to forward to Lisa Stafford + Payroll OpSource before noon. (T258)",
+      "start": "2026-10-27T11:00:00-04:00",
+      "end": "2026-10-27T12:00:00-04:00",
+      "allDay": false,
+      "todoId": "T258"
     }
   ]
 }
