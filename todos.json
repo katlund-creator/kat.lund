@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T10:10:30-04:00",
+  "updated": "2026-10-28T11:18:04-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -55,7 +55,7 @@
       "due": "waiting GE approval/PO",
       "item": "Deliver Jim Stanley change-order numbers",
       "source": "Email / James Stanley 2026-09-16",
-      "notes": "Need numbers for: (1) NFPS.03 line changes, (2) M-Bay tool-crib disconnect + H-Bay reinstall, (3) decommission old wire EDM at EYA + install new. Jeff said working with Jason; unknowns quoted separately. **Mon ~10:27\u201310:46am ET Indcom QuickBooks estimates sent to Jim Stanley:** Est **2003** NFPS.03 New 800A Panel & Transformer Feeder (**$131,030.97**); **2016** Breaker Swap for New Panel (**$12,732.72**); **2017** Basaran chilled water mods (**$19,250.00**); **2018** NFPS.03 machine power 480V\u2192208V (**$36,227.92**); **2019** BL4 change order Basaran loop/bracing/supports (**$21,467.60**); **2020** NFPS.03 Mist Collector support stand bracing (**$3,607.58**). Now **waiting Jim Stanley approval / GE POs**. Tool-crib (item 2) + EYA wire EDM (item 3) not seen in this batch \u2014 confirm. **Tue Oct 27 ~1:08pm ET Katheryn\u2192Jeff (Fwd: NFPS.03 change quotes: a few clarifications):** forwarded Jason Marchbanks (DPP) Thu Oct 22 ~12:33pm answers \u2014 (1) DPP Est 381 breaker relocation was weekend/shutdown-based; actual cost on **DPP Invoice 4706** ~75% less; DPP Est 372 (800A panel) excludes LCU / main PP panel feed work; (2) 480V\u2192208V billed **material difference only** (6/3 wire ~$12,800 vs 10/3 ~$2,400; 5\u00d7 60A disc $4,000 vs 30A $2,000; 1\" RMC $5.50/ft vs 3/4\" $2.55/ft) \u2014 no credit breakdown yet, Jason can provide exact material delta; (3) Fanuc work **complete**, only labor on Inv 4706 was 4 hrs load calcs/sequencing; (4) Basaran chilled-water mods scope listed. \u2192 Jeff/Kat to reconcile Indcom quotes 2016/2018 vs DPP actuals before GE approval. **Wed Oct 28 ~9:45am ET Jason Marchbanks (DPP)\u2192Jeff:** re-forwarded his Oct 22 answers to Kat's NFPS.03 clarification Qs (Est 381 breaker relocation was weekend/shutdown estimate \u2014 Invoice 4706 actual ~75% less; Est 372 800A panel excludes LCU work; 480V\u2192208V billed material difference only (6/3 ~$12.8k vs 10/3 ~$2.4k; 60A vs 30A disconnects $4k vs $2k; 1\" vs 3/4\" RMC) + 4 hrs his labor; Fanuc work completed; Basaran chilled-water scope list). **~10:09am ET Kat\u2192Jeff:** *NFPS.03 \u2014 repeated wording to clean up* \u2014 fix duplicate **mist collector stand braces on both 2019 and 2020** (drop one / remove braces from one quote); overlap notes on mist stands (1991 vs 2019/2020), Basaran chilled water (1991 vs 2017 \u2014 keep independent feeds/isolation in 2017), pipe stands (1991 vs 2019), Fanuc power (1991 vs 2018), Basaran valves (2017 permanent vs 2019 temp loop \u2014 different); 2016 breaker no overlap \u2192 Jeff to revise quote wording."
+      "notes": "Need numbers for: (1) NFPS.03 line changes, (2) M-Bay tool-crib disconnect + H-Bay reinstall, (3) decommission old wire EDM at EYA + install new. Jeff said working with Jason; unknowns quoted separately. **Mon ~10:27\u201310:46am ET Indcom QuickBooks estimates sent to Jim Stanley:** Est **2003** NFPS.03 New 800A Panel & Transformer Feeder (**$131,030.97**); **2016** Breaker Swap for New Panel (**$12,732.72**); **2017** Basaran chilled water mods (**$19,250.00**); **2018** NFPS.03 machine power 480V\u2192208V (**$36,227.92**); **2019** BL4 change order Basaran loop/bracing/supports (**$21,467.60**); **2020** NFPS.03 Mist Collector support stand bracing (**$3,607.58**). Now **waiting Jim Stanley approval / GE POs**. Tool-crib (item 2) + EYA wire EDM (item 3) not seen in this batch \u2014 confirm. **Tue Oct 27 ~1:08pm ET Katheryn\u2192Jeff (Fwd: NFPS.03 change quotes: a few clarifications):** forwarded Jason Marchbanks (DPP) Thu Oct 22 ~12:33pm answers \u2014 (1) DPP Est 381 breaker relocation was weekend/shutdown-based; actual cost on **DPP Invoice 4706** ~75% less; DPP Est 372 (800A panel) excludes LCU / main PP panel feed work; (2) 480V\u2192208V billed **material difference only** (6/3 wire ~$12,800 vs 10/3 ~$2,400; 5\u00d7 60A disc $4,000 vs 30A $2,000; 1\" RMC $5.50/ft vs 3/4\" $2.55/ft) \u2014 no credit breakdown yet, Jason can provide exact material delta; (3) Fanuc work **complete**, only labor on Inv 4706 was 4 hrs load calcs/sequencing; (4) Basaran chilled-water mods scope listed. \u2192 Jeff/Kat to reconcile Indcom quotes 2016/2018 vs DPP actuals before GE approval. **Wed Oct 28 ~9:45am ET Jason Marchbanks (DPP)\u2192Jeff:** re-forwarded his Oct 22 answers to Kat's NFPS.03 clarification Qs (Est 381 breaker relocation was weekend/shutdown estimate \u2014 Invoice 4706 actual ~75% less; Est 372 800A panel excludes LCU work; 480V\u2192208V billed material difference only (6/3 ~$12.8k vs 10/3 ~$2.4k; 60A vs 30A disconnects $4k vs $2k; 1\" vs 3/4\" RMC) + 4 hrs his labor; Fanuc work completed; Basaran chilled-water scope list). **~10:09am ET Kat\u2192Jeff:** *NFPS.03 \u2014 repeated wording to clean up* \u2014 fix duplicate **mist collector stand braces on both 2019 and 2020** (drop one / remove braces from one quote); overlap notes on mist stands (1991 vs 2019/2020), Basaran chilled water (1991 vs 2017 \u2014 keep independent feeds/isolation in 2017), pipe stands (1991 vs 2019), Fanuc power (1991 vs 2018), Basaran valves (2017 permanent vs 2019 temp loop \u2014 different); 2016 breaker no overlap \u2192 Jeff to revise quote wording. **Wed Oct 28 ~10:15am + ~10:18am ET Kat\u2192Jeff (Re: NFPS.03 \u2014 repeated wording to clean up):** simple fix order (braces on 2019 **or** 2020, not both; rewrite 2017 to \u201cindependent feeds only\u201d; add \u201cchange from 1991 / material already purchased\u201d notes) + copy-paste replacement wording for each quote (Option A keep 2020 braces/drop from 2019, or Option B). \u2192 Jeff to revise quote wording before GE approval."
     },
     {
       "id": "T8",
@@ -1027,7 +1027,7 @@
       "due": "**PO 4200339489 RECEIVED + released Mon Oct 19** (need-by Mon Oct 19) \u2014 confirm order in Ariba (T205) + proceed w/ pole fingers",
       "item": "GE quotation Est **2034** \u2014 D Bay Pole Fingers (from SPC Est 422 / QB Est 2029)",
       "source": "Email / Evan Groce (SPC) 2026-10-08 + QB Est 2034 \u2192 Heatherly 2026-10-13 ~12:24pm ET",
-      "notes": "*Pole fingers quote* \u2014 \u201cPlease see attached quote\u201d \u2014 PDF **Estimate_422_2026-10-08.pdf** to Jeff only. Likely more North Pole finger work (cf. T64 Invoice 220 / T132 Invoice 222) \u2014 review, approve/route to GE quote if needed. **Tue Oct 13 ~12:12pm ET Jeff\u2192Katheryn** on Estimates thread: Est **2029** Pole Fingers customer = **William Andrew Heatherly** (needs Customer Info filled). **~12:24pm ET** QuickBooks sent **Estimate/Quotation 2034** *D Bay Pole Fingers* **$18,895.69** to **William.Heatherly@gevernova.com** (cc mail@ / kat / jeff@) \u2014 customer-facing send of the pole-fingers quote (ties SPC Est 422). Status \u2192 waiting GE review/approve. **Mon Oct 19 ~8:20am ET Kristen Jackson (GE On-Site Sr CSR)** *NEW PO Estimate 2034 \u2026 D Bay Pole Fingers* (to James Ray, Zac Ciesielczyk, Matthew McDonnell, Jeff Lemons, Zachary Kleiner, Veronica Kyle; cc Heatherly, jeff@, Katheryn, mail@): \u201cplease use **PO # 4200339489** for the attached quote\u201d (Estimate_2034 PDF) \u2014 thread shows James Ray Thu Oct 15 ~4:35pm \u201cKristen approved for PO, Original Dispatch L2L 90959\u201d. **~8:52am Zachary Kleiner: \u201cPO released.\u201d** Ariba PO **4200339489 $18,895.69** received ~8:31am \u2192 **T205**."
+      "notes": "*Pole fingers quote* \u2014 \u201cPlease see attached quote\u201d \u2014 PDF **Estimate_422_2026-10-08.pdf** to Jeff only. Likely more North Pole finger work (cf. T64 Invoice 220 / T132 Invoice 222) \u2014 review, approve/route to GE quote if needed. **Tue Oct 13 ~12:12pm ET Jeff\u2192Katheryn** on Estimates thread: Est **2029** Pole Fingers customer = **William Andrew Heatherly** (needs Customer Info filled). **~12:24pm ET** QuickBooks sent **Estimate/Quotation 2034** *D Bay Pole Fingers* **$18,895.69** to **William.Heatherly@gevernova.com** (cc mail@ / kat / jeff@) \u2014 customer-facing send of the pole-fingers quote (ties SPC Est 422). Status \u2192 waiting GE review/approve. **Mon Oct 19 ~8:20am ET Kristen Jackson (GE On-Site Sr CSR)** *NEW PO Estimate 2034 \u2026 D Bay Pole Fingers* (to James Ray, Zac Ciesielczyk, Matthew McDonnell, Jeff Lemons, Zachary Kleiner, Veronica Kyle; cc Heatherly, jeff@, Katheryn, mail@): \u201cplease use **PO # 4200339489** for the attached quote\u201d (Estimate_2034 PDF) \u2014 thread shows James Ray Thu Oct 15 ~4:35pm \u201cKristen approved for PO, Original Dispatch L2L 90959\u201d. **~8:52am Zachary Kleiner: \u201cPO released.\u201d** Ariba PO **4200339489 $18,895.69** received ~8:31am \u2192 **T205**. **Wed Oct 28 ~10:46am ET Evan Groce (SPC):** *Fingers invoice* \u2014 **Invoice 237** (see **T270**)."
     },
     {
       "id": "T144",
@@ -1405,7 +1405,7 @@
       "due": "**Alex APPROVED Sun Oct 25 \u2192 send quote ASAP**",
       "item": "BSA office **raised floor** \u2014 Alex to approve **3\" RAF subfloor** (tile) + **interior ramp / desk re-layout**",
       "source": "Email / Katheryn\u2192Alex Leppard (cc Jeff) 2026-10-16 ~1:47/1:51pm ET",
-      "notes": "**Fri ~1:51pm ET Katheryn\u2192H Alex Leppard (GE, hewett.leppard@gevernova.com; cc Jeff)**, *Raised Floor for BSA*: tile preferred over carpet \u2192 upgrade to **3\" subflooring** (1-1/2\" supports carpet only); ramp placed right of exterior door \u2014 emergency-exit door must swing **inward** and walkway blocks an exterior ramp, so **interior ramp** + desks rearranged around it. Attached *OVERLAY of FLOORING.pdf*, *BSA GE Gas - Office Building - 3in RAF Floor Layout (Draft) - 10.15.2026.pdf*, *Option 2.BSA OFFICE.pdf*. (Earlier ~1:47pm send went to typo address **ahewett.leppard@** \u2014 likely undeliverable; ~1:51pm resend to correct address.) Waiting Alex reply; decision drives floor-box line item (T178) + RFQ (T13). **Weekend \u2192 Mon ~8:10am ET:** no Alex Leppard reply. **Fri Oct 23 ~7:33am ET Katheryn\u2192Alex Leppard (Re: Raised Floor for BSA):** sent **updated floor layout incl. ramps + door changes**; asked if any questions or OK to move forward with getting an **estimate**. Waiting Alex. **Sun Oct 25 ~3:30pm ET Alex Leppard\u2192Katheryn:** \u201cThis looks good to me. Please move forward and send me a quote.\u201d **Mon ~6:08am ET Jeff\u2192Alex:** will prepare quote on updated layout (3\" subflooring, ramps, door changes) and send shortly. **~6:42am Katheryn\u2192Alex:** will get that number to him. \u2192 Quote owed now."
+      "notes": "**Fri ~1:51pm ET Katheryn\u2192H Alex Leppard (GE, hewett.leppard@gevernova.com; cc Jeff)**, *Raised Floor for BSA*: tile preferred over carpet \u2192 upgrade to **3\" subflooring** (1-1/2\" supports carpet only); ramp placed right of exterior door \u2014 emergency-exit door must swing **inward** and walkway blocks an exterior ramp, so **interior ramp** + desks rearranged around it. Attached *OVERLAY of FLOORING.pdf*, *BSA GE Gas - Office Building - 3in RAF Floor Layout (Draft) - 10.15.2026.pdf*, *Option 2.BSA OFFICE.pdf*. (Earlier ~1:47pm send went to typo address **ahewett.leppard@** \u2014 likely undeliverable; ~1:51pm resend to correct address.) Waiting Alex reply; decision drives floor-box line item (T178) + RFQ (T13). **Weekend \u2192 Mon ~8:10am ET:** no Alex Leppard reply. **Fri Oct 23 ~7:33am ET Katheryn\u2192Alex Leppard (Re: Raised Floor for BSA):** sent **updated floor layout incl. ramps + door changes**; asked if any questions or OK to move forward with getting an **estimate**. Waiting Alex. **Sun Oct 25 ~3:30pm ET Alex Leppard\u2192Katheryn:** \u201cThis looks good to me. Please move forward and send me a quote.\u201d **Mon ~6:08am ET Jeff\u2192Alex:** will prepare quote on updated layout (3\" subflooring, ramps, door changes) and send shortly. **~6:42am Katheryn\u2192Alex:** will get that number to him. \u2192 Quote owed now. **Wed Oct 28 ~10:25am ET Bill Marchbanks\u2192Kat (cc Jeff):** *2040 Quote Review Markup [GEV Alex Leppard].pdf* \u201cfor discussion\u201d \u2014 likely this BSA quote (see **T271**)."
     },
     {
       "id": "T196",
@@ -1693,7 +1693,7 @@
       "due": "waiting Jeff decision",
       "item": "Jeff to decide how to adjust NFPS 7HA.03 change quotes **2016\u20132020** ($93,285.82 total) for overlap/credits vs original quote **1991** before they go to GE",
       "source": "Email / Katheryn\u2192Jeff 2026-10-22 ~12:14pm ET",
-      "notes": "**Thu ~12:14pm ET Katheryn\u2192Jeff, *Overlap review: quotes 2016-2020 vs. original quote 1991 (NFPS 7HA.03)*:** (1) mist collector braces in both 2019 + 2020 ($3,607.58) \u2014 1991 already has 7 mist collectors w/ adjustable stands; drop one, justify bracing; (2) 2017 Basaran chilled water $19,250 re-prices tie-in/valves/hoses already in 1991 \u2014 price only independent feeds/check valves/isolation; (3) 2019 pipe-stand bracing may be covered by 1991's 4 prefab posts (temp Basaran loop is new); (4) 2018 480V\u2192208V $36,227.92 legit but needs credit for original 480V work; (5) 2016 breaker relocation $12,732.72 no overlap. Asked Jeff how to adjust. Ties T7/T8/T77. Waiting Jeff reply. **Thu ~1:36\u20132:33pm ET Katheryn\u2194Evan Groce (SPC), *Confusion On BL4 / NFPS.03 Quotes*:** Kat asked Evan to clarify overlapping wording; **Evan ~1:44pm: \u201cPlease disregard the mist collector estimate\u201d**; Kat ~1:52pm \u201cEstimate 413\u201d \u2192 Evan \u201cYes ma'am!\u201d; Kat ~2:33pm asked whether the other estimate says *painted* though SPC didn't paint; **~2:38pm Kat forwarded Evan's reply to Jeff**. Supports dropping duplicate mist-collector bracing (item 1). Waiting Evan on painted question + Jeff decision."
+      "notes": "**Thu ~12:14pm ET Katheryn\u2192Jeff, *Overlap review: quotes 2016-2020 vs. original quote 1991 (NFPS 7HA.03)*:** (1) mist collector braces in both 2019 + 2020 ($3,607.58) \u2014 1991 already has 7 mist collectors w/ adjustable stands; drop one, justify bracing; (2) 2017 Basaran chilled water $19,250 re-prices tie-in/valves/hoses already in 1991 \u2014 price only independent feeds/check valves/isolation; (3) 2019 pipe-stand bracing may be covered by 1991's 4 prefab posts (temp Basaran loop is new); (4) 2018 480V\u2192208V $36,227.92 legit but needs credit for original 480V work; (5) 2016 breaker relocation $12,732.72 no overlap. Asked Jeff how to adjust. Ties T7/T8/T77. Waiting Jeff reply. **Thu ~1:36\u20132:33pm ET Katheryn\u2194Evan Groce (SPC), *Confusion On BL4 / NFPS.03 Quotes*:** Kat asked Evan to clarify overlapping wording; **Evan ~1:44pm: \u201cPlease disregard the mist collector estimate\u201d**; Kat ~1:52pm \u201cEstimate 413\u201d \u2192 Evan \u201cYes ma'am!\u201d; Kat ~2:33pm asked whether the other estimate says *painted* though SPC didn't paint; **~2:38pm Kat forwarded Evan's reply to Jeff**. Supports dropping duplicate mist-collector bracing (item 1). Waiting Evan on painted question + Jeff decision. **Wed Oct 28 ~10:15\u201310:18am ET Kat\u2192Jeff:** sent fix order + copy-paste wording for quotes 2016\u20132020 vs 1991 overlap (see T7). Still waiting Jeff to apply."
     },
     {
       "id": "T230",
@@ -1991,6 +1991,33 @@
       "item": "Process DPP invoice **BOB Broach \u2013 CAT #18566 Plumbing & Fire Suppression Demolition** (Joist)",
       "source": "Email / Jason Marchbanks (DPP) 2026-10-27 ~5:22pm ET",
       "notes": "Joist invoice link to Jeff. Ties Broach CAT#18566 removal / PP-19 shutdown (T233). Route to AP / confirm payment."
+    },
+    {
+      "id": "T269",
+      "status": "open",
+      "priority": "med",
+      "due": "**Need-by Wed Nov 11** \u2014 ack/confirm in Ariba; invoice per rental cycle",
+      "item": "Process/ack GE PO **4900672888** (**$46,278.34**) \u2014 **Material rental Nov 27\u2013Dec 24, 2026** (Joey Lum; PR855123)",
+      "source": "Email / Ariba GE Vernova 2026-10-28 ~11:08am ET",
+      "notes": "**Wed ~11:06am ET submitted / ~11:08am received** \u2014 requester **Lamont Joey Lum**; same $46,278.34 as T119 (PO 4900662406, Oct 2\u201329). NET 150. Note: this PO covers **Nov 27\u2013Dec 24** \u2014 no PO seen yet for the **Oct 30\u2013Nov 26** cycle; confirm with Joey whether one is coming (ties T119/T227)."
+    },
+    {
+      "id": "T270",
+      "status": "open",
+      "priority": "med",
+      "due": "route/confirm payment",
+      "item": "Process SPC (Evan Groce) **Fingers** invoice \u2014 **Invoice 237** (Invoice_237_2026-11-27.pdf)",
+      "source": "Email / Evan Groce (SPC) 2026-10-28 ~10:46am ET",
+      "notes": "\u201cPlease see attached invoice\u201d to Jeff + ap.mail@. Amount not in email body. Likely D Bay pole fingers work (T141 / GE PO 4200339489, T205). Route to AP / confirm payment."
+    },
+    {
+      "id": "T271",
+      "status": "open",
+      "priority": "high",
+      "due": "discuss w/ Bill ASAP \u2192 then send Alex quote",
+      "item": "Review Bill's markup of Indcom **Quote 2040** for **Alex Leppard (GE)**",
+      "source": "Email / Bill Marchbanks\u2192Kat (cc Jeff) 2026-10-28 ~10:25am ET",
+      "notes": "*2040 Quote Review Markup [GEV Alex Leppard]* \u2014 \u201cHey Kat, See attached for discussion.\u201d PDF **2040 Quote Review Markup [GEV Alex Leppard].pdf**. Likely the BSA raised-floor quote Alex approved Sun Oct 25 (T195; Bonitz T88). Kat to go over markup with Bill, revise, and send to Alex."
     }
   ],
   "calendar": [
@@ -2134,7 +2161,8 @@
     "**Need-by Fri Oct 16** \u2014 Ack GE Ariba PO **4900661869** ($97,759.38; Alex Leppard; **BSA Renovation**) (T111)",
     "**Need-by Tue Nov 3** \u2014 Ack GE Ariba PO **4900662406** ($46,278.34; Joey Lum; material rental Oct 2\u201329, 28-day min cycle) (T119)",
     "**Need-by Mon Nov 9 (FW41\u201344)** \u2014 Ack GE Ariba PO **4900661816** ($49,470; Joey Lum; C-Bay weekly machine cleaning, 2 techs \u00d7 40 hr/wk) (T110)",
-    "**Fri Oct 23 (expected)** \u2014 Meltric extension reels arrive \u2192 finish 220V power hook-up on 2 build stands (Andrew Heatherly) (T216)"
+    "**Fri Oct 23 (expected)** \u2014 Meltric extension reels arrive \u2192 finish 220V power hook-up on 2 build stands (Andrew Heatherly) (T216)",
+    "**Need-by Wed Nov 11 (NEW Wed ~11:08am)** \u2014 Ack GE Ariba PO **4900672888** ($46,278.34; Joey Lum; material rental Nov 27\u2013Dec 24) (T269)"
   ],
   "events": [
     {
@@ -3421,6 +3449,22 @@
         "T67",
         "T210",
         "T184"
+      ]
+    },
+    {
+      "id": "e116",
+      "type": "deadline",
+      "title": "Need-by: Ack GE Ariba PO 4900672888 \u2014 material rental Nov 27\u2013Dec 24",
+      "summary": "Wed Nov 11 \u2014 $46,278.34 (Joey Lum, PR855123)",
+      "location": "SAP Ariba",
+      "description": "New PO received Wed Oct 28 ~11:08am ET. Confirm order in Ariba; invoice per rental cycle. No PO yet seen for the Oct 30\u2013Nov 26 cycle. (T269)",
+      "start": "2026-11-11T08:00:00-05:00",
+      "end": "2026-11-11T09:00:00-05:00",
+      "allDay": false,
+      "todoId": "T269",
+      "relatedTodos": [
+        "T269",
+        "T119"
       ]
     }
   ]
