@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T11:18:04-04:00",
+  "updated": "2026-10-28T12:14:55-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -883,7 +883,7 @@
       "due": "ASAP \u2014 quote with best-possible dates (Jeff sending RFQs to subs)",
       "item": "Review + quote GE Nozzle Fab Relocation Project RFQ REV_0 (Jim Stanley)",
       "source": "Email / James Stanley (GE Vernova) 2026-10-06 ~4:44pm ET",
-      "notes": "**Tue ~4:44pm ET Jim Stanley\u2192Jeff:** \"Please review and quote at your earliest convenience.\" Attachment *Nozzle Fab Relocation Project RFQ REV_0.docx* (~52 KB; not downloaded \u2014 Gmail attachment download not available here). Scope not in body \u2014 open the RFQ, then price (likely Jason/DPP electrical + Indcom scaffold/support, same pattern as T7/T8 NFPS.03). New project; no due date stated. **Tue ~5:24pm ET Jeff\u2192Jim:** will review the area and **send out RFQs**; **Indcom will not be able to meet the concrete and epoxy start dates**. **Tue ~9:09pm ET Jim:** \u201cUnderstood, put your best dates that are possible.\u201d Next: sub RFQs out \u2192 price + proposed schedule dates back to Jim. **Wed Oct 28 ~10:03am ET Jeff** started RFQ *RFQ \u2013 Nozzle Fab Relocation \u2013 Concrete & Epoxy \u2013 GE Vernova* to **Corey @ H&H Concrete** (hhconcretefloors@gmail.com) \u2014 still a **DRAFT** in Jeff's mailbox with blank body (not sent yet)."
+      "notes": "**Tue ~4:44pm ET Jim Stanley\u2192Jeff:** \"Please review and quote at your earliest convenience.\" Attachment *Nozzle Fab Relocation Project RFQ REV_0.docx* (~52 KB; not downloaded \u2014 Gmail attachment download not available here). Scope not in body \u2014 open the RFQ, then price (likely Jason/DPP electrical + Indcom scaffold/support, same pattern as T7/T8 NFPS.03). New project; no due date stated. **Tue ~5:24pm ET Jeff\u2192Jim:** will review the area and **send out RFQs**; **Indcom will not be able to meet the concrete and epoxy start dates**. **Tue ~9:09pm ET Jim:** \u201cUnderstood, put your best dates that are possible.\u201d Next: sub RFQs out \u2192 price + proposed schedule dates back to Jim. **Wed Oct 28 ~10:03am ET Jeff** started RFQ *RFQ \u2013 Nozzle Fab Relocation \u2013 Concrete & Epoxy \u2013 GE Vernova* to **Corey @ H&H Concrete** (hhconcretefloors@gmail.com) \u2014 still a **DRAFT** in Jeff's mailbox with blank body (not sent yet). **Wed Oct 28 ~11:29\u201311:30am ET:** Jeff drafting sub RFQs (cc Kat): **H&H Concrete (Corey)** concrete trench + floor-hole fill (body now written) and **Golden Brush (Tommy Trickett)** paint, striping & epoxy floors \u2014 target quote within 5 business days, best start/finish incl. epoxy cure; both still DRAFTS (not sent). **~11:47am Jeff\u2192Kat:** forwarded Jim Stanley RFQ REV_0 (.docx) to Kat."
     },
     {
       "id": "T126",
@@ -1927,7 +1927,7 @@
       "due": "track payment",
       "item": "GE payment on Indcom **Invoice 3943 \u2014 Shipping Rack Completed Repairs** (**$56,471.30**)",
       "source": "Email / QuickBooks\u2192Julia Filiatreau 2026-10-27 ~12:54pm ET",
-      "notes": "**Tue ~12:54pm ET** QuickBooks payment request sent to Julia (GE) for invoice **3943**, balance due **$56,471.30**. Ties pallet-rack repair work (T20). Waiting GE payment / PO match. **Wed Oct 28 ~6:02am ET Julia\u2192Jeff:** thanks \u2014 **working on getting a PO for both** (invoice 3943 + estimate 2038). Waiting GE PO."
+      "notes": "**Tue ~12:54pm ET** QuickBooks payment request sent to Julia (GE) for invoice **3943**, balance due **$56,471.30**. Ties pallet-rack repair work (T20). Waiting GE payment / PO match. **Wed Oct 28 ~6:02am ET Julia\u2192Jeff:** thanks \u2014 **working on getting a PO for both** (invoice 3943 + estimate 2038). Waiting GE PO. **Wed ~11:22am ET Ginny Kirwan (GE)\u2192Jeff** asks PO structure \u2014 see **T272**."
     },
     {
       "id": "T262",
@@ -1936,7 +1936,7 @@
       "due": "waiting Julia approval/PO",
       "item": "GE approval of Indcom **Estimate 2038 \u2014 Shipping Rack Materials and Future Repairs** (**$189,571.89**)",
       "source": "Email / QuickBooks\u2192Julia Filiatreau 2026-10-27 ~12:52pm ET",
-      "notes": "**Tue ~12:52pm ET** QuickBooks quotation **2038** sent to Julia (GE) for review/approval, **$189,571.89**. Ties T20 rack repairs (repair kits/uprights). Waiting Julia approval \u2192 PO. **Wed Oct 28 ~6:02am ET Julia\u2192Jeff:** working on getting a **PO for both** 3943 + 2038. Waiting GE PO."
+      "notes": "**Tue ~12:52pm ET** QuickBooks quotation **2038** sent to Julia (GE) for review/approval, **$189,571.89**. Ties T20 rack repairs (repair kits/uprights). Waiting Julia approval \u2192 PO. **Wed Oct 28 ~6:02am ET Julia\u2192Jeff:** working on getting a **PO for both** 3943 + 2038. Waiting GE PO. **Wed ~11:22am ET Ginny Kirwan (GE)\u2192Jeff** asks PO structure \u2014 see **T272**."
     },
     {
       "id": "T263",
@@ -2008,7 +2008,7 @@
       "due": "route/confirm payment",
       "item": "Process SPC (Evan Groce) **Fingers** invoice \u2014 **Invoice 237** (Invoice_237_2026-11-27.pdf)",
       "source": "Email / Evan Groce (SPC) 2026-10-28 ~10:46am ET",
-      "notes": "\u201cPlease see attached invoice\u201d to Jeff + ap.mail@. Amount not in email body. Likely D Bay pole fingers work (T141 / GE PO 4200339489, T205). Route to AP / confirm payment."
+      "notes": "\u201cPlease see attached invoice\u201d to Jeff + ap.mail@. Amount not in email body. Likely D Bay pole fingers work (T141 / GE PO 4200339489, T205). Route to AP / confirm payment. **Wed ~11:38am ET Evan\u2192Jeff** \u201cFwd: Material list\u201d (orig Aug 27 to steveo@pipeandpower.com, photo IMG_3035.jpeg) \u2014 likely backup for the fingers invoice."
     },
     {
       "id": "T271",
@@ -2018,6 +2018,15 @@
       "item": "Review Bill's markup of Indcom **Quote 2040** for **Alex Leppard (GE)**",
       "source": "Email / Bill Marchbanks\u2192Kat (cc Jeff) 2026-10-28 ~10:25am ET",
       "notes": "*2040 Quote Review Markup [GEV Alex Leppard]* \u2014 \u201cHey Kat, See attached for discussion.\u201d PDF **2040 Quote Review Markup [GEV Alex Leppard].pdf**. Likely the BSA raised-floor quote Alex approved Sun Oct 25 (T195; Bonitz T88). Kat to go over markup with Bill, revise, and send to Alex."
+    },
+    {
+      "id": "T272",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP \u2014 GE ready to issue POs",
+      "item": "**Reply to Ginny Kirwan (GE)**: is it ONE PO for **$189,571.89**, or increase PO **4900645826** to **$56,471.30** (Invoice 3943) **plus** a separate PO for **$189,571.89** (Est 2038)? She has 3 different amounts",
+      "source": "Email / Virginia \u201cGinny\u201d Kirwan (GE Vernova, consultant)\u2192Jeff 2026-10-28 ~11:22am ET, FW: Rack Inspection & Repair Invoices",
+      "notes": "Julia ~6:05am asked Brian Hill + Ginny to find budget (Imren) for the two invoices ($56k + $189k). Ginny wants confirmation before issuing. Ties T261/T262/T20/T265."
     }
   ],
   "calendar": [
