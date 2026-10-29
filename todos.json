@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T15:07:25-04:00",
+  "updated": "2026-10-29T16:07:47-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -442,7 +442,7 @@
       "due": "ASAP (call Tue 1\u20134pm offered)",
       "item": "Resolve UniFirst screen-print shirts path with Bill (alt vendor?)",
       "source": "Email / Herrod + Bill 2026-09-28 ~5:32/5:53pm ET",
-      "notes": "**Herrod (UniFirst) ~5:32pm ET:** cannot provide screen-print shirts (3rd-party cost/logistics diverge from quote); apologizes; offered call **Tue 1\u20134pm**. **Bill ~5:53pm ET\u2192Herrod (To Jeff; cc Katheryn + Trey):** disappointed after proof-sample assurances; asks how to proceed / alternate uniform provider / what UniFirst will do; pants alone don\u2019t fulfill; **business in question**. **Tue Sep 29 ~5:11pm ET:** offered **1\u20134pm call window passed with no path yet**. Distinct from T45 (Floor Mats). Jeff+Bill need path. **Wed Oct 28 ~1:29pm ET:** Katheryn \u2192 Herrod (cc Trey, Jeff) on screen-print thread: after reviewing shirts with Trey, a few **placement issues**; sent reference mockups (10.28.2026.LOGO.BRANDING_01/_02.pdf) for location, design consistency, colors \u2014 **waiting on UniFirst** corrections. **Thu Oct 29 ~2:34pm ET Herrod\u2192Kat (cc Trey, Jeff):** \u201cThanks for the update Kat. We will see what we can do.\u201d **~2:37pm Kat:** has the **patch mockups** \u2014 who should receive them? **~2:39pm Herrod:** \u201cYou can send those over to me.\u201d \u2192 **Kat to send patch mockups to Jeffrey Herrod**; still waiting UniFirst on shirt placement corrections."
+      "notes": "**Herrod (UniFirst) ~5:32pm ET:** cannot provide screen-print shirts (3rd-party cost/logistics diverge from quote); apologizes; offered call **Tue 1\u20134pm**. **Bill ~5:53pm ET\u2192Herrod (To Jeff; cc Katheryn + Trey):** disappointed after proof-sample assurances; asks how to proceed / alternate uniform provider / what UniFirst will do; pants alone don\u2019t fulfill; **business in question**. **Tue Sep 29 ~5:11pm ET:** offered **1\u20134pm call window passed with no path yet**. Distinct from T45 (Floor Mats). Jeff+Bill need path. **Wed Oct 28 ~1:29pm ET:** Katheryn \u2192 Herrod (cc Trey, Jeff) on screen-print thread: after reviewing shirts with Trey, a few **placement issues**; sent reference mockups (10.28.2026.LOGO.BRANDING_01/_02.pdf) for location, design consistency, colors \u2014 **waiting on UniFirst** corrections. **Thu Oct 29 ~2:34pm ET Herrod\u2192Kat (cc Trey, Jeff):** \u201cThanks for the update Kat. We will see what we can do.\u201d **~2:37pm Kat:** has the **patch mockups** \u2014 who should receive them? **~2:39pm Herrod:** \u201cYou can send those over to me.\u201d \u2192 **Kat to send patch mockups to Jeffrey Herrod**; still waiting UniFirst on shirt placement corrections. **Thu Oct 29 ~3:26pm ET Kat\u2192Herrod (cc Trey, Jeff):** sent *UNIFORM PATCHES.svg* mockups (logos sized to patch dimensions) and asked UniFirst to **begin production** so jackets + coveralls can be ordered \u2192 waiting UniFirst on patch production + shirt placement fixes."
     },
     {
       "id": "T64",
@@ -1963,7 +1963,7 @@
       "due": "**SENT Thu Oct 29 ~7:44am ET** (before 11am mtg) \u2014 follow-up: supplier confirmed ship/arrival dates \u2192 give Julia full-repair date",
       "item": "Update GE **rack inspection table** (pptx) + give estimated completion timing for ordered rack-repair materials by category (e.g. red repairs est. 12/15/26)",
       "source": "Email / Julia Filiatreau (GE EHS Leader, cc Brian Hill) 2026-10-28 ~6:12am ET, \u201cUpdating Rack Inspection Table for Meeting tomorrow AM\u201d",
-      "notes": "To Jeff + Kat. Attachment *rack inspection table 10.28.26.pptx*. Not per line item \u2014 category-level dates. Ties T20 / T261 / T262 (estimate 2038 materials). **Wed ~8:29am ET Kat\u2192Julia:** \u201cI will get with the guys and get back to you on an estimated finish date.\u201d Still owe updated pptx + category dates before Thu 11am. **Thu Oct 29 ~7:44am ET Kat\u2192Julia (cc Jeff, Brian Hill):** sent *GE Vernova Rack Inspection Map \u2013 Repair Progress 10-29-26.pdf* + *Rack Repair Progress Report (1).xlsx* with updated pallet-rack numbers. Still **waiting on supplier confirmed arrival dates** for repair kits/new racks/parts (supplier says \u22644 weeks; **all repairs complete before end of year**). Only a few red racks remain (CZB between C bay and K bay); Husky House in-progress repairs to finish today; crew reviewing Husky House inventory to harvest parts. Kat will give Julia the full-repair date once supplier confirms \u2192 WAITING on supplier ETA. **Thu Oct 29 ~10:55am ET Julia\u2192Kat:** \u201cGreat, thanks for the updated info!\u201d (ack before 11am leadership mtg). Still owe full-repair date once supplier confirms ETA."
+      "notes": "To Jeff + Kat. Attachment *rack inspection table 10.28.26.pptx*. Not per line item \u2014 category-level dates. Ties T20 / T261 / T262 (estimate 2038 materials). **Wed ~8:29am ET Kat\u2192Julia:** \u201cI will get with the guys and get back to you on an estimated finish date.\u201d Still owe updated pptx + category dates before Thu 11am. **Thu Oct 29 ~7:44am ET Kat\u2192Julia (cc Jeff, Brian Hill):** sent *GE Vernova Rack Inspection Map \u2013 Repair Progress 10-29-26.pdf* + *Rack Repair Progress Report (1).xlsx* with updated pallet-rack numbers. Still **waiting on supplier confirmed arrival dates** for repair kits/new racks/parts (supplier says \u22644 weeks; **all repairs complete before end of year**). Only a few red racks remain (CZB between C bay and K bay); Husky House in-progress repairs to finish today; crew reviewing Husky House inventory to harvest parts. Kat will give Julia the full-repair date once supplier confirms \u2192 WAITING on supplier ETA. **Thu Oct 29 ~10:55am ET Julia\u2192Kat:** \u201cGreat, thanks for the updated info!\u201d (ack before 11am leadership mtg). Still owe full-repair date once supplier confirms ETA. **Thu ~3:25pm ET Julia\u2192Kat:** \u201cThanks for the additional info!\u201d (Inv 3943 PO thread). **~3:31pm ET Kat\u2192Julia (cc Jeff):** will send info on what was completed today; only remaining issue is **racks between C bay and K bay** (Jeff has a viable solution); confirmed all parts for remaining repairs ordered and on the way."
     },
     {
       "id": "T266",
@@ -2054,6 +2054,15 @@
       "item": "Review **BF Material Handling quote 26-AB-462** (26AB462.doc)",
       "source": "Email / Ola Footer (BF Material Handling)\u2192Jeff + Kat 2026-10-29 ~12:34pm ET",
       "notes": "\u201cPlease see the attached quote.\u201d Amount/scope only in the .doc attachment. Review and decide/accept or fold into the related GE quote."
+    },
+    {
+      "id": "T277",
+      "status": "open",
+      "priority": "high",
+      "due": "reply ASAP \u2014 SCI busy season, wants it scheduled",
+      "item": "Answer **Mike Mullaney (SCI Electronics)**: when will the **EZA office** be ready for SCI data install? Same question for **BSA**",
+      "source": "Email / Mike Mullaney (SCI)\u2192Jeff 2026-10-29 ~3:15pm ET \u201cEZA Office\u201d",
+      "notes": "\u201cWhen do you think the EZA office will be ready for us for install? We are hitting that very busy time of year and would like to go ahead and get it on the schedule. Same for BSA.\u201d Ties T23/T169 (EZA renovation) and T178/T223 (BSA office data). Unanswered."
     }
   ],
   "calendar": [
