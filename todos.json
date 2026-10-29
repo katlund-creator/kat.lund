@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T11:15:18-04:00",
+  "updated": "2026-10-29T13:09:52-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -2036,6 +2036,24 @@
       "item": "Send Ginny Kirwan (GE) a **quote with SOW** for the **$56,471.30** completed rack-repair work (Inv 3943) so she can issue the PO from budget; watch for GE **Sourcing** contact on the **$189,571.89** PO (may require bid)",
       "source": "Email / Virginia \u201cGinny\u201d Kirwan (GE Vernova, consultant)\u2192Jeff 2026-10-29 ~7:41am ET \u201cCompleted work PO for 56,471.30\u201d",
       "notes": "Follows T272 (closed): Jeff ~6:51am clarified 3 POs \u2014 **$189,571.89** (extra repair kits, ordered racks, remaining work; subject to change from ongoing forklift damage), **$56,471.30** (completed work per invoice), **$28,025.00** (already received \u2014 initial walkthrough/inspection spreadsheets/mapping). Kat sent same clarification to Julia ~6:49am. Ginny ~6:56am: starting the other 2 POs. Ginny ~7:41am: $56,471.30 PO needs **quote + SOW** first; $189,571.89 must go through **sourcing approval \u2014 may be bid** (sourcing will reach out). Ties T261/T262/T20/T265."
+    },
+    {
+      "id": "T275",
+      "status": "open",
+      "priority": "med",
+      "due": "ASAP (AP)",
+      "item": "Route/confirm payment \u2014 **BF Material Handling invoice 71886** (71886.pdf)",
+      "source": "Email / Ola Footer (BF Material Handling) 2026-10-29 ~12:25pm ET",
+      "notes": "Ola sent invoice 71886 to Jeff, Bill, Kat + ap.mail \u2014 original went to the misspelled **indcom-corp.com** addresses for Jeff/Kat, so Ola re-forwarded to Jeff ~12:26pm. Confirm AP has it and pay (cf. T27 invoice 71844)."
+    },
+    {
+      "id": "T276",
+      "status": "open",
+      "priority": "med",
+      "due": "review",
+      "item": "Review **BF Material Handling quote 26-AB-462** (26AB462.doc)",
+      "source": "Email / Ola Footer (BF Material Handling)\u2192Jeff + Kat 2026-10-29 ~12:34pm ET",
+      "notes": "\u201cPlease see the attached quote.\u201d Amount/scope only in the .doc attachment. Review and decide/accept or fold into the related GE quote."
     }
   ],
   "calendar": [
