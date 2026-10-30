@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T08:09:57-04:00",
+  "updated": "2026-10-30T10:14:58-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -2099,6 +2099,15 @@
       "item": "Process/ack GE PO **4900673804** (**$41,962.48**) \u2014 **FW41 UA Scaffold Support** (Andrew Heatherly; service Oct 5\u201311)",
       "source": "Email / Ariba GE Vernova 2026-10-30 ~7:04am ET",
       "notes": "**PR854686**; NET 150; *FW 41 UA Scaffold Support*; service Mon Oct 5 \u2192 Sun Oct 11; need-by 27 Oct 2026. Confirm in Ariba, service sheet, invoice."
+    },
+    {
+      "id": "T282",
+      "status": "open",
+      "priority": "high",
+      "due": "**ASAP \u2014 before GE VIP tour Mon Nov 2**",
+      "item": "Look at / repair broken cross-brace weld on rack **D6A** (Train Area Rack-01, RED, upright post \u2014 listed \"waiting on repair kits\"); GE asks for interim fix (weld repair or replacement) so Paul Heebner gets the rack back",
+      "source": "Email / Brian Hill (GE EHS) 2026-10-30 ~7:59am ET + Paul Heebner ~8:25am ET",
+      "notes": "**Fri ~7:59am ET Brian Hill, PE\u2192Kat + Jeff (cc Julia Filiatreau, Paul Heebner)**, Re: *Updating Rack Inspection Table*: thinks D6A has a **broken weld on a cross brace**; Paul needs the rack back **asap** to prep for a **VIP tour Monday**; since repair kits are pending, asks whether **welding repair or replacement** is possible. **~8:25am Paul Heebner** attached a photo of the brace needing repair. No Indcom reply seen yet. Related T265 (rack repair timing) / harvest-parts plan from Husky House."
     }
   ],
   "calendar": [
@@ -3564,6 +3573,22 @@
       "relatedTodos": [
         "T278",
         "T127"
+      ]
+    },
+    {
+      "id": "e118",
+      "type": "deadline",
+      "title": "Deadline: D6A rack cross-brace weld fix (GE VIP tour)",
+      "summary": "Before Mon Nov 2 \u2014 Paul Heebner needs D6A rack back for VIP tour (Brian Hill, GE EHS)",
+      "location": "GE Vernova Greenville \u2014 rack D6A (Train Area Rack-01)",
+      "description": "Brian Hill asked Fri Oct 30 ~7:59am ET for an interim weld repair or replacement of a broken cross-brace weld on rack D6A while repair kits are pending. Paul Heebner sent a photo ~8:25am. (T282)",
+      "start": "2026-11-02T07:00:00-05:00",
+      "end": "2026-11-02T08:00:00-05:00",
+      "allDay": false,
+      "todoId": "T282",
+      "relatedTodos": [
+        "T282",
+        "T265"
       ]
     }
   ]
