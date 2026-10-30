@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T12:09:58-04:00",
+  "updated": "2026-10-30T14:07:59-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -2102,12 +2102,12 @@
     },
     {
       "id": "T282",
-      "status": "open",
+      "status": "in progress",
       "priority": "high",
-      "due": "**ASAP \u2014 before GE VIP tour Mon Nov 2**",
+      "due": "**Rack removed Fri Oct 30 (before VIP tour Mon Nov 2); full repair by EOD Tue Nov 3**",
       "item": "Look at / repair broken cross-brace weld on rack **D6A** (Train Area Rack-01, RED, upright post \u2014 listed \"waiting on repair kits\"); GE asks for interim fix (weld repair or replacement) so Paul Heebner gets the rack back",
       "source": "Email / Brian Hill (GE EHS) 2026-10-30 ~7:59am ET + Paul Heebner ~8:25am ET",
-      "notes": "**Fri ~7:59am ET Brian Hill, PE\u2192Kat + Jeff (cc Julia Filiatreau, Paul Heebner)**, Re: *Updating Rack Inspection Table*: thinks D6A has a **broken weld on a cross brace**; Paul needs the rack back **asap** to prep for a **VIP tour Monday**; since repair kits are pending, asks whether **welding repair or replacement** is possible. **~8:25am Paul Heebner** attached a photo of the brace needing repair. No Indcom reply seen yet. Related T265 (rack repair timing) / harvest-parts plan from Husky House."
+      "notes": "**Fri ~7:59am ET Brian Hill, PE\u2192Kat + Jeff (cc Julia Filiatreau, Paul Heebner)**, Re: *Updating Rack Inspection Table*: thinks D6A has a **broken weld on a cross brace**; Paul needs the rack back **asap** to prep for a **VIP tour Monday**; since repair kits are pending, asks whether **welding repair or replacement** is possible. **~8:25am Paul Heebner** attached a photo of the brace needing repair. No Indcom reply seen yet. Related T265 (rack repair timing) / harvest-parts plan from Husky House. **Fri ~12:31pm ET Kat\u2192Paul Heebner (cc Brian Hill, Jeff, Julia):** rack will be **taken down today** until a repair kit or replacement part is installed (fix had been planned for Monday; pulled early for the VIP tour); **fully repaired by end of day Tue 11/3**. Action: confirm crew removes D6A today; deliver repair by Tue Nov 3."
     },
     {
       "id": "T283",
@@ -2135,9 +2135,29 @@
       "item": "Process DPP invoices **4726 MFB\u2013MGB Demo & Relocate (Jim Stanley request)** + **4727 BOB Broach CAT #18566 (Electrical)** (Joist)",
       "source": "Email / Jason Marchbanks (DPP)\u2192Jeff (cc Bill, accounting, Katheryn) 2026-10-30 ~11:25am + ~11:37am ET",
       "notes": "4726: https://client.joistapp.com/invoices/8e0d91176b9cb2da35b8a457 (ties T251 MFB\u2013MHB crane structure). 4727: https://client.joistapp.com/invoices/d5db0dfbd266555a3329dc57 (ties T233/T268 Broach removal). Amounts in PDFs only. Bill on GE customer invoicing as applicable."
+    },
+    {
+      "id": "T286",
+      "status": "open",
+      "priority": "high",
+      "due": "pick weekend + align scaffold crew (11/21\u201322, 12/5\u20136 or 12/12\u201313)",
+      "item": "**Furnace 4 Monorail Crane Demo \u2014 Indcom scaffold support** (GE PO 4900672923 $18,670 is to ENGINEERED SYSTEMS INC for the demo; Indcom provides scaffold)",
+      "source": "Email / Matthew Fitts (GE)\u2192Tres Orr + Kevin Lauriault (cc Jeff, Kat, Pete Lambley) 2026-10-30 ~1:55pm ET",
+      "notes": "Furnace 4 demo starts **Mon 11/16**; tentative 2026 crane-demo weekends: **11/21\u201311/22, 12/5\u201312/6, 12/12\u201312/13** (else 2027). Waiting on Tres/Kevin to pick dates; then align scaffold resources with Jeff/Kat + Pete Lambley. Weekend work = OT billing."
+    },
+    {
+      "id": "T287",
+      "status": "open",
+      "priority": "med",
+      "due": "route/confirm payment (AP)",
+      "item": "Process DPP invoice \u2014 **MQA Demo Completion (Jim Stanley request)** (Joist)",
+      "source": "Email / Jason Marchbanks (DPP)\u2192Jeff 2026-10-30 ~1:52pm ET",
+      "notes": "https://client.joistapp.com/invoices/f10f8481c40fc387ccd56222 \u2014 amount/number in PDF only. Same batch as T285. Bill GE as applicable."
     }
   ],
   "calendar": [
+    "**Tentative weekends 11/21\u201322, 12/5\u20136, 12/12\u201313 (NEW \u2014 Matt Fitts GE ~1:55pm Fri)** \u2014 Furnace 4 monorail crane demo with Indcom scaffold support; dates TBD by Tres Orr/Kevin Lauriault (T286) \u2014 e120",
+    "**Fri Oct 30 \u2192 EOD Tue Nov 3 (UPDATE \u2014 Kat ~12:31pm)** \u2014 D6A rack removed today for VIP tour; full repair by EOD Tue 11/3 (T282) \u2014 e118",
     "**Mon Nov 16 \u2013 Mon Jan 4 (NEW \u2014 Bob Smith GE ~12:04pm Fri)** \u2014 JLTC Fitness Center closed for drywall/louver/skylight repair; **Indcom scaffolding** in place for AM King (T283) \u2014 e119",
     "**Before Mon Nov 2 (NEW \u2014 Jim Stanley GE ~6:09pm Thu)** \u2014 MAA scaffold debris mitigation over Nozzle Line 1: extra plywood row + taped joints, cover column gaps, netting underneath (T278) \u2014 e117",
     "**TODAY Wed Oct 28 AM (NEW \u2014 DPP ~9:04am)** \u2014 Mitsubishi machine 7 set in place \u2192 MSS (Frank Manganella/Scott Stone) hooks up FA modules, test, close out (T67) \u2014 e115",
@@ -3606,12 +3626,12 @@
     {
       "id": "e118",
       "type": "deadline",
-      "title": "Deadline: D6A rack cross-brace weld fix (GE VIP tour)",
-      "summary": "Before Mon Nov 2 \u2014 Paul Heebner needs D6A rack back for VIP tour (Brian Hill, GE EHS)",
+      "title": "D6A rack removed for VIP tour \u2014 full repair by EOD Tue Nov 3",
+      "summary": "Kat Fri Oct 30 ~12:31pm: D6A rack taken down today (before GE VIP tour Mon Nov 2); fully repaired by end of day Tue 11/3",
       "location": "GE Vernova Greenville \u2014 rack D6A (Train Area Rack-01)",
-      "description": "Brian Hill asked Fri Oct 30 ~7:59am ET for an interim weld repair or replacement of a broken cross-brace weld on rack D6A while repair kits are pending. Paul Heebner sent a photo ~8:25am. (T282)",
-      "start": "2026-11-02T07:00:00-05:00",
-      "end": "2026-11-02T08:00:00-05:00",
+      "description": "Brian Hill asked Fri Oct 30 ~7:59am ET for an interim weld repair or replacement of a broken cross-brace weld on rack D6A while repair kits are pending. Paul Heebner sent a photo ~8:25am. (T282) Update Fri ~12:31pm ET: Kat told GE the rack comes down today and will be fully repaired by EOD Tue Nov 3.",
+      "start": "2026-11-03T16:00:00-05:00",
+      "end": "2026-11-03T17:00:00-05:00",
       "allDay": false,
       "todoId": "T282",
       "relatedTodos": [
@@ -3632,6 +3652,21 @@
       "todoId": "T283",
       "relatedTodos": [
         "T283"
+      ]
+    },
+    {
+      "id": "e120",
+      "type": "work",
+      "title": "Furnace 4 monorail crane demo \u2014 Indcom scaffold (tentative weekends)",
+      "summary": "Tentative weekends 11/21\u201322, 12/5\u20136, 12/12\u201313 \u2014 dates TBD by Tres Orr/Kevin Lauriault (Matt Fitts, GE)",
+      "location": "GE Vernova Greenville \u2014 Furnace 4",
+      "description": "Matt Fitts (GE) Fri Oct 30 ~1:55pm ET: Furnace 4 demo starts 11/16; monorail crane demo (PO 4900672923, Engineered Systems Inc) needs Indcom scaffold support on one of 11/21\u201322, 12/5\u20136, 12/12\u201313; align with Jeff/Kat + Pete Lambley. (T286)",
+      "start": "2026-11-21",
+      "end": "2026-11-23",
+      "allDay": true,
+      "todoId": "T286",
+      "relatedTodos": [
+        "T286"
       ]
     }
   ]
