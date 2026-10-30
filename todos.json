@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T10:14:58-04:00",
+  "updated": "2026-10-30T12:09:58-04:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -2108,9 +2108,37 @@
       "item": "Look at / repair broken cross-brace weld on rack **D6A** (Train Area Rack-01, RED, upright post \u2014 listed \"waiting on repair kits\"); GE asks for interim fix (weld repair or replacement) so Paul Heebner gets the rack back",
       "source": "Email / Brian Hill (GE EHS) 2026-10-30 ~7:59am ET + Paul Heebner ~8:25am ET",
       "notes": "**Fri ~7:59am ET Brian Hill, PE\u2192Kat + Jeff (cc Julia Filiatreau, Paul Heebner)**, Re: *Updating Rack Inspection Table*: thinks D6A has a **broken weld on a cross brace**; Paul needs the rack back **asap** to prep for a **VIP tour Monday**; since repair kits are pending, asks whether **welding repair or replacement** is possible. **~8:25am Paul Heebner** attached a photo of the brace needing repair. No Indcom reply seen yet. Related T265 (rack repair timing) / harvest-parts plan from Husky House."
+    },
+    {
+      "id": "T283",
+      "status": "open",
+      "priority": "high",
+      "due": "**ASAP \u2014 GE needs funding secured for Nov 16 start**",
+      "item": "**JLTC Fitness Center drywall/louver repair** \u2014 Indcom provides all required scaffolding; fitness center closed **Mon Nov 16 \u2013 reopens Mon Jan 4**",
+      "source": "Email / Bob Smith (GE Facilities Eng.) 2026-10-30 ~12:04pm ET",
+      "notes": "**Fri ~12:04pm ET Bob Smith\u2192Jack Davis + Catherine Knight (AM King), Jeff (cc Amanda Fowler, Joseph Betten, Trevor Honosky):** met w/ AM King, Indcom, Tori; safety + noise \u2192 gym closes Nov 16, reopens Jan 4. **Indcom = all scaffolding.** AM King: remove louvers, make electrical safe, drywall repair/paint, remove dead light fixtures (leave boxes/conduit), skylight leak test + repair. Bob asked AM King for detailed scope + proposal ASAP. Indcom: plan/price scaffold for JLTC Group Fitness area (likely needs scaffold quote to AM King/GE), confirm material/crew for Nov 16."
+    },
+    {
+      "id": "T284",
+      "status": "open",
+      "priority": "high",
+      "due": "review + fold into T122 Nozzle Fab quote",
+      "item": "Review **SCI Electronics quote \u2014 GE M-Bay Nozzle Fab Relocation network/data** (*13425567042- Indcom GE M-Bay Nozzle Fab Relocation 10-30-26.pdf*)",
+      "source": "Email / Mike Mullaney (SCI)\u2192Jeff (cc Katheryn) 2026-10-30 ~11:44am ET",
+      "notes": "Sub reply to Jeff's Thu ~5:49pm RFQ (Network/Data/AV). Amount not in email body (PDF). Feed into T122 customer quote for Jim Stanley."
+    },
+    {
+      "id": "T285",
+      "status": "open",
+      "priority": "med",
+      "due": "route/confirm payment (AP)",
+      "item": "Process DPP invoices **4726 MFB\u2013MGB Demo & Relocate (Jim Stanley request)** + **4727 BOB Broach CAT #18566 (Electrical)** (Joist)",
+      "source": "Email / Jason Marchbanks (DPP)\u2192Jeff (cc Bill, accounting, Katheryn) 2026-10-30 ~11:25am + ~11:37am ET",
+      "notes": "4726: https://client.joistapp.com/invoices/8e0d91176b9cb2da35b8a457 (ties T251 MFB\u2013MHB crane structure). 4727: https://client.joistapp.com/invoices/d5db0dfbd266555a3329dc57 (ties T233/T268 Broach removal). Amounts in PDFs only. Bill on GE customer invoicing as applicable."
     }
   ],
   "calendar": [
+    "**Mon Nov 16 \u2013 Mon Jan 4 (NEW \u2014 Bob Smith GE ~12:04pm Fri)** \u2014 JLTC Fitness Center closed for drywall/louver/skylight repair; **Indcom scaffolding** in place for AM King (T283) \u2014 e119",
     "**Before Mon Nov 2 (NEW \u2014 Jim Stanley GE ~6:09pm Thu)** \u2014 MAA scaffold debris mitigation over Nozzle Line 1: extra plywood row + taped joints, cover column gaps, netting underneath (T278) \u2014 e117",
     "**TODAY Wed Oct 28 AM (NEW \u2014 DPP ~9:04am)** \u2014 Mitsubishi machine 7 set in place \u2192 MSS (Frank Manganella/Scott Stone) hooks up FA modules, test, close out (T67) \u2014 e115",
     "\u2705 SENT Thu Oct 29 ~7:44am (before 11:00am ET mtg) \u2014 Updated rack inspection table + material/repair completion timing for GE leadership meeting (T265) \u2014 e114",
@@ -3589,6 +3617,21 @@
       "relatedTodos": [
         "T282",
         "T265"
+      ]
+    },
+    {
+      "id": "e119",
+      "type": "work",
+      "title": "JLTC Fitness Center repair \u2014 Indcom scaffolding (gym closed)",
+      "summary": "Mon Nov 16 \u2013 Mon Jan 4 \u2014 GE closes JLTC fitness center; Indcom provides all scaffolding for AM King drywall/louver/skylight repair (Bob Smith, GE)",
+      "location": "GE Vernova Greenville \u2014 JLTC Fitness Center (Group Fitness area)",
+      "description": "Bob Smith (GE Facilities Engineer) Fri Oct 30 ~12:04pm ET: after meeting AM King, Indcom and Tori, fitness center closes Nov 16 and reopens Jan 4. Indcom provides all required scaffolding; AM King removes louvers, makes electrical safe, repairs drywall/paint, removes dead fixtures, leak-tests skylight. AM King proposal requested ASAP so GE can secure funding. (T283)",
+      "start": "2026-11-16",
+      "end": "2027-01-04",
+      "allDay": true,
+      "todoId": "T283",
+      "relatedTodos": [
+        "T283"
       ]
     }
   ]
