@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T09:16:05-05:00",
+  "updated": "2026-11-02T13:14:03-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -2162,9 +2162,19 @@
       "item": "Process DPP **Invoice 4730 \u2014 EZA OPs 4\" Data Raceway** (Joist)",
       "source": "Email / Jason Marchbanks (DPP)\u2192Jeff (cc Bill, accounting, Katheryn) 2026-10-31 ~9:39am ET (Sat)",
       "notes": "https://client.joistapp.com/invoices/ce72eefbaed6b66010eba915 \u2014 att. *Invoice_4730.pdf*; amount in PDF only. EZA Ops Tower job (T23/T169; PO 4900667131); same DPP batch as T285/T287/T266. Bill GE as applicable."
+    },
+    {
+      "id": "T289",
+      "status": "open",
+      "priority": "med",
+      "due": "Wed Nov 4 6:30\u20137:00am ET (requested; GE confirm pending)",
+      "item": "Track outage request **RP-7B-4.8 @ DZB** \u2014 DPP final connections for new **120V receptacles in EZA Ops Tower**",
+      "source": "Email / Jason Marchbanks (DPP)\u2192GE GVL Outage (cc Jeff, Katheryn, Adam McClure, Colby Murphy) 2026-11-02 ~1:00pm ET",
+      "notes": "Panel has **no panel schedule or circuit labels**. GE lead **Colby Murphy**; sub Dynamic Pipe & Power. Email says \u201cNov 4th, 2027\u201d \u2014 Wednesday Nov 4 is 2026, treated as typo. Same EZA Ops Tower job as T288/T23/T169. Watch for GE outage confirmation/time change. Calendar e121."
     }
   ],
   "calendar": [
+    "**Wed Nov 4 6:30\u20137:00am ET (NEW \u2014 Jason Marchbanks DPP ~1:00pm Mon; GE confirm pending)** \u2014 Outage RP-7B-4.8 @ DZB (no panel schedule/labels) for EZA Ops Tower 120V receptacle final connections; GE lead Colby Murphy (T289) \u2014 e121",
     "**Tentative weekends 11/21\u201322, 12/5\u20136, 12/12\u201313 (NEW \u2014 Matt Fitts GE ~1:55pm Fri)** \u2014 Furnace 4 monorail crane demo with Indcom scaffold support; dates TBD by Tres Orr/Kevin Lauriault (T286) \u2014 e120",
     "**Fri Oct 30 \u2192 EOD Tue Nov 3 (Kat ~12:31pm/~4:08pm Fri; GE VIP tour TODAY Mon Nov 2)** \u2014 D6A rack removed Fri for VIP tour; full repair by EOD Tue 11/3 (T282) \u2014 e118",
     "**Mon Nov 16 \u2013 Mon Jan 4 (NEW \u2014 Bob Smith GE ~12:04pm Fri)** \u2014 JLTC Fitness Center closed for drywall/louver/skylight repair; **Indcom scaffolding** in place for AM King (T283) \u2014 e119",
@@ -3676,6 +3686,22 @@
       "todoId": "T286",
       "relatedTodos": [
         "T286"
+      ]
+    },
+    {
+      "id": "e121",
+      "type": "outage",
+      "title": "Outage RP-7B-4.8 @ DZB \u2014 EZA Ops Tower 120V receptacles (DPP)",
+      "summary": "Wed Nov 4 6:30\u20137:00am ET requested by Jason Marchbanks (DPP); GE lead Colby Murphy; panel has no schedule/labels",
+      "location": "GE Vernova Greenville \u2014 DZB (panel RP-7B-4.8)",
+      "description": "Jason Marchbanks (Dynamic Pipe & Power) Mon Nov 2 ~1:00pm ET requested an outage on RP-7B-4.8 to make final connections for the new 120V receptacles added in the EZA Ops Tower. Panel has no panel schedule or circuit labels. Email says 2027 but Wednesday Nov 4 is 2026. (T289)",
+      "start": "2026-11-04T06:30:00-05:00",
+      "end": "2026-11-04T07:00:00-05:00",
+      "allDay": false,
+      "todoId": "T289",
+      "relatedTodos": [
+        "T289",
+        "T288"
       ]
     }
   ]
