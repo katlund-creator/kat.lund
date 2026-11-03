@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T14:08:46-05:00",
+  "updated": "2026-11-03T17:09:28-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -595,7 +595,7 @@
       "due": "ASAP",
       "item": "Tell OpSource when Tavan Hughes should report for work",
       "source": "Email / Jose Cruz 2026-10-01 ~8:21am ET",
-      "notes": "**Thu ~8:21am ET Jose\u2192Jeff:** Tavan Hughes asking when he needs to be in \u2014 all set/ready to start (T52 onboarding closed Mon). **Jeff owes start date/time** answer. Distinct from new hire Chaz (T78). **Wed Oct 7 ~9:31am ET Jose Cruz\u2192Jeff (2nd chase):** Tavan reached out again asking when he will hear anything about starting work. Still no Jeff answer seen."
+      "notes": "**Thu ~8:21am ET Jose\u2192Jeff:** Tavan Hughes asking when he needs to be in \u2014 all set/ready to start (T52 onboarding closed Mon). **Jeff owes start date/time** answer. Distinct from new hire Chaz (T78). **Wed Oct 7 ~9:31am ET Jose Cruz\u2192Jeff (2nd chase):** Tavan reached out again asking when he will hear anything about starting work. Still no Jeff answer seen.  **Tue Nov 3 ~3:40pm ET Lisa Stafford (OpSource):** asks if Tavan (among others) still works at Indcom \u2014 see **T296**."
     },
     {
       "id": "T85",
@@ -2216,10 +2216,20 @@
       "item": "Track Indcom **Estimate 2041 \u2014 M Bay argon tie in** ($29,512.41) to Jim Stanley",
       "source": "Email / QuickBooks \u2192 James Stanley (cc Kat/Jeff) 2026-11-03 ~10:29am ET",
       "notes": "QB Quotation **2041** *M Bay argon tie in* **$29,512.41** sent for review/approve. Relates **T255** (DPP Argon Gas Line Extension \u2013 MFA scaffold support @ MDA/MEA). Waiting Jim Stanley / GE PO."
+    },
+    {
+      "id": "T296",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP",
+      "item": "Confirm to OpSource (Lisa Stafford) whether these people still work at Indcom",
+      "source": "Email / Lisa Stafford (OpSource)\u2192Jeff 2026-11-03 ~3:40pm ET",
+      "notes": "Subject *No Time for Last Week*. Names: **Alexis Castro**, **Angel Ordaz**, **Caleb H Carson**, **Obed Rojas**, **Paul Von Buren**, **Tavan Hughes**. Context: Alexis quit w/ notice (good standing); Angel quit w/o communication (check hold); Caleb assignment ended / final pay done (T114); Tavan start date still owed (**T84**). Jeff owes yes/no (or status) reply for each."
     }
   ],
   "calendar": [
     "**DUE TODAY Tue Nov 3** \u2014 T282 D6A rack repair EOD; T119 PO 4900662406 need-by (ack/invoice); Wed Nov 4 RP-7B-4.8 **9:00\u20139:30am** (T289/e121)",
+    "**ASAP (NEW \u2014 Lisa Stafford OpSource ~3:40pm Tue)** \u2014 Confirm active status for Alexis Castro / Angel Ordaz / Caleb Carson / Obed Rojas / Paul Von Buren / Tavan Hughes (T296; ties T84)",
     "\u2705 DONE Tue Nov 3 ~9:19am \u2014 OpSource TIME/per diems week 10/26\u201311/1 submitted to Payroll OpSource (Coddy $23 TRAVEL 8h) (T294)",
     "**By 3rd week of Nov (NEW \u2014 Russ Zubkov AMK ~9:30am Tue)** \u2014 Oil Bay piping Phase 1 scaffolding up; flush crew next week + walkthrough TBD (T93)",
     "**Wed Nov 4 9:00\u20139:30am ET (FORMAL GVL Outage notice Tue ~7:01am; supersedes Jason 7:30\u20138:00am revision)** \u2014 Outage RP-7B-4.8 @ DZB (no panel schedule/labels) for EZA Ops Tower 120V receptacle final connections; GE lead Colby Murphy; DPP (T289) \u2014 e121",
