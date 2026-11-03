@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T17:04:14-05:00",
+  "updated": "2026-11-03T14:08:46-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -55,7 +55,7 @@
       "due": "waiting GE approval/PO",
       "item": "Deliver Jim Stanley change-order numbers",
       "source": "Email / James Stanley 2026-09-16",
-      "notes": "Need numbers for: (1) NFPS.03 line changes, (2) M-Bay tool-crib disconnect + H-Bay reinstall, (3) decommission old wire EDM at EYA + install new. Jeff said working with Jason; unknowns quoted separately. **Mon ~10:27\u201310:46am ET Indcom QuickBooks estimates sent to Jim Stanley:** Est **2003** NFPS.03 New 800A Panel & Transformer Feeder (**$131,030.97**); **2016** Breaker Swap for New Panel (**$12,732.72**); **2017** Basaran chilled water mods (**$19,250.00**); **2018** NFPS.03 machine power 480V\u2192208V (**$36,227.92**); **2019** BL4 change order Basaran loop/bracing/supports (**$21,467.60**); **2020** NFPS.03 Mist Collector support stand bracing (**$3,607.58**). Now **waiting Jim Stanley approval / GE POs**. Tool-crib (item 2) + EYA wire EDM (item 3) not seen in this batch \u2014 confirm. **Tue Oct 27 ~1:08pm ET Katheryn\u2192Jeff (Fwd: NFPS.03 change quotes: a few clarifications):** forwarded Jason Marchbanks (DPP) Thu Oct 22 ~12:33pm answers \u2014 (1) DPP Est 381 breaker relocation was weekend/shutdown-based; actual cost on **DPP Invoice 4706** ~75% less; DPP Est 372 (800A panel) excludes LCU / main PP panel feed work; (2) 480V\u2192208V billed **material difference only** (6/3 wire ~$12,800 vs 10/3 ~$2,400; 5\u00d7 60A disc $4,000 vs 30A $2,000; 1\" RMC $5.50/ft vs 3/4\" $2.55/ft) \u2014 no credit breakdown yet, Jason can provide exact material delta; (3) Fanuc work **complete**, only labor on Inv 4706 was 4 hrs load calcs/sequencing; (4) Basaran chilled-water mods scope listed. \u2192 Jeff/Kat to reconcile Indcom quotes 2016/2018 vs DPP actuals before GE approval. **Wed Oct 28 ~9:45am ET Jason Marchbanks (DPP)\u2192Jeff:** re-forwarded his Oct 22 answers to Kat's NFPS.03 clarification Qs (Est 381 breaker relocation was weekend/shutdown estimate \u2014 Invoice 4706 actual ~75% less; Est 372 800A panel excludes LCU work; 480V\u2192208V billed material difference only (6/3 ~$12.8k vs 10/3 ~$2.4k; 60A vs 30A disconnects $4k vs $2k; 1\" vs 3/4\" RMC) + 4 hrs his labor; Fanuc work completed; Basaran chilled-water scope list). **~10:09am ET Kat\u2192Jeff:** *NFPS.03 \u2014 repeated wording to clean up* \u2014 fix duplicate **mist collector stand braces on both 2019 and 2020** (drop one / remove braces from one quote); overlap notes on mist stands (1991 vs 2019/2020), Basaran chilled water (1991 vs 2017 \u2014 keep independent feeds/isolation in 2017), pipe stands (1991 vs 2019), Fanuc power (1991 vs 2018), Basaran valves (2017 permanent vs 2019 temp loop \u2014 different); 2016 breaker no overlap \u2192 Jeff to revise quote wording. **Wed Oct 28 ~10:15am + ~10:18am ET Kat\u2192Jeff (Re: NFPS.03 \u2014 repeated wording to clean up):** simple fix order (braces on 2019 **or** 2020, not both; rewrite 2017 to \u201cindependent feeds only\u201d; add \u201cchange from 1991 / material already purchased\u201d notes) + copy-paste replacement wording for each quote (Option A keep 2020 braces/drop from 2019, or Option B). \u2192 Jeff to revise quote wording before GE approval."
+      "notes": "Need numbers for: (1) NFPS.03 line changes, (2) M-Bay tool-crib disconnect + H-Bay reinstall, (3) decommission old wire EDM at EYA + install new. Jeff said working with Jason; unknowns quoted separately. **Mon ~10:27\u201310:46am ET Indcom QuickBooks estimates sent to Jim Stanley:** Est **2003** NFPS.03 New 800A Panel & Transformer Feeder (**$131,030.97**); **2016** Breaker Swap for New Panel (**$12,732.72**); **2017** Basaran chilled water mods (**$19,250.00**); **2018** NFPS.03 machine power 480V\u2192208V (**$36,227.92**); **2019** BL4 change order Basaran loop/bracing/supports (**$21,467.60**); **2020** NFPS.03 Mist Collector support stand bracing (**$3,607.58**). Now **waiting Jim Stanley approval / GE POs**. Tool-crib (item 2) + EYA wire EDM (item 3) not seen in this batch \u2014 confirm. **Tue Oct 27 ~1:08pm ET Katheryn\u2192Jeff (Fwd: NFPS.03 change quotes: a few clarifications):** forwarded Jason Marchbanks (DPP) Thu Oct 22 ~12:33pm answers \u2014 (1) DPP Est 381 breaker relocation was weekend/shutdown-based; actual cost on **DPP Invoice 4706** ~75% less; DPP Est 372 (800A panel) excludes LCU / main PP panel feed work; (2) 480V\u2192208V billed **material difference only** (6/3 wire ~$12,800 vs 10/3 ~$2,400; 5\u00d7 60A disc $4,000 vs 30A $2,000; 1\" RMC $5.50/ft vs 3/4\" $2.55/ft) \u2014 no credit breakdown yet, Jason can provide exact material delta; (3) Fanuc work **complete**, only labor on Inv 4706 was 4 hrs load calcs/sequencing; (4) Basaran chilled-water mods scope listed. \u2192 Jeff/Kat to reconcile Indcom quotes 2016/2018 vs DPP actuals before GE approval. **Wed Oct 28 ~9:45am ET Jason Marchbanks (DPP)\u2192Jeff:** re-forwarded his Oct 22 answers to Kat's NFPS.03 clarification Qs (Est 381 breaker relocation was weekend/shutdown estimate \u2014 Invoice 4706 actual ~75% less; Est 372 800A panel excludes LCU work; 480V\u2192208V billed material difference only (6/3 ~$12.8k vs 10/3 ~$2.4k; 60A vs 30A disconnects $4k vs $2k; 1\" vs 3/4\" RMC) + 4 hrs his labor; Fanuc work completed; Basaran chilled-water scope list). **~10:09am ET Kat\u2192Jeff:** *NFPS.03 \u2014 repeated wording to clean up* \u2014 fix duplicate **mist collector stand braces on both 2019 and 2020** (drop one / remove braces from one quote); overlap notes on mist stands (1991 vs 2019/2020), Basaran chilled water (1991 vs 2017 \u2014 keep independent feeds/isolation in 2017), pipe stands (1991 vs 2019), Fanuc power (1991 vs 2018), Basaran valves (2017 permanent vs 2019 temp loop \u2014 different); 2016 breaker no overlap \u2192 Jeff to revise quote wording. **Wed Oct 28 ~10:15am + ~10:18am ET Kat\u2192Jeff (Re: NFPS.03 \u2014 repeated wording to clean up):** simple fix order (braces on 2019 **or** 2020, not both; rewrite 2017 to \u201cindependent feeds only\u201d; add \u201cchange from 1991 / material already purchased\u201d notes) + copy-paste replacement wording for each quote (Option A keep 2020 braces/drop from 2019, or Option B). \u2192 Jeff to revise quote wording before GE approval. **Tue Nov 3 ~10:52\u201310:54am ET:** QuickBooks re-sent **corrected** estimates to Jim Stanley (cc mail@ / jeff@): Est **2003** $131,030.97 (subject \u201c480 to 208 BL4 Change Order\u201d); **2016** Correct BL4 Breaker **$12,732.72**; **2017** Corrected BL4 Basaran **$19,250.00**; **2018** Correct BL4 Electrical **$36,227.92**; **2019** Corrected **$21,467.60**. Amounts match prior T7 batch \u2014 wording cleanup from Kat Oct 28. Est **2020** (mist-collector braces) **not** re-sent in this batch. Still **waiting Jim Stanley approval / GE POs**."
     },
     {
       "id": "T8",
@@ -541,7 +541,7 @@
       "due": "sent \u2014 waiting GE approval",
       "item": "Review/edit Katheryn draft quotations EST-381A/B/C + EST-415 (shared with Jeff)",
       "source": "Email / Google Docs shares 2026-09-30 ~3:29\u20133:34pm ET",
-      "notes": "**Wed ~3:29\u20133:34pm ET** Katheryn shared 4 Google Docs inviting Jeff to **edit**: (1) **EST-381A** NFPS.03 Machine Power Configuration Changes (ties T7/T8) \u2014 https://docs.google.com/document/d/1h9U5CU_uZsb5rFgOiKg2K0rLQram3L8PTuYyxvX5H-k/edit ; (2) **EST-381B** Basaran Chilled Water Modifications (ties T49) \u2014 https://docs.google.com/document/d/1rfD7scfGVwwSkmgLeti-02R2p6NI3W31UoAZJSYetjg/edit ; (3) **EST-381C** Relocate Spare Breaker 800A Panel Feed \u2014 https://docs.google.com/document/d/1AF7hh3wSyMN__045__cOTeMGvVYG2MQ7J17Q4gLSVOM/edit ; (4) **EST-415** BL4 Basaran Loop, Bracing & Supports (ties T67/T57) \u2014 https://docs.google.com/document/d/1LG0L9DTbiZYFzRmUN5hZL8Ae7xymazXwf7lm62A9DQA/edit . Jeff review/edit/approve path before customer send. **Also see NEW T79 EST-382 KGA Exomist.** **Mon ~10:29\u201310:31am ET:** finalized + sent to Jim Stanley as QuickBooks Est **2018** (381A, $36,227.92), **2017** (381B, $19,250.00), **2016** (381C-related breaker swap, $12,732.72), **2019** (415, $21,467.60). Waiting approval/PO (T7)."
+      "notes": "**Wed ~3:29\u20133:34pm ET** Katheryn shared 4 Google Docs inviting Jeff to **edit**: (1) **EST-381A** NFPS.03 Machine Power Configuration Changes (ties T7/T8) \u2014 https://docs.google.com/document/d/1h9U5CU_uZsb5rFgOiKg2K0rLQram3L8PTuYyxvX5H-k/edit ; (2) **EST-381B** Basaran Chilled Water Modifications (ties T49) \u2014 https://docs.google.com/document/d/1rfD7scfGVwwSkmgLeti-02R2p6NI3W31UoAZJSYetjg/edit ; (3) **EST-381C** Relocate Spare Breaker 800A Panel Feed \u2014 https://docs.google.com/document/d/1AF7hh3wSyMN__045__cOTeMGvVYG2MQ7J17Q4gLSVOM/edit ; (4) **EST-415** BL4 Basaran Loop, Bracing & Supports (ties T67/T57) \u2014 https://docs.google.com/document/d/1LG0L9DTbiZYFzRmUN5hZL8Ae7xymazXwf7lm62A9DQA/edit . Jeff review/edit/approve path before customer send. **Also see NEW T79 EST-382 KGA Exomist.** **Mon ~10:29\u201310:31am ET:** finalized + sent to Jim Stanley as QuickBooks Est **2018** (381A, $36,227.92), **2017** (381B, $19,250.00), **2016** (381C-related breaker swap, $12,732.72), **2019** (415, $21,467.60). Waiting approval/PO (T7). **Tue Nov 3 ~10:52\u201310:54am ET:** matching corrected QB Est **2016/2017/2018/2019** (+ **2003**) re-sent to Jim Stanley \u2014 see T7."
     },
     {
       "id": "T79",
@@ -673,10 +673,10 @@
       "id": "T93",
       "status": "open",
       "priority": "high",
-      "due": "ASAP (estimate/quote; await GE PO)",
+      "due": "**Phase 1 up by 3rd week of Nov** (flush crew next week; walkthrough TBD)",
       "item": "Quote / plan AM King Oil Bay piping scaffolding (M-Bay; Russ Zubkov)",
-      "source": "Email / Russ Zubkov (AM King) 2026-10-02 ~2:25pm ET",
-      "notes": "**Fri ~2:25pm ET Russ\u2192Jeff** (cc Adam Watkins): follow-up on walkthrough weeks ago; still waiting **GE approval/PO**; will give **few weeks' notice** once PO in. Attached *M-bay Oil Piping Scaffolding- Current 9-25-26.pdf*. **Phase 1:** scaffold erected during **flushing**. **Phase 2:** after flush/clean \u2014 demo ~**100 LF pipe/day**; daily scaffold sections (yellow blocks) move each day. Start estimate/quote; optional another walkthrough (+ mechanical). Keep Russ looped on GE; ME **Jim Stanley**. Distinct from T22 (M-Bay stormwater drains) / T39 (LPA K-bay)."
+      "source": "Email / Russ Zubkov (AM King) 2026-10-02 ~2:25pm + 2026-11-03 ~9:30am ET",
+      "notes": "**Fri ~2:25pm ET Russ\u2192Jeff** (cc Adam Watkins): follow-up on walkthrough; waiting **GE approval/PO**; Phase 1 scaffold during **flushing**; Phase 2 daily ~100 LF pipe demo sections. ME **Jim Stanley**. **Tue Nov 3 ~9:30am ET Russ\u2192Jeff (cc Adam):** job has **movement** \u2014 needs **first phase of scaffolding up by the third week of November**; flushing crew on-site **next week** + will schedule another walkthrough; attached *M-bay Oil Piping Scaffolding- Current 10-26-26.pdf* + *26.0803 (24.050901) 10-26-26 Schedule.pdf*. \u2192 Jeff: confirm estimate/crew plan for Phase 1 window + accept walkthrough. Distinct from T22 / T39."
     },
     {
       "id": "T94",
@@ -856,7 +856,7 @@
       "due": "Need-by Tue Nov 3 (ack now; invoice per rental cycle)",
       "item": "Process/ack GE PO 4900662406 ($46,278.34) \u2014 Material rental Oct 2\u2013Oct 29 (28-day min cycle) (Joey Lum)",
       "source": "Email / Ariba GE Vernova 2026-10-06 ~3:39pm ET",
-      "notes": "**Tue ~3:39pm ET** Ariba new PO **4900662406** to Indcom (ariba.mail@); requester **Lum, Lamont Joey**; **PR840787**; NET 150 (150 DD NET); FCA; line 1 Material 1 EA **$46,278.34**, need-by **3 Nov 2026**; description **Rental Period October 2 \u2013 October 29 2026, Domestic Material Allocation, 28-Day Minimum Rental Cycle Cost $46,278.34**. Ship-to 300 Garlington Rd (5250). Likely the GE side of the Layher rental (T4 R-000159) \u2014 confirm which rental it covers; ack/confirm in Ariba."
+      "notes": "**Tue ~3:39pm ET** Ariba new PO **4900662406** to Indcom (ariba.mail@); requester **Lum, Lamont Joey**; **PR840787**; NET 150 (150 DD NET); FCA; line 1 Material 1 EA **$46,278.34**, need-by **3 Nov 2026**; description **Rental Period October 2 \u2013 October 29 2026, Domestic Material Allocation, 28-Day Minimum Rental Cycle Cost $46,278.34**. Ship-to 300 Garlington Rd (5250). Likely the GE side of the Layher rental (T4 R-000159) \u2014 confirm which rental it covers; ack/confirm in Ariba. **Tue Nov 3 ~5:00am ET Ariba confirm-orders digest:** 4900662406 **not** on unconfirmed list (may already be acked) \u2014 still confirm invoice path; digest still lists T279/T280/T281 (4900673803/06/04) as New."
     },
     {
       "id": "T120",
@@ -883,7 +883,7 @@
       "due": "ASAP \u2014 quote with best-possible dates (Jeff sending RFQs to subs)",
       "item": "Review + quote GE Nozzle Fab Relocation Project RFQ REV_0 (Jim Stanley)",
       "source": "Email / James Stanley (GE Vernova) 2026-10-06 ~4:44pm ET",
-      "notes": "**Tue ~4:44pm ET Jim Stanley\u2192Jeff:** \"Please review and quote at your earliest convenience.\" Attachment *Nozzle Fab Relocation Project RFQ REV_0.docx* (~52 KB; not downloaded \u2014 Gmail attachment download not available here). Scope not in body \u2014 open the RFQ, then price (likely Jason/DPP electrical + Indcom scaffold/support, same pattern as T7/T8 NFPS.03). New project; no due date stated. **Tue ~5:24pm ET Jeff\u2192Jim:** will review the area and **send out RFQs**; **Indcom will not be able to meet the concrete and epoxy start dates**. **Tue ~9:09pm ET Jim:** \u201cUnderstood, put your best dates that are possible.\u201d Next: sub RFQs out \u2192 price + proposed schedule dates back to Jim. **Wed Oct 28 ~10:03am ET Jeff** started RFQ *RFQ \u2013 Nozzle Fab Relocation \u2013 Concrete & Epoxy \u2013 GE Vernova* to **Corey @ H&H Concrete** (hhconcretefloors@gmail.com) \u2014 still a **DRAFT** in Jeff's mailbox with blank body (not sent yet). **Wed Oct 28 ~11:29\u201311:30am ET:** Jeff drafting sub RFQs (cc Kat): **H&H Concrete (Corey)** concrete trench + floor-hole fill (body now written) and **Golden Brush (Tommy Trickett)** paint, striping & epoxy floors \u2014 target quote within 5 business days, best start/finish incl. epoxy cure; both still DRAFTS (not sent). **~11:47am Jeff\u2192Kat:** forwarded Jim Stanley RFQ REV_0 (.docx) to Kat. **Wed Oct 28 ~3:56\u20133:58pm ET:** Jeff now has **5 sub RFQ drafts** with bodies + RFQ attached (target: time-constrained): **H&H Concrete (Corey)** concrete trench/floor-hole fill; **Mike Mullaney (SCI Electronics)** network/data/AV; **Evan Groce (SPC)** weld booth construction & demo; **Jason Marchbanks (Pipe & Power)** electrical & mech/plumbing; **Tommy Trickett (Golden Brush)** paint, striping & epoxy floors. All still **DRAFTS** (not sent) as of ~4:11pm. **Thu Oct 29 ~8:10am ET:** none of the 5 Nozzle Fab sub RFQs appear in Sent yet \u2014 still drafts. **Thu Oct 29 ~4:45pm ET:** Jeff finalized **6** Nozzle Fab sub RFQ emails with RFQ PDFs + *M_Bay_Released_Layout.pdf* / *M_Bay_Line_Layout.pdf* attached (cc Kat): H&H Concrete (Corey) trench/floor fill; Golden Brush (Tommy Trickett) paint/striping/epoxy; SCI (Mike Mullaney) network/data/AV; SPC (Evan Groce) T-Posts only; **NEW Advanced Rigging (Matt Hinty)** demo/equipment relocation/weld booth; Pipe & Power (Jason Marchbanks) electrical + mech/plumbing. Each asks for quote ASAP with best start/finish dates. **Still labeled DRAFT \u2014 not in Sent yet** (Jeff may need to hit send). **Thu Oct 29 ~5:49pm ET Jeff SENT** all 6 sub RFQ emails (Pipe & Power/Jason Marchbanks elec+mech/plumbing; H&H Concrete/Corey trench+floor fill; SCI/Mike Mullaney network/data/AV; SPC/Evan Groce T-posts; Advanced Rigging/Matt Hinty demo/relocation/weld booth; Golden Brush/Tommy Trickett paint/striping/epoxy) \u2192 waiting sub quotes. **Mon Nov 2 ~4:23/4:30pm ET** H&H Concrete (Buddy) replied with scope questions before pricing \u2014 see T290."
+      "notes": "**Tue ~4:44pm ET Jim Stanley\u2192Jeff:** \"Please review and quote at your earliest convenience.\" Attachment *Nozzle Fab Relocation Project RFQ REV_0.docx* (~52 KB; not downloaded \u2014 Gmail attachment download not available here). Scope not in body \u2014 open the RFQ, then price (likely Jason/DPP electrical + Indcom scaffold/support, same pattern as T7/T8 NFPS.03). New project; no due date stated. **Tue ~5:24pm ET Jeff\u2192Jim:** will review the area and **send out RFQs**; **Indcom will not be able to meet the concrete and epoxy start dates**. **Tue ~9:09pm ET Jim:** \u201cUnderstood, put your best dates that are possible.\u201d Next: sub RFQs out \u2192 price + proposed schedule dates back to Jim. **Wed Oct 28 ~10:03am ET Jeff** started RFQ *RFQ \u2013 Nozzle Fab Relocation \u2013 Concrete & Epoxy \u2013 GE Vernova* to **Corey @ H&H Concrete** (hhconcretefloors@gmail.com) \u2014 still a **DRAFT** in Jeff's mailbox with blank body (not sent yet). **Wed Oct 28 ~11:29\u201311:30am ET:** Jeff drafting sub RFQs (cc Kat): **H&H Concrete (Corey)** concrete trench + floor-hole fill (body now written) and **Golden Brush (Tommy Trickett)** paint, striping & epoxy floors \u2014 target quote within 5 business days, best start/finish incl. epoxy cure; both still DRAFTS (not sent). **~11:47am Jeff\u2192Kat:** forwarded Jim Stanley RFQ REV_0 (.docx) to Kat. **Wed Oct 28 ~3:56\u20133:58pm ET:** Jeff now has **5 sub RFQ drafts** with bodies + RFQ attached (target: time-constrained): **H&H Concrete (Corey)** concrete trench/floor-hole fill; **Mike Mullaney (SCI Electronics)** network/data/AV; **Evan Groce (SPC)** weld booth construction & demo; **Jason Marchbanks (Pipe & Power)** electrical & mech/plumbing; **Tommy Trickett (Golden Brush)** paint, striping & epoxy floors. All still **DRAFTS** (not sent) as of ~4:11pm. **Thu Oct 29 ~8:10am ET:** none of the 5 Nozzle Fab sub RFQs appear in Sent yet \u2014 still drafts. **Thu Oct 29 ~4:45pm ET:** Jeff finalized **6** Nozzle Fab sub RFQ emails with RFQ PDFs + *M_Bay_Released_Layout.pdf* / *M_Bay_Line_Layout.pdf* attached (cc Kat): H&H Concrete (Corey) trench/floor fill; Golden Brush (Tommy Trickett) paint/striping/epoxy; SCI (Mike Mullaney) network/data/AV; SPC (Evan Groce) T-Posts only; **NEW Advanced Rigging (Matt Hinty)** demo/equipment relocation/weld booth; Pipe & Power (Jason Marchbanks) electrical + mech/plumbing. Each asks for quote ASAP with best start/finish dates. **Still labeled DRAFT \u2014 not in Sent yet** (Jeff may need to hit send). **Thu Oct 29 ~5:49pm ET Jeff SENT** all 6 sub RFQ emails (Pipe & Power/Jason Marchbanks elec+mech/plumbing; H&H Concrete/Corey trench+floor fill; SCI/Mike Mullaney network/data/AV; SPC/Evan Groce T-posts; Advanced Rigging/Matt Hinty demo/relocation/weld booth; Golden Brush/Tommy Trickett paint/striping/epoxy) \u2192 waiting sub quotes. **Mon Nov 2 ~4:23/4:30pm ET** H&H Concrete (Buddy) replied with scope questions before pricing \u2014 see T290. **Mon Nov 2 ~6:52pm ET Jason Marchbanks (DPP)\u2192Jeff (cc Kat/Bill/Amie/Steven):** *Re: RFQ \u2013 Nozzle Fab Relocation \u2013 Electrical & Mechanical/Plumbing* \u2014 proposal attached (*Nozzle Fab Relocation.pdf*); **no major material lead times**; all items **onsite/available upon commencement**. Fold into customer quote w/ SCI (T284) + H&H (T290)."
     },
     {
       "id": "T126",
@@ -1333,7 +1333,7 @@
       "due": "**Before Sat Nov 14** \u2014 review valve plan + reply Bob Smith w/ questions/concerns/conflicts; outage **Sat Nov 14 \u2192 Tue Nov 24**",
       "item": "Review GE **GTTL HVAC chilled-water outage / valve replacement** plan (NO HVAC cooling building-wide) \u2014 flag Indcom conflicts/needs to Bob Smith",
       "source": "Email / Robert (Bob) Smith (GE Vernova Facilities Engineer) 2026-10-16 ~9:46am ET",
-      "notes": "**Fri ~9:46am ET Bob Smith (Robert1.Smith@gevernova.com; M 864-237-5847)\u2192Jeff + MSS (Tim McGill, Chris Shope) + GE (Mark Monroe, Julia Harbin, Bill Byrne, Leslie Miller, Diana Setzer, Eddie Nelms) + Randy Moore (Rescom Construction); cc Chris Sutton, Scott Compton + Clifford Seltrecht (Amentum), Dominic Maxwell, Trevor Honosky, Joseph Betten \u2014 *GTTL Chilled Water Outage \u2013 Valve Replacement Plan and Schedule*:** planned HVAC chilled water outage **beginning Sat Nov 14**; system shut down + drained for valve replacement; ~**10 days**, \u201c**NO WEEKENDS**\u201d; **NO HVAC COOLING building wide** (incl. portions of test areas). Start south end **Valve #18**. Schedule: **Sat 11/14\u2013Sun 11/15** shut down + drain; **Mon 11/16, Tue 11/17, Wed 11/18, Thu 11/19, Mon 11/23** replace 3 valves/day; **Tue 11/24** final valve + refill, plant start-up. Attached *GTTL Chill Water Replacment Plan.pptx* (valve layout/locations; not opened). Asks recipients for **questions, concerns, conflicts, recommendations** before the outage. Indcom action: open deck, check whether valve locations need scaffold/access support and any Indcom work in that window affected by no cooling; reply Bob. Kat cal has 2 Jeff holds (all-day Nov 14\u201324) deduped = **e82**. No scaffold mentioned in email. **Mon Oct 26 ~9:49am ET Bob Smith update:** **no change** to the outage schedule (Sat 11/14\u2013Tue 11/24); clarified chilled water drained for full duration \u2192 no building-wide HVAC cooling incl. test areas, but heating/ventilation/exhaust not on chilled water stays up (AHU blower motors run; air mostly circulating). Still send any Indcom concerns."
+      "notes": "**Fri ~9:46am ET Bob Smith (Robert1.Smith@gevernova.com; M 864-237-5847)\u2192Jeff + MSS (Tim McGill, Chris Shope) + GE (Mark Monroe, Julia Harbin, Bill Byrne, Leslie Miller, Diana Setzer, Eddie Nelms) + Randy Moore (Rescom Construction); cc Chris Sutton, Scott Compton + Clifford Seltrecht (Amentum), Dominic Maxwell, Trevor Honosky, Joseph Betten \u2014 *GTTL Chilled Water Outage \u2013 Valve Replacement Plan and Schedule*:** planned HVAC chilled water outage **beginning Sat Nov 14**; system shut down + drained for valve replacement; ~**10 days**, \u201c**NO WEEKENDS**\u201d; **NO HVAC COOLING building wide** (incl. portions of test areas). Start south end **Valve #18**. Schedule: **Sat 11/14\u2013Sun 11/15** shut down + drain; **Mon 11/16, Tue 11/17, Wed 11/18, Thu 11/19, Mon 11/23** replace 3 valves/day; **Tue 11/24** final valve + refill, plant start-up. Attached *GTTL Chill Water Replacment Plan.pptx* (valve layout/locations; not opened). Asks recipients for **questions, concerns, conflicts, recommendations** before the outage. Indcom action: open deck, check whether valve locations need scaffold/access support and any Indcom work in that window affected by no cooling; reply Bob. Kat cal has 2 Jeff holds (all-day Nov 14\u201324) deduped = **e82**. No scaffold mentioned in email. **Mon Oct 26 ~9:49am ET Bob Smith update:** **no change** to the outage schedule (Sat 11/14\u2013Tue 11/24); clarified chilled water drained for full duration \u2192 no building-wide HVAC cooling incl. test areas, but heating/ventilation/exhaust not on chilled water stays up (AHU blower motors run; air mostly circulating). Still send any Indcom concerns. **Tue Nov 3 ~7:42am ET Bob Smith\u2192Jeff + Randy Moore (Rescom) + MSS (Tim McGill/Chris Shope) + Julia Harbin (cc Mark Monroe, Chris Sutton):** *GTTL Chill Water Valve Replacement Project* \u2014 \u201cFinalize chill water valve replacement sequencing. Please meet at GTTL 3rd Floor.\u201d Attached *GTTL Chill Water Replacment Plan.pptx* + invite.ics. Kat **not** on To/Cc (invite not on her primary cal as of ~8:10am)."
     },
     {
       "id": "T188",
@@ -1891,7 +1891,7 @@
       "due": "soon \u2014 scope/quote",
       "item": "Scaffold support for DPP **Argon Gas Line Extension \u2013 MFA** (Jim Stanley) \u2014 on top of existing scaffold at **MDA/MEA column**",
       "source": "Email / Jason Marchbanks (DPP) 2026-10-26 ~1:45pm ET",
-      "notes": "Jason\u2192Jeff: 'This will need scaffold support on top of the existing scaffold at MDA/MEA Column'; DPP Joist estimate linked (client.joistapp.com/estimates/dd1ff7373b386a842bf1e5ae). \u2192 Jeff to scope/price add-on scaffold for Jim Stanley's argon line job; coordinate with DPP timing."
+      "notes": "Jason\u2192Jeff: 'This will need scaffold support on top of the existing scaffold at MDA/MEA Column'; DPP Joist estimate linked (client.joistapp.com/estimates/dd1ff7373b386a842bf1e5ae). \u2192 Jeff to scope/price add-on scaffold for Jim Stanley's argon line job; coordinate with DPP timing. **Tue Nov 3 ~10:29am ET:** Indcom QuickBooks **Estimate 2041** *M Bay argon tie in* **$29,512.41** sent to Jim Stanley (cc Kat/Jeff/mail@) \u2014 customer quote path (see **T295**). Scaffold add-on scope for DPP argon extension still open."
     },
     {
       "id": "T256",
@@ -2080,7 +2080,7 @@
       "due": "Need-by 27 Oct PASSED \u2014 ack + service sheet + invoice",
       "item": "Process/ack GE PO **4900673803** (**$41,962.48**) \u2014 **FW39 UA Scaffold Support** (Andrew Heatherly; service Sep 21\u201327)",
       "source": "Email / Ariba GE Vernova 2026-10-30 ~7:04am ET",
-      "notes": "Ariba new PO to ariba.mail@; requester William Andrew Heatherly; **PR854674**; NET 150; line 1 Service 1 LE $41,962.48 *FW 39 UA Scaffold Support*; service Mon Sep 21 \u2192 Sun Sep 27; need-by 27 Oct 2026 (backdated). Confirm in Ariba, service sheet, invoice. Same pattern as T199 (FW36)."
+      "notes": "Ariba new PO to ariba.mail@; requester William Andrew Heatherly; **PR854674**; NET 150; line 1 Service 1 LE $41,962.48 *FW 39 UA Scaffold Support*; service Mon Sep 21 \u2192 Sun Sep 27; need-by 27 Oct 2026 (backdated). Confirm in Ariba, service sheet, invoice. Same pattern as T199 (FW36). **Tue Nov 3 ~5:00am ET** still listed **New/unconfirmed** on Ariba confirm-orders digest."
     },
     {
       "id": "T280",
@@ -2089,7 +2089,7 @@
       "due": "Need-by 27 Oct PASSED \u2014 ack + service sheet + invoice",
       "item": "Process/ack GE PO **4900673806** (**$41,962.48**) \u2014 **FW40 UA Scaffold Support** (Andrew Heatherly; service Sep 28\u2013Oct 4)",
       "source": "Email / Ariba GE Vernova 2026-10-30 ~7:04am ET",
-      "notes": "**PR854684**; NET 150; *FW 40 UA Scaffold Support*; service Mon Sep 28 \u2192 Sun Oct 4; need-by 27 Oct 2026. Confirm in Ariba, service sheet, invoice."
+      "notes": "**PR854684**; NET 150; *FW 40 UA Scaffold Support*; service Mon Sep 28 \u2192 Sun Oct 4; need-by 27 Oct 2026. Confirm in Ariba, service sheet, invoice. **Tue Nov 3 ~5:00am ET** still listed **New/unconfirmed** on Ariba confirm-orders digest."
     },
     {
       "id": "T281",
@@ -2098,7 +2098,7 @@
       "due": "Need-by 27 Oct PASSED \u2014 ack + service sheet + invoice",
       "item": "Process/ack GE PO **4900673804** (**$41,962.48**) \u2014 **FW41 UA Scaffold Support** (Andrew Heatherly; service Oct 5\u201311)",
       "source": "Email / Ariba GE Vernova 2026-10-30 ~7:04am ET",
-      "notes": "**PR854686**; NET 150; *FW 41 UA Scaffold Support*; service Mon Oct 5 \u2192 Sun Oct 11; need-by 27 Oct 2026. Confirm in Ariba, service sheet, invoice."
+      "notes": "**PR854686**; NET 150; *FW 41 UA Scaffold Support*; service Mon Oct 5 \u2192 Sun Oct 11; need-by 27 Oct 2026. Confirm in Ariba, service sheet, invoice. **Tue Nov 3 ~5:00am ET** still listed **New/unconfirmed** on Ariba confirm-orders digest."
     },
     {
       "id": "T282",
@@ -2167,10 +2167,10 @@
       "id": "T289",
       "status": "open",
       "priority": "med",
-      "due": "Wed Nov 4 **7:30\u20138:00am ET** (revised; GE confirm pending)",
+      "due": "Wed Nov 4 **9:00\u20139:30am ET** (formal GVL Outage notice)",
       "item": "Track outage request **RP-7B-4.8 @ DZB** \u2014 DPP final connections for new **120V receptacles in EZA Ops Tower**",
       "source": "Email / Jason Marchbanks (DPP)\u2192GE GVL Outage (cc Jeff, Katheryn, Adam McClure, Colby Murphy) 2026-11-02 ~1:00pm ET",
-      "notes": "Panel has **no panel schedule or circuit labels**. GE lead **Colby Murphy**; sub Dynamic Pipe & Power. Email says \u201cNov 4th, 2027\u201d \u2014 Wednesday Nov 4 is 2026, treated as typo. Same EZA Ops Tower job as T288/T23/T169. Watch for GE outage confirmation/time change. **Mon Nov 2 ~4:00pm ET Jason\u2192GE GVL Outage: revise request time to 7:30am\u20138:00am** (was 6:30\u20137:00am). Calendar e121."
+      "notes": "Panel has **no panel schedule or circuit labels**. GE lead **Colby Murphy**; sub Dynamic Pipe & Power. Email says \u201cNov 4th, 2027\u201d \u2014 Wednesday Nov 4 is 2026, treated as typo. Same EZA Ops Tower job as T288/T23/T169. Watch for GE outage confirmation/time change. **Mon Nov 2 ~4:00pm ET Jason\u2192GE GVL Outage: revise request time to 7:30am\u20138:00am** (was 6:30\u20137:00am). Calendar e121. **Tue Nov 3 ~7:01am ET GVL Outage formal OUTAGE NOTIFICATION:** Wed Nov 4 **9:00AM\u20139:30AM** @ DZB (still says 2027 \u2014 typo); DPP; GE Lead Colby Murphy; EZA Ops Tower 120V receptacles. Kat cal invite landed **9:00\u20139:30am ET** (created ~7:01am). **Supersedes** Jason\u2019s Mon 7:30\u20138:00am revision \u2014 treat **9:00\u20139:30am** as current formal window unless further revised. e121 updated."
     },
     {
       "id": "T290",
@@ -2180,10 +2180,49 @@
       "item": "Answer **H&H Concrete** scope questions so they can price the Nozzle Fab Relocation trench / floor-hole fill",
       "source": "Email / Buddy Holombo (H&H)\u2192Jeff (cc Katheryn) 2026-11-02 ~4:23pm + ~4:30pm ET",
       "notes": "Reply to Jeff's Oct 29 RFQ. Buddy asks: total **sq ft of infill**; (1) trench locations w/ lengths, widths, depths; (2) number of floor holes w/ sizes + depths; (3) anything left in pits to remove (grating, steel, piping); (4) fill spec (mix, dowels/rebar, finish) + cure time before epoxy; (5) truck/pump access + work hours. Then they'll price with start/finish dates quickly."
+    },
+    {
+      "id": "T291",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP \u2014 route/confirm payment (AP)",
+      "item": "Process DPP **Invoice 4731 \u2014 H-Bay Tool Crib Fence** (Jim Stanley Request)",
+      "source": "Email / Jason Marchbanks (DPP)\u2192Jeff (cc Bill, accounting, Katheryn) 2026-11-03 ~6:12am ET",
+      "notes": "Joist https://client.joistapp.com/invoices/b0e8826ffd91a41bafe55f76 + PDF *Invoice_4731.pdf.pdf*. Amount in PDF. Route/confirm payment; bill GE as applicable (Jim Stanley)."
+    },
+    {
+      "id": "T292",
+      "status": "waiting",
+      "priority": "high",
+      "due": "waiting GE approval/PO",
+      "item": "Track Indcom **Estimate 2044 \u2014 Salem Tool Crib** ($20,950.77) to Jim Stanley (from DPP H-Bay Salem Tools est)",
+      "source": "Email / Jason Marchbanks (DPP)\u2192Jeff (cc Katheryn, Bill) 2026-11-02 ~5:36pm ET",
+      "notes": "Joist estimate https://client.joistapp.com/estimates/bca78908962e243f6394e41e. Open Joist, confirm scope/amount, fold into customer proposal / next step with Jim Stanley. **Tue Nov 3 ~12:23pm ET:** QuickBooks **Estimate 2044** *Salem Tool Crib* **$20,950.77** sent to **James Stanley** (cc mail@ / kat@ / jeff@). DPP H-Bay Salem Tools estimate folded into customer quote. Now **waiting Jim Stanley approval / GE PO**."
+    },
+    {
+      "id": "T293",
+      "status": "waiting",
+      "priority": "high",
+      "due": "waiting GE approval/PO",
+      "item": "Track Indcom **Estimate 2043 \u2014 KIB Office Upgrades** ($13,192.15) to Alex Acosta (from DPP KIB elec est)",
+      "source": "Email / Jason Marchbanks (DPP)\u2192Jeff (cc Katheryn, Bill) 2026-11-02 ~5:49pm ET",
+      "notes": "Joist estimate https://client.joistapp.com/estimates/e677b9143d5131adb6f351b4. Open Joist, confirm scope/amount, fold into customer proposal with Alex Acosta (ties KIB/BSA electrical path T178/T219). **Tue Nov 3 ~12:16pm ET:** QuickBooks **Estimate 2043** *KIB Office Upgrades* **$13,192.15** sent to **Alex Acosta** (cc mail@ / kat@ / jeff@). DPP KIB Office Interior/Exterior Electrical estimate folded into customer quote. Now **waiting Alex Acosta / GE PO**."
+    },
+    {
+      "id": "T295",
+      "status": "waiting",
+      "priority": "high",
+      "due": "waiting GE approval/PO",
+      "item": "Track Indcom **Estimate 2041 \u2014 M Bay argon tie in** ($29,512.41) to Jim Stanley",
+      "source": "Email / QuickBooks \u2192 James Stanley (cc Kat/Jeff) 2026-11-03 ~10:29am ET",
+      "notes": "QB Quotation **2041** *M Bay argon tie in* **$29,512.41** sent for review/approve. Relates **T255** (DPP Argon Gas Line Extension \u2013 MFA scaffold support @ MDA/MEA). Waiting Jim Stanley / GE PO."
     }
   ],
   "calendar": [
-    "**Wed Nov 4 7:30\u20138:00am ET (REVISED from 6:30\u20137:00am by Jason Marchbanks DPP ~4:00pm Mon; GE confirm pending)** \u2014 Outage RP-7B-4.8 @ DZB (no panel schedule/labels) for EZA Ops Tower 120V receptacle final connections; GE lead Colby Murphy (T289) \u2014 e121",
+    "**DUE TODAY Tue Nov 3** \u2014 T282 D6A rack repair EOD; T119 PO 4900662406 need-by (ack/invoice); Wed Nov 4 RP-7B-4.8 **9:00\u20139:30am** (T289/e121)",
+    "\u2705 DONE Tue Nov 3 ~9:19am \u2014 OpSource TIME/per diems week 10/26\u201311/1 submitted to Payroll OpSource (Coddy $23 TRAVEL 8h) (T294)",
+    "**By 3rd week of Nov (NEW \u2014 Russ Zubkov AMK ~9:30am Tue)** \u2014 Oil Bay piping Phase 1 scaffolding up; flush crew next week + walkthrough TBD (T93)",
+    "**Wed Nov 4 9:00\u20139:30am ET (FORMAL GVL Outage notice Tue ~7:01am; supersedes Jason 7:30\u20138:00am revision)** \u2014 Outage RP-7B-4.8 @ DZB (no panel schedule/labels) for EZA Ops Tower 120V receptacle final connections; GE lead Colby Murphy; DPP (T289) \u2014 e121",
     "**Tentative weekends 11/21\u201322, 12/5\u20136, 12/12\u201313 (NEW \u2014 Matt Fitts GE ~1:55pm Fri)** \u2014 Furnace 4 monorail crane demo with Indcom scaffold support; dates TBD by Tres Orr/Kevin Lauriault (T286) \u2014 e120",
     "**Fri Oct 30 \u2192 EOD Tue Nov 3 (Kat ~12:31pm/~4:08pm Fri; GE VIP tour TODAY Mon Nov 2)** \u2014 D6A rack removed Fri for VIP tour; full repair by EOD Tue 11/3 (T282) \u2014 e118",
     "**Mon Nov 16 \u2013 Mon Jan 4 (NEW \u2014 Bob Smith GE ~12:04pm Fri)** \u2014 JLTC Fitness Center closed for drywall/louver/skylight repair; **Indcom scaffolding** in place for AM King (T283) \u2014 e119",
@@ -2290,7 +2329,7 @@
     "**THIS WEEKEND** \u2014 M-Bay aisle concrete cutting MFA\u2013~MCA (Buellesbach ~10:01am Fri; road plates for A-side; review w/ affected; invite.ics not on Kat cal yet) (T91) \u2014 distinct from T22 stormwater Oct 5",
     "**Mon Oct 5 morning** \u2014 Confirm GE badge for **Artem Prokopchuk (CP-1805)** ready (Jeff\u2192Colby ~11:46am Fri; Colby OOO 10/2 auto-reply \u2014 chase/alternate) (T92)",
     "**WAITING truck arrival to load (Layher brokers found truck Mon ~11:44am ET); still need ETA + PO** \u2014 Layher R-000159: Prosponsive load cancelled Sat; Jeff ~11:36am asked status; Jeremy ~11:44am truck found, waiting for it to arrive to load; 1' ledgers/11\u00d728' girders not on first truck; still issue PO **GE-JF260930** (T4)",
-    "**ASAP (estimate; await GE PO)** \u2014 AM King **Oil Bay piping** scaffold quote/plan (Russ Zubkov ~2:25pm Fri; Phase 1 flush + Phase 2 daily sections; PDF attached; ME Jim Stanley) (T93)",
+    "**Phase 1 by 3rd week of Nov (UPDATED Tue ~9:30am)** \u2014 AM King **Oil Bay piping** scaffold; flush crew next week + walkthrough; schedule PDF attached; ME Jim Stanley (T93)",
     "**ASAP (Kat looped ~4:46pm)** \u2014 Confirm GE invoices **3780 / 3883 / 3884 / 3886** have POs + receive status (Fitts\u2192Bill+Jeff ~2:50pm; Jeff fwd\u2192Kat ~4:46pm) (T94)",
     "**ASAP (blocks T67 Mon; Frank acked ~4:31pm)** \u2014 Bill complete MSS **New Customer Application v9_3.12.26.pdf** + return to Frank (Kat\u2192Bill ~3:10pm; Kat\u2192Frank ack ~4:31pm) (T95)",
     "**ASAP (ack; need-by Mon Oct 6)** \u2014 Process/ack GE Ariba PO **4900661220** (~$48,878.16; Joey Lum; FW40\u201343 C-Bay scaffolding support / machine installs & demo) (T96)",
@@ -3700,17 +3739,18 @@
     {
       "id": "e121",
       "type": "outage",
-      "title": "Outage RP-7B-4.8 @ DZB \u2014 EZA Ops Tower 120V receptacles (DPP)",
-      "summary": "Wed Nov 4 7:30\u20138:00am ET (revised from 6:30\u20137:00am) requested by Jason Marchbanks (DPP); GE lead Colby Murphy; panel has no schedule/labels",
-      "location": "GE Vernova Greenville \u2014 DZB (panel RP-7B-4.8)",
-      "description": "Jason Marchbanks (Dynamic Pipe & Power) Mon Nov 2 ~1:00pm ET requested an outage on RP-7B-4.8 to make final connections for the new 120V receptacles added in the EZA Ops Tower. Panel has no panel schedule or circuit labels. Email says 2027 but Wednesday Nov 4 is 2026. (T289) Mon Nov 2 ~4:00pm ET Jason revised the request time to 7:30\u20138:00am.",
-      "start": "2026-11-04T07:30:00-05:00",
-      "end": "2026-11-04T08:00:00-05:00",
+      "title": "Outage RP-7B-4.8 @ DZB \u2014 EZA Ops Tower 120V receptacles (DPP) \u2014 FORMAL 9:00\u20139:30am",
+      "summary": "Wed Nov 4 9:00\u20139:30am ET (formal GVL Outage notice; superseded Jason 7:30\u20138:00am revision); GE lead Colby Murphy; DPP; panel has no schedule/labels",
+      "location": "GE Vernova Greenville \u2014 DZB / EZA (panel RP-7B-4.8)",
+      "description": "Jason Marchbanks (DPP) Mon Nov 2 requested RP-7B-4.8 outage for EZA Ops Tower 120V receptacle final connections (initially 6:30\u20137:00am, revised 7:30\u20138:00am). Tue Nov 3 ~7:01am ET GVL Outage formal OUTAGE NOTIFICATION set window to Wed Nov 4 9:00AM\u20139:30AM @ DZB (email still says 2027 \u2014 typo). Kat calendar invite created ~7:01am at 9:00\u20139:30am ET. Treat 9:00\u20139:30am as current formal window. (T289)",
+      "start": "2026-11-04T09:00:00-05:00",
+      "end": "2026-11-04T09:30:00-05:00",
       "allDay": false,
       "todoId": "T289",
       "relatedTodos": [
         "T289",
-        "T288"
+        "T288",
+        "T23"
       ]
     }
   ]
