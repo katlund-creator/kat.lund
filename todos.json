@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T11:16:37-05:00",
+  "updated": "2026-11-03T14:08:46-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -2192,21 +2192,21 @@
     },
     {
       "id": "T292",
-      "status": "open",
+      "status": "waiting",
       "priority": "high",
-      "due": "ASAP \u2014 review/route into GE quote",
-      "item": "Review **DPP Salem Tools \u2014 H-Bay Estimate** (Jim Stanley Request)",
+      "due": "waiting GE approval/PO",
+      "item": "Track Indcom **Estimate 2044 \u2014 Salem Tool Crib** ($20,950.77) to Jim Stanley (from DPP H-Bay Salem Tools est)",
       "source": "Email / Jason Marchbanks (DPP)\u2192Jeff (cc Katheryn, Bill) 2026-11-02 ~5:36pm ET",
-      "notes": "Joist estimate https://client.joistapp.com/estimates/bca78908962e243f6394e41e. Open Joist, confirm scope/amount, fold into customer proposal / next step with Jim Stanley."
+      "notes": "Joist estimate https://client.joistapp.com/estimates/bca78908962e243f6394e41e. Open Joist, confirm scope/amount, fold into customer proposal / next step with Jim Stanley. **Tue Nov 3 ~12:23pm ET:** QuickBooks **Estimate 2044** *Salem Tool Crib* **$20,950.77** sent to **James Stanley** (cc mail@ / kat@ / jeff@). DPP H-Bay Salem Tools estimate folded into customer quote. Now **waiting Jim Stanley approval / GE PO**."
     },
     {
       "id": "T293",
-      "status": "open",
+      "status": "waiting",
       "priority": "high",
-      "due": "ASAP \u2014 review/route into GE quote",
-      "item": "Review **DPP KIB Office Interior/Exterior Electrical Estimate** (Alex Acosta Request)",
+      "due": "waiting GE approval/PO",
+      "item": "Track Indcom **Estimate 2043 \u2014 KIB Office Upgrades** ($13,192.15) to Alex Acosta (from DPP KIB elec est)",
       "source": "Email / Jason Marchbanks (DPP)\u2192Jeff (cc Katheryn, Bill) 2026-11-02 ~5:49pm ET",
-      "notes": "Joist estimate https://client.joistapp.com/estimates/e677b9143d5131adb6f351b4. Open Joist, confirm scope/amount, fold into customer proposal with Alex Acosta (ties KIB/BSA electrical path T178/T219)."
+      "notes": "Joist estimate https://client.joistapp.com/estimates/e677b9143d5131adb6f351b4. Open Joist, confirm scope/amount, fold into customer proposal with Alex Acosta (ties KIB/BSA electrical path T178/T219). **Tue Nov 3 ~12:16pm ET:** QuickBooks **Estimate 2043** *KIB Office Upgrades* **$13,192.15** sent to **Alex Acosta** (cc mail@ / kat@ / jeff@). DPP KIB Office Interior/Exterior Electrical estimate folded into customer quote. Now **waiting Alex Acosta / GE PO**."
     },
     {
       "id": "T295",
