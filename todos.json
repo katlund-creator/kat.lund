@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T17:09:28-05:00",
+  "updated": "2026-11-04T11:08:51-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -2225,15 +2225,35 @@
       "item": "Confirm to OpSource (Lisa Stafford) whether these people still work at Indcom",
       "source": "Email / Lisa Stafford (OpSource)\u2192Jeff 2026-11-03 ~3:40pm ET",
       "notes": "Subject *No Time for Last Week*. Names: **Alexis Castro**, **Angel Ordaz**, **Caleb H Carson**, **Obed Rojas**, **Paul Von Buren**, **Tavan Hughes**. Context: Alexis quit w/ notice (good standing); Angel quit w/o communication (check hold); Caleb assignment ended / final pay done (T114); Tavan start date still owed (**T84**). Jeff owes yes/no (or status) reply for each."
+    },
+    {
+      "id": "T297",
+      "status": "open",
+      "priority": "high",
+      "due": "**Thu Nov 5 7:45\u20139:15am ET** (formal GVL Outage notice)",
+      "item": "Track outage **PP-2B-27 (2S 29B)** \u2014 landing new **AGV Flipstation in CKA**; reinstate Jeff access if removed",
+      "source": "Email / GE GVL Outage 2026-11-04 ~10:49am ET",
+      "notes": "**Wed ~10:49am ET GVL Outage formal OUTAGE NOTIFICATION** (invite.ics + 1486_001.pdf): outage **Thu Nov 5 7:45am\u20139:15am ET** of **PP-2B-27**; landing into panel for new AGV Flipstation in **CKA**. ME **Adam Edwards**; AM King APM **Valentino Dunkley**; electrician **DH Griffin**; AMK Job **#26.0910**. Affects RP-2B-27.15 + NFPS LINE (+ misc 208/120V loads). Body tags **@Jeff Flannery**: if access has been removed, **reinstate**. Kat cal already has Jeff hold *Outage: PP-2B-27 (2S 29B) - AGV Flipstation in CKA* 7:45\u20139:15 (e122). Related prior flip-station PP-2A-9 (e113) / AGV walk T101."
+    },
+    {
+      "id": "T298",
+      "status": "open",
+      "priority": "med",
+      "due": "**Thu Nov 5 12:00\u20131:00pm ET** (DPP request \u2014 watch for formal GVL notice)",
+      "item": "Track outage request **PP-12B-8 Circuit #4 @ KNB** \u2014 DPP replace broken **Pass & Seymour PS430MIR7-W** mechanical interlock at **KMB**",
+      "source": "Email / Jason Marchbanks (DPP)\u2192GE GVL Outage (cc Jeff, Katheryn, Adam McClure, Alex Acosta) 2026-11-04 ~10:58am ET",
+      "notes": "**Wed ~10:58am ET Jason\u2192GVL Outage:** outage request PP-12B-8 Ckt #4; purpose replace broken P&S PS430MIR7-W at KMB; panel located @ **KNB**; sub Dynamic Pipe & Power; GE Lead **Alex Acosta**. Email date says \u201cThursday, November 5th, **2027**\u201d \u2014 treat as **2026** typo (same pattern as T289). Photos attached. Watch for formal GVL OUTAGE NOTIFICATION / calendar invite (e123)."
     }
   ],
   "calendar": [
-    "**DUE TODAY Tue Nov 3** \u2014 T282 D6A rack repair EOD; T119 PO 4900662406 need-by (ack/invoice); Wed Nov 4 RP-7B-4.8 **9:00\u20139:30am** (T289/e121)",
-    "**ASAP (NEW \u2014 Lisa Stafford OpSource ~3:40pm Tue)** \u2014 Confirm active status for Alexis Castro / Angel Ordaz / Caleb Carson / Obed Rojas / Paul Von Buren / Tavan Hughes (T296; ties T84)",
+    "**TODAY Wed Nov 4** \u2014 RP-7B-4.8 **9:00\u20139:30am window PASSED** (T289/e121; no complete mail yet); T282 D6A rack repair was due EOD Tue Nov 3 (no completion mail); T119 PO 4900662406 need-by still open; N Bay crane 701681 LOTO thru 11/5; GTTL chilled water Nov 14\u201325",
+    "**TOMORROW Thu Nov 5 7:45\u20139:15am ET (NEW \u2014 formal GVL Outage ~10:49am Wed)** \u2014 Outage **PP-2B-27 (2S 29B)** AGV Flipstation landing in **CKA**; ME Adam Edwards / AMK Dunkley / DH Griffin; Jeff may need to **reinstate access** (T297) \u2014 e122",
+    "**TOMORROW Thu Nov 5 12:00\u20131:00pm ET (NEW \u2014 DPP request ~10:58am Wed; year 2027\u21922026 typo)** \u2014 Outage request **PP-12B-8 Ckt #4 @ KNB** replace broken P&S mechanical interlock at **KMB**; GE lead Alex Acosta; DPP (T298) \u2014 e123 (watch formal notice)",
+    "**ASAP (Lisa Stafford OpSource ~3:40pm Tue)** \u2014 Confirm active status for Alexis Castro / Angel Ordaz / Caleb Carson / Obed Rojas / Paul Von Buren / Tavan Hughes (T296; ties T84)",
     "\u2705 DONE Tue Nov 3 ~9:19am \u2014 OpSource TIME/per diems week 10/26\u201311/1 submitted to Payroll OpSource (Coddy $23 TRAVEL 8h) (T294)",
-    "**By 3rd week of Nov (NEW \u2014 Russ Zubkov AMK ~9:30am Tue)** \u2014 Oil Bay piping Phase 1 scaffolding up; flush crew next week + walkthrough TBD (T93)",
-    "**Wed Nov 4 9:00\u20139:30am ET (FORMAL GVL Outage notice Tue ~7:01am; supersedes Jason 7:30\u20138:00am revision)** \u2014 Outage RP-7B-4.8 @ DZB (no panel schedule/labels) for EZA Ops Tower 120V receptacle final connections; GE lead Colby Murphy; DPP (T289) \u2014 e121",
-    "**Tentative weekends 11/21\u201322, 12/5\u20136, 12/12\u201313 (NEW \u2014 Matt Fitts GE ~1:55pm Fri)** \u2014 Furnace 4 monorail crane demo with Indcom scaffold support; dates TBD by Tres Orr/Kevin Lauriault (T286) \u2014 e120",
+    "**By 3rd week of Nov (Russ Zubkov AMK ~9:30am Tue)** \u2014 Oil Bay piping Phase 1 scaffolding up; flush crew next week + walkthrough TBD (T93)",
+    "\u2705 PAST **Wed Nov 4 9:00\u20139:30am ET** \u2014 Outage RP-7B-4.8 @ DZB EZA Ops Tower 120V receptacles; GE lead Colby Murphy; DPP (T289) \u2014 e121 (window passed; no complete mail yet)",
+    "**Tentative weekends 11/21\u201322, 12/5\u20136, 12/12\u201313 (Matt Fitts GE ~1:55pm Fri)** \u2014 Furnace 4 monorail crane demo with Indcom scaffold support; dates TBD by Tres Orr/Kevin Lauriault (T286) \u2014 e120",
     "**Fri Oct 30 \u2192 EOD Tue Nov 3 (Kat ~12:31pm/~4:08pm Fri; GE VIP tour TODAY Mon Nov 2)** \u2014 D6A rack removed Fri for VIP tour; full repair by EOD Tue 11/3 (T282) \u2014 e118",
     "**Mon Nov 16 \u2013 Mon Jan 4 (NEW \u2014 Bob Smith GE ~12:04pm Fri)** \u2014 JLTC Fitness Center closed for drywall/louver/skylight repair; **Indcom scaffolding** in place for AM King (T283) \u2014 e119",
     "**DUE TODAY Mon Nov 2 (Jim Stanley GE ~6:09pm Thu; no completion mail yet)** \u2014 MAA scaffold debris mitigation over Nozzle Line 1: extra plywood row + taped joints, cover column gaps, netting underneath (T278) \u2014 e117",
@@ -3761,6 +3781,37 @@
         "T289",
         "T288",
         "T23"
+      ]
+    },
+    {
+      "id": "e122",
+      "type": "outage",
+      "title": "Outage PP-2B-27 (2S 29B) \u2014 AGV Flipstation landing in CKA (FORMAL)",
+      "summary": "Thu Nov 5 7:45\u20139:15am ET formal GVL Outage; ME Adam Edwards; AMK Dunkley; DH Griffin; Jeff reinstate access if removed",
+      "location": "GE Vernova Greenville \u2014 CKA / NFPS (panel PP-2B-27)",
+      "description": "GVL Outage Wed Nov 4 ~10:49am ET formal OUTAGE NOTIFICATION: PP-2B-27 outage Thu Nov 5 7:45am\u20139:15am for new AGV Flipstation in CKA. Affects RP-2B-27.15 + NFPS LINE. Body tags Jeff: reinstate access if removed. Kat cal Jeff hold already present. AMK Job #26.0910. (T297)",
+      "start": "2026-11-05T07:45:00-05:00",
+      "end": "2026-11-05T09:15:00-05:00",
+      "allDay": false,
+      "todoId": "T297",
+      "relatedTodos": [
+        "T297",
+        "T101"
+      ]
+    },
+    {
+      "id": "e123",
+      "type": "outage",
+      "title": "Outage request PP-12B-8 Ckt #4 @ KNB \u2014 replace P&S mechanical interlock at KMB (DPP)",
+      "summary": "Thu Nov 5 12:00\u20131:00pm ET DPP request (email year 2027\u21922026 typo); GE lead Alex Acosta; watch formal GVL notice",
+      "location": "GE Vernova Greenville \u2014 KNB panel / KMB interlock",
+      "description": "Jason Marchbanks (DPP) Wed Nov 4 ~10:58am ET requested PP-12B-8 Circuit #4 outage to replace broken Pass & Seymour PS430MIR7-W mechanical interlock at KMB. Panel @ KNB. Sub DPP; GE Lead Alex Acosta. Email says Nov 5 2027 \u2014 treat as 2026 typo (same as T289). Watch formal GVL OUTAGE NOTIFICATION. (T298)",
+      "start": "2026-11-05T12:00:00-05:00",
+      "end": "2026-11-05T13:00:00-05:00",
+      "allDay": false,
+      "todoId": "T298",
+      "relatedTodos": [
+        "T298"
       ]
     }
   ]
