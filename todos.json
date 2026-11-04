@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T11:08:51-05:00",
+  "updated": "2026-11-04T13:12:12-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -595,7 +595,7 @@
       "due": "ASAP",
       "item": "Tell OpSource when Tavan Hughes should report for work",
       "source": "Email / Jose Cruz 2026-10-01 ~8:21am ET",
-      "notes": "**Thu ~8:21am ET Jose\u2192Jeff:** Tavan Hughes asking when he needs to be in \u2014 all set/ready to start (T52 onboarding closed Mon). **Jeff owes start date/time** answer. Distinct from new hire Chaz (T78). **Wed Oct 7 ~9:31am ET Jose Cruz\u2192Jeff (2nd chase):** Tavan reached out again asking when he will hear anything about starting work. Still no Jeff answer seen.  **Tue Nov 3 ~3:40pm ET Lisa Stafford (OpSource):** asks if Tavan (among others) still works at Indcom \u2014 see **T296**."
+      "notes": "**Thu ~8:21am ET Jose\u2192Jeff:** Tavan Hughes asking when he needs to be in \u2014 all set/ready to start (T52 onboarding closed Mon). **Jeff owes start date/time** answer. Distinct from new hire Chaz (T78). **Wed Oct 7 ~9:31am ET Jose Cruz\u2192Jeff (2nd chase):** Tavan reached out again asking when he will hear anything about starting work. Still no Jeff answer seen.  **Tue Nov 3 ~3:40pm ET Lisa Stafford (OpSource):** asks if Tavan (among others) still works at Indcom \u2014 see **T296**. **Wed Nov 4 ~12:26pm ET Jeff\u2192Lisa (cc Kat/Bill):** Tavan **hired as-needed** (T296 DONE). Start-date ask from Jose (this todo) still open if Ops needs a first report day."
     },
     {
       "id": "T85",
@@ -2218,15 +2218,6 @@
       "notes": "QB Quotation **2041** *M Bay argon tie in* **$29,512.41** sent for review/approve. Relates **T255** (DPP Argon Gas Line Extension \u2013 MFA scaffold support @ MDA/MEA). Waiting Jim Stanley / GE PO."
     },
     {
-      "id": "T296",
-      "status": "open",
-      "priority": "high",
-      "due": "ASAP",
-      "item": "Confirm to OpSource (Lisa Stafford) whether these people still work at Indcom",
-      "source": "Email / Lisa Stafford (OpSource)\u2192Jeff 2026-11-03 ~3:40pm ET",
-      "notes": "Subject *No Time for Last Week*. Names: **Alexis Castro**, **Angel Ordaz**, **Caleb H Carson**, **Obed Rojas**, **Paul Von Buren**, **Tavan Hughes**. Context: Alexis quit w/ notice (good standing); Angel quit w/o communication (check hold); Caleb assignment ended / final pay done (T114); Tavan start date still owed (**T84**). Jeff owes yes/no (or status) reply for each."
-    },
-    {
       "id": "T297",
       "status": "open",
       "priority": "high",
@@ -2239,17 +2230,27 @@
       "id": "T298",
       "status": "open",
       "priority": "med",
-      "due": "**Thu Nov 5 12:00\u20131:00pm ET** (DPP request \u2014 watch for formal GVL notice)",
-      "item": "Track outage request **PP-12B-8 Circuit #4 @ KNB** \u2014 DPP replace broken **Pass & Seymour PS430MIR7-W** mechanical interlock at **KMB**",
-      "source": "Email / Jason Marchbanks (DPP)\u2192GE GVL Outage (cc Jeff, Katheryn, Adam McClure, Alex Acosta) 2026-11-04 ~10:58am ET",
-      "notes": "**Wed ~10:58am ET Jason\u2192GVL Outage:** outage request PP-12B-8 Ckt #4; purpose replace broken P&S PS430MIR7-W at KMB; panel located @ **KNB**; sub Dynamic Pipe & Power; GE Lead **Alex Acosta**. Email date says \u201cThursday, November 5th, **2027**\u201d \u2014 treat as **2026** typo (same pattern as T289). Photos attached. Watch for formal GVL OUTAGE NOTIFICATION / calendar invite (e123)."
+      "due": "**Thu Nov 5 12:00\u20131:00pm ET** (formal GVL Outage notice)",
+      "item": "Track outage **PP-12B-8 Circuit #4 @ KNB** \u2014 DPP replace broken **Pass & Seymour PS430MIR7-W** mechanical interlock at **KMB**",
+      "source": "Email / Jason Marchbanks (DPP) ~10:58am + GE GVL Outage formal 2026-11-04 ~11:26am ET",
+      "notes": "**Wed ~10:58am ET Jason\u2192GVL Outage:** outage request PP-12B-8 Ckt #4; purpose replace broken P&S PS430MIR7-W at KMB; panel located @ **KNB**; sub Dynamic Pipe & Power; GE Lead **Alex Acosta**. Email date says \u201cThursday, November 5th, **2027**\u201d \u2014 treat as **2026** typo (same pattern as T289). Photos attached. **Wed ~11:26am ET GVL Outage formal OUTAGE NOTIFICATION** (invite.ics): same window **Thu Nov 5 12:00\u20131:00pm**; panel @ KNB; DPP; GE Lead Alex Acosta; year still **2027\u21922026**. Deduped into e123 (Kat cal already has GVL invite)."
+    },
+    {
+      "id": "T299",
+      "status": "waiting",
+      "priority": "high",
+      "due": "waiting OpSource onboarding; then Jeff owes start date + pay rate",
+      "item": "OpSource new hire \u2014 **Matthew Vincent Mitchem**: send hire-in link; wait onboarding, then give start date + pay rate",
+      "source": "Email / Jeff\u2192Lisa Stafford (cc Yesenia/Julie/Kat/Bill) 2026-11-04 ~12:19pm ET",
+      "notes": "**Wed ~12:19pm ET Jeff\u2192Lisa (cc Yesenia Portes, Julie Solesbee, Katheryn, Bill):** please send hire-in link for **Matthew Vincent Mitchem** \u2014 phone **770-686-4080**, email **21mitchemmv@gmail.com**. **~12:20pm ET Yesenia Portes:** \u201cWe will get this process.\u201d Same pattern as T118/T78 \u2014 next Jeff owes **start date + pay rate** once OpSource confirms onboarding complete."
     }
   ],
   "calendar": [
     "**TODAY Wed Nov 4** \u2014 RP-7B-4.8 **9:00\u20139:30am window PASSED** (T289/e121; no complete mail yet); T282 D6A rack repair was due EOD Tue Nov 3 (no completion mail); T119 PO 4900662406 need-by still open; N Bay crane 701681 LOTO thru 11/5; GTTL chilled water Nov 14\u201325",
     "**TOMORROW Thu Nov 5 7:45\u20139:15am ET (NEW \u2014 formal GVL Outage ~10:49am Wed)** \u2014 Outage **PP-2B-27 (2S 29B)** AGV Flipstation landing in **CKA**; ME Adam Edwards / AMK Dunkley / DH Griffin; Jeff may need to **reinstate access** (T297) \u2014 e122",
-    "**TOMORROW Thu Nov 5 12:00\u20131:00pm ET (NEW \u2014 DPP request ~10:58am Wed; year 2027\u21922026 typo)** \u2014 Outage request **PP-12B-8 Ckt #4 @ KNB** replace broken P&S mechanical interlock at **KMB**; GE lead Alex Acosta; DPP (T298) \u2014 e123 (watch formal notice)",
-    "**ASAP (Lisa Stafford OpSource ~3:40pm Tue)** \u2014 Confirm active status for Alexis Castro / Angel Ordaz / Caleb Carson / Obed Rojas / Paul Von Buren / Tavan Hughes (T296; ties T84)",
+    "**TOMORROW Thu Nov 5 12:00\u20131:00pm ET (formal GVL Outage ~11:26am Wed; year 2027\u21922026 typo)** \u2014 Outage **PP-12B-8 Ckt #4 @ KNB** replace broken P&S mechanical interlock at **KMB**; GE lead Alex Acosta; DPP (T298) \u2014 e123",
+    "\u2705 DONE Wed Nov 4 ~12:26pm \u2014 Jeff answered Lisa Stafford OpSource crew-status (Alexis temp leave; Angel/Caleb/Paul quit; Obed yes vacation; Tavan as-needed) (T296)",
+    "**ASAP (OpSource hire)** \u2014 Wait Yesenia onboarding for **Matthew Vincent Mitchem**, then Jeff start date + pay rate (T299)",
     "\u2705 DONE Tue Nov 3 ~9:19am \u2014 OpSource TIME/per diems week 10/26\u201311/1 submitted to Payroll OpSource (Coddy $23 TRAVEL 8h) (T294)",
     "**By 3rd week of Nov (Russ Zubkov AMK ~9:30am Tue)** \u2014 Oil Bay piping Phase 1 scaffolding up; flush crew next week + walkthrough TBD (T93)",
     "\u2705 PAST **Wed Nov 4 9:00\u20139:30am ET** \u2014 Outage RP-7B-4.8 @ DZB EZA Ops Tower 120V receptacles; GE lead Colby Murphy; DPP (T289) \u2014 e121 (window passed; no complete mail yet)",
