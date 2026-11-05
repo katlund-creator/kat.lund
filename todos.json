@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T12:06:48-05:00",
+  "updated": "2026-11-05T13:13:00-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -2315,6 +2315,15 @@
       "item": "Track outage **PP-6B-8 (6S 13A) @ BSA** \u2014 DPP install primary side of **45kVA transformer** for new BSA office; **@Jeff verify LCU-6S equipped with stairs**",
       "source": "Email / Jason Marchbanks (DPP) ~9:19am + GE GVL Outage formal ~9:36am ET 2026-11-05",
       "notes": "**Thu ~9:19am ET Jason\u2192GVL Outage (cc Jeff/Kat/Adam McClure/Alex Leppard):** outage request PP-6B-8 @ BSA Fri Nov 6 **10:30\u201311:30am** \u2014 primary-side connection of 45kVA transformer for new BSA office; sub DPP; GE Lead **Alex Leppard**. **~9:36am ET GVL Outage formal OUTAGE NOTIFICATION** (invite.ics): same window; tags **@Jeff Flannery \u2014 please verify LCU-6S is equipped with stairs**. Affected: **CAT#18568 BROACH BVA**, **CAT#EC2081 ACCUCHILLER ASB**, **CAT#706580 HYDROFLOW ASB** (+ undocumented 208/120V loads). Deduped Kat cal (GVL invite + Jeff hold) = **e125**. Ties BSA office path (T13/T42/T178)."
+    },
+    {
+      "id": "T308",
+      "status": "open",
+      "priority": "med",
+      "due": "review + route to Mitch Reese (GE)",
+      "item": "Review **SPC chilled water chemical injection** quotes (line 1 + line 2) for **Mitch** \u2014 build GE quote",
+      "source": "Email / Evan Groce (SPC, fabricationspc@gmail.com)\u2192Jeff 2026-11-05 ~12:49pm ET",
+      "notes": "\u201cAttached are the quotes for the chilled water injection that we talked about. These were for Mitch.\u201d PDFs *chilled water chemical injection line 1.pdf* + *line 2.pdf* (amounts in PDFs, not opened). Review, mark up, and send GE quote to Mitch Reese."
     }
   ],
   "calendar": [
