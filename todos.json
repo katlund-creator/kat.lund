@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T08:11:39-05:00",
+  "updated": "2026-11-05T09:18:40-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -1960,10 +1960,10 @@
       "id": "T265",
       "status": "waiting",
       "priority": "high",
-      "due": "**Pulse deliverable SENT Thu ~7:19am** \u2014 waiting Julia/Pulse; kits ~Nov 23\u2013Dec 4",
+      "due": "**Pulse deliverable SENT** (~7:19am + corrected docs ~8:34am; Julia ack ~8:30am) \u2014 waiting Pulse 11am; kits ~Nov 23\u2013Dec 4",
       "item": "Update GE **rack inspection table** (pptx) + give estimated completion timing for ordered rack-repair materials by category (e.g. red repairs est. 12/15/26)",
       "source": "Email / Julia Filiatreau (GE EHS Leader, cc Brian Hill) 2026-10-28 ~6:12am ET, \u201cUpdating Rack Inspection Table for Meeting tomorrow AM\u201d",
-      "notes": "To Jeff + Kat. Attachment *rack inspection table 10.28.26.pptx*. Not per line item \u2014 category-level dates. Ties T20 / T261 / T262 (estimate 2038 materials). **Wed ~8:29am ET Kat\u2192Julia:** \u201cI will get with the guys and get back to you on an estimated finish date.\u201d Still owe updated pptx + category dates before Thu 11am. **Thu Oct 29 ~7:44am ET Kat\u2192Julia (cc Jeff, Brian Hill):** sent *GE Vernova Rack Inspection Map \u2013 Repair Progress 10-29-26.pdf* + *Rack Repair Progress Report (1).xlsx* with updated pallet-rack numbers. Still **waiting on supplier confirmed arrival dates** for repair kits/new racks/parts (supplier says \u22644 weeks; **all repairs complete before end of year**). Only a few red racks remain (CZB between C bay and K bay); Husky House in-progress repairs to finish today; crew reviewing Husky House inventory to harvest parts. Kat will give Julia the full-repair date once supplier confirms \u2192 WAITING on supplier ETA. **Thu Oct 29 ~10:55am ET Julia\u2192Kat:** \u201cGreat, thanks for the updated info!\u201d (ack before 11am leadership mtg). Still owe full-repair date once supplier confirms ETA. **Thu ~3:25pm ET Julia\u2192Kat:** \u201cThanks for the additional info!\u201d (Inv 3943 PO thread). **~3:31pm ET Kat\u2192Julia (cc Jeff):** will send info on what was completed today; only remaining issue is **racks between C bay and K bay** (Jeff has a viable solution); confirmed all parts for remaining repairs ordered and on the way. **Wed Nov 4 ~1:41pm ET Julia\u2192Katheryn (cc Jeff, Brian Hill):** asks Kat to **update the attached status table** (*GE Vernova Rack Inspection Map \u2013 Repair Progress 10-29-26.pdf*) for the **weekly Pulse call with leadership tomorrow Thu Nov 5 11:00am ET**; also share any **updated timing for ordered repair parts/kits**. \u2192 Status back to **open** (was waiting supplier ETA); Kat owes refreshed numbers + kit timing before Pulse. **Thu Nov 5 ~7:19am ET Kat\u2192Julia (cc Jeff, Brian Hill):** sent updated rack status for Pulse \u2014 Overall **166/223 complete (74%)**, **57 in progress (26%)**, **0 still open**. Top Priority Red: 2/2 in progress (CZB/CK + Fluid Storage & Reclamation). Red 48/56 complete (86%); Yellow 55/104 (53%); Green 63/63 (100%). Plan: immediately replace CZB (CK) with same Uline racks as DZA (column\u2192yellow post; 3' clearance N/A). D6A (RED) down since Fri 10/30 (brace broke / VIP) \u2014 replace/repair w/ harvested Husky House parts. Repair kits ordered last week of Sep (8\u20139 wk lead) \u2192 arrival **~Nov 23\u2013Dec 4** (~3\u20134 more weeks). Attached *GE-Vernova-Rack-Inspection-Map-11-05-26.pdf*. \u2192 Pulse deliverable SENT; waiting Julia ack / Pulse."
+      "notes": "To Jeff + Kat. Attachment *rack inspection table 10.28.26.pptx*. Not per line item \u2014 category-level dates. Ties T20 / T261 / T262 (estimate 2038 materials). **Wed ~8:29am ET Kat\u2192Julia:** \u201cI will get with the guys and get back to you on an estimated finish date.\u201d Still owe updated pptx + category dates before Thu 11am. **Thu Oct 29 ~7:44am ET Kat\u2192Julia (cc Jeff, Brian Hill):** sent *GE Vernova Rack Inspection Map \u2013 Repair Progress 10-29-26.pdf* + *Rack Repair Progress Report (1).xlsx* with updated pallet-rack numbers. Still **waiting on supplier confirmed arrival dates** for repair kits/new racks/parts (supplier says \u22644 weeks; **all repairs complete before end of year**). Only a few red racks remain (CZB between C bay and K bay); Husky House in-progress repairs to finish today; crew reviewing Husky House inventory to harvest parts. Kat will give Julia the full-repair date once supplier confirms \u2192 WAITING on supplier ETA. **Thu Oct 29 ~10:55am ET Julia\u2192Kat:** \u201cGreat, thanks for the updated info!\u201d (ack before 11am leadership mtg). Still owe full-repair date once supplier confirms ETA. **Thu ~3:25pm ET Julia\u2192Kat:** \u201cThanks for the additional info!\u201d (Inv 3943 PO thread). **~3:31pm ET Kat\u2192Julia (cc Jeff):** will send info on what was completed today; only remaining issue is **racks between C bay and K bay** (Jeff has a viable solution); confirmed all parts for remaining repairs ordered and on the way. **Wed Nov 4 ~1:41pm ET Julia\u2192Katheryn (cc Jeff, Brian Hill):** asks Kat to **update the attached status table** (*GE Vernova Rack Inspection Map \u2013 Repair Progress 10-29-26.pdf*) for the **weekly Pulse call with leadership tomorrow Thu Nov 5 11:00am ET**; also share any **updated timing for ordered repair parts/kits**. \u2192 Status back to **open** (was waiting supplier ETA); Kat owes refreshed numbers + kit timing before Pulse. **Thu Nov 5 ~7:19am ET Kat\u2192Julia (cc Jeff, Brian Hill):** sent updated rack status for Pulse \u2014 Overall **166/223 complete (74%)**, **57 in progress (26%)**, **0 still open**. Top Priority Red: 2/2 in progress (CZB/CK + Fluid Storage & Reclamation). Red 48/56 complete (86%); Yellow 55/104 (53%); Green 63/63 (100%). Plan: immediately replace CZB (CK) with same Uline racks as DZA (column\u2192yellow post; 3' clearance N/A). D6A (RED) down since Fri 10/30 (brace broke / VIP) \u2014 replace/repair w/ harvested Husky House parts. Repair kits ordered last week of Sep (8\u20139 wk lead) \u2192 arrival **~Nov 23\u2013Dec 4** (~3\u20134 more weeks). Attached *GE-Vernova-Rack-Inspection-Map-11-05-26.pdf*. \u2192 Pulse deliverable SENT; waiting Julia ack / Pulse. **Thu Nov 5 ~8:30am ET Julia\u2192Kat:** \u201cPerfect, thank you so much for these updates!\u201d (ack of ~7:19am status). **~8:34am ET Kat\u2192Julia (cc Jeff, Brian Hill):** sent **corrected** docs with accurate morning numbers \u2014 *GE Vernova Rack Inspection Map \u2013 Repair Progress 11-05-26.pdf* + *Rack Repair Progress Report (1).xlsx*. Still **waiting Pulse 11:00am**."
     },
     {
       "id": "T266",
@@ -2111,12 +2111,12 @@
     },
     {
       "id": "T283",
-      "status": "open",
+      "status": "waiting",
       "priority": "high",
-      "due": "**ASAP \u2014 GE needs funding secured for Nov 16 start**",
+      "due": "**waiting GE (Bob Smith) approval/PO** \u2014 Est 2046 SENT Wed ~8:15pm",
       "item": "**JLTC Fitness Center drywall/louver repair** \u2014 Indcom provides all required scaffolding; fitness center closed **Mon Nov 16 \u2013 reopens Mon Jan 4**",
       "source": "Email / Bob Smith (GE Facilities Eng.) 2026-10-30 ~12:04pm ET",
-      "notes": "**Fri ~12:04pm ET Bob Smith\u2192Jack Davis + Catherine Knight (AM King), Jeff (cc Amanda Fowler, Joseph Betten, Trevor Honosky):** met w/ AM King, Indcom, Tori; safety + noise \u2192 gym closes Nov 16, reopens Jan 4. **Indcom = all scaffolding.** AM King: remove louvers, make electrical safe, drywall repair/paint, remove dead light fixtures (leave boxes/conduit), skylight leak test + repair. Bob asked AM King for detailed scope + proposal ASAP. Indcom: plan/price scaffold for JLTC Group Fitness area (likely needs scaffold quote to AM King/GE), confirm material/crew for Nov 16."
+      "notes": "**Fri ~12:04pm ET Bob Smith\u2192Jack Davis + Catherine Knight (AM King), Jeff (cc Amanda Fowler, Joseph Betten, Trevor Honosky):** met w/ AM King, Indcom, Tori; safety + noise \u2192 gym closes Nov 16, reopens Jan 4. **Indcom = all scaffolding.** AM King: remove louvers, make electrical safe, drywall repair/paint, remove dead light fixtures (leave boxes/conduit), skylight leak test + repair. Bob asked AM King for detailed scope + proposal ASAP. Indcom: plan/price scaffold for JLTC Group Fitness area (likely needs scaffold quote to AM King/GE), confirm material/crew for Nov 16. **Wed Nov 4 ~8:15pm ET QuickBooks Estimate 2046** *Facility Gym Wall Repair Scaffold Support* **$33,706.53** sent to **Robert Smith** (robert.smith1@gevernova.com; cc mail@/kat@/jeff@). Customer quote path SENT \u2192 now **waiting GE approval/PO** (gym close still Nov 16)."
     },
     {
       "id": "T284",
@@ -2255,12 +2255,12 @@
     },
     {
       "id": "T301",
-      "status": "open",
+      "status": "waiting",
       "priority": "high",
-      "due": "review + route / customer quote path",
-      "item": "Review DPP Joist estimate **#398 $1,534.00 \u2014 EC1874 Rong Fu @ EAB** (power existing Rong Fu from Bus E2 Ckt #6 / 30A disc @ ECB)",
+      "due": "**waiting GE (Nathan Price) approval/PO** \u2014 Est 2045 SENT Wed ~7:25pm",
+      "item": "Track Indcom **Estimate 2045 \u2014 EC1874 Rong Fu @ EAB** ($2,370.03) to Nathan Price (from DPP Joist #398 $1,534)",
       "source": "Email / Jason Marchbanks (DPP) 2026-11-04 ~2:37pm ET",
-      "notes": "**Wed ~2:37pm ET Jason\u2192Jeff (cc Kat, Bill, Amie):** Joist https://client.joistapp.com/estimates/414a76b3d56688594995c8de \u2014 furnish labor/materials to power existing **Rong Fu EC1874 @ EAB**: use existing **30A disconnect** from **Bus E2 Circuit #6 @ ECB**; 3/4\" RMC + #10 THHN; Form 7 fittings; test/label/cleanup. Service addr GE Gas Turbine 300 Garlington. Amount **$1,534.00**. Review/approve \u2192 fold into customer quote / PO path."
+      "notes": "**Wed ~2:37pm ET Jason\u2192Jeff (cc Kat, Bill, Amie):** Joist https://client.joistapp.com/estimates/414a76b3d56688594995c8de \u2014 furnish labor/materials to power existing **Rong Fu EC1874 @ EAB**: use existing **30A disconnect** from **Bus E2 Circuit #6 @ ECB**; 3/4\" RMC + #10 THHN; Form 7 fittings; test/label/cleanup. Service addr GE Gas Turbine 300 Garlington. Amount **$1,534.00**. Review/approve \u2192 fold into customer quote / PO path. **Wed Nov 4 ~7:25pm ET QuickBooks Estimate 2045** *EC1874 Rong Fu @ EAB* **$2,370.03** sent to **Nathan Price** (Nathan.Price@gevernova.com; cc mail@/kat@/jeff@). DPP Joist folded into customer quote. Now **waiting Nathan Price / GE PO**."
     },
     {
       "id": "T302",
@@ -2312,12 +2312,13 @@
     "**TODAY Thu Nov 5** \u2014 **PP-12B-8 ckt-4 12:00\u20131:00pm** KMB (T298/e123); **Pulse 11:00am** (T265 deliverable SENT ~7:19am \u2192 waiting); N Bay crane 701681 LOTO thru **11/5** (ends Fri 11/6 all-day exclusive); RP-7B-4.8 window passed Wed (T289); T282 D6A still down (harvest repair); GTTL chilled water Nov 14\u201325",
     "**RESCHEDULED \u2192 Mon Nov 9 7:45\u20139:15am ET (GVL ICS ~7:40am Thu)** \u2014 Outage **PP-2B-27 (2S 29B)** AGV Flipstation landing in **CKA**; ME Adam Edwards / AMK Dunkley / DH Griffin; Jeff may need to **reinstate access** (T297) \u2014 e122 (was Thu Nov 5; Kat cal Jeff-hold still shows Thu \u2014 ICS Mon wins)",
     "**TODAY Thu Nov 5 12:00\u20131:00pm ET** \u2014 Outage **PP-12B-8 Ckt #4 @ KNB** replace broken P&S mechanical interlock at **KMB**; GE lead Alex Acosta; DPP (T298) \u2014 e123",
-    "**TODAY Thu Nov 5 11:00am ET** \u2014 Weekly Pulse / leadership (Kat sent 11/5 rack map + kit timing ~7:19am) (T265) \u2014 e124",
+    "**TODAY Thu Nov 5 11:00am ET** \u2014 Weekly Pulse / leadership (Kat sent status ~7:19am + corrected map/xlsx ~8:34am; Julia ack ~8:30am) (T265) \u2014 e124",
     "\u2705 DONE Wed Nov 4 ~7:02pm \u2014 Jeff answered H&H: epoxy guy (GBI) does trench MVB/prep (T290) \u2014 waiting H&H price",
     "\u2705 DONE Wed Nov 4 ~12:26pm \u2014 Jeff answered Lisa Stafford OpSource crew-status (Alexis temp leave; Angel/Caleb/Paul quit; Obed yes vacation; Tavan as-needed) (T296)",
     "**ASAP (OpSource hire)** \u2014 Wait Yesenia onboarding for **Matthew Vincent Mitchem**, then Jeff start date + pay rate (T299)",
     "**ASAP (Nozzle Fab sub quote)** \u2014 Review Golden Brush GBI Estimate 13633 paint/striping/epoxy; fold into T122 (T300); H&H still pricing after MVB answer (T290)",
-    "**ASAP (DPP est)** \u2014 Review DPP Est #398 $1,534 EC1874 Rong Fu @ EAB (T301)",
+    "**waiting GE** \u2014 QB Est **2045** EC1874 Rong Fu @ EAB **$2,370.03** \u2192 Nathan Price (T301; was DPP #398)",
+    "**waiting GE** \u2014 QB Est **2046** Facility Gym Wall Repair Scaffold **$33,706.53** \u2192 Robert Smith (T283 JLTC Fitness)",
     "**NEW invoices Thu morning** \u2014 DPP Inv 4732 MHB Conduit Support (T302); QB 3956/3957/3961 UA scaffold FW42\u201344 + 3962 buildstand FW43\u201344 to Heatherly (T303\u2013T306)",
     "\u2705 DONE Tue Nov 3 ~9:19am \u2014 OpSource TIME/per diems week 10/26\u201311/1 submitted to Payroll OpSource (Coddy $23 TRAVEL 8h) (T294)",
     "**By 3rd week of Nov (Russ Zubkov AMK ~9:30am Tue)** \u2014 Oil Bay piping Phase 1 scaffolding up; flush crew next week + walkthrough TBD (T93)",
@@ -3885,9 +3886,9 @@
     },
     {
       "id": "e124",
-      "summary": "GE weekly Pulse \u2014 Kat SENT 11/5 rack map + kit timing (~7:19am); Pulse 11am",
+      "summary": "GE weekly Pulse \u2014 Kat SENT 11/5 status (~7:19am) + corrected map/xlsx (~8:34am); Julia ack ~8:30am; Pulse 11am",
       "location": "GE Vernova Greenville",
-      "description": "Kat Thu Nov 5 ~7:19am sent Julia updated rack status (166/223=74% complete; kits ~Nov 23\u2013Dec 4; CZB Uline plan; D6A Husky harvest). Pulse still 11am. Ties T265/T20/T282.",
+      "description": "Kat Thu Nov 5 ~7:19am sent Julia rack status (166/223=74%); ~8:30am Julia ack; ~8:34am Kat sent corrected GE Vernova Rack Inspection Map 11-05-26.pdf + Rack Repair Progress Report xlsx. Pulse still 11am. Ties T265/T20/T282.",
       "start": "2026-11-05T11:00:00-05:00",
       "end": "2026-11-05T12:00:00-05:00",
       "allDay": false,
