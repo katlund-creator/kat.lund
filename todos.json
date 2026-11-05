@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T09:18:40-05:00",
+  "updated": "2026-11-05T10:13:56-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -2116,7 +2116,7 @@
       "due": "**waiting GE (Bob Smith) approval/PO** \u2014 Est 2046 SENT Wed ~8:15pm",
       "item": "**JLTC Fitness Center drywall/louver repair** \u2014 Indcom provides all required scaffolding; fitness center closed **Mon Nov 16 \u2013 reopens Mon Jan 4**",
       "source": "Email / Bob Smith (GE Facilities Eng.) 2026-10-30 ~12:04pm ET",
-      "notes": "**Fri ~12:04pm ET Bob Smith\u2192Jack Davis + Catherine Knight (AM King), Jeff (cc Amanda Fowler, Joseph Betten, Trevor Honosky):** met w/ AM King, Indcom, Tori; safety + noise \u2192 gym closes Nov 16, reopens Jan 4. **Indcom = all scaffolding.** AM King: remove louvers, make electrical safe, drywall repair/paint, remove dead light fixtures (leave boxes/conduit), skylight leak test + repair. Bob asked AM King for detailed scope + proposal ASAP. Indcom: plan/price scaffold for JLTC Group Fitness area (likely needs scaffold quote to AM King/GE), confirm material/crew for Nov 16. **Wed Nov 4 ~8:15pm ET QuickBooks Estimate 2046** *Facility Gym Wall Repair Scaffold Support* **$33,706.53** sent to **Robert Smith** (robert.smith1@gevernova.com; cc mail@/kat@/jeff@). Customer quote path SENT \u2192 now **waiting GE approval/PO** (gym close still Nov 16)."
+      "notes": "**Fri ~12:04pm ET Bob Smith\u2192Jack Davis + Catherine Knight (AM King), Jeff (cc Amanda Fowler, Joseph Betten, Trevor Honosky):** met w/ AM King, Indcom, Tori; safety + noise \u2192 gym closes Nov 16, reopens Jan 4. **Indcom = all scaffolding.** AM King: remove louvers, make electrical safe, drywall repair/paint, remove dead light fixtures (leave boxes/conduit), skylight leak test + repair. Bob asked AM King for detailed scope + proposal ASAP. Indcom: plan/price scaffold for JLTC Group Fitness area (likely needs scaffold quote to AM King/GE), confirm material/crew for Nov 16. **Wed Nov 4 ~8:15pm ET QuickBooks Estimate 2046** *Facility Gym Wall Repair Scaffold Support* **$33,706.53** sent to **Robert Smith** (robert.smith1@gevernova.com; cc mail@/kat@/jeff@). Customer quote path SENT \u2192 now **waiting GE approval/PO** (gym close still Nov 16). **Thu Nov 5 ~9:56am ET Jeff\u2192Robert1.smith@gevernova.com:** Fwd *Estimate 2046* PDF ($33,706.53 Facility Gym Wall Repair Scaffold Support) \u2014 resent/confirmed delivery path to Bob; still **waiting GE approval/PO**."
     },
     {
       "id": "T284",
@@ -2140,10 +2140,10 @@
       "id": "T286",
       "status": "open",
       "priority": "high",
-      "due": "**Jeff confirm ASAP** \u2014 ESI windows **12/5\u201312/6 + 12/12\u201312/13** (Furnace 6 back-end monorail)",
+      "due": "**TENTATIVE LOCKED** weekends **12/5\u201312/6 + 12/12\u201312/13** (Pete+Jeff; revisit closer)",
       "item": "**Furnace 4/6 Monorail Crane Demo \u2014 Indcom scaffold support** (GE PO 4900672923 $18,670 to ENGINEERED SYSTEMS INC; Indcom provides scaffold)",
       "source": "Email / Matthew Fitts (GE)\u2192Tres Orr + Kevin Lauriault (cc Jeff, Kat, Pete Lambley) 2026-10-30 ~1:55pm ET",
-      "notes": "Furnace 4 demo starts **Mon 11/16**; tentative 2026 crane-demo weekends: **11/21\u201311/22, 12/5\u201312/6, 12/12\u201312/13** (else 2027). Waiting on Tres/Kevin to pick dates; then align scaffold resources with Jeff/Kat + Pete Lambley. Weekend work = OT billing. **Wed Nov 4 ~1:29pm ET Fitts\u2192Pete Lambley + Jeff (cc Mitch Reese, Tres Orr, Kevin Lauriault, Nate Barney, Bob Peterson, Adam Watkins, Katheryn):** asks whether **12/5\u201312/6 and 12/12\u201312/13** work to demo the monorail crane over the **back end of Furnace 6** from a **Scaffold Support and Production** standpoint \u2014 **ESI has these windows dedicated**. (Subject still cites Furnace 4 PO 4900672923.) \u2192 Jeff/Pete to confirm scaffold availability for those two weekends (11/21\u201322 no longer in this ask)."
+      "notes": "Furnace 4 demo starts **Mon 11/16**; tentative 2026 crane-demo weekends: **11/21\u201311/22, 12/5\u201312/6, 12/12\u201312/13** (else 2027). Waiting on Tres/Kevin to pick dates; then align scaffold resources with Jeff/Kat + Pete Lambley. Weekend work = OT billing. **Wed Nov 4 ~1:29pm ET Fitts\u2192Pete Lambley + Jeff (cc Mitch Reese, Tres Orr, Kevin Lauriault, Nate Barney, Bob Peterson, Adam Watkins, Katheryn):** asks whether **12/5\u201312/6 and 12/12\u201312/13** work to demo the monorail crane over the **back end of Furnace 6** from a **Scaffold Support and Production** standpoint \u2014 **ESI has these windows dedicated**. (Subject still cites Furnace 4 PO 4900672923.) \u2192 Jeff/Pete to confirm scaffold availability for those two weekends (11/21\u201322 no longer in this ask). **Thu Nov 5 ~9:56am ET Pete Lambley:** \u201cYes lets tentatively schedule in and revisit closer to the time.\u201d **~10:09am ET Matt Fitts:** \u201cI confirmed with Jeff he will be able to support these 2 weekends as well.\u201d \u2192 **windows tentatively locked** Dec 5\u20136 + Dec 12\u201313; Indcom crew/scaffold plan still needed closer in; 11/21\u201322 dropped."
     },
     {
       "id": "T287",
@@ -2306,24 +2306,34 @@
       "item": "Track Indcom QB **Invoice 3962 \u2014 FW43 & 44 UA Buildstand Inspections $22,184.00** to Andrew Heatherly",
       "source": "Email / QuickBooks \u2192 William.Heatherly 2026-11-05 ~6:27am ET",
       "notes": "**Thu ~6:27am ET** payment request to Heatherly (cc mail@/jeff@/kat@). Same amount pattern as prior buildstand PO 4900663074 / T138."
+    },
+    {
+      "id": "T307",
+      "status": "open",
+      "priority": "high",
+      "due": "**Fri Nov 6 10:30\u201311:30am ET** + **verify LCU-6S stairs**",
+      "item": "Track outage **PP-6B-8 (6S 13A) @ BSA** \u2014 DPP install primary side of **45kVA transformer** for new BSA office; **@Jeff verify LCU-6S equipped with stairs**",
+      "source": "Email / Jason Marchbanks (DPP) ~9:19am + GE GVL Outage formal ~9:36am ET 2026-11-05",
+      "notes": "**Thu ~9:19am ET Jason\u2192GVL Outage (cc Jeff/Kat/Adam McClure/Alex Leppard):** outage request PP-6B-8 @ BSA Fri Nov 6 **10:30\u201311:30am** \u2014 primary-side connection of 45kVA transformer for new BSA office; sub DPP; GE Lead **Alex Leppard**. **~9:36am ET GVL Outage formal OUTAGE NOTIFICATION** (invite.ics): same window; tags **@Jeff Flannery \u2014 please verify LCU-6S is equipped with stairs**. Affected: **CAT#18568 BROACH BVA**, **CAT#EC2081 ACCUCHILLER ASB**, **CAT#706580 HYDROFLOW ASB** (+ undocumented 208/120V loads). Deduped Kat cal (GVL invite + Jeff hold) = **e125**. Ties BSA office path (T13/T42/T178)."
     }
   ],
   "calendar": [
-    "**TODAY Thu Nov 5** \u2014 **PP-12B-8 ckt-4 12:00\u20131:00pm** KMB (T298/e123); **Pulse 11:00am** (T265 deliverable SENT ~7:19am \u2192 waiting); N Bay crane 701681 LOTO thru **11/5** (ends Fri 11/6 all-day exclusive); RP-7B-4.8 window passed Wed (T289); T282 D6A still down (harvest repair); GTTL chilled water Nov 14\u201325",
+    "**TODAY Thu Nov 5** \u2014 **PP-12B-8 ckt-4 12:00\u20131:00pm** KMB (T298/e123); **Pulse 11:00am** (T265 deliverable SENT ~7:19am \u2192 waiting); N Bay crane 701681 LOTO thru **11/5** (ends Fri 11/6 all-day exclusive); **TOMORROW Fri Nov 6 10:30\u201311:30am PP-6B-8 BSA 45kVA (T307/e125 \u2014 Jeff verify LCU-6S stairs)**; RP-7B-4.8 window passed Wed (T289); T282 D6A still down (harvest repair); GTTL chilled water Nov 14\u201325",
     "**RESCHEDULED \u2192 Mon Nov 9 7:45\u20139:15am ET (GVL ICS ~7:40am Thu)** \u2014 Outage **PP-2B-27 (2S 29B)** AGV Flipstation landing in **CKA**; ME Adam Edwards / AMK Dunkley / DH Griffin; Jeff may need to **reinstate access** (T297) \u2014 e122 (was Thu Nov 5; Kat cal Jeff-hold still shows Thu \u2014 ICS Mon wins)",
     "**TODAY Thu Nov 5 12:00\u20131:00pm ET** \u2014 Outage **PP-12B-8 Ckt #4 @ KNB** replace broken P&S mechanical interlock at **KMB**; GE lead Alex Acosta; DPP (T298) \u2014 e123",
     "**TODAY Thu Nov 5 11:00am ET** \u2014 Weekly Pulse / leadership (Kat sent status ~7:19am + corrected map/xlsx ~8:34am; Julia ack ~8:30am) (T265) \u2014 e124",
+    "**TOMORROW Fri Nov 6 10:30\u201311:30am ET** \u2014 Outage **PP-6B-8 (6S 13A) @ BSA** DPP primary-side 45kVA transformer for new BSA office; GE lead Alex Leppard; **Jeff verify LCU-6S stairs** (T307) \u2014 e125",
     "\u2705 DONE Wed Nov 4 ~7:02pm \u2014 Jeff answered H&H: epoxy guy (GBI) does trench MVB/prep (T290) \u2014 waiting H&H price",
     "\u2705 DONE Wed Nov 4 ~12:26pm \u2014 Jeff answered Lisa Stafford OpSource crew-status (Alexis temp leave; Angel/Caleb/Paul quit; Obed yes vacation; Tavan as-needed) (T296)",
     "**ASAP (OpSource hire)** \u2014 Wait Yesenia onboarding for **Matthew Vincent Mitchem**, then Jeff start date + pay rate (T299)",
     "**ASAP (Nozzle Fab sub quote)** \u2014 Review Golden Brush GBI Estimate 13633 paint/striping/epoxy; fold into T122 (T300); H&H still pricing after MVB answer (T290)",
     "**waiting GE** \u2014 QB Est **2045** EC1874 Rong Fu @ EAB **$2,370.03** \u2192 Nathan Price (T301; was DPP #398)",
-    "**waiting GE** \u2014 QB Est **2046** Facility Gym Wall Repair Scaffold **$33,706.53** \u2192 Robert Smith (T283 JLTC Fitness)",
+    "**waiting GE** \u2014 QB Est **2046** Facility Gym Wall Repair Scaffold **$33,706.53** \u2192 Robert Smith (T283 JLTC Fitness; Jeff Fwd ~9:56am Thu to Robert1.smith)",
     "**NEW invoices Thu morning** \u2014 DPP Inv 4732 MHB Conduit Support (T302); QB 3956/3957/3961 UA scaffold FW42\u201344 + 3962 buildstand FW43\u201344 to Heatherly (T303\u2013T306)",
     "\u2705 DONE Tue Nov 3 ~9:19am \u2014 OpSource TIME/per diems week 10/26\u201311/1 submitted to Payroll OpSource (Coddy $23 TRAVEL 8h) (T294)",
     "**By 3rd week of Nov (Russ Zubkov AMK ~9:30am Tue)** \u2014 Oil Bay piping Phase 1 scaffolding up; flush crew next week + walkthrough TBD (T93)",
     "\u2705 PAST **Wed Nov 4 9:00\u20139:30am ET** \u2014 Outage RP-7B-4.8 @ DZB EZA Ops Tower 120V receptacles; GE lead Colby Murphy; DPP (T289) \u2014 e121 (window passed; no complete mail yet)",
-    "**ESI windows 12/5\u201312/6 + 12/12\u201312/13 (Fitts ~1:29pm Wed Nov 4)** \u2014 Monorail crane demo over **Furnace 6** back end; Jeff/Pete confirm scaffold + production OK (T286) \u2014 e120",
+    "**TENTATIVE LOCKED Dec 5\u20136 + Dec 12\u201313 (Pete ~9:56am + Fitts~10:09am Thu Nov 5 \u2014 Jeff can support)** \u2014 Monorail crane demo over **Furnace 6** back end; revisit closer; Indcom crew plan TBD (T286) \u2014 e120",
     "**Fri Oct 30 \u2192 EOD Tue Nov 3 (Kat ~12:31pm/~4:08pm Fri; GE VIP tour TODAY Mon Nov 2)** \u2014 D6A rack removed Fri for VIP tour; full repair by EOD Tue 11/3 (T282) \u2014 e118",
     "**Mon Nov 16 \u2013 Mon Jan 4 (NEW \u2014 Bob Smith GE ~12:04pm Fri)** \u2014 JLTC Fitness Center closed for drywall/louver/skylight repair; **Indcom scaffolding** in place for AM King (T283) \u2014 e119",
     "**DUE TODAY Mon Nov 2 (Jim Stanley GE ~6:09pm Thu; no completion mail yet)** \u2014 MAA scaffold debris mitigation over Nozzle Line 1: extra plywood row + taped joints, cover column gaps, netting underneath (T278) \u2014 e117",
@@ -3824,10 +3834,10 @@
     {
       "id": "e120",
       "type": "work",
-      "title": "Furnace 4 monorail crane demo \u2014 Indcom scaffold (tentative weekends)",
-      "summary": "Furnace 6 monorail crane demo \u2014 Indcom scaffold (ESI windows 12/5\u20136 + 12/12\u201313; Jeff/Pete confirm)",
+      "title": "Furnace 6 monorail crane demo \u2014 Indcom scaffold (tentative locked Dec weekends)",
+      "summary": "Furnace 6 monorail crane demo \u2014 Indcom scaffold TENTATIVE LOCKED Dec 5\u20136 + Dec 12\u201313 (Pete+Jeff; revisit closer)",
       "location": "GE Vernova Greenville \u2014 Furnace 4",
-      "description": "Matt Fitts Wed Nov 4 ~1:29pm: Does 12/5-12/6 and 12/12-12/13 work to demo monorail crane over back end of Furnace 6 from Scaffold Support and Production standpoint? ESI has these windows dedicated. PO 4900672923 (Furnace 4 monorail) to ESI; Indcom scaffold. Ties T286.",
+      "description": "Matt Fitts Thu Nov 5 ~10:09am: confirmed with Jeff he can support Dec 5\u20136 and Dec 12\u201313 weekends. Pete Lambley ~9:56am: tentatively schedule in and revisit closer. Monorail crane demo over back end of Furnace 6; ESI windows dedicated. PO 4900672923 (Furnace 4 monorail) to ESI; Indcom scaffold. Ties T286.",
       "start": "2026-12-05",
       "end": "2026-12-14",
       "allDay": true,
@@ -3894,6 +3904,22 @@
       "allDay": false,
       "type": "meeting",
       "todoId": "T265"
+    },
+    {
+      "id": "e125",
+      "type": "outage",
+      "title": "Outage PP-6B-8 (6S 13A) @ BSA \u2014 45kVA transformer primary (DPP)",
+      "summary": "Fri Nov 6 10:30\u201311:30am ET @ BSA; DPP primary-side 45kVA for new BSA office; GE lead Alex Leppard; @Jeff verify LCU-6S stairs",
+      "location": "GE Vernova Greenville \u2014 BSA / PP-6B-8 (affects Broach BVA, Accuchiller ASB, Hydroflow ASB)",
+      "description": "Jason Marchbanks (DPP) Thu Nov 5 ~9:19am outage request; GVL Outage formal ~9:36am OUTAGE NOTIFICATION. Purpose: install primary side connection of 45kVA transformer for new BSA office. Sub DPP; GE Lead Alex Leppard. @Jeff Flannery please verify LCU-6S is equipped with stairs. Affected: CAT#18568 BROACH BVA; CAT#EC2081 ACCUCHILLER ASB; CAT#706580 HYDROFLOW ASB (+ misc 208/120V). Kat cal has GVL invite + Jeff hold (deduped). Ties T307 / BSA office T13.",
+      "start": "2026-11-06T10:30:00-05:00",
+      "end": "2026-11-06T11:30:00-05:00",
+      "allDay": false,
+      "todoId": "T307",
+      "relatedTodos": [
+        "T307",
+        "T13"
+      ]
     }
   ]
 }
