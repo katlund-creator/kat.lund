@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T12:11:20-05:00",
+  "updated": "2026-11-06T14:14:06-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -274,6 +274,15 @@
       "notes": "Joe asks Jeff: clear direction from AMKing / H&W on what they need, and when Indcom can start \u2014 prefer weekend. Cc Kyle Herman / Steve Gordon / Mitch Pingry: does H&W have all hardware?"
     },
     {
+      "id": "T63",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP (Tue noon payroll PAST \u2014 still open)",
+      "item": "Correct OpSource FW39 deltas after Jeff submit (Ezequiel hrs / Joshua per diem / add Lance)",
+      "source": "Email / Jeff\u2192Julie + Katheryn FW39 2026-09-29",
+      "notes": "**Tue ~9:28am ET Jeff\u2192Julie/Payroll/Lisa (cc Bill+Katheryn):** submitted \u201cIndcom Time\u201d (21 names) \u2014 **closes submit side of T40**. **Deltas vs Katheryn ~8:53am corrected list:** Ezequiel **50 hrs** (Kat **70**); Joshua per diem **$600** (Kat **$700**); **missing Lance Maxwell Reid** 40 hrs / $400. **Noon payroll window passed (~12:00pm ET Tue) with no correction mail as of ~Wed 8:11am ET.** Still need correction to Julie/Payroll ASAP if Kat\u2019s numbers are right."
+    },
+    {
       "id": "T42",
       "status": "open",
       "priority": "med",
@@ -434,15 +443,6 @@
       "item": "Resolve UniFirst screen-print shirts path with Bill (alt vendor?)",
       "source": "Email / Herrod + Bill 2026-09-28 ~5:32/5:53pm ET",
       "notes": "**Herrod (UniFirst) ~5:32pm ET:** cannot provide screen-print shirts (3rd-party cost/logistics diverge from quote); apologizes; offered call **Tue 1\u20134pm**. **Bill ~5:53pm ET\u2192Herrod (To Jeff; cc Katheryn + Trey):** disappointed after proof-sample assurances; asks how to proceed / alternate uniform provider / what UniFirst will do; pants alone don\u2019t fulfill; **business in question**. **Tue Sep 29 ~5:11pm ET:** offered **1\u20134pm call window passed with no path yet**. Distinct from T45 (Floor Mats). Jeff+Bill need path. **Wed Oct 28 ~1:29pm ET:** Katheryn \u2192 Herrod (cc Trey, Jeff) on screen-print thread: after reviewing shirts with Trey, a few **placement issues**; sent reference mockups (10.28.2026.LOGO.BRANDING_01/_02.pdf) for location, design consistency, colors \u2014 **waiting on UniFirst** corrections. **Thu Oct 29 ~2:34pm ET Herrod\u2192Kat (cc Trey, Jeff):** \u201cThanks for the update Kat. We will see what we can do.\u201d **~2:37pm Kat:** has the **patch mockups** \u2014 who should receive them? **~2:39pm Herrod:** \u201cYou can send those over to me.\u201d \u2192 **Kat to send patch mockups to Jeffrey Herrod**; still waiting UniFirst on shirt placement corrections. **Thu Oct 29 ~3:26pm ET Kat\u2192Herrod (cc Trey, Jeff):** sent *UNIFORM PATCHES.svg* mockups (logos sized to patch dimensions) and asked UniFirst to **begin production** so jackets + coveralls can be ordered \u2192 waiting UniFirst on patch production + shirt placement fixes. **Mon Nov 2 ~9:07am ET Kat\u2192Herrod:** sent updated logo file (fixed transparent-background issues) and asked for status update on the patches \u2014 waiting UniFirst. **Mon Nov 2 ~3:10pm ET Herrod\u2192Kat:** logos for the **jackets and coveralls have been sent off**; expects them back in **a day or two**, then UniFirst will **sew one on a jacket + provide a name emblem** sample for review \u2192 waiting UniFirst sample (~Wed\u2013Thu Nov 4\u20135)."
-    },
-    {
-      "id": "T63",
-      "status": "open",
-      "priority": "high",
-      "due": "ASAP (Tue noon payroll PAST \u2014 still open)",
-      "item": "Correct OpSource FW39 deltas after Jeff submit (Ezequiel hrs / Joshua per diem / add Lance)",
-      "source": "Email / Jeff\u2192Julie + Katheryn FW39 2026-09-29",
-      "notes": "**Tue ~9:28am ET Jeff\u2192Julie/Payroll/Lisa (cc Bill+Katheryn):** submitted \u201cIndcom Time\u201d (21 names) \u2014 **closes submit side of T40**. **Deltas vs Katheryn ~8:53am corrected list:** Ezequiel **50 hrs** (Kat **70**); Joshua per diem **$600** (Kat **$700**); **missing Lance Maxwell Reid** 40 hrs / $400. **Noon payroll window passed (~12:00pm ET Tue) with no correction mail as of ~Wed 8:11am ET.** Still need correction to Julie/Payroll ASAP if Kat\u2019s numbers are right."
     },
     {
       "id": "T64",
@@ -1462,6 +1462,15 @@
       "notes": "**Mon ~5:55am ET Jeff\u2192Jeremy (cc Jimmy), Re: Indcom Ledgers on GE-JF260930:** additional scope \u2192 need **another truck loaded and shipped ASAP**; send what Ocala has on hand and source the rest from another branch if needed. **Totals:** 112\u00d7 9'9\" verticals w/ pin; 100\u00d7 0.45 LW ledgers; 100\u00d7 0.65 LW ledgers; 500\u00d7 2.57 (8'5\") LW ledgers; 40\u00d7 0.65 (2'1\") side brackets; 100\u00d7 rosette clamps; 180\u00d7 8'5\" steel decks; 180\u00d7 6'9\" steel decks; 30\u00d7 2'1\" steel decks; 90\u00d7 3'7\" steel decks. Waiting Layher reply/quote + truck; then freight (Priority1 like T156) + drop-off contact. Related **T197** (R-000272 ledgers, Mon pickup unconfirmed), **T190** (girders not in this list), **T4**. **Wed Oct 21 ~2:22pm ET Jimmy Holmes (Layher)\u2192Jeff + Jeremy, RE: Indcom Ledgers on GE-JF260930:** attached *Indcom R-000291 Truck 1.pdf* \u2014 list of material **currently being loaded on the truck headed your way**. Only short item: **8'5\" ledgers \u2014 shipping 440 (of 500)**, all on property; more coming soon to finish the order. Still need ship/delivery ETA, freight arrangement (see **T224** Priority1), drop-off contact, and follow-up for the remaining **60\u00d7 8'5\" ledgers**."
     },
     {
+      "id": "T224",
+      "status": "open",
+      "priority": "high",
+      "due": "this week",
+      "item": "Reply Priority1 (Joshua Cady) \u2014 any shipments this week? (covering for Riley at HQ training)",
+      "source": "Email / Joshua Cady (Priority1) 2026-10-21 ~2:34pm ET",
+      "notes": "**Wed ~2:34pm ET Joshua Cady\u2192Jeff, P1 \\"
+    },
+    {
       "id": "T202",
       "status": "open",
       "priority": "high",
@@ -1640,15 +1649,6 @@
       "item": "Review **SCI Electronics quote \u2014 GE BSA New Office data** (network connections)",
       "source": "Email / Mike Mullaney (SCI) 2026-10-21 ~12:00pm ET",
       "notes": "**Wed ~12:00pm ET Mike Mullaney (SCI, Account Manager)\u2192Jeff (cc Katheryn)**, *SCI GE BSA Office Data Quote*: attached *13312610584- Indcom GE BSA New Office 10-21-26.pdf* \u2014 prices split into **office data**, **repull of cables for the CP and IE4K**, and **floor boxes**; also included a drawing of other CPs/IE4Ks in the area if space runs out. Amount not in email body. Review vs DPP raceway/power estimate (T219) + raised-floor/floor-box plan (T195) and route into customer quote path."
-    },
-    {
-      "id": "T224",
-      "status": "open",
-      "priority": "high",
-      "due": "this week",
-      "item": "Reply Priority1 (Joshua Cady) \u2014 any shipments this week? (covering for Riley at HQ training)",
-      "source": "Email / Joshua Cady (Priority1) 2026-10-21 ~2:34pm ET",
-      "notes": "**Wed ~2:34pm ET Joshua Cady\u2192Jeff, P1 \\"
     },
     {
       "id": "T225",
@@ -2101,13 +2101,22 @@
       "notes": "**PR854686**; NET 150; *FW 41 UA Scaffold Support*; service Mon Oct 5 \u2192 Sun Oct 11; need-by 27 Oct 2026. Confirm in Ariba, service sheet, invoice. **Tue Nov 3 ~5:00am ET** still listed **New/unconfirmed** on Ariba confirm-orders digest."
     },
     {
-      "id": "T283",
-      "status": "waiting",
+      "id": "T282",
+      "status": "in progress",
       "priority": "high",
-      "due": "**waiting GE (Bob Smith) approval/PO** \u2014 Est 2046 SENT Wed ~8:15pm",
+      "due": "**Rack removed Fri Oct 30 (before VIP tour Mon Nov 2); full repair by EOD Tue Nov 3**",
+      "item": "Look at / repair broken cross-brace weld on rack **D6A** (Train Area Rack-01, RED, upright post \u2014 listed \"waiting on repair kits\"); GE asks for interim fix (weld repair or replacement) so Paul Heebner gets the rack back",
+      "source": "Email / Brian Hill (GE EHS) 2026-10-30 ~7:59am ET + Paul Heebner ~8:25am ET",
+      "notes": "**Fri ~7:59am ET Brian Hill, PE\u2192Kat + Jeff (cc Julia Filiatreau, Paul Heebner)**, Re: *Updating Rack Inspection Table*: thinks D6A has a **broken weld on a cross brace**; Paul needs the rack back **asap** to prep for a **VIP tour Monday**; since repair kits are pending, asks whether **welding repair or replacement** is possible. **~8:25am Paul Heebner** attached a photo of the brace needing repair. No Indcom reply seen yet. Related T265 (rack repair timing) / harvest-parts plan from Husky House. **Fri ~12:31pm ET Kat\u2192Paul Heebner (cc Brian Hill, Jeff, Julia):** rack will be **taken down today** until a repair kit or replacement part is installed (fix had been planned for Monday; pulled early for the VIP tour); **fully repaired by end of day Tue 11/3**. Action: confirm crew removes D6A today; deliver repair by Tue Nov 3. **Fri ~4:08pm ET Kat\u2192Paul Heebner (thread):** rack has been **removed** and will be **replaced next week**. **Mon Nov 2 ~8:07am ET:** no new mail since Kat ~4:08pm Fri (rack removed, replace next week); GE VIP tour today; full repair still due EOD Tue Nov 3. **Thu Nov 5 ~7:19am ET (Kat Pulse update to Julia):** D6A still down; will be **replaced/repaired with harvested parts from Husky House** (no completion mail yet; past EOD Tue Nov 3 due)."
+    },
+    {
+      "id": "T283",
+      "status": "open",
+      "priority": "high",
+      "due": "**PO IN 4900676672** \u2014 ack/confirm-orders; gym closes **Mon Nov 16** (reopens Jan 4); need-by Dec 31",
       "item": "**JLTC Fitness Center drywall/louver repair** \u2014 Indcom provides all required scaffolding; fitness center closed **Mon Nov 16 \u2013 reopens Mon Jan 4**",
-      "source": "Email / Bob Smith (GE Facilities Eng.) 2026-10-30 ~12:04pm ET",
-      "notes": "**Fri ~12:04pm ET Bob Smith\u2192Jack Davis + Catherine Knight (AM King), Jeff (cc Amanda Fowler, Joseph Betten, Trevor Honosky):** met w/ AM King, Indcom, Tori; safety + noise \u2192 gym closes Nov 16, reopens Jan 4. **Indcom = all scaffolding.** AM King: remove louvers, make electrical safe, drywall repair/paint, remove dead light fixtures (leave boxes/conduit), skylight leak test + repair. Bob asked AM King for detailed scope + proposal ASAP. Indcom: plan/price scaffold for JLTC Group Fitness area (likely needs scaffold quote to AM King/GE), confirm material/crew for Nov 16. **Wed Nov 4 ~8:15pm ET QuickBooks Estimate 2046** *Facility Gym Wall Repair Scaffold Support* **$33,706.53** sent to **Robert Smith** (robert.smith1@gevernova.com; cc mail@/kat@/jeff@). Customer quote path SENT \u2192 now **waiting GE approval/PO** (gym close still Nov 16). **Thu Nov 5 ~9:56am ET Jeff\u2192Robert1.smith@gevernova.com:** Fwd *Estimate 2046* PDF ($33,706.53 Facility Gym Wall Repair Scaffold Support) \u2014 resent/confirmed delivery path to Bob; still **waiting GE approval/PO**."
+      "source": "Email / Bob Smith (GE Facilities Eng.) 2026-10-30 ~12:04pm ET + Ariba PO 2026-11-06",
+      "notes": "**Fri ~12:04pm ET Bob Smith\u2192Jack Davis + Catherine Knight (AM King), Jeff (cc Amanda Fowler, Joseph Betten, Trevor Honosky):** met w/ AM King, Indcom, Tori; safety + noise \u2192 gym closes Nov 16, reopens Jan 4. **Indcom = all scaffolding.** AM King: remove louvers, make electrical safe, drywall repair/paint, remove dead light fixtures (leave boxes/conduit), skylight leak test + repair. Bob asked AM King for detailed scope + proposal ASAP. Indcom: plan/price scaffold for JLTC Group Fitness area (likely needs scaffold quote to AM King/GE), confirm material/crew for Nov 16. **Wed Nov 4 ~8:15pm ET QuickBooks Estimate 2046** *Facility Gym Wall Repair Scaffold Support* **$33,706.53** sent to **Robert Smith** (robert.smith1@gevernova.com; cc mail@/kat@/jeff@). Customer quote path SENT \u2192 now **waiting GE approval/PO** (gym close still Nov 16). **Thu Nov 5 ~9:56am ET Jeff\u2192Robert1.smith@gevernova.com:** Fwd *Estimate 2046* PDF ($33,706.53 Facility Gym Wall Repair Scaffold Support) \u2014 resent/confirmed delivery path to Bob; still **waiting GE approval/PO**. **Fri Nov 6 ~1:16pm ET Ariba:** GE PO **4900676672** **$33,706.53 USD** NET 150 IN (matches Est **2046**); requester **Susan Clayton** / **PR861471**; Deliver To **Robert Smith @ JLTC Bldg**; Purchase Group ENG \u2013 Gas Power Engineer; need-by **31 Dec 2026**. Scope: ONSITE\u2122 SAFE ACCESS & FALL RISK MITIGATION SUPPORT (Facility Gym) \u2014 changed from small access scaffold erected 10/20 \u2192 **25\u2032\u00d730\u2032 dance-floor scaffold needed November 16**, then raised above louvers for wall repairs/paint/clean ceiling glass. Labor $20,722 / Material $11,395 (two 28-day rental cycles @ $5,285 + original build $825) / Equip $636.91 / Consumables $952.63. Order submitted Fri 6 Nov ~1:14pm ET. \u2192 **ack/confirm-orders** + schedule **Nov 16** dance-floor build."
     },
     {
       "id": "T284",
@@ -2315,10 +2324,19 @@
       "item": "Review **SPC chilled water chemical injection** quotes (line 1 + line 2) for **Mitch** \u2014 build GE quote",
       "source": "Email / Evan Groce (SPC, fabricationspc@gmail.com)\u2192Jeff 2026-11-05 ~12:49pm ET",
       "notes": "\u201cAttached are the quotes for the chilled water injection that we talked about. These were for Mitch.\u201d PDFs *chilled water chemical injection line 1.pdf* + *line 2.pdf* (amounts in PDFs, not opened). Review, mark up, and send GE quote to Mitch Reese."
+    },
+    {
+      "id": "T309",
+      "status": "open",
+      "priority": "high",
+      "due": "ASAP \u2014 Bill sign RTO + down-payment invoice",
+      "item": "**Layher RORD07258** Rent-to-Own \u2014 needs **RTO contract + Down Payment Invoice** (authorized signer **Bill Marchbanks**)",
+      "source": "Email / Bill\u2192Jeff Fwd 2026-11-06 ~2:05pm ET (Obed Bosch\u2192Kieu Le Tue Nov 3)",
+      "notes": "**Fri ~2:05pm ET Bill Marchbanks\u2192Jeff:** Fwd *Fw: Indcom RORD07258 Needs Contract* (Obed Bosch Tue Nov 3 ~12:51pm \u2192 Kieu Le, cc Bill): ask Layher for **RTO agreement for new RTO RORD07258** for Indcom Corp; authorized signer **Bill Marchbanks** (bill.marchbanks@indcomcorp.com); also send **Down Payment Invoice**. Attachments: *RORD07258 Indcom Order Conf.pdf* + *Indcom RORD07258 Payment Schedule.pdf*. Distinct from rental paths **T4** (R-000159), **T201**, **T250** (R-000309). \u2192 track contract signature + down-payment path (Bill)."
     }
   ],
   "calendar": [
-    "**TODAY Fri Nov 6** \u2014 \u2705 **PP-6B-8 BSA 45kVA COMPLETE ~12:04pm** (T307/e125); GTTL chilled water Nov 14\u201325; Mon Nov 9 PP-2B-27 on board (T297/e122 \u2014 not on live Kat primary); N Bay 701681 LOTO thru 11/5 ended; RP-7B-4.8 window passed Wed (T289); T282 D6A still down (harvest repair)",
+    "**TODAY Fri Nov 6** \u2014 \u2705 **PP-6B-8 BSA 45kVA COMPLETE ~12:04pm** (T307/e125); **T283 PO IN 4900676672** gym scaffold; **NEW T309** Layher RORD07258 contract; GTTL chilled water Nov 14\u201325; Mon Nov 9 PP-2B-27 on board (T297/e122 \u2014 not on live Kat primary); N Bay 701681 LOTO thru 11/5 ended; RP-7B-4.8 window passed Wed (T289); T282 D6A still down (harvest repair)",
     "**RESCHEDULED \u2192 Mon Nov 9 7:45\u20139:15am ET (GVL ICS ~7:40am Thu)** \u2014 Outage **PP-2B-27 (2S 29B)** AGV Flipstation landing in **CKA**; ME Adam Edwards / AMK Dunkley / DH Griffin; Jeff may need to **reinstate access** (T297) \u2014 e122 (was Thu Nov 5; Kat cal Jeff-hold still shows Thu \u2014 ICS Mon wins)",
     "**TODAY Thu Nov 5 12:00\u20131:00pm ET** \u2014 Outage **PP-12B-8 Ckt #4 @ KNB** replace broken P&S mechanical interlock at **KMB**; GE lead Alex Acosta; DPP (T298) \u2014 e123",
     "**TODAY Thu Nov 5 11:00am ET** \u2014 Weekly Pulse / leadership (Kat sent status ~7:19am + corrected map/xlsx ~8:34am; Julia ack ~8:30am) (T265) \u2014 e124",
@@ -2329,14 +2347,14 @@
     "**ASAP (Nozzle Fab sub quotes)** \u2014 Review Golden Brush GBI Estimate 13633 paint/striping/epoxy (T300) + **H&H Concrete estimate IN ~11:24am** (*GE Verona Nozzle Fab\u2026pdf*; T290); fold both + SCI/DPP into T122",
     "**ASAP (Duncan chasing ~11:23am Thu)** \u2014 Quote BL5 floor mats removal/install labor-only (GE supplies mats) \u2014 Duncan Holman follow-up (T126)",
     "**waiting GE** \u2014 QB Est **2045** EC1874 Rong Fu @ EAB **$2,370.03** \u2192 Nathan Price (T301; was DPP #398)",
-    "**waiting GE** \u2014 QB Est **2046** Facility Gym Wall Repair Scaffold **$33,706.53** \u2192 Robert Smith (T283 JLTC Fitness; Jeff Fwd ~9:56am Thu to Robert1.smith)",
+    "**PO IN** \u2014 Ariba **4900676672** $33,706.53 Facility Gym / JLTC Fitness scaffold (Est **2046**) \u2014 ack + Nov 16 dance-floor build (T283)",
     "**NEW invoices Thu morning** \u2014 DPP Inv 4732 MHB Conduit Support (T302); QB 3956/3957/3961 UA scaffold FW42\u201344 + 3962 buildstand FW43\u201344 to Heatherly (T303\u2013T306)",
     "\u2705 DONE Tue Nov 3 ~9:19am \u2014 OpSource TIME/per diems week 10/26\u201311/1 submitted to Payroll OpSource (Coddy $23 TRAVEL 8h) (T294)",
     "**By 3rd week of Nov (Russ Zubkov AMK ~9:30am Tue)** \u2014 Oil Bay piping Phase 1 scaffolding up; flush crew next week + walkthrough TBD (T93)",
     "\u2705 PAST **Wed Nov 4 9:00\u20139:30am ET** \u2014 Outage RP-7B-4.8 @ DZB EZA Ops Tower 120V receptacles; GE lead Colby Murphy; DPP (T289) \u2014 e121 (window passed; no complete mail yet)",
     "**TENTATIVE LOCKED Dec 5\u20136 + Dec 12\u201313 (Pete ~9:56am + Fitts~10:09am Thu Nov 5 \u2014 Jeff can support)** \u2014 Monorail crane demo over **Furnace 6** back end; revisit closer; Indcom crew plan TBD (T286) \u2014 e120",
     "**Fri Oct 30 \u2192 EOD Tue Nov 3 (Kat ~12:31pm/~4:08pm Fri; GE VIP tour TODAY Mon Nov 2)** \u2014 D6A rack removed Fri for VIP tour; full repair by EOD Tue 11/3 (T282) \u2014 e118",
-    "**Mon Nov 16 \u2013 Mon Jan 4 (NEW \u2014 Bob Smith GE ~12:04pm Fri)** \u2014 JLTC Fitness Center closed for drywall/louver/skylight repair; **Indcom scaffolding** in place for AM King (T283) \u2014 e119",
+    "**Mon Nov 16 \u2013 Mon Jan 4 (Bob Smith GE)** \u2014 JLTC Fitness Center closed; **PO 4900676672 IN** \u2014 Indcom **25\u2032\u00d730\u2032 dance-floor scaffold** for AM King wall/louver/skylight work (T283) \u2014 e119",
     "**DUE TODAY Mon Nov 2 (Jim Stanley GE ~6:09pm Thu; no completion mail yet)** \u2014 MAA scaffold debris mitigation over Nozzle Line 1: extra plywood row + taped joints, cover column gaps, netting underneath (T278) \u2014 e117",
     "**THIS WEEK (UPDATE Mon Nov 2 ~9:03am \u2014 DPP confirms ready; MSS asking to come back)** \u2014 Mitsubishi machine 7 in place \u2192 MSS (Frank Manganella/Scott Stone) ties in FA modules, test, close out; day TBD (T67) \u2014 e115",
     "\u2705 SENT Thu Oct 29 ~7:44am (before 11:00am ET mtg) \u2014 Updated rack inspection table + material/repair completion timing for GE leadership meeting (T265) \u2014 e114",
