@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T16:14:53-05:00",
+  "updated": "2026-11-09T08:10:37-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -2333,6 +2333,33 @@
       "item": "**Layher RORD07258** Rent-to-Own \u2014 needs **RTO contract + Down Payment Invoice** (authorized signer **Bill Marchbanks**)",
       "source": "Email / Bill\u2192Jeff Fwd 2026-11-06 ~2:05pm ET (Obed Bosch\u2192Kieu Le Tue Nov 3)",
       "notes": "**Fri ~2:05pm ET Bill Marchbanks\u2192Jeff:** Fwd *Fw: Indcom RORD07258 Needs Contract* (Obed Bosch Tue Nov 3 ~12:51pm \u2192 Kieu Le, cc Bill): ask Layher for **RTO agreement for new RTO RORD07258** for Indcom Corp; authorized signer **Bill Marchbanks** (bill.marchbanks@indcomcorp.com); also send **Down Payment Invoice**. Attachments: *RORD07258 Indcom Order Conf.pdf* + *Indcom RORD07258 Payment Schedule.pdf*. Distinct from rental paths **T4** (R-000159), **T201**, **T250** (R-000309). \u2192 track contract signature + down-payment path (Bill)."
+    },
+    {
+      "id": "T310",
+      "status": "open",
+      "priority": "high",
+      "due": "PO need-by Nov 13 \u2014 ack in Ariba",
+      "item": "GE PO **4900676996** **$2,370.03** NET 150 \u2014 **EC1874 Rong Fu @ EAB** install power (PM, materials, equip, labor)",
+      "source": "Email / Ariba GE Vernova 2026-11-09 ~7:45am ET",
+      "notes": "Requester **Nathan Price** (PR860039, GE Gas Turbines Greenville, ship-to 5250). Need-by **13 Nov 2026**. Process/ack in Ariba; schedule work."
+    },
+    {
+      "id": "T311",
+      "status": "open",
+      "priority": "med",
+      "due": "review + route",
+      "item": "**A bay floor mount quote** from Evan Groce (SPC) \u2014 quote is for **Fernando**; build/send GE quote",
+      "source": "Email / Evan Groce\u2192Jeff 2026-11-09 ~8:00am ET",
+      "notes": "\u201cPlease see attached quote for Fernando, let me know if there is anything else you need on my end.\u201d Attachment not opened."
+    },
+    {
+      "id": "T312",
+      "status": "open",
+      "priority": "med",
+      "due": "review + build GE quote",
+      "item": "**RDC \u2013 Daniel Dorriety** (GE, Daniel.Dorriety@gevernova.com, 864-270-2117) quote from Jason Marchbanks (Dynamic Pipe & Power)",
+      "source": "Email / Jason\u2192Jeff Sun 2026-11-08 ~11:50am ET",
+      "notes": "Joist estimate attached; Bill asked Jason to send estimates as PDF going forward (Jason resent ~12:40pm, Bill \u201cThanks\u201d ~1:04pm). Jeff to quote Daniel."
     }
   ],
   "calendar": [
