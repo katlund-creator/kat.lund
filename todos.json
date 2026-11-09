@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T08:10:37-05:00",
+  "updated": "2026-11-09T11:08:48-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -2360,6 +2360,33 @@
       "item": "**RDC \u2013 Daniel Dorriety** (GE, Daniel.Dorriety@gevernova.com, 864-270-2117) quote from Jason Marchbanks (Dynamic Pipe & Power)",
       "source": "Email / Jason\u2192Jeff Sun 2026-11-08 ~11:50am ET",
       "notes": "Joist estimate attached; Bill asked Jason to send estimates as PDF going forward (Jason resent ~12:40pm, Bill \u201cThanks\u201d ~1:04pm). Jeff to quote Daniel."
+    },
+    {
+      "id": "T313",
+      "status": "waiting",
+      "priority": "med",
+      "due": "review + respond",
+      "item": "**Drip pans (chiller)** \u2014 Mitch Reese (GE Vernova, 864-216-3888), cc Matthew Fitts",
+      "source": "Email / Mitch\u2192Jeff Mon 2026-11-09 ~8:42am ET",
+      "notes": "Attached *Chiller Drip Pan.PDF* + 2 photos; no body text. Review and quote/fabricate as needed. Jeff sent spec+photos to Evan Groce (SPC) ~9:17am ET as urgent repair \u2014 waiting SPC quote."
+    },
+    {
+      "id": "T314",
+      "status": "open",
+      "priority": "high",
+      "due": "Tue Nov 10 10:45am",
+      "item": "**Shutdown request Bus E2-59** \u2014 remove/replace wire for Rong Fu Machine @ EAB (ties to T310); Jason Marchbanks (Dynamic Pipe & Power) requested from GVL Outage, cc Jeff/Kat",
+      "source": "Email / Jason\u2192GVL Outage Mon 2026-11-09 ~10:40am ET",
+      "notes": "Watch for GVL approval/confirmation; photos attached."
+    },
+    {
+      "id": "T315",
+      "status": "open",
+      "priority": "low",
+      "due": "this week",
+      "item": "**OpSource Staffing** (Lisa Stafford) asks Jeff for holiday (Thanksgiving/Christmas) schedule + 2027 staffing forecast",
+      "source": "Email 2026-11-09 ~10:24am ET",
+      "notes": "Reply with holiday schedule and expected 2027 needs."
     }
   ],
   "calendar": [
@@ -3968,6 +3995,17 @@
       ],
       "status": "done",
       "notes": "GVL Outage ~12:04pm ET: Outage is complete. Closes T307."
+    },
+    {
+      "id": "e126",
+      "summary": "Shutdown E2-59 (Rong Fu @ EAB) \u2014 Dynamic Pipe & Power",
+      "location": "EAB",
+      "description": "Requested from GVL Outage by Jason Marchbanks. (T314)",
+      "start": "2026-11-10T10:45:00-05:00",
+      "end": "2026-11-10T12:00:00-05:00",
+      "allDay": false,
+      "type": "outage",
+      "todoId": "T314"
     }
   ]
 }
