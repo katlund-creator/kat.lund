@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T11:08:48-05:00",
+  "updated": "2026-11-09T17:10:18-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -2377,7 +2377,7 @@
       "due": "Tue Nov 10 10:45am",
       "item": "**Shutdown request Bus E2-59** \u2014 remove/replace wire for Rong Fu Machine @ EAB (ties to T310); Jason Marchbanks (Dynamic Pipe & Power) requested from GVL Outage, cc Jeff/Kat",
       "source": "Email / Jason\u2192GVL Outage Mon 2026-11-09 ~10:40am ET",
-      "notes": "Watch for GVL approval/confirmation; photos attached."
+      "notes": "Watch for GVL approval/confirmation (GVL re-broadcast notice 12:02pm, not yet approved); photos attached."
     },
     {
       "id": "T315",
@@ -2387,6 +2387,42 @@
       "item": "**OpSource Staffing** (Lisa Stafford) asks Jeff for holiday (Thanksgiving/Christmas) schedule + 2027 staffing forecast",
       "source": "Email 2026-11-09 ~10:24am ET",
       "notes": "Reply with holiday schedule and expected 2027 needs."
+    },
+    {
+      "id": "T316",
+      "status": "open",
+      "priority": "low",
+      "due": "this week",
+      "item": "**Allied Modular (Gloria Pedroza)** asks Jeff for General Contractor recommendations in Columbia, SC to pull permits for a project essentially the same as GE's BSA",
+      "source": "Email 2026-11-09 ~3:02pm ET",
+      "notes": "Reply to Gloria with any GC recommendations (relates T13)."
+    },
+    {
+      "id": "T317",
+      "status": "open",
+      "priority": "medium",
+      "due": "this week",
+      "item": "**Zac Ciesielczyk (GE Vernova Turbine Assembly)** asks Indcom to quote the *EFB Office Demo* project and wants to meet this week to discuss questions",
+      "source": "Email 2026-11-09 ~3:42pm ET",
+      "notes": "Reply to Zac to schedule a meeting this week; prep quote."
+    },
+    {
+      "id": "T318",
+      "status": "open",
+      "priority": "low",
+      "due": "this/next week",
+      "item": "GE Adam Edwards ~4:58pm RE: AGV Installation Line Walk \u2014 updated flip-station install status w/ installs at risk from obstructions (follow-up to T101); check whether Indcom scaffold/stairs are blockers",
+      "source": "Email 2026-11-09 ~4:58pm ET",
+      "notes": "Review attachment; remove Indcom items if flagged."
+    },
+    {
+      "id": "T319",
+      "status": "open",
+      "priority": "low",
+      "due": "this week",
+      "item": "Sam Barnett (Indcom) ~4:41pm asks Jeff for current signed IRS Form W-9 for annual vendor records audit",
+      "source": "Email 2026-11-09 ~4:41pm ET",
+      "notes": "Jeff to send W-9 to Sam."
     }
   ],
   "calendar": [
