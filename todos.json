@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T14:06:13-05:00",
+  "updated": "2026-11-10T15:04:28-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -2441,6 +2441,33 @@
       "item": "Submit OpSource crew TIME/per diems week 11/2\u201311/8 (Kat's list)",
       "source": "Email / Katheryn\u2192Jeff 2026-11-10 ~9:09am ET",
       "notes": "Kat sent \"TIME - 11/2 - 11/8\" (e.g., Ezequiel Montalvo 70h/$600, Joshua Carrion 70h/$600, Alejandro Villalva 53h/$375, Raul Borrero 53h/$375, Scott Ecklund\u2026). Jeff to forward to Payroll OpSource. Kat ~10:06am replied to Jeff: no worries, was about to send it herself, thanks \u2014 Jeff apparently handling/sent."
+    },
+    {
+      "id": "T322",
+      "status": "open",
+      "priority": "high",
+      "due": "this week",
+      "item": "Send Joseph Buellesbach ballpark cost: M-Bay scaffold up ~5 weeks + enclosure costs for constant LDB enclosure relocations (he needs to raise budgets, no exact number)",
+      "source": "Email / Buellesbach (GE Vernova) 2026-11-10 ~2:56pm ET",
+      "notes": "Related T166."
+    },
+    {
+      "id": "T323",
+      "status": "open",
+      "priority": "med",
+      "due": "this week",
+      "item": "Review SOW for **Repair G-Bay Restrooms Refresh**; Bob Smith offers walkthrough at Jeff's convenience",
+      "source": "Email / Robert Smith (GE Vernova) 2026-11-10 ~2:17pm ET",
+      "notes": "SOW attached; schedule walkthrough + quote."
+    },
+    {
+      "id": "T324",
+      "status": "open",
+      "priority": "med",
+      "due": "need-by 11/11",
+      "item": "**GE POs 4900677870, 4900677871, 4900677872, 4900677873** (New, NET 150) \u2014 4900677873 = $41,962.48 FW43 UA SCAFFOLD SUPPORT svc 10/19\u201310/25, PR862283, requester William Heatherly; others amounts not read, likely same series; service sheets required",
+      "source": "Ariba email 2026-11-10 ~2:06pm ET",
+      "notes": "Confirm in Ariba + service sheets."
     }
   ],
   "calendar": [
