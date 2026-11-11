@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T15:04:28-05:00",
+  "updated": "2026-11-11T08:09:07-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -2468,6 +2468,33 @@
       "item": "**GE POs 4900677870, 4900677871, 4900677872, 4900677873** (New, NET 150) \u2014 4900677873 = $41,962.48 FW43 UA SCAFFOLD SUPPORT svc 10/19\u201310/25, PR862283, requester William Heatherly; others amounts not read, likely same series; service sheets required",
       "source": "Ariba email 2026-11-10 ~2:06pm ET",
       "notes": "Confirm in Ariba + service sheets."
+    },
+    {
+      "id": "T325",
+      "status": "open",
+      "priority": "high",
+      "due": "today",
+      "item": "Jeff/Kat: Julia Filiatreau (GE Vernova) asks Kat for rack inspection updates before Pulse meeting Thu Nov 12 AM (reply to 'Updating Rack Inspection Table')",
+      "source": "Email / Julia Filiatreau 2026-11-11 ~5:31am ET",
+      "notes": "Needs reply today."
+    },
+    {
+      "id": "T326",
+      "status": "open",
+      "priority": "med",
+      "due": "today",
+      "item": "Evan Groce (SPC) 'Invoice reminder' ~7:45am ET to Jeff + AP: asks if invoices received, usually paid by now; ASA drip pan invoice sent ~9pm Nov 10 (Jeff thanked 10:17pm)",
+      "source": "Email / Evan Groce 2026-11-11",
+      "notes": "Route to AP/Jason; related T313."
+    },
+    {
+      "id": "T327",
+      "status": "waiting",
+      "priority": "med",
+      "due": "\u2014",
+      "item": "Quotes sent via QuickBooks 11/11 ~3:14\u20133:30am ET: Est 2053 ASA Chiller Drip Pan Repair $2,317.50 (Matt Fitts); 2051 Chilled Water Chem Injection $17,416.37 (Mitch Reese); 2050 RDC Met Saw/Parts Washer Power $38,339.62 (Dorriety); 2048 Mitsubishi Sinker EDM utility demo $19,872.41 (Jim Stanley); Est 2049 MHB 3 data conduit and 2052 A-bay floor mount prepared by Kat",
+      "source": "Email / QuickBooks",
+      "notes": "Waiting on customer approval."
     }
   ],
   "calendar": [
