@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T17:11:29-05:00",
+  "updated": "2026-11-12T15:12:24-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -2522,6 +2522,78 @@
       "item": "Quote 480v electrical to a new piece of equipment in Haas/MM Repair area for Martin Brown (GE); crane power funding approved (T215)",
       "source": "Email / Martin Brown 2026-11-11 ~3:17pm ET",
       "notes": "Martin: funding approved, going through process for crane electrical hook-up; also needs another quote for 480v electrical to new equipment in same area. Get details/walk, quote via Jason/DPP."
+    },
+    {
+      "id": "T331",
+      "status": "open",
+      "priority": "high",
+      "due": "\u2014",
+      "item": "JLTC Fitness Center Safety Repairs: GE (Bob Smith) needs list of names requiring after-hours access",
+      "source": "Email / Robert Smith (GE) to Jeff, AMK 2026-11-12 7:43am ET",
+      "notes": "Jeff sent names 8:22am. Jack Davis (AMK) 9:30am: crew lined up Mon 11/16, asks when scaffold ready for demolition - Jeff to answer."
+    },
+    {
+      "id": "T332",
+      "status": "waiting",
+      "priority": "low",
+      "due": "\u2014",
+      "item": "Invoice 3964 FW45 UA Buildstand Inspections sent on wrong QB form; Bill will remove extra templates and co-brand forms (Indcom + Onsite)",
+      "source": "Email / Bill Marchbanks 2026-11-12",
+      "notes": "Kat apologized 7:22am; Jeff has unsent draft to Bill (QB modern format issue)."
+    },
+    {
+      "id": "T333",
+      "status": "open",
+      "priority": "med",
+      "due": "\u2014",
+      "item": "D-Bay Extension Reel Pairs proposal: Jason says Est 404 duplicate DHB line was typo (should be DGB), corrected; mounting brackets per his walkthrough",
+      "source": "Email / Jason Marchbanks 2026-11-12 4:13am ET",
+      "notes": "Kat will adjust and prepare for Jeff."
+    },
+    {
+      "id": "T334",
+      "status": "open",
+      "priority": "med",
+      "due": "\u2014",
+      "item": "G-Bay Restrooms: Kat sent Jeff the three RFQs incl. GEV RFQ",
+      "source": "Email / Kat 2026-11-12 2:49am ET",
+      "notes": "Related T323 SOW."
+    },
+    {
+      "id": "T335",
+      "status": "waiting",
+      "priority": "low",
+      "due": "\u2014",
+      "item": "PO 4200330973 (completed months ago): Jeff asked Alex Willey (GE) to receive for formal invoicing; invoice 3969 Fully Consumed PO approved by Carl Watson, received in Ariba; Ariba approved invoices 3956/3957/3961/3962/3968",
+      "source": "Email 2026-11-12",
+      "notes": "Waiting on GE receipt."
+    },
+    {
+      "id": "T336",
+      "status": "open",
+      "priority": "high",
+      "due": "Kat/Jeff: submit service sheet",
+      "item": "GE PO 4900678499 Shipping Rack Repair Ph II issued; submit service sheet any time, then invoice after Virginia Kirwan approves; she can set up a Teams call",
+      "source": "Email / Virginia Kirwan ~8:53am ET; Jeff replied 8:56am",
+      "notes": "Jeff submitted service sheet 9:16am; Kirwan approved 9:18am -> submit invoice (Ariba/QB)."
+    },
+    {
+      "id": "T337",
+      "status": "open",
+      "priority": "med",
+      "due": "pending GE window",
+      "item": "Track energization request: Mitsubishi Sinker EDM #2301354 @ HBA (one-lines attached)",
+      "source": "Email / Jason Marchbanks to GVL Outage 2026-11-12 ~8:27am ET",
+      "notes": "Jason requested energization; no window set yet."
+    },
+    {
+      "id": "T338",
+      "status": "open",
+      "priority": "high",
+      "due": "Jeff: answer Sam's Ariba PO catch-up",
+      "item": "Sam Barnett asks Jeff to confirm status on 31 open GE POs (Ariba vs QBO): A) not in QBO 4900559661, 4900671759; B) new/unconfirmed but invoiced 4900628494 (inv 3925), 4900641920 (inv 3924); C) confirmed no invoice 4200322904, 4900667131, 4900676672; D) invoiced not received (~13 POs, incl. questions on 3775 85% balance, 3827 receiver Julia vs Kirwan, dup inv 3940, inv 3418 vs PO 4900671575); E) 4900590260, 4102836954 ($795.80 over PO), 4900668412; F) partials to close/bill incl. 4900652190 ($420K left, which estimate). Short note per PO or set up a call.",
+      "source": "Email / Sam Barnett 2026-11-12 ~2:23pm ET",
+      "notes": "Sam will email GE requesters himself; Jeff need not chase."
     }
   ],
   "calendar": [
