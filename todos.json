@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T15:12:24-05:00",
+  "updated": "2026-11-13T11:07:43-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -2368,7 +2368,7 @@
       "due": "review + respond",
       "item": "**Drip pans (chiller)** \u2014 Mitch Reese (GE Vernova, 864-216-3888), cc Matthew Fitts",
       "source": "Email / Mitch\u2192Jeff Mon 2026-11-09 ~8:42am ET",
-      "notes": "Attached *Chiller Drip Pan.PDF* + 2 photos; no body text. Review and quote/fabricate as needed. Jeff sent spec+photos to Evan Groce (SPC) ~9:17am ET as urgent repair \u2014 waiting SPC quote."
+      "notes": "Attached *Chiller Drip Pan.PDF* + 2 photos; no body text. Review and quote/fabricate as needed. Jeff sent spec+photos to Evan Groce (SPC) ~9:17am ET as urgent repair \u2014 waiting SPC quote. **UPD Fri Nov 13 ~7:38am ET: GE PO 4900678722 \"Metco chiller drip pan repair\" $2,317.50 issued (Mitch Reese FW to Jeff 7:50am) \u2014 ack/match in Ariba, then fabricate/deliver.**"
     },
     {
       "id": "T314",
@@ -2594,6 +2594,15 @@
       "item": "Sam Barnett asks Jeff to confirm status on 31 open GE POs (Ariba vs QBO): A) not in QBO 4900559661, 4900671759; B) new/unconfirmed but invoiced 4900628494 (inv 3925), 4900641920 (inv 3924); C) confirmed no invoice 4200322904, 4900667131, 4900676672; D) invoiced not received (~13 POs, incl. questions on 3775 85% balance, 3827 receiver Julia vs Kirwan, dup inv 3940, inv 3418 vs PO 4900671575); E) 4900590260, 4102836954 ($795.80 over PO), 4900668412; F) partials to close/bill incl. 4900652190 ($420K left, which estimate). Short note per PO or set up a call.",
       "source": "Email / Sam Barnett 2026-11-12 ~2:23pm ET",
       "notes": "Sam will email GE requesters himself; Jeff need not chase."
+    },
+    {
+      "id": "T339",
+      "status": "open",
+      "priority": "med",
+      "due": "Outage RP-HJ-36 (JIA, Salem Tool Crib) Mon 11/16 10:45-11:30am",
+      "item": "Jason Marchbanks (Dynamic Pipe & Power) requested outage on panel RP-HJ-36 at JIA to make final connections for new 120V receptacles in Salem Tool Crib; GE lead Jim Stanley. Jeff/Kat cc'd; awaiting GVL Outage approval.",
+      "source": "Email / GVL Outage 2026-11-13 10:36am ET",
+      "notes": "No approval yet."
     }
   ],
   "calendar": [
