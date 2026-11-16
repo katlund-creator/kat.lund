@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T11:07:43-05:00",
+  "updated": "2026-11-16T09:12:08-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -2548,7 +2548,7 @@
       "due": "\u2014",
       "item": "D-Bay Extension Reel Pairs proposal: Jason says Est 404 duplicate DHB line was typo (should be DGB), corrected; mounting brackets per his walkthrough",
       "source": "Email / Jason Marchbanks 2026-11-12 4:13am ET",
-      "notes": "Kat will adjust and prepare for Jeff."
+      "notes": "Kat will adjust and prepare for Jeff. UPD 11/13 2:47pm: Jason sent corrected proposal (attached) to Jeff."
     },
     {
       "id": "T334",
@@ -2603,6 +2603,15 @@
       "item": "Jason Marchbanks (Dynamic Pipe & Power) requested outage on panel RP-HJ-36 at JIA to make final connections for new 120V receptacles in Salem Tool Crib; GE lead Jim Stanley. Jeff/Kat cc'd; awaiting GVL Outage approval.",
       "source": "Email / GVL Outage 2026-11-13 10:36am ET",
       "notes": "No approval yet."
+    },
+    {
+      "id": "T340",
+      "status": "open",
+      "priority": "med",
+      "due": "Outage PP-7B-2 ckt 3 & 7 (HEB) Tue 11/17 9:00am",
+      "item": "Jason Marchbanks (Dynamic Pipe & Power) requested shutdown of PP-7B-2 circuits 3 & 7 at HEB to remove power from the Mitsubishis (EC2655 & EC2656); GE lead Jim Stanley. GVL Outage sent notification w/ invite ~9:08am ET; Jeff/Kat cc'd.",
+      "source": "Email / GVL Outage 2026-11-16 ~9:08am ET",
+      "notes": "Notification issued; no separate approval seen."
     }
   ],
   "calendar": [
