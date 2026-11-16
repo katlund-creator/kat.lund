@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T09:12:08-05:00",
+  "updated": "2026-11-16T17:22:40-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -2612,6 +2612,24 @@
       "item": "Jason Marchbanks (Dynamic Pipe & Power) requested shutdown of PP-7B-2 circuits 3 & 7 at HEB to remove power from the Mitsubishis (EC2655 & EC2656); GE lead Jim Stanley. GVL Outage sent notification w/ invite ~9:08am ET; Jeff/Kat cc'd.",
       "source": "Email / GVL Outage 2026-11-16 ~9:08am ET",
       "notes": "Notification issued; no separate approval seen."
+    },
+    {
+      "id": "T341",
+      "status": "waiting",
+      "priority": "med",
+      "due": "pending GE scheduling",
+      "item": "Fire-system testing for 3 Mitsubishi Sinker EDMs (HAA\u2013HDA area), NFPS.03",
+      "source": "Email / Jason Marchbanks (DPP) to Jason Dickerson GE 2026-11-16 ~5:04pm ET",
+      "notes": "DPP asked GE to schedule testing at earliest convenience; related to T72. Watch for date/window."
+    },
+    {
+      "id": "T342",
+      "status": "open",
+      "priority": "med",
+      "due": "review/route",
+      "item": "DZA Eyewash Station Removal & Water Line Modification invoice (DPP Joist)",
+      "source": "Email / Jason Marchbanks to ap.mail 2026-11-16 ~4:29pm ET",
+      "notes": "Joist invoice link sent to AP; route/confirm PO or billing."
     }
   ],
   "calendar": [
