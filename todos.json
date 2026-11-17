@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T08:06:47-05:00",
+  "updated": "2026-11-17T14:10:10-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -2630,6 +2630,42 @@
       "item": "DZA Eyewash Station Removal & Water Line Modification invoice (DPP Joist)",
       "source": "Email / Jason Marchbanks to ap.mail 2026-11-16 ~4:29pm ET",
       "notes": "Joist invoice link sent to AP; route/confirm PO or billing."
+    },
+    {
+      "id": "T343",
+      "status": "open",
+      "priority": "high",
+      "due": "this week payroll",
+      "item": "Crew TIME + per diems week 11/9\u201311/15 (18 names incl. Daniel Reyes $24/$36 rate correction + $786 back pay)",
+      "source": "Email / Katheryn to Jeff 2026-11-17 ~8:10am ET",
+      "notes": "Katheryn sent Jeff the hours/per diem list; Jeff to submit to Opsource payroll (draft Re: Indcom Time to payroll.opsource@ already in his drafts re Reyes back pay)."
+    },
+    {
+      "id": "T344",
+      "status": "open",
+      "priority": "med",
+      "due": "review/route",
+      "item": "Nozzle Fab / M Bay Dust Collector Relocation proposal (DPP)",
+      "source": "Email / Jason Marchbanks to Jeff + Katheryn 2026-11-17 ~10:43am ET",
+      "notes": "Proposal attached; Jeff/Kat review, build QB estimate / route to GE."
+    },
+    {
+      "id": "T345",
+      "status": "open",
+      "priority": "high",
+      "due": "by Wed 11/18 7:30am",
+      "item": "PP-18 (3S 18A) outage in COA Wed Nov 18 7:30-9:00am (landing into panel for new AGV FlipStation; Adam Edwards ME)",
+      "source": "Email / GE GVL Outage + David Hinkson 2026-11-17 ~1:23-1:25pm ET",
+      "notes": "Hinkson asks: are there stairs to LCU-3S mezz? If not, can there be by 7:30am? Jeff added to outage. Reply needed; add to Kat calendar."
+    },
+    {
+      "id": "T346",
+      "status": "waiting",
+      "priority": "med",
+      "due": "OpSource",
+      "item": "Payroll: Julie Solesbee (OpSource) asked for payroll ASAP 11/17 ~1:12pm",
+      "source": "Email",
+      "notes": "Jeff sent crew hours/per diems ~1:13pm; Julie will fix Daniel Reyes rate + pay/bill difference (~1:34pm). Recruiter Yesenia Portes closed New Hire Packet job order (candidate did not complete)."
     }
   ],
   "calendar": [
