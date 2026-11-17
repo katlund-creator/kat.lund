@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T15:11:07-05:00",
+  "updated": "2026-11-17T16:06:57-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -2675,6 +2675,15 @@
       "item": "BSB to KIA - Water Heater Relocation & Machine Power Installation (DPP Joist estimate)",
       "source": "Email / Jason Marchbanks to Jeff 2026-11-17 ~2:40pm ET",
       "notes": "Estimate link attached; Jeff/Kat review, build QB estimate / route to GE."
+    },
+    {
+      "id": "T348",
+      "status": "open",
+      "priority": "med",
+      "due": "AP/billing",
+      "item": "DPP invoice: Mitsubishi Sinker EDM - Utility Demolition (EC2655 & EC2656)",
+      "source": "Email / Jason Marchbanks to ap.mail 2026-11-17 ~3:59pm ET",
+      "notes": "Joist invoice link; AP to process / bill GE (related T340/T341)."
     }
   ],
   "calendar": [
