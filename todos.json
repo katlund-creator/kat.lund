@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T14:10:10-05:00",
+  "updated": "2026-11-17T15:11:07-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -2666,6 +2666,15 @@
       "item": "Payroll: Julie Solesbee (OpSource) asked for payroll ASAP 11/17 ~1:12pm",
       "source": "Email",
       "notes": "Jeff sent crew hours/per diems ~1:13pm; Julie will fix Daniel Reyes rate + pay/bill difference (~1:34pm). Recruiter Yesenia Portes closed New Hire Packet job order (candidate did not complete)."
+    },
+    {
+      "id": "T347",
+      "status": "open",
+      "priority": "med",
+      "due": "review/route",
+      "item": "BSB to KIA - Water Heater Relocation & Machine Power Installation (DPP Joist estimate)",
+      "source": "Email / Jason Marchbanks to Jeff 2026-11-17 ~2:40pm ET",
+      "notes": "Estimate link attached; Jeff/Kat review, build QB estimate / route to GE."
     }
   ],
   "calendar": [
