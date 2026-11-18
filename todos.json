@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T16:06:57-05:00",
+  "updated": "2026-11-18T10:09:47-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -2566,7 +2566,7 @@
       "due": "\u2014",
       "item": "PO 4200330973 (completed months ago): Jeff asked Alex Willey (GE) to receive for formal invoicing; invoice 3969 Fully Consumed PO approved by Carl Watson, received in Ariba; Ariba approved invoices 3956/3957/3961/3962/3968",
       "source": "Email 2026-11-12",
-      "notes": "Waiting on GE receipt."
+      "notes": "Waiting on GE receipt. **UPD 11/18**: James Ray asked what PO was for; Jeff replied (CWB power panel move 8:10pm 11/17); Eric Dietz (GE) ~6:52am 11/18 says received in (CWB panel relocation) \u2192 likely done. Ariba ~6:40am 11/18 marked Paid: inv 3418/3889/3897/3941/3970/3972."
     },
     {
       "id": "T336",
@@ -2651,12 +2651,12 @@
     },
     {
       "id": "T345",
-      "status": "open",
+      "status": "done",
       "priority": "high",
       "due": "by Wed 11/18 7:30am",
       "item": "PP-18 (3S 18A) outage in COA Wed Nov 18 7:30-9:00am (landing into panel for new AGV FlipStation; Adam Edwards ME)",
       "source": "Email / GE GVL Outage + David Hinkson 2026-11-17 ~1:23-1:25pm ET",
-      "notes": "Hinkson asks: are there stairs to LCU-3S mezz? If not, can there be by 7:30am? Jeff added to outage. Reply needed; add to Kat calendar."
+      "notes": "Hinkson asks: are there stairs to LCU-3S mezz? If not, can there be by 7:30am? Jeff added to outage. Reply needed; add to Kat calendar. **DONE 11/18 ~9:04am: GVL Outage posted 'Outage complete'.**"
     },
     {
       "id": "T346",
@@ -2684,6 +2684,15 @@
       "item": "DPP invoice: Mitsubishi Sinker EDM - Utility Demolition (EC2655 & EC2656)",
       "source": "Email / Jason Marchbanks to ap.mail 2026-11-17 ~3:59pm ET",
       "notes": "Joist invoice link; AP to process / bill GE (related T340/T341)."
+    },
+    {
+      "id": "T349",
+      "status": "open",
+      "priority": "med",
+      "due": "review/route",
+      "item": "SCI GE BSA Gutter Box Rework Quote (removal + reinstall of gutter box in BSA at GE Vernova)",
+      "source": "Email / Mike Mullaney (SCI Electronics) to Jeff 2026-11-18 ~9:55am ET",
+      "notes": "Quote attached; Jeff/Kat review and build QB estimate / route to GE."
     }
   ],
   "calendar": [
