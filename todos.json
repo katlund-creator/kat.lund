@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T14:11:32-05:00",
+  "updated": "2026-11-19T09:11:48-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -2720,6 +2720,15 @@
       "item": "AM King Project 26.0614 BCL1B \u2014 GE (Matt Fitts) asks AM King (Nate Barney) for Change Order adding 3rd 1600A panel at NPA from last bucket in LCU-16 (Spark FLAs 346A\u2192517A); **N Bay Ceiling Scaffold stays erected** to service added cable tray + pulls LCU-16\u2192NPA",
       "source": "Email / Matt Fitts (GE) cc Jeff + Kat 2026-11-18 ~1:56pm ET",
       "notes": "Scaffold stays up \u2014 confirm rental/extension impact for N Bay ceiling scaffold."
+    },
+    {
+      "id": "T353",
+      "status": "open",
+      "priority": "high",
+      "due": "Outage / track",
+      "item": "**RP-JJ-33 outage request Fri Nov 20 9:00\u201310:00am @ JIB** \u2014 Dynamic Pipe & Power (Jason Marchbanks) requested to GVL Outage for final connections: water heater relocation BRB\u2192KIA + 1 new 20A 120V circuit for machine relocation; GE lead Alex Neal",
+      "source": "Email / Jason Marchbanks 2026-11-19 ~8:27am ET (cc Jeff + Kat)",
+      "notes": "Awaiting GE approval/notification; add to Kat cal once confirmed."
     }
   ],
   "calendar": [
