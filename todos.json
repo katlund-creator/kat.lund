@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T10:12:54-05:00",
+  "updated": "2026-11-19T11:06:59-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -2747,6 +2747,24 @@
       "item": "DPP (Jason Marchbanks) ~9:12am to Jeff: **DIA/DJA 7HA Buildstand Electrical Support and Compressed Air Infrastructure proposal** (Joist estimate link)",
       "source": "Email / Jason Marchbanks 2026-11-19 ~9:12am ET",
       "notes": "Review/quote to GE."
+    },
+    {
+      "id": "T356",
+      "status": "open",
+      "priority": "high",
+      "due": "Outage / access",
+      "item": "**PP-6A-8 (6N 24C) outage Sat Nov 21 7:30\u20139:00am @ BTA** (GVL 26-301699; DPP terminating new Meltric plug on circuit 4; Jim Stanley ME). David Hinkson (GE) ~10:36am added Jeff; asks for **access to LCU-6N mezz** for Saturday (doubts one exists)",
+      "source": "Email / GVL Outage + Hinkson 2026-11-19",
+      "notes": "Arrange stairs/access for LCU-6N mezz by Sat; confirm outage approval."
+    },
+    {
+      "id": "T357",
+      "status": "open",
+      "priority": "low",
+      "due": "Process",
+      "item": "GE Ariba **PO 4900681019** received to ariba.mail ~10:06am (GE Gas Turbines Greenville)",
+      "source": "Email / Ariba 2026-11-19",
+      "notes": "Match to estimate, confirm order in Ariba."
     }
   ],
   "calendar": [
@@ -4366,6 +4384,17 @@
       "allDay": false,
       "type": "outage",
       "todoId": "T314"
+    },
+    {
+      "id": "e127",
+      "summary": "Outage PP-6A-8 (6N 24C) @ BTA \u2014 Meltric plug circuit 4 (GVL 26-301699)",
+      "location": "BTA",
+      "description": "Requested via GVL Outage. Hinkson needs LCU-6N mezz access. (T356)",
+      "start": "2026-11-21T07:30:00-05:00",
+      "end": "2026-11-21T09:00:00-05:00",
+      "allDay": false,
+      "type": "outage",
+      "todoId": "T356"
     }
   ]
 }
