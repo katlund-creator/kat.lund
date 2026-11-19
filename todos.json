@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T12:04:30-05:00",
+  "updated": "2026-11-19T17:06:48-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -2774,6 +2774,33 @@
       "item": "**OpSource payroll W/E 11/22 (Thanksgiving)**: offices closed Thu 11/26\u2013Fri 11/27; client payroll info/approved hours due **Mon 11/23 by 2:00pm** (OpSource processes by Tue 11/24 5pm) \u2014 Allison Ablett FW of Julie Solesbee",
       "source": "Email 2026-11-19 ~11:53am ET",
       "notes": "Submit hours by deadline; relates T315."
+    },
+    {
+      "id": "T359",
+      "status": "open",
+      "priority": "med",
+      "due": "\u2014",
+      "item": "**GTTL chilled water #2 \u2013 Evan Groce (SPC) updated quote w/ change order revision** (2 mails 4:49/4:50pm ET) \u2014 needs review/forward to GE/pricing",
+      "source": "Email 2026-11-19 ~4:50pm ET",
+      "notes": "Relates GTTL chilled water work."
+    },
+    {
+      "id": "T360",
+      "status": "open",
+      "priority": "med",
+      "due": "\u2014",
+      "item": "**GE Vernova Ariba PO 4900681228** received (to ariba.mail) 4:23pm ET \u2014 match to estimate/ack in Ariba",
+      "source": "Email 2026-11-19 ~4:23pm ET",
+      "notes": ""
+    },
+    {
+      "id": "T361",
+      "status": "open",
+      "priority": "low",
+      "due": "\u2014",
+      "item": "**Evan Groce (SPC) tread plate invoice** sent to Jeff + AP 5:03pm ET \u2014 verify vs PO before AP pays (past SPC invoices were held in error)",
+      "source": "Email 2026-11-19 ~5:03pm ET",
+      "notes": ""
     }
   ],
   "calendar": [
