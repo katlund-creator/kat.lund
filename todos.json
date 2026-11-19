@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T11:06:59-05:00",
+  "updated": "2026-11-19T12:04:30-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -2765,6 +2765,15 @@
       "item": "GE Ariba **PO 4900681019** received to ariba.mail ~10:06am (GE Gas Turbines Greenville)",
       "source": "Email / Ariba 2026-11-19",
       "notes": "Match to estimate, confirm order in Ariba."
+    },
+    {
+      "id": "T358",
+      "status": "open",
+      "priority": "high",
+      "due": "Mon 11/23 2:00pm",
+      "item": "**OpSource payroll W/E 11/22 (Thanksgiving)**: offices closed Thu 11/26\u2013Fri 11/27; client payroll info/approved hours due **Mon 11/23 by 2:00pm** (OpSource processes by Tue 11/24 5pm) \u2014 Allison Ablett FW of Julie Solesbee",
+      "source": "Email 2026-11-19 ~11:53am ET",
+      "notes": "Submit hours by deadline; relates T315."
     }
   ],
   "calendar": [
