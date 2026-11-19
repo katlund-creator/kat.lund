@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T09:11:48-05:00",
+  "updated": "2026-11-19T10:12:54-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -2728,7 +2728,25 @@
       "due": "Outage / track",
       "item": "**RP-JJ-33 outage request Fri Nov 20 9:00\u201310:00am @ JIB** \u2014 Dynamic Pipe & Power (Jason Marchbanks) requested to GVL Outage for final connections: water heater relocation BRB\u2192KIA + 1 new 20A 120V circuit for machine relocation; GE lead Alex Neal",
       "source": "Email / Jason Marchbanks 2026-11-19 ~8:27am ET (cc Jeff + Kat)",
-      "notes": "Awaiting GE approval/notification; add to Kat cal once confirmed."
+      "notes": "GVL Outage formal OUTAGE NOTIFICATION sent ~9:23am ET (affects IDF-25, 18564 Broach pit lights/fan/sump pmp, blue lights KIA); Jeff invite on Kat cal."
+    },
+    {
+      "id": "T354",
+      "status": "open",
+      "priority": "med",
+      "due": "Reply needed",
+      "item": "Door Systems (Nathan Wynn, cc Ben Perry) ~9:22am: **Proposal 35198 GE Vernova EZA Doors** \u2014 asks Kat to confirm door size; else he's at GE ~1:30pm today for site visit and needs someone to meet him before/after to measure",
+      "source": "Email / Nathan Wynn 2026-11-19 ~9:22am ET",
+      "notes": "Kat to answer door size or arrange meet at GE today ~1:30pm."
+    },
+    {
+      "id": "T355",
+      "status": "open",
+      "priority": "med",
+      "due": "Review",
+      "item": "DPP (Jason Marchbanks) ~9:12am to Jeff: **DIA/DJA 7HA Buildstand Electrical Support and Compressed Air Infrastructure proposal** (Joist estimate link)",
+      "source": "Email / Jason Marchbanks 2026-11-19 ~9:12am ET",
+      "notes": "Review/quote to GE."
     }
   ],
   "calendar": [
