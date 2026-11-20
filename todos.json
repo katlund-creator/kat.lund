@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T12:11:06-05:00",
+  "updated": "2026-11-20T13:12:55-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -2828,6 +2828,15 @@
       "item": "**Outage PP-16A-1 ckt-14 & PP-16B-1 ckt-18 @ NOB (N-Bay cranes)** \u2014 Indcom builds scaffold Sun 11/22; ME Jim Stanley, AMK APM Russ Zubkov, AMK Job 26.0803; both invites on Kat cal",
       "source": "Email 2026-11-20 ~11:17am ET",
       "notes": ""
+    },
+    {
+      "id": "T365",
+      "status": "waiting",
+      "priority": "med",
+      "due": "Mon Nov 23",
+      "item": "**GE badge requests for Monday** \u2014 Jeff\u2192Alex Leppard (GE) 1:08pm ET: badges for **Marcus Terrelle Harrison** and Jeff Flannery",
+      "source": "Email / Jeff 2026-11-20 ~1:08pm ET",
+      "notes": "Waiting GE confirmation."
     }
   ],
   "calendar": [
