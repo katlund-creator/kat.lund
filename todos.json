@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T13:12:55-05:00",
+  "updated": "2026-11-20T17:24:06-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -1330,10 +1330,10 @@
       "id": "T187",
       "status": "open",
       "priority": "high",
-      "due": "**Before Sat Nov 14** \u2014 review valve plan + reply Bob Smith w/ questions/concerns/conflicts; outage **Sat Nov 14 \u2192 Tue Nov 24**",
-      "item": "Review GE **GTTL HVAC chilled-water outage / valve replacement** plan (NO HVAC cooling building-wide) \u2014 flag Indcom conflicts/needs to Bob Smith",
-      "source": "Email / Robert (Bob) Smith (GE Vernova Facilities Engineer) 2026-10-16 ~9:46am ET",
-      "notes": "**Fri ~9:46am ET Bob Smith (Robert1.Smith@gevernova.com; M 864-237-5847)\u2192Jeff + MSS (Tim McGill, Chris Shope) + GE (Mark Monroe, Julia Harbin, Bill Byrne, Leslie Miller, Diana Setzer, Eddie Nelms) + Randy Moore (Rescom Construction); cc Chris Sutton, Scott Compton + Clifford Seltrecht (Amentum), Dominic Maxwell, Trevor Honosky, Joseph Betten \u2014 *GTTL Chilled Water Outage \u2013 Valve Replacement Plan and Schedule*:** planned HVAC chilled water outage **beginning Sat Nov 14**; system shut down + drained for valve replacement; ~**10 days**, \u201c**NO WEEKENDS**\u201d; **NO HVAC COOLING building wide** (incl. portions of test areas). Start south end **Valve #18**. Schedule: **Sat 11/14\u2013Sun 11/15** shut down + drain; **Mon 11/16, Tue 11/17, Wed 11/18, Thu 11/19, Mon 11/23** replace 3 valves/day; **Tue 11/24** final valve + refill, plant start-up. Attached *GTTL Chill Water Replacment Plan.pptx* (valve layout/locations; not opened). Asks recipients for **questions, concerns, conflicts, recommendations** before the outage. Indcom action: open deck, check whether valve locations need scaffold/access support and any Indcom work in that window affected by no cooling; reply Bob. Kat cal has 2 Jeff holds (all-day Nov 14\u201324) deduped = **e82**. No scaffold mentioned in email. **Mon Oct 26 ~9:49am ET Bob Smith update:** **no change** to the outage schedule (Sat 11/14\u2013Tue 11/24); clarified chilled water drained for full duration \u2192 no building-wide HVAC cooling incl. test areas, but heating/ventilation/exhaust not on chilled water stays up (AHU blower motors run; air mostly circulating). Still send any Indcom concerns. **Tue Nov 3 ~7:42am ET Bob Smith\u2192Jeff + Randy Moore (Rescom) + MSS (Tim McGill/Chris Shope) + Julia Harbin (cc Mark Monroe, Chris Sutton):** *GTTL Chill Water Valve Replacement Project* \u2014 \u201cFinalize chill water valve replacement sequencing. Please meet at GTTL 3rd Floor.\u201d Attached *GTTL Chill Water Replacment Plan.pptx* + invite.ics. Kat **not** on To/Cc (invite not on her primary cal as of ~8:10am)."
+      "due": "Remaining closeout by EOD Tue Nov 24",
+      "item": "**GTTL HVAC chilled-water valve replacement** \u2014 Bob Smith ~3:30pm Fri 11/20: valves complete, system refilled, chillers online; building expected cooler by Mon morning. Remaining: scaffold, containment, ceiling tile, cleanup, chiller sign-off.",
+      "source": "Email / Robert Smith (GE Vernova) 2026-10-16 ~9:46am ET (upd 2026-11-20 ~3:30pm)",
+      "notes": "Valve work DONE; closeout still open through Tue 11/24."
     },
     {
       "id": "T188",
@@ -2732,12 +2732,12 @@
     },
     {
       "id": "T354",
-      "status": "open",
+      "status": "waiting",
       "priority": "med",
       "due": "Reply needed",
       "item": "Door Systems (Nathan Wynn, cc Ben Perry) ~9:22am: **Proposal 35198 GE Vernova EZA Doors** \u2014 asks Kat to confirm door size; else he's at GE ~1:30pm today for site visit and needs someone to meet him before/after to measure",
       "source": "Email / Nathan Wynn 2026-11-19 ~9:22am ET",
-      "notes": "Kat to answer door size or arrange meet at GE today ~1:30pm."
+      "notes": "Kat to answer door size or arrange meet at GE today ~1:30pm. **UPD 11/20 ~2:56pm:** Nate Wynn will send updated proposal Mon/Tue 11/23-24; asks what key the new lock should be keyed to (Kat to answer)."
     },
     {
       "id": "T355",
@@ -2806,19 +2806,19 @@
       "id": "T362",
       "status": "open",
       "priority": "med",
-      "due": "ASAP today Fri Nov 20 (30 min)",
-      "item": "**Outage request RP-7B-7.12 Ckt 7 @ HDA** \u2014 Dynamic Pipe & Power (Jason Marchbanks) to tie in 20A 120V circuit for CMM, NFPS.03; GE lead Jim Stanley. Jeff forwarded calendar invite 7:48am; awaiting GE approval/time",
-      "source": "Email 2026-11-20 ~7:48am ET",
-      "notes": ""
+      "due": "Fri Nov 20 11:30am\u201312:00pm (window passed)",
+      "item": "**Outage RP-7B-7.12 Ckt 7 @ HDA** \u2014 Dynamic Pipe & Power (Jason Marchbanks) tied in 20A 120V circuit for CMM, NFPS.03; GE lead Jim Stanley. Formal GVL OUTAGE NOTIFICATION ~10:29am; on Kat cal 11:30am\u201312:00pm. Early morning invite was canceled, then formal notice issued.",
+      "source": "Email 2026-11-20 ~7:48am ET (formal notice ~10:29am)",
+      "notes": "Window passed; no completion email yet."
     },
     {
       "id": "T363",
       "status": "open",
       "priority": "med",
-      "due": "Mon Nov 23 9:00am",
-      "item": "**Shutdown request RP-20.3 Ckt 16 & 18 @ BRB** \u2014 Dynamic Pipe & Power (Jason Marchbanks) to remove power from water heater at BSB for relocation to KIA; GE lead Alex Neal; awaiting GE approval",
-      "source": "Email 2026-11-20 ~9:17am ET",
-      "notes": ""
+      "due": "Mon Nov 23 9:30\u201310:00am",
+      "item": "**Shutdown RP-20.3 Ckt 16 & 18 @ BRB** \u2014 Dynamic Pipe & Power (Jason Marchbanks) to remove power from water heater at BSB for relocation to KIA; GE lead Alex Neal. Formal GVL SHUTDOWN NOTIFICATION ~10:32am; on Kat cal 9:30\u201310:00am. Early 9:00am invite was canceled, then formal notice issued.",
+      "source": "Email 2026-11-20 ~9:17am ET (formal notice ~10:32am)",
+      "notes": "On Kat cal."
     },
     {
       "id": "T364",
@@ -2830,13 +2830,22 @@
       "notes": ""
     },
     {
+      "id": "T366",
+      "status": "open",
+      "priority": "low",
+      "due": "Invoice FYI",
+      "item": "BF Material Handling (Ola Footer) invoices 71913 & 71914 Nov work, ~2:43pm 11/20; Kat already forwarded both ~2:48pm",
+      "source": "Email 2026-11-20",
+      "notes": ""
+    },
+    {
       "id": "T365",
       "status": "waiting",
       "priority": "med",
       "due": "Mon Nov 23",
-      "item": "**GE badge requests for Monday** \u2014 Jeff\u2192Alex Leppard (GE) 1:08pm ET: badges for **Marcus Terrelle Harrison** and Jeff Flannery",
-      "source": "Email / Jeff 2026-11-20 ~1:08pm ET",
-      "notes": "Waiting GE confirmation."
+      "item": "**GE badge requests for Monday** \u2014 Jeff\u2192Alex Leppard (GE) ~1:13pm ET: badges for **Marcus Terrelle Harrison, Paul Anthony Humphrey, Xavier Cleandre Parmelee** (DPP) and **Trystan Searcy, Kendrex Allen, Clifford Gunter** (Impact Fire), plus Jeff.",
+      "source": "Email / Jeff 2026-11-20 ~1:13pm ET",
+      "notes": "Waiting GE confirmation; no reply yet."
     }
   ],
   "calendar": [
