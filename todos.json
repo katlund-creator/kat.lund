@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T08:10:36-05:00",
+  "updated": "2026-11-20T10:12:22-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -2809,6 +2809,15 @@
       "due": "ASAP today Fri Nov 20 (30 min)",
       "item": "**Outage request RP-7B-7.12 Ckt 7 @ HDA** \u2014 Dynamic Pipe & Power (Jason Marchbanks) to tie in 20A 120V circuit for CMM, NFPS.03; GE lead Jim Stanley. Jeff forwarded calendar invite 7:48am; awaiting GE approval/time",
       "source": "Email 2026-11-20 ~7:48am ET",
+      "notes": ""
+    },
+    {
+      "id": "T363",
+      "status": "open",
+      "priority": "med",
+      "due": "Mon Nov 23 9:00am",
+      "item": "**Shutdown request RP-20.3 Ckt 16 & 18 @ BRB** \u2014 Dynamic Pipe & Power (Jason Marchbanks) to remove power from water heater at BSB for relocation to KIA; GE lead Alex Neal; awaiting GE approval",
+      "source": "Email 2026-11-20 ~9:17am ET",
       "notes": ""
     }
   ],
