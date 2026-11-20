@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T17:06:48-05:00",
+  "updated": "2026-11-20T08:10:36-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -2800,6 +2800,15 @@
       "due": "\u2014",
       "item": "**Evan Groce (SPC) tread plate invoice** sent to Jeff + AP 5:03pm ET \u2014 verify vs PO before AP pays (past SPC invoices were held in error)",
       "source": "Email 2026-11-19 ~5:03pm ET",
+      "notes": ""
+    },
+    {
+      "id": "T362",
+      "status": "open",
+      "priority": "med",
+      "due": "ASAP today Fri Nov 20 (30 min)",
+      "item": "**Outage request RP-7B-7.12 Ckt 7 @ HDA** \u2014 Dynamic Pipe & Power (Jason Marchbanks) to tie in 20A 120V circuit for CMM, NFPS.03; GE lead Jim Stanley. Jeff forwarded calendar invite 7:48am; awaiting GE approval/time",
+      "source": "Email 2026-11-20 ~7:48am ET",
       "notes": ""
     }
   ],
