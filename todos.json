@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T16:09:27-05:00",
+  "updated": "2026-11-23T17:09:57-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -2773,7 +2773,7 @@
       "due": "Mon 11/23 2:00pm",
       "item": "**OpSource payroll W/E 11/22 (Thanksgiving)**: offices closed Thu 11/26\u2013Fri 11/27; client payroll info/approved hours due **Mon 11/23 by 2:00pm** (OpSource processes by Tue 11/24 5pm) \u2014 Allison Ablett FW of Julie Solesbee",
       "source": "Email 2026-11-19 ~11:53am ET",
-      "notes": "Submit hours by deadline; relates T315. UPD 11/23 ~12:02pm: Julie Solesbee asked Jeff to clarify Kat hours email (Zac/Ethan/Travis/Chandler/Coddy/Braxton Sunday) before entering payroll. UPD 11/23 ~12:07pm: Kat replied to Julie that the Sunday-hours note was meant only for Jeff's final look; Julie still waiting on Jeff (no Jeff reply yet as of ~12:08pm). **DONE 11/23:** Jeff approved hours ~3:17pm ET; Julie ~3:23pm asked Kat to add the red Sunday hours into each total and resend; Kat resent corrected totals ~3:43pm; Julie acknowledged \u201cThank you.\u201d ~4:00pm; Kat sent Zac Carson (Zachary) pay change ~4:04pm \u2014 46 hours, per diem ($500), **new pay $28**."
+      "notes": "Submit hours by deadline; relates T315. UPD 11/23 ~12:02pm: Julie Solesbee asked Jeff to clarify Kat hours email (Zac/Ethan/Travis/Chandler/Coddy/Braxton Sunday) before entering payroll. UPD 11/23 ~12:07pm: Kat replied to Julie that the Sunday-hours note was meant only for Jeff's final look; Julie still waiting on Jeff (no Jeff reply yet as of ~12:08pm). **DONE 11/23:** Jeff approved hours ~3:17pm ET; Julie ~3:23pm asked Kat to add the red Sunday hours into each total and resend; Kat resent corrected totals ~3:43pm; Julie acknowledged \u201cThank you.\u201d ~4:00pm; Kat sent Zac Carson (Zachary) pay change ~4:04pm \u2014 46 hours, per diem ($500), **new pay $28**. UPD 11/23: Julie Solesbee confirmed Zachary Carson's rate is updated to **$28** (from $30)."
     },
     {
       "id": "T359",
@@ -2914,10 +2914,10 @@
       "id": "T374",
       "status": "waiting",
       "priority": "high",
-      "due": "waiting on sub quotes",
-      "item": "**GE Vernova TS8 Control Room Renovation RFQs** \u2014 waiting on sub quotes. Scopes: **Conference Space Carpet Tile** to Matthew Larmore (JMT, matthew@jmtflooring.com); **Furniture** (chairs/table) to Jennifer Hunt (PMC, jen.hunt@pmc.works); **Control Room Floor Tile** (recipient not filled on draft). Also **Glass Conference Space Enclosure** sent ~4:07pm ET to Erik Faulk (Door Systems, Erik.Faulk@doorsystems.com) and Mustin Kapasi (mustan@kapasiglass.com).",
-      "source": "Email / Katheryn 2026-11-23 ~3:46\u20134:07pm ET",
-      "notes": "Distinct from T23/T24 (EZA PMC chairs/tables). ~3:46pm Kat drafted \u201cChairs and Table -\u201d to Jen Hunt (incomplete body, unsent); formal Furniture RFQ is to the same Jen. Carpet/Furniture RFQs marked time-sensitive (Kat notes prior RFQs last week with no reply). Floor Tile draft had no To: (filename TBD) and was trashed. Additional drafts seen but not confirmed sent: Wall Demo & Ceiling Tile to Ben Styles; HVAC returns/supply vents (no recipient)."
+      "due": "Wed 11/25 (furniture #); other quotes / Kapasi addr",
+      "item": "**GE Vernova TS8 Control Room Renovation RFQs** \u2014 waiting on sub quotes. Sent and waiting: **Conference Space Carpet Tile** to Matthew Larmore (JMT, matthew@jmtflooring.com); **Furniture** (chairs/table) to Jennifer Hunt (PMC, jen.hunt@pmc.works) \u2014 Jen on PTO this week (asked for Monday); Kat ~4:46pm said the number is needed by **Wed 11/25**; **Wall Demo and Ceiling Tile** to Ben Styles; **HVAC Returns and Supply Vents** (no named recipient). **Glass Conference Space Enclosure**: RFQ to Mustin at mustan@kapasiglass.com **BOUNCED** 4:07pm ET (domain not found) \u2014 Kapasi Glass has not received it and needs a corrected address; Erik Faulk (Door Systems) copied Nathan Wynn (nathan.wynn@doorsystems.com); Nathan asked about wall height and ceiling reinforcement; Kat ~4:59pm answered **8' 11 7/8\"** floor to ceiling tile \u2014 waiting on Nathan's quote. **Control Room Floor Tile** still not confirmed sent.",
+      "source": "Email / Katheryn 2026-11-23 ~3:46\u20134:59pm ET",
+      "notes": "Distinct from T23/T24 (EZA PMC chairs/tables). UPD 11/23 ~4:09\u20134:11pm: **Conference Space Carpet Tile** (Matt), **Wall Demo and Ceiling Tile** (Ben), and **HVAC Returns and Supply Vents** (no named recipient) sent \u2014 earlier unsent-draft note is resolved except **Floor Tile**, which still isn't confirmed sent (draft had no To: / filename TBD and was trashed). Furniture: formal RFQ sent to Jen Hunt 4:17pm; Jen is on PTO this week and asked for Monday; Kat replied ~4:46pm that the number is needed by Wednesday 11/25. Glass: sent ~4:07pm ET to Erik Faulk (Door Systems, Erik.Faulk@doorsystems.com) and Mustin Kapasi (mustan@kapasiglass.com); Mustin bounce 4:07pm ET (kapasiglass.com domain not found), so Kapasi Glass hasn't received it and needs a corrected address. Erik copied Nathan Wynn (nathan.wynn@doorsystems.com); Nathan asked about wall height and ceiling reinforcement; Kat answered ~4:59pm that it's 8' 11 7/8\" floor to ceiling tile; waiting on Nathan's quote. Carpet/Furniture RFQs marked time-sensitive (Kat notes prior RFQs last week with no reply)."
     }
   ],
   "calendar": [
