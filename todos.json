@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T12:09:19-05:00",
+  "updated": "2026-11-23T16:09:27-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -2737,7 +2737,7 @@
       "due": "Reply needed",
       "item": "Door Systems (Nathan Wynn, cc Ben Perry) ~9:22am: **Proposal 35198 GE Vernova EZA Doors** \u2014 asks Kat to confirm door size; else he's at GE ~1:30pm today for site visit and needs someone to meet him before/after to measure",
       "source": "Email / Nathan Wynn 2026-11-19 ~9:22am ET",
-      "notes": "Kat to answer door size or arrange meet at GE today ~1:30pm. **UPD 11/20 ~2:56pm:** Nate Wynn will send updated proposal Mon/Tue 11/23-24; asks what key the new lock should be keyed to (Kat to answer)."
+      "notes": "Kat to answer door size or arrange meet at GE today ~1:30pm. **UPD 11/20 ~2:56pm:** Nate Wynn will send updated proposal Mon/Tue 11/23-24; asks what key the new lock should be keyed to (Kat to answer). [1:12pm: Nate has key photo; quote promised ~Wed 11/25]"
     },
     {
       "id": "T355",
@@ -2768,12 +2768,12 @@
     },
     {
       "id": "T358",
-      "status": "open",
+      "status": "done",
       "priority": "high",
       "due": "Mon 11/23 2:00pm",
       "item": "**OpSource payroll W/E 11/22 (Thanksgiving)**: offices closed Thu 11/26\u2013Fri 11/27; client payroll info/approved hours due **Mon 11/23 by 2:00pm** (OpSource processes by Tue 11/24 5pm) \u2014 Allison Ablett FW of Julie Solesbee",
       "source": "Email 2026-11-19 ~11:53am ET",
-      "notes": "Submit hours by deadline; relates T315. UPD 11/23 ~12:02pm: Julie Solesbee asked Jeff to clarify Kat hours email (Zac/Ethan/Travis/Chandler/Coddy/Braxton Sunday) before entering payroll. UPD 11/23 ~12:07pm: Kat replied to Julie that the Sunday-hours note was meant only for Jeff's final look; Julie still waiting on Jeff (no Jeff reply yet as of ~12:08pm)."
+      "notes": "Submit hours by deadline; relates T315. UPD 11/23 ~12:02pm: Julie Solesbee asked Jeff to clarify Kat hours email (Zac/Ethan/Travis/Chandler/Coddy/Braxton Sunday) before entering payroll. UPD 11/23 ~12:07pm: Kat replied to Julie that the Sunday-hours note was meant only for Jeff's final look; Julie still waiting on Jeff (no Jeff reply yet as of ~12:08pm). **DONE 11/23:** Jeff approved hours ~3:17pm ET; Julie ~3:23pm asked Kat to add the red Sunday hours into each total and resend; Kat resent corrected totals ~3:43pm; Julie acknowledged \u201cThank you.\u201d ~4:00pm; Kat sent Zac Carson (Zachary) pay change ~4:04pm \u2014 46 hours, per diem ($500), **new pay $28**."
     },
     {
       "id": "T359",
@@ -2909,6 +2909,15 @@
       "item": "**MMB scaffolding to roof deck** (electricians to reach electrical cable) + crane outage support/timing \u2014 Matthew Fitts (GE Vernova) meeting invite ~11:52am ET to Jeff/Kat/AM King/Eldeco/GE; **on Kat cal Mon 11/30 2:00\u20133:00pm at MMB** (RSVP pending). Scaffold needed by Fri 12/4.",
       "source": "Email / Matthew Fitts 2026-11-23",
       "notes": "On Kat cal; scaffold needed by 12/4."
+    },
+    {
+      "id": "T374",
+      "status": "waiting",
+      "priority": "high",
+      "due": "waiting on sub quotes",
+      "item": "**GE Vernova TS8 Control Room Renovation RFQs** \u2014 waiting on sub quotes. Scopes: **Conference Space Carpet Tile** to Matthew Larmore (JMT, matthew@jmtflooring.com); **Furniture** (chairs/table) to Jennifer Hunt (PMC, jen.hunt@pmc.works); **Control Room Floor Tile** (recipient not filled on draft). Also **Glass Conference Space Enclosure** sent ~4:07pm ET to Erik Faulk (Door Systems, Erik.Faulk@doorsystems.com) and Mustin Kapasi (mustan@kapasiglass.com).",
+      "source": "Email / Katheryn 2026-11-23 ~3:46\u20134:07pm ET",
+      "notes": "Distinct from T23/T24 (EZA PMC chairs/tables). ~3:46pm Kat drafted \u201cChairs and Table -\u201d to Jen Hunt (incomplete body, unsent); formal Furniture RFQ is to the same Jen. Carpet/Furniture RFQs marked time-sensitive (Kat notes prior RFQs last week with no reply). Floor Tile draft had no To: (filename TBD) and was trashed. Additional drafts seen but not confirmed sent: Wall Demo & Ceiling Tile to Ben Styles; HVAC returns/supply vents (no recipient)."
     }
   ],
   "calendar": [
