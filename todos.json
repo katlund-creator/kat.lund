@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T17:24:06-05:00",
+  "updated": "2026-11-23T12:09:19-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -2773,7 +2773,7 @@
       "due": "Mon 11/23 2:00pm",
       "item": "**OpSource payroll W/E 11/22 (Thanksgiving)**: offices closed Thu 11/26\u2013Fri 11/27; client payroll info/approved hours due **Mon 11/23 by 2:00pm** (OpSource processes by Tue 11/24 5pm) \u2014 Allison Ablett FW of Julie Solesbee",
       "source": "Email 2026-11-19 ~11:53am ET",
-      "notes": "Submit hours by deadline; relates T315."
+      "notes": "Submit hours by deadline; relates T315. UPD 11/23 ~12:02pm: Julie Solesbee asked Jeff to clarify Kat hours email (Zac/Ethan/Travis/Chandler/Coddy/Braxton Sunday) before entering payroll. UPD 11/23 ~12:07pm: Kat replied to Julie that the Sunday-hours note was meant only for Jeff's final look; Julie still waiting on Jeff (no Jeff reply yet as of ~12:08pm)."
     },
     {
       "id": "T359",
@@ -2834,9 +2834,18 @@
       "status": "open",
       "priority": "low",
       "due": "Invoice FYI",
-      "item": "BF Material Handling (Ola Footer) invoices 71913 & 71914 Nov work, ~2:43pm 11/20; Kat already forwarded both ~2:48pm",
+      "item": "BF Material Handling (Ola Footer) invoices 71913 & 71914 Nov work, ~2:43pm 11/20; Kat already forwarded both ~2:48pm; Jeff replied Fri ~9:34pm ET: send invoices to ap.mail@indcomcorp.com cc Kat+Jeff",
       "source": "Email 2026-11-20",
       "notes": ""
+    },
+    {
+      "id": "T367",
+      "status": "open",
+      "priority": "med",
+      "due": "review + route",
+      "item": "Review SCI Electronics quote \u2014 2 network connections in EEB at GE Vernova",
+      "source": "Email / Mike Mullaney (SCI)\u2192Jeff (cc Kat) 2026-11-23 ~8:33am ET",
+      "notes": "**Mon ~8:33am ET Mike Mullaney (SCI)\u2192Jeff (cc Katheryn)**, *SCI GE EEB Data Quote*: attached quote for the **2 network connections in EEB** at GE Vernova Greenville (amount not in body; PDF not opened). Review, fold into customer proposal/estimate."
     },
     {
       "id": "T365",
@@ -2846,6 +2855,60 @@
       "item": "**GE badge requests for Monday** \u2014 Jeff\u2192Alex Leppard (GE) ~1:13pm ET: badges for **Marcus Terrelle Harrison, Paul Anthony Humphrey, Xavier Cleandre Parmelee** (DPP) and **Trystan Searcy, Kendrex Allen, Clifford Gunter** (Impact Fire), plus Jeff.",
       "source": "Email / Jeff 2026-11-20 ~1:13pm ET",
       "notes": "Waiting GE confirmation; no reply yet."
+    },
+    {
+      "id": "T368",
+      "status": "open",
+      "priority": "med",
+      "due": "review + route",
+      "item": "Review SCI Electronics quote \u2014 network connections in D-Bay at GE Vernova",
+      "source": "Email / Mike Mullaney (SCI)\u2192Jeff 2026-11-23 ~9:22am ET",
+      "notes": "*SCI GE D-Bay Data Quote*: attached quote for network connections needed in D-Bay (amount not in body; PDF not opened). Pair with T367 (EEB)."
+    },
+    {
+      "id": "T369",
+      "status": "open",
+      "priority": "med",
+      "due": "route/pay",
+      "item": "Dynamic Pipe & Power Joist invoice \u2014 CZA Camera Data Conduit Relocation",
+      "source": "Email / Jason Marchbanks\u2192Jeff 2026-11-23 ~8:30am ET",
+      "notes": "Joist invoice link + attachment; route to GE PO/billing."
+    },
+    {
+      "id": "T370",
+      "status": "open",
+      "priority": "med",
+      "due": "route/pay",
+      "item": "Dynamic Pipe & Power Joist invoice \u2014 DIA/DJA New Build Stand Electrical Plug Conversion",
+      "source": "Email / Jason Marchbanks\u2192Jeff 2026-11-23 ~8:32am ET",
+      "notes": "Joist invoice link + attachment; route to GE PO/billing."
+    },
+    {
+      "id": "T371",
+      "status": "open",
+      "priority": "med",
+      "due": "ack in Ariba",
+      "item": "Ack 3 new GE POs in Ariba: 4900682250, 4900682252, 4900682256 (amounts/scope not in email body)",
+      "source": "Email / Ariba GE Vernova 2026-11-23 ~10:38am ET",
+      "notes": "Process order links in Ariba; need service sheets/billing setup per PO."
+    },
+    {
+      "id": "T372",
+      "status": "open",
+      "priority": "low",
+      "due": "review (T355 context)",
+      "item": "Dynamic Pipe & Power (Jason Marchbanks) sent *Updated DIA/DJA Buildstand (11/23/2026)* ~10:12am ET, attachment only",
+      "source": "Email / Jason Marchbanks 2026-11-23",
+      "notes": "Likely revised proposal; see T355/T370."
+    },
+    {
+      "id": "T373",
+      "status": "open",
+      "priority": "high",
+      "due": "Mon Nov 30 2:00\u20133:00pm ET",
+      "item": "**MMB scaffolding to roof deck** (electricians to reach electrical cable) + crane outage support/timing \u2014 Matthew Fitts (GE Vernova) meeting invite ~11:52am ET to Jeff/Kat/AM King/Eldeco/GE; **on Kat cal Mon 11/30 2:00\u20133:00pm at MMB** (RSVP pending). Scaffold needed by Fri 12/4.",
+      "source": "Email / Matthew Fitts 2026-11-23",
+      "notes": "On Kat cal; scaffold needed by 12/4."
     }
   ],
   "calendar": [
