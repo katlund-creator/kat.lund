@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T09:14:29-05:00",
+  "updated": "2026-11-24T10:15:21-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -2950,10 +2950,10 @@
       "id": "T378",
       "status": "waiting",
       "priority": "med",
-      "due": "waiting Winsted quote",
+      "due": "**Wed 11/25 noon** (Winsted deadline)",
       "item": "**Quote request sent: 5 units, Winsted Console Model MSP-WNSTD6B** (or closest current equivalent), plus lead time and freight to Greenville, SC. Katheryn SENT ~8:57am ET Tue 11/24 to **custom@winsted.com** only (no cc). Existing unit label dated 04/21/15; she offered to send photos/dimensions.",
-      "source": "Email / Katheryn\u2192custom@winsted.com 2026-11-24 ~8:57am ET",
-      "notes": "Distinct from an unsent Jeff draft (~8:53am, to info@winsted.com and custom@winsted.com) in Jeff\u2019s mailbox. Waiting on Winsted\u2019s quote."
+      "source": "Email / Katheryn\u2192custom@winsted.com 2026-11-24 ~8:57am ET; Dylan Pridgen (Winsted)\u2192Kat + Rusty Hellen 2026-11-24 ~9:57am ET",
+      "notes": "Distinct from an unsent Jeff draft (~8:53am, to info@winsted.com and custom@winsted.com) in Jeff\u2019s mailbox. **UPD Tue ~9:57am ET:** Dylan Pridgen (dpridgen@winsted.com, Project Designer; 1-952-914-3841) emailed Katheryn (cc Rusty Hellen, rustyh@winsted.com), subject *Transferred Call* New Lead - GE Vernova \u2014 not in Jeff\u2019s inbox; found in Katheryn\u2019s work mailbox. Lead notes: Greenville, SC; **tomorrow at noon deadline** (= **Wed 11/25 noon**); **5 operators**; **linear**; **2 (27\") monitors**; **sit/stand**; **closed base**; **single sit/stand**. No price in the email. Still waiting on Winsted\u2019s quote."
     },
     {
       "id": "T379",
@@ -2963,6 +2963,24 @@
       "item": "**Rotor desks / similar desks for Minhaj and Colby** \u2014 Katheryn asked Brandon Malone (GE Vernova) ~8:32am ET Tue for details or a link on the desks he purchased for the Rotors office (Minhaj and Colby want similar desks for an office they are renovating). Brandon ~8:33am: he outsourced the desks to **Mike at OSS** (**Michael Wiggers**, mwiggers@ossllc.biz), who found them; GE purchased them; Mike copied. Kat replied \u201cPerfect thank you!\u201d ~8:34am (cc Mike).",
       "source": "Email / Brandon Malone + Katheryn 2026-11-24 ~8:32\u20138:34am ET",
       "notes": "Follow up with Mike Wiggers for details/pricing. No prior rotor-desks tracker row. May relate to T374 control desks or T23 EZA \u2014 not confirmed."
+    },
+    {
+      "id": "T380",
+      "status": "open",
+      "priority": "med",
+      "due": "review + route",
+      "item": "Review DPP **Estimate 408** \u2014 **MDC Safe2Cross Units 5 & 6 electrical installation** (**$17,609.80**)",
+      "source": "Email / Jason Marchbanks (DPP)\u2192Jeff (cc Kat) 2026-11-24 ~10:04am ET \u201cMDC Safe2Cross 11/24/26\u201d",
+      "notes": "\u201cPlease see attached.\u201d PDF **Estimate_408.pdf.pdf** dated **11/24/2026**, prepared for Indcom Corp, service address GE Gas Turbine, 300 Garlington Rd. Scope: **Safe2Cross Units 5 & 6 \u2013 Electrical Installation**, total **$17,609.80** (subtotal same; no expiration or payment due date on the PDF). Power supply to Unit 5 (overhead RMC + #10 THHN from designated panel; two back-to-back Unistrut support posts; transition to underground rigid conduit at the designated aisle); Unit 5 to Unit 6 underground install (underground rigid conduit between Units 5 and 6; 18-conductor #14 THHN interconnection wiring \u2014 PDF wording says \u201cbetween Units 4 and 5\u201d; fittings/supports; terminations per manufacturer; labeling; continuity/functional verification). Explicit exclusions: concrete scanning/GPR; saw cutting, trenching, demolition, and concrete removal; concrete patching, repair, and restoration. Image.jpeg on the email is the DPP logo only. Distinct from **T9** (SAFE2CROSS Co. Est. 5160 battery-backup take/no-take, Sep). No existing Units 5 & 6 row on this board (older 2026 MDC Safe2Cross estimates/invoices predate the tracker). Review, mark up, and fold into a customer proposal/estimate as needed."
+    },
+    {
+      "id": "T381",
+      "status": "waiting",
+      "priority": "med",
+      "due": "Jeff to answer \u2014 year-end?",
+      "item": "Answer **Mike Mullaney (SCI Electronics)**: will **LIB data connections** be completed by end of the year?",
+      "source": "Email / Mike Mullaney (SCI)\u2192Jeff (cc Kat) 2026-11-24 ~9:29am ET \u201cGE LIB Data\u201d",
+      "notes": "\u201cDo you think that LIB data connections will be completed by the end of the year?\u201d Phone **864-234-7313 Ext. 125** (C: 864-363-3612). Distinct from **T367** (SCI EEB 2 network connections quote) and **T368** (SCI D-Bay network connections quote); also distinct from **T226** (QB Est 2036 LIB Hangman Post \u2014 fabrication, not data). Waiting on Jeff\u2019s answer."
     }
   ],
   "calendar": [
