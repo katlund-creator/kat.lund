@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T17:09:57-05:00",
+  "updated": "2026-11-24T09:14:29-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -2431,7 +2431,7 @@
       "due": "this week",
       "item": "**GE PO 4900677454** (New) $29,136.00 USD NET 150 \u2014 *DGA SUPPORT* service 9/16\u201311/10/2026, requester William Heatherly (GE Gas Turbines Greenville), PR850463; service sheet required",
       "source": "Ariba email 2026-11-10 ~3:20am ET (to ariba.mail)",
-      "notes": "Confirm order in Ariba, match to DGA support work, submit service sheet/invoice."
+      "notes": "Confirm order in Ariba, match to DGA support work, submit service sheet/invoice. **UPD Mon 11/23 ~3:30pm ET:** GE approved Ariba **Invoice 3959** \u2014 **DGA Scaffold Material Rental $14,568.00** (amount verified from the QB payment request sent to William Heatherly 2026-11-11 ~11:12am ET). No separate tracker row existed for 3959; noted here as DGA-related (this PO is $29,136.00 DGA SUPPORT)."
     },
     {
       "id": "T321",
@@ -2467,7 +2467,7 @@
       "due": "need-by 11/11",
       "item": "**GE POs 4900677870, 4900677871, 4900677872, 4900677873** (New, NET 150) \u2014 4900677873 = $41,962.48 FW43 UA SCAFFOLD SUPPORT svc 10/19\u201310/25, PR862283, requester William Heatherly; others amounts not read, likely same series; service sheets required",
       "source": "Ariba email 2026-11-10 ~2:06pm ET",
-      "notes": "Confirm in Ariba + service sheets. **UPD ~9:40\u20139:44am ET:** QB invoices sent to William Heatherly: **3963 FW45 UA Scaffold Support $41,962.48**, **3964 FW45 UA Buildstand Inspections $11,092.00**."
+      "notes": "Confirm in Ariba + service sheets. **UPD ~9:40\u20139:44am ET:** QB invoices sent to William Heatherly: **3963 FW45 UA Scaffold Support $41,962.48**, **3964 FW45 UA Buildstand Inspections $11,092.00**. **UPD Mon 11/23 ~3:30pm ET:** GE approved Ariba **Invoice 3964** (FW45 UA Buildstand Inspections, **$11,092.00**). **FYI Mon ~7:15\u20137:19pm ET:** QB payment requests sent to William Heatherly for **invoice 3981 FW47 UA Buildstand Inspections, balance due $11,092.00**, and **invoice 3982 FW46 UA Scaffold Support FW46, balance due $41,962.48**."
     },
     {
       "id": "T325",
@@ -2534,12 +2534,12 @@
     },
     {
       "id": "T332",
-      "status": "waiting",
+      "status": "done",
       "priority": "low",
       "due": "\u2014",
-      "item": "Invoice 3964 FW45 UA Buildstand Inspections sent on wrong QB form; Bill will remove extra templates and co-brand forms (Indcom + Onsite)",
-      "source": "Email / Bill Marchbanks 2026-11-12",
-      "notes": "Kat apologized 7:22am; Jeff has unsent draft to Bill (QB modern format issue)."
+      "item": "Invoice 3964 FW45 UA Buildstand Inspections sent on wrong QB form; Bill will remove extra templates and co-brand forms (Indcom + Onsite). **GE approved Invoice 3964 in Ariba ~3:30pm ET Mon 11/23** ($11,092.00).",
+      "source": "Email / Bill Marchbanks 2026-11-12; Ariba 2026-11-23 ~3:30pm ET",
+      "notes": "Kat apologized 7:22am; Jeff has unsent draft to Bill (QB modern format issue). **UPD Mon 11/23 ~3:30pm ET:** Ariba \u201cApproved - Invoice 3964\u201d from GE Vernova International LLC. Amount **$11,092.00** (from T324 / earlier QB send)."
     },
     {
       "id": "T333",
@@ -2674,7 +2674,7 @@
       "due": "review/route",
       "item": "BSB to KIA - Water Heater Relocation & Machine Power Installation (DPP Joist estimate)",
       "source": "Email / Jason Marchbanks to Jeff 2026-11-17 ~2:40pm ET",
-      "notes": "Estimate link attached; Jeff/Kat review, build QB estimate / route to GE."
+      "notes": "Estimate link attached; Jeff/Kat review, build QB estimate / route to GE. **UPD Mon 11/23 ~5:02pm ET:** Jason Marchbanks sent **DPP Invoice 4743** (**$14,761.35**, due upon receipt; invoice date 11/17/2026) to AP (cc Jeff) \u2014 see **T376**."
     },
     {
       "id": "T348",
@@ -2750,12 +2750,12 @@
     },
     {
       "id": "T356",
-      "status": "open",
+      "status": "done",
       "priority": "high",
-      "due": "Outage / access",
+      "due": "DONE Sat Nov 21 ~10:17am ET",
       "item": "**PP-6A-8 (6N 24C) outage Sat Nov 21 7:30\u20139:00am @ BTA** (GVL 26-301699; DPP terminating new Meltric plug on circuit 4; Jim Stanley ME). David Hinkson (GE) ~10:36am added Jeff; asks for **access to LCU-6N mezz** for Saturday (doubts one exists)",
       "source": "Email / GVL Outage + Hinkson 2026-11-19",
-      "notes": "Arrange stairs/access for LCU-6N mezz by Sat; confirm outage approval."
+      "notes": "Arrange stairs/access for LCU-6N mezz by Sat; confirm outage approval. **DONE Sat 11/21 ~10:17am ET:** GVL Outage: \u201cOutage is complete, power restored.\u201d"
     },
     {
       "id": "T357",
@@ -2777,12 +2777,12 @@
     },
     {
       "id": "T359",
-      "status": "open",
+      "status": "waiting",
       "priority": "med",
-      "due": "\u2014",
-      "item": "**GTTL chilled water #2 \u2013 Evan Groce (SPC) updated quote w/ change order revision** (2 mails 4:49/4:50pm ET) \u2014 needs review/forward to GE/pricing",
-      "source": "Email 2026-11-19 ~4:50pm ET",
-      "notes": "Relates GTTL chilled water work."
+      "due": "waiting Mitch/GE approval",
+      "item": "**GTTL chilled water #2 / Chilled Water Change Order** \u2014 QB **Estimate 2058 $4,388.00** sent to **Mitch Reese** (cc mail@ / kat@ / jeff@) Mon 11/23 ~12:41pm ET. Originated from Evan Groce (SPC) updated quote w/ change order revision (2 mails 4:49/4:50pm ET 11/19).",
+      "source": "Email / QuickBooks 2026-11-23 ~12:41pm ET",
+      "notes": "**UPD Mon 11/23 ~12:41pm ET:** Est 2058 *Chilled Water Change Order at GE Vernova, as requested by Mitch Reese* \u2014 firm-fixed **$4,388.00**, quotation date 11/23/2026 \u2014 sent; waiting Mitch review/PO. Distinct from T327 Est 2051 Chilled Water Chem Injection $17,416.37."
     },
     {
       "id": "T360",
@@ -2914,10 +2914,55 @@
       "id": "T374",
       "status": "waiting",
       "priority": "high",
-      "due": "Wed 11/25 (furniture #); other quotes / Kapasi addr",
-      "item": "**GE Vernova TS8 Control Room Renovation RFQs** \u2014 waiting on sub quotes. Sent and waiting: **Conference Space Carpet Tile** to Matthew Larmore (JMT, matthew@jmtflooring.com); **Furniture** (chairs/table) to Jennifer Hunt (PMC, jen.hunt@pmc.works) \u2014 Jen on PTO this week (asked for Monday); Kat ~4:46pm said the number is needed by **Wed 11/25**; **Wall Demo and Ceiling Tile** to Ben Styles; **HVAC Returns and Supply Vents** (no named recipient). **Glass Conference Space Enclosure**: RFQ to Mustin at mustan@kapasiglass.com **BOUNCED** 4:07pm ET (domain not found) \u2014 Kapasi Glass has not received it and needs a corrected address; Erik Faulk (Door Systems) copied Nathan Wynn (nathan.wynn@doorsystems.com); Nathan asked about wall height and ceiling reinforcement; Kat ~4:59pm answered **8' 11 7/8\"** floor to ceiling tile \u2014 waiting on Nathan's quote. **Control Room Floor Tile** still not confirmed sent.",
-      "source": "Email / Katheryn 2026-11-23 ~3:46\u20134:59pm ET",
-      "notes": "Distinct from T23/T24 (EZA PMC chairs/tables). UPD 11/23 ~4:09\u20134:11pm: **Conference Space Carpet Tile** (Matt), **Wall Demo and Ceiling Tile** (Ben), and **HVAC Returns and Supply Vents** (no named recipient) sent \u2014 earlier unsent-draft note is resolved except **Floor Tile**, which still isn't confirmed sent (draft had no To: / filename TBD and was trashed). Furniture: formal RFQ sent to Jen Hunt 4:17pm; Jen is on PTO this week and asked for Monday; Kat replied ~4:46pm that the number is needed by Wednesday 11/25. Glass: sent ~4:07pm ET to Erik Faulk (Door Systems, Erik.Faulk@doorsystems.com) and Mustin Kapasi (mustan@kapasiglass.com); Mustin bounce 4:07pm ET (kapasiglass.com domain not found), so Kapasi Glass hasn't received it and needs a corrected address. Erik copied Nathan Wynn (nathan.wynn@doorsystems.com); Nathan asked about wall height and ceiling reinforcement; Kat answered ~4:59pm that it's 8' 11 7/8\" floor to ceiling tile; waiting on Nathan's quote. Carpet/Furniture RFQs marked time-sensitive (Kat notes prior RFQs last week with no reply)."
+      "due": "Wed 11/25 (furniture #); HVAC quote review; glass estimate (midday Wed)",
+      "item": "**GE Vernova TS8 Control Room Renovation RFQs** \u2014 **HVAC** quote received from **Chris Hendrix** (chris@hendrixhvac.com, Hendrix Heating and Air Conditioning Inc.) Tue ~8:30am ET: replace (7) supply grills with standard 3-coned supply diffusers and 5\u2032 flex connectors **$2,450.00**; replace (3) return grills with standard perforated return grills and 5\u2032 flex connectors **$1,425.00**; attached RFQ form *GE Test Stand 8 Renovation Quote.pdf* has handwritten lump-sum total **$3,875** (test/balance and protection/cleanup marked N/A). These are line totals, not $2,450 per grill. Kat thanked him ~8:32am (cc Bill Marchbanks). Waiting quote review. **Furniture** (conference table and chairs only \u2014 not control desks) to Jennifer Hunt (PMC, jen.hunt@pmc.works); Kat confirmed to Jen Mon ~5:36pm ET; Jen had said she can quote the next day; number still needed by **Wed 11/25**. **Glass Conference Space Enclosure**: RFQ to Mustin at mustan@kapasiglass.com still **BOUNCED** (domain not found) \u2014 needs a corrected Kapasi address. Nathan Wynn (Door Systems) ~7:46am Tue: will anchor to the floor but needs top structural support flush with the ceiling, provided by others, in place before install. Kat ~8:06am ET (cc Erik Faulk) said a support structure will be in place for him to slide the frame into, and asked for a storefront cost estimate by EOD Tue or sooner (Indcom quote due midday Wed). Still waiting on Nathan\u2019s quote. **Conference Space Carpet Tile** to Matthew Larmore (JMT); **Wall Demo and Ceiling Tile** to Ben Styles. **Control Room Floor Tile** still not confirmed sent.",
+      "source": "Email / Katheryn work mailbox 2026-11-23\u201311-24",
+      "notes": "Distinct from T23/T24 (EZA PMC chairs/tables). UPD 11/23 ~4:09\u20134:11pm: **Conference Space Carpet Tile** (Matt), **Wall Demo and Ceiling Tile** (Ben), and **HVAC Returns and Supply Vents** (no named recipient) sent \u2014 earlier unsent-draft note is resolved except **Floor Tile**, which still isn't confirmed sent (draft had no To: / filename TBD and was trashed). Furniture: formal RFQ sent to Jen Hunt 4:17pm; Jen is on PTO this week and asked for Monday; Kat replied ~4:46pm that the number is needed by Wednesday 11/25. Glass: sent ~4:07pm ET to Erik Faulk (Door Systems, Erik.Faulk@doorsystems.com) and Mustin Kapasi (mustan@kapasiglass.com); Mustin bounce 4:07pm ET (kapasiglass.com domain not found), so Kapasi Glass hasn't received it and needs a corrected address. Erik copied Nathan Wynn (nathan.wynn@doorsystems.com); Nathan asked about wall height and ceiling reinforcement; Kat answered ~4:59pm that it's 8' 11 7/8\" floor to ceiling tile; waiting on Nathan's quote. Carpet/Furniture RFQs marked time-sensitive (Kat notes prior RFQs last week with no reply). **UPD Tue 11/24 (Kat work mailbox):** HVAC RFQ had been sent to Chris Hendrix Mon ~4:10pm ET; quote received Tue ~8:30am ET (cc Bill) \u2014 body: (7) supply \u201ceach $2,450.00\u201d and (3) return \u201ceach $1,425.00\u201d; the attached handwritten RFQ form shows supply **$2,450**, return **$1,425**, test/balance N/A, protection/cleanup N/A, lump-sum total **$3,875**, so treat $2,450 / $1,425 as line totals. Kat thanked him ~8:32am. Furniture: Jen Hunt Mon ~5:34pm asked if control desks are existing and said if it\u2019s just the conference table and chairs she can get the number the next day; Kat ~5:36pm confirmed it is just the conference table and chairs (control tables must come from a company specific to GE). Number still needed by Wed 11/25. Glass: Nathan ~7:46am Tue needs top structural support (flush with ceiling, by others, in place before install). Kat ~8:06am (SENT, cc Erik Faulk) said a support structure will be in place and asked for a storefront cost estimate by EOD Tue or sooner (submit Indcom quote by midday tomorrow). An ~8:44am \u201cThank you!\u201d to Nathan is still a **draft (unsent)** \u2014 not counted as sent."
+    },
+    {
+      "id": "T375",
+      "status": "open",
+      "priority": "high",
+      "due": "Fri Nov 27 (no clock time in email)",
+      "item": "**Patriot Concrete (David, david@patriotconcretecutting.com) trench work for M-Bay Friday 11/27** (Friday after Thanksgiving) \u2014 quote PDF *Indcom GE M BAY 112326.pdf* dated 11/23/2026: floor-saw a **17\u2032\u00d72\u2032 trench** and a **15\u2032\u00d76\u2033 trench** in 10\u2033 SOG; remove concrete to con onsite provided by contractor; GPR prior to cutting. **Quote total $2,800.00**. Pricing valid 90 days; scheduling indicates acceptance.",
+      "source": "Email / david@patriotconcretecutting.com 2026-11-23 ~4:00pm ET",
+      "notes": "Email body: \u201cThis is the trench work for M-Bay Friday the 27th.\u201d No clock time given for Friday\u2019s work. Review/confirm crew and site access; do not invent a start time."
+    },
+    {
+      "id": "T376",
+      "status": "open",
+      "priority": "med",
+      "due": "route/pay (due upon receipt)",
+      "item": "**DPP Invoice 4743** \u2014 **BSB to KIA Water Heater Relocation & Machine Power Installation**, **$14,761.35** (Electrical $10,486.75 + Plumbing $4,274.60; includes relocation of the water heater by Dynamic). Invoice date 11/17/2026; due upon receipt. Jason Marchbanks (DPP) sent to AP (cc Jeff) ~5:02pm ET Mon 11/23, Joist link + *Invoice_4743.pdf*.",
+      "source": "Email / Jason Marchbanks 2026-11-23 ~5:02pm ET",
+      "notes": "Related T347 (estimate) and T353/T363 (outages). Already routed to ap.mail@indcomcorp.com."
+    },
+    {
+      "id": "T377",
+      "status": "open",
+      "priority": "low",
+      "due": "Invoice FYI / due on receipt",
+      "item": "**BF Material Handling invoice 71916** \u2014 **$11,129.38** balance due (due on receipt); invoice date 11/24/2026; SO **29038**; Ship To: **GE C2B REPLACEMENT**. Ola Footer (BF Material Handling of SC Inc, 864-877-8330) sent ~9:02am ET Tue 11/24 to Jeff, Kat, and ap.mail (*71916.pdf*). Scope includes labor (disassembly & removal + installation), uprights, 8300-lb-capacity beams, rack guards, anchors, and freight; 6% tax $556.38.",
+      "source": "Email / Ola Footer 2026-11-24 ~9:02am ET",
+      "notes": "Already routed to AP. Distinct from T27 / T275 / T366 (invoices 71844 / 71886 / 71913\u201371914)."
+    },
+    {
+      "id": "T378",
+      "status": "waiting",
+      "priority": "med",
+      "due": "waiting Winsted quote",
+      "item": "**Quote request sent: 5 units, Winsted Console Model MSP-WNSTD6B** (or closest current equivalent), plus lead time and freight to Greenville, SC. Katheryn SENT ~8:57am ET Tue 11/24 to **custom@winsted.com** only (no cc). Existing unit label dated 04/21/15; she offered to send photos/dimensions.",
+      "source": "Email / Katheryn\u2192custom@winsted.com 2026-11-24 ~8:57am ET",
+      "notes": "Distinct from an unsent Jeff draft (~8:53am, to info@winsted.com and custom@winsted.com) in Jeff\u2019s mailbox. Waiting on Winsted\u2019s quote."
+    },
+    {
+      "id": "T379",
+      "status": "waiting",
+      "priority": "med",
+      "due": "follow up with Mike at OSS",
+      "item": "**Rotor desks / similar desks for Minhaj and Colby** \u2014 Katheryn asked Brandon Malone (GE Vernova) ~8:32am ET Tue for details or a link on the desks he purchased for the Rotors office (Minhaj and Colby want similar desks for an office they are renovating). Brandon ~8:33am: he outsourced the desks to **Mike at OSS** (**Michael Wiggers**, mwiggers@ossllc.biz), who found them; GE purchased them; Mike copied. Kat replied \u201cPerfect thank you!\u201d ~8:34am (cc Mike).",
+      "source": "Email / Brandon Malone + Katheryn 2026-11-24 ~8:32\u20138:34am ET",
+      "notes": "Follow up with Mike Wiggers for details/pricing. No prior rotor-desks tracker row. May relate to T374 control desks or T23 EZA \u2014 not confirmed."
     }
   ],
   "calendar": [
