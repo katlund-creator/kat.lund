@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T14:11:44-05:00",
+  "updated": "2026-11-25T16:12:14-05:00",
   "owner": "Jeff Flannery",
   "title": "Onsite todos",
   "todos": [
@@ -3134,6 +3134,15 @@
       "item": "Review Bill\u2019s draft **Joey Prepay Terms - Onsite Scaffold Support** (Google Doc, in development; shared with Jeff + Sam Barnett)",
       "source": "Email / Bill Marchbanks (Google Docs share) 2026-11-25 ~12:37pm ET",
       "notes": "**Wed ~12:37pm ET** Bill Marchbanks (bill.marchbanks@indcomcorp.com, via Google Docs) shared *Joey Prepay Terms - Onsite Scaffold Support* with Jeff (Jeff inbox only; not in Katheryn\u2019s; she was not on To/Cc; message 1a213c874580018f). To: jeff.flannery@indcomcorp.com; cc **Sam Barnett** (sam.barnett@indcomcorp.com); Reply-To Bill. Body note: **in development**. Jeff is invited to edit. Doc: https://docs.google.com/document/d/1XUXMMmgpu7H9JIQNUC5jmImVN3zx4rJPDneIACSGcpA/edit?usp=sharing&ts=6b071cc9 (online Doc, no email attachment). Distinct from **T227** (prior unsecured Joey Lum balance of $71,163.78 already given to Bill). Jeff to review/edit the draft terms."
+    },
+    {
+      "id": "T399",
+      "status": "waiting",
+      "priority": "high",
+      "due": "waiting OpSource onboarding; then Jeff owes start date + pay rate",
+      "item": "OpSource new hire \u2014 **Tyler Heath**: hire-in link requested; Yesenia has reached out and provided details; wait onboarding, then give start date + pay rate",
+      "source": "Email / Jeff\u2192Yesenia Portes + Julie Solesbee (cc Lisa Stafford, Katheryn) 2026-11-25 ~3:46pm ET; Yesenia reply ~3:58pm ET",
+      "notes": "**Wed ~3:23pm ET Katheryn\u2192Julie Solesbee** (Katheryn work mailbox SENT only; not in Jeff\u2019s; To: Julie only; thread 1a2145ea537e8aaf, message 1a21460f4471966e) *New Hire paperwork*: asked whether Julie got Jeff\u2019s request regarding the new hire and his paperwork, and whether it had been sent to him. No name given; Jeff\u2019s formal request had not yet gone out. **~3:30pm ET Julie Solesbee (OpSource)\u2192Katheryn + Yesenia Portes** (cc Lisa Stafford; Katheryn work mailbox only; not in Jeff\u2019s; message 1a2146727be30486): \u201cWho is the new hire? New hire request emails should go to our recruiter **Yesenia Portes**.\u201d **~3:46pm ET Jeff\u2192Yesenia Portes + Julie Solesbee** (cc Lisa Stafford, Katheryn; both inboxes; Jeff SENT thread/message 1a21475b4f313ce1; Katheryn thread/message 1a21475b883d6d2c) *New hire packet*: \u201cPlease send a hire in link to **Tyler Heath** **(912) 293-9838** **tylerheath126@gmail.com**.\u201d Happy Thanksgiving close. **~3:58pm ET Yesenia Portes\u2192Jeff + Julie** (cc Lisa, Katheryn; both inboxes; Jeff message 1a21480973aef8cb, Katheryn 1a21480960a27a2d): \u201cGood afternoon, Thank you! I have reached out and provided details.\u201d Signature images only; no hire-in PDF or link attached. She did not confirm Tyler has completed onboarding. **Waiting on Tyler** to complete OpSource onboarding; Yesenia historically notifies when complete. Next (same pattern as T299/T118): Jeff owes **start date + pay rate** once onboarding is confirmed complete. No further action needed from Katheryn/Jeff right now. Future new-hire requests should go to Yesenia (per Julie)."
     }
   ],
   "calendar": [
